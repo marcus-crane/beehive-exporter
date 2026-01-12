@@ -2,12 +2,17 @@ package parser
 
 import (
 	"fmt"
+	"net/url"
 	"regexp"
 	"strings"
 	"time"
+	"unicode"
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/marcuswhybrow/beehive-exports/pkg/models"
+	"golang.org/x/text/runes"
+	"golang.org/x/text/transform"
+	"golang.org/x/text/unicode/norm"
 )
 
 // Parse parses HTML content and extracts release data
@@ -57,7 +62,26 @@ func extractIDFromURL(releaseURL string) string {
 	if len(parts) == 0 {
 		return ""
 	}
-	return parts[len(parts)-1]
+	id := parts[len(parts)-1]
+
+	// Decode URL-encoded characters
+	if decoded, err := url.QueryUnescape(id); err == nil {
+		id = decoded
+	}
+
+	// Normalize Unicode: NFD decomposition strips diacritics (ā → a)
+	t := transform.Chain(norm.NFD, runes.Remove(runes.In(unicode.Mn)))
+	id, _, _ = transform.String(t, id)
+
+	// Remove any remaining non-ASCII punctuation like curly quotes
+	id = strings.Map(func(r rune) rune {
+		if r > 127 {
+			return -1
+		}
+		return r
+	}, id)
+
+	return id
 }
 
 // extractTime extracts the publication time
