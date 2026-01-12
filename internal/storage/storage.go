@@ -12,8 +12,8 @@ import (
 )
 
 const (
-	DataDir     = "data/releases"
-	IndexFile   = "data/index.json"
+	DataDir   = "content/json"
+	IndexFile = "content/index.json"
 )
 
 // Index represents the master index of all releases
@@ -38,14 +38,8 @@ func New(baseDir string) *Storage {
 
 // SaveRelease saves a release to a JSON file organized by year/month
 func (s *Storage) SaveRelease(release *models.Release) error {
-	// Parse date to get year and month
-	date, err := time.Parse("2006-01-02", release.Date)
-	if err != nil {
-		return fmt.Errorf("invalid date format: %w", err)
-	}
-
-	year := date.Format("2006")
-	month := date.Format("01")
+	year := release.Time.Format("2006")
+	month := release.Time.Format("01")
 
 	// Create directory structure: data/releases/YYYY/MM/
 	dir := filepath.Join(s.baseDir, DataDir, year, month)
@@ -113,10 +107,20 @@ func (s *Storage) LoadRelease(id string) (*models.Release, error) {
 	return &release, nil
 }
 
-// ReleaseExists checks if a release already exists
+// ReleaseExists checks if a release already exists (without loading the full file)
 func (s *Storage) ReleaseExists(id string) bool {
-	_, err := s.LoadRelease(id)
-	return err == nil
+	found := false
+	filepath.Walk(filepath.Join(s.baseDir, DataDir), func(path string, info os.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+		if !info.IsDir() && strings.HasSuffix(path, id+".json") {
+			found = true
+			return filepath.SkipAll
+		}
+		return nil
+	})
+	return found
 }
 
 // LoadAllReleases loads all releases from the data directory
@@ -168,11 +172,7 @@ func (s *Storage) UpdateIndex() error {
 
 	// Count releases by year
 	for _, release := range releases {
-		date, err := time.Parse("2006-01-02", release.Date)
-		if err != nil {
-			continue
-		}
-		year := date.Format("2006")
+		year := release.Time.Format("2006")
 		index.ReleaseCount[year]++
 	}
 

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(go build:*)",
+      "Bash(./beehive-exports markdown:*)",
+      "Bash(curl:*)",
+      "Bash(./beehive-exports reingest:*)",
+      "Bash(go run -e '\npackage main\n\nimport \\(\n\t\"\"fmt\"\"\n\t\"\"os\"\"\n\t\"\"strings\"\"\n\t\"\"github.com/PuerkitoBio/goquery\"\"\n\\)\n\nfunc main\\(\\) {\n\tdoc, _ := goquery.NewDocumentFromReader\\(os.Stdin\\)\n\tcontent := doc.Find\\(\"\"div.prose.field--name-body, div.field--name-body\"\"\\).First\\(\\)\n\tfmt.Println\\(\"\"Found:\"\", content.Length\\(\\)\\)\n\tif content.Length\\(\\) > 0 {\n\t\thtml, _ := content.Html\\(\\)\n\t\tfmt.Println\\(html[:min\\(500, len\\(html\\)\\)]\\)\n\t}\n}\n\nfunc min\\(a, b int\\) int {\n\tif a < b { return a }\n\treturn b\n}\n')"
+    ]
+  }
+}
