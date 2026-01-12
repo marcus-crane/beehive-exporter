@@ -1,4 +1,4 @@
-module github.com/marcuswhybrow/beehive-exports
+module github.com/marcus-crane/beehive-exports
 
 go 1.24.0
 

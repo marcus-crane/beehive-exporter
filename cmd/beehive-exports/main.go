@@ -11,10 +11,10 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/marcuswhybrow/beehive-exports/internal/fetcher"
-	"github.com/marcuswhybrow/beehive-exports/internal/parser"
-	"github.com/marcuswhybrow/beehive-exports/internal/storage"
-	"github.com/marcuswhybrow/beehive-exports/pkg/models"
+	"github.com/marcus-crane/beehive-exports/internal/fetcher"
+	"github.com/marcus-crane/beehive-exports/internal/parser"
+	"github.com/marcus-crane/beehive-exports/internal/storage"
+	"github.com/marcus-crane/beehive-exports/pkg/models"
 )
 
 func main() {

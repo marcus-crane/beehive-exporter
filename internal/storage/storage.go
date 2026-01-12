@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/marcuswhybrow/beehive-exports/pkg/models"
+	"github.com/marcus-crane/beehive-exports/pkg/models"
 )
 
 const (
