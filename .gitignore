@@ -52,3 +52,6 @@ Thumbs.db
 beehive-exports
 .claude
 .env
+
+# Raw HTML backups (for potential reprocessing)
+content/raw/

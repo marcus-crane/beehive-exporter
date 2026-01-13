@@ -13,6 +13,7 @@ import (
 
 const (
 	DataDir   = "content/json"
+	RawDir    = "content/raw"
 	IndexFile = "content/index.json"
 )
 
@@ -65,6 +66,24 @@ func (s *Storage) SaveRelease(release *models.Release) error {
 	if err := os.Rename(tempFile, filename); err != nil {
 		os.Remove(tempFile) // Clean up temp file on error
 		return fmt.Errorf("failed to rename temp file: %w", err)
+	}
+
+	return nil
+}
+
+// SaveRawHTML saves the raw HTML to a file for potential future reprocessing
+func (s *Storage) SaveRawHTML(id string, releaseTime time.Time, html string) error {
+	year := releaseTime.Format("2006")
+	month := releaseTime.Format("01")
+
+	dir := filepath.Join(s.baseDir, RawDir, year, month)
+	if err := os.MkdirAll(dir, 0755); err != nil {
+		return fmt.Errorf("failed to create raw directory: %w", err)
+	}
+
+	filename := filepath.Join(dir, id+".html")
+	if err := os.WriteFile(filename, []byte(html), 0644); err != nil {
+		return fmt.Errorf("failed to write raw HTML: %w", err)
 	}
 
 	return nil

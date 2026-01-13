@@ -121,6 +121,11 @@ func runSync(maxPages int) {
 			continue
 		}
 
+		// Save raw HTML for potential future reprocessing
+		if err := store.SaveRawHTML(release.ID, release.Time, html); err != nil {
+			log.Printf("  Warning: Failed to save raw HTML: %v", err)
+		}
+
 		log.Printf("  ✓ Saved: %s", release.Title)
 		successCount++
 	}
@@ -171,6 +176,11 @@ func runReingest(url string, id string) {
 	// Save to JSON (will overwrite if exists)
 	if err := store.SaveRelease(release); err != nil {
 		log.Fatalf("Error saving: %v", err)
+	}
+
+	// Save raw HTML for potential future reprocessing
+	if err := store.SaveRawHTML(release.ID, release.Time, html); err != nil {
+		log.Printf("Warning: Failed to save raw HTML: %v", err)
 	}
 
 	log.Printf("✓ Re-ingested: %s", release.Title)
