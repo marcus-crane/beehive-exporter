@@ -22,10 +22,16 @@ func Parse(rawHTML, releaseURL string) (*models.Release, error) {
 		return nil, fmt.Errorf("failed to parse HTML: %w", err)
 	}
 
+	// Extract main content div to avoid storing JS bundles and redundant data
+	mainContent, err := doc.Find("div.ds-three-col__main").First().Html()
+	if err != nil {
+		mainContent = ""
+	}
+
 	release := &models.Release{
 		URL:       releaseURL,
 		ScrapedAt: time.Now(),
-		Content:   rawHTML, // Store full page HTML
+		Content:   mainContent,
 	}
 
 	// Extract ID from URL

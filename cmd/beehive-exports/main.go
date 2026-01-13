@@ -11,6 +11,7 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
+	"github.com/joho/godotenv"
 	"github.com/marcus-crane/beehive-exports/internal/fetcher"
 	"github.com/marcus-crane/beehive-exports/internal/parser"
 	"github.com/marcus-crane/beehive-exports/internal/storage"
@@ -18,6 +19,8 @@ import (
 )
 
 func main() {
+	// Load .env file if present
+	_ = godotenv.Load()
 	// Define commands
 	syncCmd := flag.NewFlagSet("sync", flag.ExitOnError)
 	syncPages := syncCmd.Int("pages", 0, "Max pagination pages to fetch (0 = all, ~10 releases per page)")
@@ -308,3 +311,4 @@ func htmlToMarkdown(html string) string {
 
 	return s
 }
+

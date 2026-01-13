@@ -1,11 +1,14 @@
 package fetcher
 
 import (
+	"bytes"
 	"compress/gzip"
+	"encoding/json"
 	"fmt"
 	"io"
 	"log"
 	"net/http"
+	"os"
 	"strings"
 	"time"
 
@@ -18,20 +21,28 @@ const (
 	RSSFeedURL     = BaseURL + "/releases/feed"
 	ReleasesURL    = BaseURL + "/releases"
 	RateLimitDelay = 3000 * time.Millisecond // 3 seconds between requests (conservative to avoid WAF)
+
+	BrowserlessURL = "https://browser.home.utf9k.net"
 )
 
 // Fetcher handles HTTP requests with rate limiting
 type Fetcher struct {
-	client        *http.Client
-	lastRequestAt time.Time
+	client           *http.Client
+	lastRequestAt    time.Time
+	browserlessToken string
 }
 
 // New creates a new Fetcher instance
 func New() *Fetcher {
+	token := os.Getenv("BROWSERLESS_TOKEN")
+	if token != "" {
+		log.Println("Browserless token found, will use headless browser for fetching")
+	}
 	return &Fetcher{
 		client: &http.Client{
-			Timeout: 30 * time.Second,
+			Timeout: 60 * time.Second,
 		},
+		browserlessToken: token,
 	}
 }
 
@@ -94,6 +105,44 @@ func (f *Fetcher) doRequest(url string) (string, error) {
 	return string(body), nil
 }
 
+// doBrowserlessRequest fetches a URL using the Browserless headless browser
+func (f *Fetcher) doBrowserlessRequest(targetURL string) (string, error) {
+	endpoint := fmt.Sprintf("%s/content?token=%s", BrowserlessURL, f.browserlessToken)
+
+	payload := map[string]interface{}{
+		"url":          targetURL,
+		"waitForTimeout": 3000,
+	}
+	jsonPayload, err := json.Marshal(payload)
+	if err != nil {
+		return "", fmt.Errorf("failed to marshal request: %w", err)
+	}
+
+	req, err := http.NewRequest("POST", endpoint, bytes.NewBuffer(jsonPayload))
+	if err != nil {
+		return "", fmt.Errorf("failed to create request: %w", err)
+	}
+	req.Header.Set("Content-Type", "application/json")
+
+	resp, err := f.client.Do(req)
+	if err != nil {
+		return "", err
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		body, _ := io.ReadAll(resp.Body)
+		return "", fmt.Errorf("browserless returned status %d: %s", resp.StatusCode, string(body))
+	}
+
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return "", err
+	}
+
+	return string(body), nil
+}
+
 // FetchURL fetches a URL with rate limiting and retry logic
 func (f *Fetcher) FetchURL(url string) (string, error) {
 	f.rateLimit()
@@ -102,7 +151,15 @@ func (f *Fetcher) FetchURL(url string) (string, error) {
 	var lastErr error
 
 	for attempt := 0; attempt < maxRetries; attempt++ {
-		body, err := f.doRequest(url)
+		var body string
+		var err error
+
+		if f.browserlessToken != "" {
+			body, err = f.doBrowserlessRequest(url)
+		} else {
+			body, err = f.doRequest(url)
+		}
+
 		if err == nil {
 			return body, nil
 		}
