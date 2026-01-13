@@ -1,0 +1,75 @@
+---
+title: "Joint statement by the Foreign Ministers of New Zealand and the Republic of Indonesia at the 11th Joint Ministerial Commission"
+date: 2024-07-30
+url: https://www.beehive.govt.nz/release/joint-statement-foreign-ministers-new-zealand-and-republic-indonesia-11th-joint-ministerial
+ministers:
+  - Rt Hon Winston Peters
+portfolios:
+  - Foreign Affairs
+---
+
+1. On 30 July 2024, Her Excellency Retno L.P. Marsudi, Minister for Foreign Affairs of the Republic of Indonesia, and Rt Hon Winston Peters, Deputy Prime Minister and Minister of Foreign Affairs of New Zealand, convened the 11th meeting of the Joint Ministerial Commission (JMC) in Auckland, New Zealand.
+2. The Ministers welcomed meeting in person for the second time this year, noting the frequency of recent high-level engagement between themselves, Leaders and other Cabinet colleagues as one measure of the strength of the bilateral relationship.
+3. The Ministers noted the appropriateness of their meeting coinciding with the International Day of Friendship, the values of which have long underpinned New Zealand and Indonesia’s deep and long-standing partnership over the last 66 years.
+4. The Ministers exchanged views on the bilateral relationship and reflected on the progress of the Comprehensive Partnership agreed by Leaders in 2018, and achievements under the 2020-2024 Plan of Action.
+5. The Ministers then looked forward, at the Plan of Action for 2025-2029, and committed to intensify activity across the seven pillars of the relationship, building toward the 70th Anniversary of diplomatic relations in 2028.
+
+**Reflecting on the Plan of Action 2020-2024, and lifting ambition for the Plan of Action for 2025-2029**
+
+“Friends for Good” ties
+
+6. The Ministers highlighted extensive recent engagement between the two countries, including regular Leader and Ministerial meetings. In the first six months of 2024 alone there had been nine high level engagements between New Zealand and Indonesia, and a similarly high tempo of visits by senior officials.
+7. All relationship architecture and sub-meetings were “on track” with stated intentions for outstanding bilateral defence talks, and the annual trade and investment meeting, to occur in coming months. Both Ministers expressed a willingness to maintain and increase momentum of dialogue in both directions. Face to face engagement, and regular hosting of key relationship architecture meetings was important to maintain our “Friends for Good” ties.
+
+Enhancing trade and economic partnerships, and delivering for businesses
+
+08. The Ministers highlighted the importance of enhancing mutual prosperity and strengthening trade and economic connections, and noted progress made towards achieving the NZ$4 billion in two-way trade goal by the end of 2024.
+09. The Ministers celebrated recent trade cooperation arrangements signed between respective biosecurity authorities as key enablers of increased trade, along with the importance of continuing to find swift resolutions for non-tariff trade barriers to ensure trade continuity and growth. Ministers also pointed to achievements last year, such as the Memorandum of Arrangement for Halal and undertook to provide certainty and recognition that New Zealand products meet the standards required under Indonesia’s Halal Law and regulations. The Ministers committed to further steps toward halal cooperation. This was important to increase and strengthen halal trade further, as was implementation of updated quarantine arrangements to better facilitate agricultural and horticultural exports.
+10. The Ministers set an ambitious new target to increase bilateral two-way trade in goods and services to NZ$6 billion (IDR 60 trillion) by 2029 and noted their shared commitment to promote more balanced trade through increasing utilisation of trade agreements and removing barriers to trade in order to achieve this goal.
+11. The Ministers welcomed the year-round direct flights between Auckland and Bali, and recognised the importance of greater connectivity for trade, education, tourism, and people to people connections.
+12. The Ministers reaffirmed the importance of a rules based, free and open trade environment as critical for the global economy. They highlighted recent achievements on trade agreements, including the conclusion of the Second Protocol to Amend the Agreement Establishing the ASEAN-Australia- ASEAN New Zealand Free Trade Area (AANZFTA), signed in August 2023; implementation of the Regional Comprehensive Economic Partnership (RCEP) ; and further developing trade partnership under the Indo-Pacific Economic Framework for Prosperity (IPEF).
+13. The Ministers welcomed initiation of Indonesia’s OECD accession process as an important step to putting in place the foundational policy and regulatory settings that support a stronger development and income trajectory. Ministers agreed to support experience-sharing and to explore technical assistance and other opportunities to collaborate through this process.
+14. The Ministers also recognised Indonesia’s successful accession to the Financial Action Taskforce. New Zealand’s support for Indonesia throughout this accession process was valued and reflected the importance to both countries of preventing illegal money laundering and financing activities globally and within our region.
+
+Renewable energy and environment cooperation
+
+15. The Ministers highlighted New Zealand’s five-decades long investment in Indonesia’s geothermal sector, and that last year marked 40 years since the opening of Kamojang, Indonesia’s first geothermal power plant, with contributions from New Zealand’s development assistance. From these historic roots, significant development cooperation support for Indonesia’s energy transition continues, including through the regional Energy Transition Mechanism (ETM) announced in 2023, and ongoing development of Indonesia’s geothermal resource and human capacity. Ministers pledged to strengthen this pillar of cooperation further, to accelerate the development of Indonesia’s renewable energy sector and Indonesia’s broader energy transition.
+16. Ministers noted the frequency of formal and informal dialogue amongst officials in recent years on environmental issues, in addition to hosting capacity building workshops on Paris Agreement cooperation activities, and ongoing support for the Global Research Alliance for Agricultural Greenhouse Gasses. Ministers also pointed to the value of the Marine Plastic Debris workshop with Pacific participants during Indonesia’s ASEAN Chairmanship in 2023.
+17. The Ministers emphasised their shared commitments to adapting to and mitigating the impacts of climate change under the Paris Agreement and expressed willingness to expand climate related and environmental cooperation, as appropriate, including exploring means to work together through the IPEF Clean Economy Agreement, through dedicated environmental protection and climate change related exchanges.
+
+Education, Tourism, Science, Technology and Innovation, and People-to-People cooperation
+
+18. The Ministers underscored the importance of enhancing people-to-people connections particularly in education and tourism, as a bedrock of a strong bilateral relationship. Ministers pledged to expand these linkages through work towards conclusion of a Working Holiday Scheme. Ministers also encouraged modifications to the Education Cooperation Arrangement within the next year, to further focus and grow our education connections. Ongoing scholarship activity supported by both countries, was another important mechanism for student mobility.
+19. A high tempo of officials’ level visits to New Zealand have focused on good governance, public sector performance and integrity, and innovation and digitisation of Government. Ministers welcomed further exchanges of this nature, noting alignment between these best practise exchanges more broadly and Indonesia’s OECD aspirations.
+20. The Ministers noted New Zealand and Indonesia’s shared membership of the e-ASIA Joint Research Programme and encouraged uptake as a mechanism to support New Zealand and Indonesian research collaboration.
+21. The Ministers expressed their commitment to deepening exchange on regional and global security issues and exploring best practice to uphold democracy and human rights.
+
+Development Cooperation
+
+22. Ministers appreciated the extensive development cooperation between the two countries and welcomed the new Statement of Partnership guiding New Zealand’s development support in line with Indonesia’s Medium Development Plan \[RPJMN] 2025-2029. There is a focus on strengthening Indonesia’s transition and pathway to its Golden Vision 2045 through: building human capacity; reducing poverty and inequality; strengthening climate and economic resilience, including support for green growth and the national renewable energy transition agenda.
+23. Ministers expressed their aim to strengthen cooperation in the Pacific in a way that advances Pacific priorities and supports Pacific regional institutions – including the Pacific Islands Forum (PIF) as the region’s pre-eminent regional body – and noted discussions are underway for development collaboration in the region.
+
+Defence, security, cyber and maritime cooperation
+
+24. Ministers committed to continuing work together to strengthen regional security. Meeting on the World Day against Trafficking in Persons, Ministers reaffirmed their commitment to the Bali Process and joint cooperation in the area of people smuggling, trafficking in persons and irregular migration. Ministers also highlighted the recently refreshed cooperation arrangement on counter-terrorism, and opportunities for dialogue on preventing violent extremism.
+25. Ministers highlighted the two countries’ ongoing Defence cooperation and committed to regular Defence Ministers’ meetings, and more frequent ship visits. This included training cooperation, annual defence talks and joint exercises including Exercise Super Garuda Shield. Ministers committed to working to expand this cooperation including through bilateral talks in 2024.
+
+Regional and Multilateral agenda
+
+26. The Ministers underscored ASEAN’s central role in the evolving regional architecture and their shared commitment to ongoing dialogue and cooperation through ASEAN-led mechanisms and processes, particularly the East Asia Summit (EAS), the ASEAN Regional Forum (ARF), and ASEAN Defence Ministers’ Meeting Plus (ADMM-Plus).
+27. The Ministers welcomed the ASEAN-Aotearoa New Zealand Joint Statement on the ASEAN Outlook on the Indo-Pacific in 2023, and their shared commitment and common interest in promoting and maintaining a peaceful, prosperous and rules-based Indo-Pacific region underpinned by ASEAN-led mechanisms.
+28. The Ministers reiterated their support for ASEAN’s efforts to facilitate inclusive dialogue towards achieving an end to the crisis in Myanmar. They called on the State Administrative Council to honour its commitments to ASEAN under the Five-Point Consensus and end the violence. They urged all parties involved to take concrete action to immediately halt indiscriminate violence, denounce any escalation, exercise utmost restraint, ensure the protection and safety of all civilians and create a conducive environment for the delivery of humanitarian assistance and inclusive national dialogue.
+29. The Ministers looked forward to 2025 and the 50th anniversary of New Zealand’s dialogue relationship with ASEAN and noted Indonesia’s support for New Zealand’s hopes to mark this significant anniversary by elevating the relationship to a Comprehensive Strategic Partnership.
+30. The Ministers exchanged views on the situation in the South China Sea. Ministers reaffirmed the right of freedom of navigation and overflight and other lawful use of the seas accorded by international law, particularly the 1982 United Nations Convention on the Law of the Sea (UNCLOS). Both Ministers reaffirmed the need to pursue peaceful resolution of disputes in accordance with international law, particularly UNCLOS. Ministers underscored the importance of promoting peace, prosperity and security in the region and maintaining the international rules-based system. In this regard, they underlined the need to ensure the early conclusion of an effective and substantive Code of Conduct that is in accordance with international law, including the 1982 UNCLOS.
+31. The Ministers expressed concern about the dire and worsening humanitarian situation in Gaza and urged all relevant parties to accept the full, complete and permanent ceasefire proposal as outlined in UN Security Council Resolution 2735. They also called on all parties to the conflict to protect civilians and to abide by international humanitarian law and international human rights law.
+32. They further called for rapid safe, unimpeded and sustained humanitarian access to all those in need. They urged all parties concerned to work towards a peaceful resolution to the conflict with a view to realising the two-State solution in accordance with international law and the relevant UNSC and UNGA resolutions.
+33. With a view to upholding the international rule-based order, the Ministers welcomed the Advisory Opinion of the International Court of Justice on 19 July 2024 and underscored its implementation.
+34. The Ministers reiterated their strong commitment to multilateralism and pledged to continuing to work together to strengthen multilateral institutions, including their role in protecting and promoting human rights. Ministers suggested closer coordination and cooperation in multilateral fora was desirable, with a view to maintaining a stable, resilient, and prosperous region.
+35. Closer cooperation on UN reform, including through ongoing work between our respective Permanent Representatives in New York, would be valued by Ministers. As would working together on nuclear disarmament affairs, given our shared commitment to the Treaty of Prohibition on Nuclear Weapons. Ministers affirmed the importance of continued dialogue between respective senior Foreign Affairs officials.
+
+In summary
+
+36. Ministers approved the refreshed Plan of Action for 2025-2029 and discussed their common interest in lifting ambition and delivery of tangible outcomes. Ministers noted officials’ work on a detailed Scorecard of achievements for the Plan of Action 2020-2024.
+37. Widening and deepening the New Zealand and Indonesia relationship across all seven pillars of the Comprehensive Partnership was key to delivering on our shared interests, both Ministers affirmed. Future achievements would lay the groundwork for celebrations of the 70th anniversary of diplomatic relations in 2028 and outcomes for our respective people, businesses, environments, and countries in the longer term.
+
+30 July 2024

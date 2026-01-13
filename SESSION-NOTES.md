@@ -38,8 +38,8 @@ go build -o beehive-exports ./cmd/beehive-exports
 ### What's Done
 - Discovery index built: **3412 releases** found (Nov 2023 - Jan 2026)
 - All of **2024** fetched: 1477 releases
-- **Jun 2025 - Jan 2026** already had: ~999 releases
-- Total stored: ~2476 releases
+- All of **2025** fetched: 1863 releases (981 new + 882 already had)
+- Total stored: **3350 releases** with JSON and markdown
 
 ### Data Locations
 - JSON releases: `content/json/YYYY/MM/*.json`
@@ -51,21 +51,25 @@ go build -o beehive-exports ./cmd/beehive-exports
 
 ## What's Left To Do
 
-### Immediate
-1. Fetch early 2025 (Jan-May):
-   ```bash
-   ./beehive-exports fetch --year 2025
-   ```
-   This will skip existing Jun-Dec and fetch ~701 missing releases.
+### Future - Historical Archive
+The search page at `https://www.beehive.govt.nz/search` provides access to **70,982 total items** dating back to 1996.
 
-2. Regenerate markdown:
-   ```bash
-   ./beehive-exports markdown
-   ```
+**Search filters available:**
+- Government term (back to 1996)
+- Content type (releases, speeches, ministerial diaries, features, publications)
+- Date range (1995-2026)
+- Minister and portfolio
 
-### Future
-- **Archive access**: The beehive has an archive with previous governments' releases (pre-Nov 2023). The current `/releases` listing only shows the current government. Need to explore the archive structure to index historical releases.
-- User mentioned: "If you check Advanced Search, there are better labels https://www.beehive.govt.nz/advanced_search"
+**URL structure:**
+- Base: `/search?page=0` (24 results per page)
+- Government filter: `?f[0]=government_facet:6700`
+- Can combine filters
+
+**To index historical releases:**
+1. Add a new `search` or `archive` command
+2. Paginate through search results (70,982 / 24 = ~2,958 pages)
+3. Parse search result links to get release URLs
+4. Feed into existing fetch pipeline
 
 ## Technical Notes
 
