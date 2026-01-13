@@ -6,6 +6,8 @@ ministers:
   - Hon Scott Simpson
 portfolios:
   - Commerce and Consumer Affairs
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-12/Fact%20sheet%20-%20Commerce%20Act%20amendment%20bill%20-%20December%202025.docx
 ---
 
 Competition reforms will drive productivity, growth and innovation for businesses and Kiwi consumers, Commerce and Consumer Affairs Minister Scott Simpson says.
@@ -25,13 +27,9 @@ The Bill will reduce compliance costs for beneficial collaboration, increase bus
 Key changes being progressed in the Bill include:
 
 - Stopping unfair tactics like creeping acquisitions and predatory pricing so genuine competitors can thrive.
-
 - Clearer merger rules to give businesses certainty while keeping markets fair.
-
 - Streamlined approval for beneficial collaboration, making it easier for businesses to work together where it helps the public.
-
 - Allowing the Commerce Commission to accept behavioural undertakings as part of merger applications.
-
 - Powers to temporarily suspend or ‘call in’ risky mergers before they are complete so they can be assessed.
 
 “The changes work for businesses and for customers. Not only will they help to strengthen competition, they will also make it easier for firms to collaborate when that’s in consumers’ best interests, like coming together to tackle scams.
@@ -45,11 +43,5 @@ The Government expects to pass the Commerce Amendment Bill by mid-2026.
 Introducing the Commerce (Promoting Competition and Other Matters) Amendment Bill is a target in the Government’s Q4 Action Plan.
 
 - As part of its competition reforms, and following an independent review, the Government is also making changes to the Commerce Commission’s governance structure.
-
 - These will ensure it continues to operate effectively and is well placed to exercise its additional powers.
-
 - Legislation amending the Commission’s governance structure is expected to be introduced in early 2026, with the aim of having the new structure in place in mid-2027.
-
-## Attachments
-
-- https://www.beehive.govt.nz/sites/default/files/2025-12/Fact%20sheet%20-%20Commerce%20Act%20amendment%20bill%20-%20December%202025.docx

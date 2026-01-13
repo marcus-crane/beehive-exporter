@@ -14,7 +14,7 @@ The Ministry of Education’s Parent Portal digital resource is now live with ev
 
 “The refreshed curriculum is designed to ensure children are learning the fundamentals they need, and it gives clarity to teachers on what to focus on in the classroom. We’re making sure there’s clarity at home, too,” Ms Stanford says.
 
-&#34;The Parent Portal will also be getting updated with activities and resources to support reinforcing key learning from the last year at home over summer.
+"The Parent Portal will also be getting updated with activities and resources to support reinforcing key learning from the last year at home over summer.
 
 “The first resource will be a curriculum-aligned, freely available online maths practice tool for children in Years 3 to 8, and will be available from next Tuesday. This will cover basic facts, fractions, rounding, working with money, place value, counting patterns, square numbers, and word problems. There will be further content uploaded in January for children ready for more topics.
 

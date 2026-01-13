@@ -10,7 +10,7 @@ portfolios:
 
 Minister of Internal Affairs, Brooke van Velden is pleased to announce New Zealand’s favourite baby names for 2025.
 
-Timeless names continue to dominate Kiwi birth registrations, with Noah holding strong as parents&#39; favourite for the third year running, shared by 244 baby boys. For girls, Isla reigned supreme with 179 registrations, cementing its spot in the top three since 2016.
+Timeless names continue to dominate Kiwi birth registrations, with Noah holding strong as parents' favourite for the third year running, shared by 244 baby boys. For girls, Isla reigned supreme with 179 registrations, cementing its spot in the top three since 2016.
 
 Close behind was Luca, chosen by 236 parents this year, and Charlotte as the second most popular girls name, given to 178 newborns.
 
@@ -24,10 +24,9 @@ Looking back over the decades, it’s clear some names have remained consistentl
 
 The Department recommends registering your baby within the first two months of birth, and SmartStart makes the process simple, easy, and free.
 
-Visit SmartStart to make it official and explore naming trends dating back to 1954**: **[**https://smartstart.services.govt.nz/news/baby-names**](https://smartstart.services.govt.nz/news/baby-names)
+Visit SmartStart to make it official and explore naming trends dating back to 1954**:** [**https://smartstart.services.govt.nz/news/baby-names**](https://smartstart.services.govt.nz/news/baby-names)
 
 **Notes for media:**
 
 - Names are reported as they appear on official birth registrations in New Zealand.
-
 - For more information on naming trends or historical data, visit [https://smartstart.services.govt.nz/news/baby-names](https://smartstart.services.govt.nz/news/baby-names)

@@ -24,7 +24,7 @@ Members of the panel will be named in due course.
 
 The 12 January 2026 opening date for expressions of interest for the fund follows the Government’s [announcement last month](https://www.beehive.govt.nz/release/widened-scope-co-investment-new-gas) that it has broadened the fund’s scope from new exploration to include existing fields and storage options.
 
-The Gas Security Fund is administered by the Ministry of Business, Innovation and Employment’s Kānoa – Regional Economic Development &amp; Investment Unit.
+The Gas Security Fund is administered by the Ministry of Business, Innovation and Employment’s Kānoa – Regional Economic Development & Investment Unit.
 
 “Once the fund opens on 12 January, we encourage expressions of interest to be submitted as soon as possible. More information can be found on the Grow Regions website, and interested parties can also speak to Kānoa officials,” Mr Jones says.
 

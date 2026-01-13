@@ -18,7 +18,7 @@ The technology targets hard-to-clean areas of vessel hulls, such as sea chests a
 
 Biosecurity New Zealand received the application in October and completed its evaluation in December following successful trials on domestic vessels. Provisional approval means the system can now be used this summer for arriving vessels, including cruise ships.
 
-“The work reflects Biosecurity New Zealand’s commitment to helping vessel operators comply with biofouling and other biosecurity requirements. Marine growth on vessel hulls – poses a biosecurity risk to New Zealand&#39;s marine environment.”
+“The work reflects Biosecurity New Zealand’s commitment to helping vessel operators comply with biofouling and other biosecurity requirements. Marine growth on vessel hulls – poses a biosecurity risk to New Zealand's marine environment.”
 
 “This government is committed to ensuring New Zealand’s environment, unique marine ecosystems, aquaculture industry, and economy are protected from biofouling.
 

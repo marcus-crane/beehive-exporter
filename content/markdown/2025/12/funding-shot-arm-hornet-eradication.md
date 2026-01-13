@@ -27,19 +27,12 @@ Mr Hoggard says Biosecurity New Zealand is working with industry partners as par
 The response has escalated since it began on 3 November. So far, Biosecurity New Zealand has:
 
 - Detected and safely destroyed 37 queen hornets and 28 nests.
-
 - Deployed more than 730 traps and that number is increasing with the extension of the surveillance zone out to 11km.
-
 - Working closely with more beekeepers for enhanced surveillance around hives – over 575 registered apiaries within the 11km zone.
-
 - Searched thousands of properties within 200m of confirmed finds and that number grows every day.
-
 - Established an independent technical advisory group to guide the response.
-
 - Purchased electronic tracking gear to trace nests by attaching transmitters to foraging worker hornets.
-
 - Launched a national advertising campaign urging the public to report suspected sightings.
-
 - Raised public awareness through markets, schools, businesses, and libraries.
 
 “I can’t overstate the importance of public vigilance. I am asking that all eyes are on this, if you suspect you’ve seen a yellow-legged hornet, please report it immediately to Biosecurity New Zealand,” says Mr Hoggard.

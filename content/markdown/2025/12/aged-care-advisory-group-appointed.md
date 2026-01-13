@@ -21,9 +21,7 @@ The other members are: Brien Cree; Shelley Cunningham; Suzanne Dvorak; Dr Richar
 The Group will provide an independent report and a set of recommendations around three areas:
 
 - The funding model needed to support sustainable services, particularly a sustainable supply of standard aged care beds
-
 - How the costs of providing aged care could be reasonably shared between those receiving care and the Government
-
 - The changes needed to contracting arrangements and regulatory settings for aged care services, to remove red tape, support cost-effective delivery of services, support service innovation, and increase cohesion and integration between aged care services, wider health services, and Disability Support Services.
 
 The Group is expected to provide advice and recommendations to Ministers by mid-2026.

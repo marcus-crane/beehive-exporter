@@ -1,15 +1,16 @@
 package main
 
 import (
+	"encoding/json"
 	"flag"
 	"fmt"
 	"log"
 	"os"
 	"path/filepath"
-	"regexp"
 	"strings"
 	"time"
 
+	htmltomarkdown "github.com/JohannesKaufmann/html-to-markdown/v2"
 	"github.com/PuerkitoBio/goquery"
 	"github.com/joho/godotenv"
 	"github.com/marcus-crane/beehive-exports/internal/fetcher"
@@ -32,15 +33,25 @@ func main() {
 	markdownCmd := flag.NewFlagSet("markdown", flag.ExitOnError)
 	markdownOut := markdownCmd.String("out", "content/markdown", "Output directory for markdown files")
 
+	fetchCmd := flag.NewFlagSet("fetch", flag.ExitOnError)
+	fetchYear := fetchCmd.String("year", "", "Year to fetch (e.g., 2024)")
+	fetchMonth := fetchCmd.String("month", "", "Month to fetch (e.g., 2024-03)")
+
 	if len(os.Args) < 2 {
 		fmt.Println("Usage: beehive-exports <command> [options]")
 		fmt.Println("\nCommands:")
-		fmt.Println("  sync       Fetch and save press releases")
+		fmt.Println("  sync       Fetch and save press releases from listing pages")
+		fmt.Println("  index      Build discovery index of all releases")
+		fmt.Println("  fetch      Fetch releases from discovery index")
 		fmt.Println("  reingest   Re-fetch and overwrite a single release")
 		fmt.Println("  markdown   Generate markdown files from releases")
 		fmt.Println("\nExamples:")
 		fmt.Println("  beehive-exports sync")
 		fmt.Println("  beehive-exports sync --pages 3  # Fetch ~30 recent releases")
+		fmt.Println("  beehive-exports index           # Build complete release index")
+		fmt.Println("  beehive-exports fetch           # Fetch all missing releases")
+		fmt.Println("  beehive-exports fetch --year 2024")
+		fmt.Println("  beehive-exports fetch --month 2024-03")
 		fmt.Println("  beehive-exports reingest --url https://www.beehive.govt.nz/release/some-release")
 		fmt.Println("  beehive-exports reingest --id some-release")
 		fmt.Println("  beehive-exports markdown --out ./content/markdown")
@@ -51,6 +62,11 @@ func main() {
 	case "sync":
 		syncCmd.Parse(os.Args[2:])
 		runSync(*syncPages)
+	case "index":
+		runIndex()
+	case "fetch":
+		fetchCmd.Parse(os.Args[2:])
+		runFetch(*fetchYear, *fetchMonth)
 	case "reingest":
 		reingestCmd.Parse(os.Args[2:])
 		runReingest(*reingestURL, *reingestID)
@@ -134,6 +150,12 @@ func runSync(maxPages int) {
 	log.Println("Updating index...")
 	if err := store.UpdateIndex(); err != nil {
 		log.Printf("Warning: Failed to update index: %v", err)
+	}
+
+	// Update URL index
+	log.Println("Updating URL index...")
+	if err := store.GenerateURLIndex(); err != nil {
+		log.Printf("Warning: Failed to update URL index: %v", err)
 	}
 
 	// Print summary
@@ -248,18 +270,16 @@ func writeMarkdown(outDir string, release *models.Release) error {
 			fmt.Fprintf(&b, "  - %s\n", p)
 		}
 	}
+	if len(release.Attachments) > 0 {
+		b.WriteString("attachments:\n")
+		for _, url := range release.Attachments {
+			fmt.Fprintf(&b, "  - %s\n", url)
+		}
+	}
 	b.WriteString("---\n\n")
 
 	// Content - extract body from full HTML and convert to markdown
 	b.WriteString(htmlToMarkdown(extractBody(release.Content)))
-
-	// Attachments
-	if len(release.Attachments) > 0 {
-		b.WriteString("\n\n## Attachments\n\n")
-		for _, url := range release.Attachments {
-			fmt.Fprintf(&b, "- %s\n", url)
-		}
-	}
 
 	filename := filepath.Join(dir, release.ID+".md")
 	return os.WriteFile(filename, []byte(b.String()), 0644)
@@ -285,40 +305,277 @@ func extractBody(html string) string {
 	return h
 }
 
-func htmlToMarkdown(html string) string {
-	s := html
+func htmlToMarkdown(input string) string {
+	md, err := htmltomarkdown.ConvertString(input)
+	if err != nil {
+		return input
+	}
+	return strings.TrimSpace(md)
+}
 
-	// Convert headers
-	s = regexp.MustCompile(`<h1[^>]*>(.*?)</h1>`).ReplaceAllString(s, "# $1\n\n")
-	s = regexp.MustCompile(`<h2[^>]*>(.*?)</h2>`).ReplaceAllString(s, "## $1\n\n")
-	s = regexp.MustCompile(`<h3[^>]*>(.*?)</h3>`).ReplaceAllString(s, "### $1\n\n")
-	s = regexp.MustCompile(`<h4[^>]*>(.*?)</h4>`).ReplaceAllString(s, "#### $1\n\n")
+// ReleaseEntry represents a discovered release with its date
+type ReleaseEntry struct {
+	URL  string `json:"url"`
+	Date string `json:"date"`
+}
 
-	// Convert lists
-	s = regexp.MustCompile(`<li[^>]*>(.*?)</li>`).ReplaceAllString(s, "- $1\n")
-	s = regexp.MustCompile(`</?[uo]l[^>]*>`).ReplaceAllString(s, "\n")
+// DiscoveryIndex is the structure for the discovered releases index
+type DiscoveryIndex struct {
+	LastIndexedAt string                                   `json:"last_indexed_at"`
+	TotalReleases int                                      `json:"total_releases"`
+	Governments   map[string]map[string][]ReleaseEntry     `json:"governments"` // government -> year-month -> releases
+}
 
-	// Convert links
-	s = regexp.MustCompile(`<a[^>]*href="([^"]*)"[^>]*>(.*?)</a>`).ReplaceAllString(s, "[$2]($1)")
+func runIndex() {
+	log.Println("Building complete release index from listing pages...")
 
-	// Convert bold/italic
-	s = regexp.MustCompile(`<strong[^>]*>(.*?)</strong>`).ReplaceAllString(s, "**$1**")
-	s = regexp.MustCompile(`<b[^>]*>(.*?)</b>`).ReplaceAllString(s, "**$1**")
-	s = regexp.MustCompile(`<em[^>]*>(.*?)</em>`).ReplaceAllString(s, "*$1*")
-	s = regexp.MustCompile(`<i[^>]*>(.*?)</i>`).ReplaceAllString(s, "*$1*")
+	f := fetcher.New()
+	index := DiscoveryIndex{
+		Governments: make(map[string]map[string][]ReleaseEntry),
+	}
 
-	// Convert paragraphs and breaks
-	s = regexp.MustCompile(`<p[^>]*>`).ReplaceAllString(s, "")
-	s = regexp.MustCompile(`</p>`).ReplaceAllString(s, "\n\n")
-	s = regexp.MustCompile(`<br\s*/?>`).ReplaceAllString(s, "\n")
+	page := 0
+	consecutiveEmpty := 0
+	totalFound := 0
 
-	// Strip remaining tags
-	s = regexp.MustCompile(`<[^>]+>`).ReplaceAllString(s, "")
+	for consecutiveEmpty < 3 {
+		log.Printf("Fetching page %d...", page)
 
-	// Clean up whitespace
-	s = regexp.MustCompile(`\n{3,}`).ReplaceAllString(s, "\n\n")
-	s = strings.TrimSpace(s)
+		url := fmt.Sprintf("https://www.beehive.govt.nz/releases?page=%d", page)
+		html, err := f.FetchURL(url)
+		if err != nil {
+			log.Printf("Error fetching page %d: %v", page, err)
+			consecutiveEmpty++
+			page++
+			continue
+		}
 
-	return s
+		doc, err := goquery.NewDocumentFromReader(strings.NewReader(html))
+		if err != nil {
+			log.Printf("Error parsing page %d: %v", page, err)
+			consecutiveEmpty++
+			page++
+			continue
+		}
+
+		foundOnPage := 0
+		seen := make(map[string]bool)
+
+		// Find each release entry (article or container with time and link)
+		doc.Find("a[href^='/release/']").Each(func(i int, s *goquery.Selection) {
+			href, exists := s.Attr("href")
+			if !exists || href == "/release" || href == "/releases" {
+				return
+			}
+
+			fullURL := "https://www.beehive.govt.nz" + href
+			if seen[fullURL] {
+				return
+			}
+			seen[fullURL] = true
+
+			// Find the time element in the parent/grandparent context
+			var datetime string
+			parent := s.Parent().Parent().Parent()
+			parent.Find("time[datetime]").Each(func(j int, t *goquery.Selection) {
+				if dt, exists := t.Attr("datetime"); exists && datetime == "" {
+					datetime = dt
+				}
+			})
+
+			if datetime == "" {
+				return // Skip if no date found
+			}
+
+			// Parse date to determine government and month
+			t, err := time.Parse(time.RFC3339, datetime)
+			if err != nil {
+				return
+			}
+
+			gov := determineGovernmentFromDate(t)
+			yearMonth := t.Format("2006-01")
+
+			if index.Governments[gov] == nil {
+				index.Governments[gov] = make(map[string][]ReleaseEntry)
+			}
+
+			index.Governments[gov][yearMonth] = append(index.Governments[gov][yearMonth], ReleaseEntry{
+				URL:  fullURL,
+				Date: datetime,
+			})
+
+			foundOnPage++
+			totalFound++
+		})
+
+		log.Printf("Found %d releases on page %d", foundOnPage, page)
+
+		if foundOnPage == 0 {
+			consecutiveEmpty++
+		} else {
+			consecutiveEmpty = 0
+		}
+
+		page++
+	}
+
+	index.LastIndexedAt = time.Now().Format(time.RFC3339)
+	index.TotalReleases = totalFound
+
+	// Save index
+	data, err := json.MarshalIndent(index, "", "  ")
+	if err != nil {
+		log.Fatalf("Failed to marshal index: %v", err)
+	}
+
+	if err := os.WriteFile("content/discovery-index.json", data, 0644); err != nil {
+		log.Fatalf("Failed to write index: %v", err)
+	}
+
+	log.Printf("\n=== Indexing Complete ===")
+	log.Printf("Total releases found: %d", totalFound)
+	log.Printf("Pages scanned: %d", page)
+	log.Printf("Index saved to content/discovery-index.json")
+
+	// Print summary by government
+	for gov, months := range index.Governments {
+		count := 0
+		for _, releases := range months {
+			count += len(releases)
+		}
+		log.Printf("  %s: %d releases", gov, count)
+	}
+}
+
+func runFetch(filterYear, filterMonth string) {
+	log.Println("Fetching releases from discovery index")
+
+	// Load discovery index
+	data, err := os.ReadFile("content/discovery-index.json")
+	if err != nil {
+		log.Fatalf("Failed to read discovery index: %v\nRun 'beehive-exports index' first", err)
+	}
+
+	var index DiscoveryIndex
+	if err := json.Unmarshal(data, &index); err != nil {
+		log.Fatalf("Failed to parse discovery index: %v", err)
+	}
+
+	// Collect URLs to fetch based on filters
+	var urlsToFetch []string
+	for _, months := range index.Governments {
+		for yearMonth, releases := range months {
+			// Apply filters
+			if filterMonth != "" && yearMonth != filterMonth {
+				continue
+			}
+			if filterYear != "" && !strings.HasPrefix(yearMonth, filterYear) {
+				continue
+			}
+
+			for _, r := range releases {
+				urlsToFetch = append(urlsToFetch, r.URL)
+			}
+		}
+	}
+
+	log.Printf("Found %d URLs in index matching filters", len(urlsToFetch))
+
+	// Initialize components
+	f := fetcher.New()
+	store := storage.New(".")
+
+	// Fetch and parse each release
+	successCount := 0
+	skippedCount := 0
+	errorCount := 0
+
+	for i, url := range urlsToFetch {
+		// Extract ID from URL
+		parts := strings.Split(url, "/")
+		id := parts[len(parts)-1]
+
+		// Skip if already exists
+		if store.ReleaseExists(id) {
+			skippedCount++
+			continue
+		}
+
+		log.Printf("[%d/%d] Fetching: %s", i+1, len(urlsToFetch), url)
+
+		// Fetch HTML
+		html, err := f.FetchRelease(url)
+		if err != nil {
+			log.Printf("  Error fetching: %v", err)
+			errorCount++
+			continue
+		}
+
+		// Parse release
+		release, err := parser.Parse(html, url)
+		if err != nil {
+			log.Printf("  Error parsing: %v", err)
+			errorCount++
+			continue
+		}
+
+		// Save to JSON
+		if err := store.SaveRelease(release); err != nil {
+			log.Printf("  Error saving: %v", err)
+			errorCount++
+			continue
+		}
+
+		// Save raw HTML for potential future reprocessing
+		if err := store.SaveRawHTML(release.ID, release.Time, html); err != nil {
+			log.Printf("  Warning: Failed to save raw HTML: %v", err)
+		}
+
+		log.Printf("  ✓ Saved: %s", release.Title)
+		successCount++
+	}
+
+	// Update index
+	log.Println("Updating index...")
+	if err := store.UpdateIndex(); err != nil {
+		log.Printf("Warning: Failed to update index: %v", err)
+	}
+
+	// Update URL index
+	log.Println("Updating URL index...")
+	if err := store.GenerateURLIndex(); err != nil {
+		log.Printf("Warning: Failed to update URL index: %v", err)
+	}
+
+	// Print summary
+	log.Println("\n=== Fetch Complete ===")
+	log.Printf("Success: %d", successCount)
+	log.Printf("Skipped: %d (already exist)", skippedCount)
+	log.Printf("Errors:  %d", errorCount)
+	log.Printf("Total:   %d", len(urlsToFetch))
+}
+
+func determineGovernmentFromDate(t time.Time) string {
+	year := t.Year()
+	month := t.Month()
+
+	// More precise government terms based on election dates
+	switch {
+	case year > 2023 || (year == 2023 && month >= 11):
+		return "National-ACT-NZ First Coalition"
+	case year > 2020 || (year == 2020 && month >= 11):
+		return "Sixth Labour Government"
+	case year > 2017 || (year == 2017 && month >= 10):
+		return "Labour-NZ First Coalition"
+	case year > 2014 || (year == 2014 && month >= 10):
+		return "Fifth National Government"
+	case year > 2011 || (year == 2011 && month >= 11):
+		return "Fifth National Government"
+	case year > 2008 || (year == 2008 && month >= 11):
+		return "Fifth National Government"
+	default:
+		return "Earlier Government"
+	}
 }
 

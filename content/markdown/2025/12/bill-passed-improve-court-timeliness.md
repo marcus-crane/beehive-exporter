@@ -27,11 +27,7 @@ We need to improve access to justice so New Zealanders can get on with their liv
 The Judicature (Timeliness) Legislation Amendment Bill will:
 
 - Allow a new judge to take office up to three months before another judge retires.
-
 - Provide a new process under the Senior Courts Act to efficiently deal with civil cases that are an abuse of court process in the High Court, Court of Appeal and Supreme Court, and to restrain vexatious litigants from repeatedly bringing proceedings.
-
-- Amend the Criminal Procedure Act 2011 to enable a District Court Judge to make an order to manage multiple charges against a single defendant in one District Court locations at the pre-trial stage. 
-
+- Amend the Criminal Procedure Act 2011 to enable a District Court Judge to make an order to manage multiple charges against a single defendant in one District Court locations at the pre-trial stage.
 - Amend the Criminal Procedure Act to enable a Court of Appeal Judge to remit first appeals relating to District Court criminal trials to the High Court where appropriate;
-
 - Amend the Coroners Act 2006 to enable coroners to close inquiries when new information becomes available, or circumstances change. This will not apply to inquiries that are required to be opened by law, such as where a death appears to be self-inflicted, or has occurred in care or custody.

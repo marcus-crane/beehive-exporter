@@ -27,7 +27,6 @@ Associate Finance Minister David Seymour is welcoming the passing of the Oversea
 In the 12 months to 30 November:
 
 - LINZ has processed almost 82.6 per cent of consent applications in half the statutory timeframe
-
 - Processing times are 60 per cent faster than in financial year 2024. The average timeframe has reduced from 71 working days to 28 working days.
 
 “The act also consolidates and simplifies the screening process for less sensitive assets by introducing a modified national interest test that replaces the existing benefit to New Zealand test and investor test and enables the regulator to triage low-risk transactions. If a national interest risk is identified, the regulator and relevant Minister will have a range of tools to manage this, including through imposing conditions or blocking the transaction,” says Mr Seymour.

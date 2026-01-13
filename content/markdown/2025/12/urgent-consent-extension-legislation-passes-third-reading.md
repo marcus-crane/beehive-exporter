@@ -17,7 +17,7 @@ The Resource Management (Duration of Consents) Amendment Bill, passed this morni
 
 “With the new planning system now progressing through Parliament, it simply isn’t fair to force people into costly replacement consent processes under the old regime. This Bill gives immediate, practical relief and ensures no one is disadvantaged during the transition.
 
-“Farmers and other consent holders have been staring down significant uncertainty and unnecessary expense, even though the Government has already committed to extending consent durations under the new system. This legislation provides the certainty they need.&#34;
+“Farmers and other consent holders have been staring down significant uncertainty and unnecessary expense, even though the Government has already committed to extending consent durations under the new system. This legislation provides the certainty they need."
 
 Under-Secretary for RMA Reform Simon Court says the temporary extensions align consents with the broader transition already underway.
 
@@ -30,7 +30,6 @@ The extensions do not apply where they would push water-related consents beyond 
 The Planning Bill and the Natural Environment Bill, which together will replace the RMA, will also smooth the transition by ensuring that: 
 
 - Existing consent expiry dates will be extended to two years after the end of the transition period for the new system. Based on current expectations, this means most consents will be extended to around 2031.
-
 - New consent applications can still be made during the transition period and will follow a transitional RMA process which includes limits on the test for public notification and the scope of effects that can be considered. It will also include the introduction of some core national standards to provide consent-free activity pathways and procedural principles, such as proportionality, that will have immediate effect.
 
 **More information about the new planning system can be found here:**

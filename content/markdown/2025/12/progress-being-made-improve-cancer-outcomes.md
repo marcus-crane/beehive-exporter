@@ -17,19 +17,12 @@ Health Minister Simeon Brown has welcomed today’s release of *The State of Can
 The Government is delivering a series of initiatives to strengthen cancer care and improve outcomes for New Zealanders, including:
 
 - Delivering 33 world-class cancer medicines through our $604 million Pharmac investment, giving patients access to the best treatments available.
-
 - Expanding breast screening to include women aged 70-74, enabling thousands more to benefit from early detection.
-
 - Progressively lowering the bowel screening age to match Australia with 58 as the first step, improving early detection and saving lives.
-
 - Establishing the faster cancer treatment target to speed up access to specialist care.
-
 - Investing in critical cancer infrastructure, including new LINAC machines and upgraded treatment facilities nationwide.
-
 - Expanding stem cell transplant services so patients can access life-saving treatment without delay.
-
 - Initiating New Zealand’s first cervical cancer elimination strategy.
-
 - Investing in the cancer workforce to ensure patients receive the best care possible.
 
 “These actions reflect our commitment to delivering faster, fairer, and more effective cancer care for every New Zealander.”

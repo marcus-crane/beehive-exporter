@@ -19,7 +19,7 @@ Exports are forecast to rise 3 per cent from the previous year, and an impressiv
 
 The sector is well positioned to capitalise on robust demand and strong prices, supported by good growing conditions and higher production in most areas.
 
-&#34;It&#39;s an outstanding result, especially considering a tough year with challenging global conditions and extreme weather impacting producers,” Mr McClay says.
+"It's an outstanding result, especially considering a tough year with challenging global conditions and extreme weather impacting producers,” Mr McClay says.
 
 “The Government is backing the sector’s success, and the growth reflects a lot of on-the-ground hard work.
 
@@ -28,11 +28,8 @@ The sector is well positioned to capitalise on robust demand and strong prices, 
 **Key forecasts for the year ending 30 June 2026 include:**
 
 - Meat and wool export revenue lifting 7 per cent to $13.2 billion
-
 - Horticulture export revenue lifting 5 per cent to $9.2 billion
-
 - Forestry export revenue lifting 2 per cent to $6.3 billion
-
 - Dairy export revenue lifting 1 per cent to $27.4 billion
 
 “We’re cutting red tape through significant reforms, building trade, driving higher producer returns, delivering tools and technology to tackle agricultural emissions, and investing in the health of rural New Zealand,” Mr McClay says.

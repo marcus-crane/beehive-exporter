@@ -6,6 +6,8 @@ ministers:
   - Hon Chris Penk
 portfolios:
   - Building and Construction
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-12/Refocused%20EPB%20system%20media%20factsheet.pdf
 ---
 
 Legislation that will bring significant financial relief to many building owners by refocusing the earthquake-prone building system has passed its first reading in Parliament.
@@ -37,11 +39,5 @@ Legislation that will bring significant financial relief to many building owners
 **Notes to editor:**
 
 - *Attached: Refocused earthquake-prone building system media factsheet.*
-
 - The Building (Earthquake-prone Buildings) Amendment Bill now sits with the Transport and Infrastructure Select Committee for consideration.
-
 - Coastal Otago, including Dunedin, has been classified as a medium seismic hazard area and will remain within the earthquake-prone building system.
-
-## Attachments
-
-- https://www.beehive.govt.nz/sites/default/files/2025-12/Refocused%20EPB%20system%20media%20factsheet.pdf

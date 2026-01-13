@@ -21,13 +21,9 @@ Five leading AI concepts have been shortlisted to establish a world-class nation
 The selected concepts are:
 
 - **Aotearoa Agentic AI Platform**, led by the University of Auckland, focused on next-generation AI assistants aligned with New Zealand values.
-
 - **Aotearoa Creative AI Research Institute**, led by Wētā FX, positioning New Zealand at the forefront of AI research for the creative sector.
-
 - **Aotearoa Institute for Autonomous Intelligence**, led by Earth Sciences New Zealand and Victoria University of Wellington, developing AI and autonomous systems for aerospace, marine and primary industries.
-
 - **BioAI Platform**, led by the Bioeconomy Science Institute, using AI to drive productivity and export growth across agriculture, aquaculture and forestry.
-
 - **Physical AI for Real-World Systems**, combining strengths from the University of Waikato and University of Canterbury to deliver AI that works in complex outdoor and industrial environments.
 
 Each concept will receive $250,000 to develop a detailed proposal for further assessment. The final platform is expected to be confirmed in the first half of 2026, with funding from July 2026.

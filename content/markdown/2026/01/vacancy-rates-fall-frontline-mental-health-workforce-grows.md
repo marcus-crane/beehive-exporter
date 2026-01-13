@@ -33,7 +33,5 @@ New workforce data shows the frontline mental health and addiction workforce has
 **Note to editors:**
 
 - Data is sourced from a combination of the Health Workforce Information Programme and HNZ payroll data.
-
 - Information from September 2025 quarter is still provisional and subject to change. Vacancy information excludes data from Canterbury and West Coast Districts.
-
 - Information is comparing 30 September 2023 to 30 September 2025.

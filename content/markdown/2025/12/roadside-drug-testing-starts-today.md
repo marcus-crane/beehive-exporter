@@ -37,11 +37,7 @@ A driver who tests positive at the roadside will be required to take a second sc
 **Notes to editor:**
 
 - The laboratory will test all 25 substances listed in [Schedule 5](https://www.legislation.govt.nz/act/public/2022/0005/latest/LMS378964.html) of the Land Transport (Drug Driving) Amendment Act 2022.
-
 - Drivers who refuse or fail to comply with a roadside drug test will be issued with a $400 infringement and 75 demerit points, and prohibited from driving for 12 hours.
-
 - Most drivers will be free to go within about 10 minutes, provided they return a negative screening test result.
-
 - Drivers cannot use a prescription or medical note at the roadside to stop them from undergoing a test or to dispute a positive saliva screening test result.
-
 - Once an infringement is issued, the driver will have the ability to apply for a medical defence if it is for a drug that has been prescribed to them.

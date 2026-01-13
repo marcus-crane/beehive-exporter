@@ -22,6 +22,6 @@ Legally caught pāua usually goes for about $100 per kilogram. If people are off
 
 “Fishery Officers have seen an increase in social media pāua sales over recent years. This is extremely prevalent during December/January each year and people should not be tempted.
 
-“There are no excuses for not doing the right thing. Pāua poachers are thieves that take from all of us and cut across the legitimate catch of recreational, customary and commercial fishers. Let’s work together this summer to put a stop to them,” Mr Jones says.&amp;
+“There are no excuses for not doing the right thing. Pāua poachers are thieves that take from all of us and cut across the legitimate catch of recreational, customary and commercial fishers. Let’s work together this summer to put a stop to them,” Mr Jones says.&
 
 Download the [NZ Fishing Rules App](https://www.mpi.govt.nz/fishing-aquaculture/recreational-fishing/nz-fishing-rules-app) for all the fishing rules in different parts of the country.

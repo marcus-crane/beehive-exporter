@@ -15,12 +15,10 @@ The Government is delivering faster access to mental health support with the add
 The new beds include:
 
 - 15 beds for adults with high and complex long-term mental health needs, offering a recovery-focused environment better suited to their care than traditional acute inpatient units.
-
-16 psychogeriatric beds**,** including:
-
-- 8 for long-term secure care for older adults in the region.
-
-- 8 for short-term transitional support**,** helping Wellington and Hutt Valley residents while their long-term care needs are assessed.
+- 16 psychogeriatric beds**,** including:
+  
+  - 8 for long-term secure care for older adults in the region.
+  - 8 for short-term transitional support**,** helping Wellington and Hutt Valley residents while their long-term care needs are assessed.
 
 “Hutt Valley and Capital Coast are below the shorter stays in ED target of being admitted, discharged or transferred in six hours. This investment will help improve patient admissions and aims to contribute toward improving their performance.
 
@@ -30,7 +28,7 @@ The new beds include:
 
 “By opening these additional long-term beds, we can ensure this changes. People with the most complex needs can now receive more therapeutic care, that will improve their quality of life.
 
-&#34;Mental health care must be underpinned by high-quality infrastructure that enables clinicians and support staff to deliver the safe, effective, compassionate care Kiwis deserve.
+"Mental health care must be underpinned by high-quality infrastructure that enables clinicians and support staff to deliver the safe, effective, compassionate care Kiwis deserve.
 
 “Today’s announcement of more beds is part of this Governments mental health plan to deliver faster access to support, more frontline workers, and a better crisis response.”
 

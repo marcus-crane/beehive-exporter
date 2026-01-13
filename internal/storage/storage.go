@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"sort"
 	"strings"
 	"time"
 
@@ -12,9 +13,10 @@ import (
 )
 
 const (
-	DataDir   = "content/json"
-	RawDir    = "content/raw"
-	IndexFile = "content/index.json"
+	DataDir      = "content/json"
+	RawDir       = "content/raw"
+	IndexFile    = "content/index.json"
+	URLIndexFile = "content/url-index.json"
 )
 
 // Index represents the master index of all releases
@@ -208,6 +210,50 @@ func (s *Storage) UpdateIndex() error {
 
 	if err := os.WriteFile(indexPath, data, 0644); err != nil {
 		return fmt.Errorf("failed to write index: %w", err)
+	}
+
+	return nil
+}
+
+// URLIndex represents URLs grouped by government and year
+type URLIndex map[string]map[string][]string // government -> year -> urls
+
+// GenerateURLIndex builds an index of all release URLs grouped by government and year
+func (s *Storage) GenerateURLIndex() error {
+	releases, err := s.LoadAllReleases()
+	if err != nil {
+		return err
+	}
+
+	index := make(URLIndex)
+
+	for _, release := range releases {
+		gov := release.Government
+		year := release.Time.Format("2006")
+
+		if index[gov] == nil {
+			index[gov] = make(map[string][]string)
+		}
+		index[gov][year] = append(index[gov][year], release.URL)
+	}
+
+	// Sort URLs within each year for consistent output
+	for gov := range index {
+		for year := range index[gov] {
+			urls := index[gov][year]
+			sort.Strings(urls)
+			index[gov][year] = urls
+		}
+	}
+
+	data, err := json.MarshalIndent(index, "", "  ")
+	if err != nil {
+		return fmt.Errorf("failed to marshal URL index: %w", err)
+	}
+
+	indexPath := filepath.Join(s.baseDir, URLIndexFile)
+	if err := os.WriteFile(indexPath, data, 0644); err != nil {
+		return fmt.Errorf("failed to write URL index: %w", err)
 	}
 
 	return nil

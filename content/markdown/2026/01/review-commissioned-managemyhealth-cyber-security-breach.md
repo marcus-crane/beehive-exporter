@@ -23,9 +23,7 @@ ManageMyHealth is a privately operated patient portal used by some general pract
 The purpose of the review will be to:
 
 - assess the cause(s) of the incident,
-
 - review the adequacy of the data protections that were in place and the response to the incident, and
-
 - recommend any improvements required to prevent similar incidents occurring.
 
 “I have written to the Director-General of Health asking that the review will commence no later than 30 January,” Mr Brown says.

@@ -21,9 +21,7 @@ The Government will make changes to ensure the continued viability of a scheme t
 The Government has decided:
 
 - the fare subsidy level will reduce from the current 75 percent down to 65 percent from 1 July 2026
-
 - NZTA will work with public transport authorities to lower the fare caps and the maximum subsidy by approximately 10 percent
-
 - reduced costs to the Crown from these changes will be recycled to public transport authorities to reduce their shortfall over 2025 to 2030.
 
 “As demand grows, we need to make sure the scheme reaches those who need it most. The Government aims, as part of consultation, to look at improving the assessment process for access to Total Mobility, better targeting the scheme by allocating users a set number of trips based on their needs, and increasing choice of services (e.g. wheelchair accessible trips, ride-hail apps or community transport)”, Chris Bishop says.
@@ -49,23 +47,13 @@ The Government has decided:
 **Notes to editor:**
 
 - Prior to 2022, Total Mobility users received a 50 percent fare subsidy. In 2022, that was increased to a 75 percent fare subsidy.
-
 - The higher subsidy has seen registered users increase from 108,000 in 2022 to 120,000 in 2024/25.
-
 - Total Mobility trips have also increased from 1.8 million trips in 2018 to three million in 2024/25.
-
 - Under current settings, costs are forecast to exceed funding available for all funders by $236 million over the period 2025-2030.
-
 - The Government has decided to:
-
 - reduce the Total Mobility subsidy level from 75 percent to 65 percent from 1 July 2026 (by decreasing the Crown’s subsidy contribution from 25 percent to 15 percent)
-
 - work with public transport authorities to reduce the Total Mobility fare caps by around 10 percent in each region
-
 - use Crown savings from these changes to reduce public transport authorities’ shortfall over 2025-2030.
-
 - The Government is allocating $10 million from existing funding to reduce public transport authorities funding shortfalls this financial year.
-
 - NZTA will be empowered to determined how this funding will be allocated to public transport authorities.
-
 - The Government is also consulting on the Total Mobility Discussion Document, which contains proposals to strengthen the scheme. Consultation material is available on the [Ministry of Transport website](https://www.transport.govt.nz/consultations/proposals-to-strengthen-total-mobility). Alternate formats will be released as these are available.

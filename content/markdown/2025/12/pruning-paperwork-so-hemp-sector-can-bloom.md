@@ -28,17 +28,11 @@ Cabinet has agreed to a package of changes to scrap the current licensing regime
 Under the new settings:
 
 - Industrial hemp will no longer require a licence to grow or handle.
-
 - A clear THC threshold of less than 1% will distinguish hemp from high-THC cannabis.
-
 - Hemp biomass, including flowers and leaves, may be supplied to licensed medicinal cannabis producers under strict conditions.
-
 - Growers must notify Police before planting to avoid accidental enforcement and assist in controlling illicit cannabis activities.
-
 - Growers must also notify MPI at the same time as Police.
-
 - Hemp use remains restricted to fibre, seed, and oil, with additional permissions for medicinal cannabis supply as noted above.
-
 - Existing food safety and medicinal cannabis requirements will continue to apply.
 
 The new regulations will include safeguards to prevent misuse and ensure compliance.

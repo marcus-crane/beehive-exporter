@@ -16,9 +16,9 @@ Duane Kale ONZM has been appointed Chair of Sport and Recreation New Zealand (Sp
 
 “Duane was recently presented with the Paralympic Order, the highest level of recognition awarded to individuals associated with the Paralympic Movement.
 
- “I look forward to working with Duane to help support our communities to be active, healthy and connected,&#34; says Mr Mitchell. 
+ “I look forward to working with Duane to help support our communities to be active, healthy and connected," says Mr Mitchell. 
 
-“I also extend my gratitude to Raewyn Lovett ONZM for her service to Sport NZ since 2018, first as a Board member, then as Deputy Chair from 2021, and most recently as Chair since July 2023.&#34;
+“I also extend my gratitude to Raewyn Lovett ONZM for her service to Sport NZ since 2018, first as a Board member, then as Deputy Chair from 2021, and most recently as Chair since July 2023."
 
 **Biography**
 

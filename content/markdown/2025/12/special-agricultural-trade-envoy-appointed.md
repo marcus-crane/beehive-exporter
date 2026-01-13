@@ -17,7 +17,7 @@ The role also focuses on raising the performance of New Zealand’s agricultural
 
 “Nathan Guy’s immediate priorities will be to advocate for New Zealand’s primary production interests from the perspective of a practising farmer,” Mr McClay says.
 
-“I have asked Mr Guy to show particular focus on India and GCC markets, to leverage the opportunities that trade agreements with these countries would present.”
+“I have asked Mr Guy to show particular focus on India and GCC markets, to leverage the opportunities that trade agreements with these countries would present.”  
 Nathan Guy is a dairy farmer, agribusiness leader, and a former Minister for Primary Industries.
 
 He is currently the Chairman of the Meat Industry Association and Independent Chair of Apiculture New Zealand. He has extensive experience advocating for New Zealand’s agricultural exporters, both on the domestic and global stage.

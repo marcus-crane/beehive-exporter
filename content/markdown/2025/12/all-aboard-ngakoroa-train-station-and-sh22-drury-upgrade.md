@@ -35,19 +35,12 @@ The interim upgrade will involve adding a fourth leg to the intersection opposit
 **Notes to editor:**
 
 - Ngākōroa Station is part of the $475 million Government investment in three new stations between Papakura and Pukekohe, announced by Rt Hon Winston Peters in January 2020.
-
 - The $2.3 billion does not include City Rail Link or Auckland Transport’s level crossing works.
-
-Key features of the Ngākōroa Station project include: 
-
-- Carparking for 200 vehicles with room for expansion in the future
-
-- A new bus interchange
-
-- A covered pedestrian overbridge and train shelters on platforms
-
+- Key features of the Ngākōroa Station project include:
+  
+  - Carparking for 200 vehicles with room for expansion in the future
+  - A new bus interchange
+  - A covered pedestrian overbridge and train shelters on platforms
 - The station is being future proofed, with capacity for additional rail tracks and longer platforms to accommodate nine car trains.
-
 - The full SH22 Drury Upgrade expected cost envelope is $168 million to $197 million. This includes a combination of approved funding from the Major Capital Investment Programme (MCIP) and the National Land Transport Fund (NLTF) for pre-implementation, property acquisition and delivery of the interim intersection at Jesmond Road.
-
 - Funding (within the total expected cost of $168 million to $197 million) for construction of the wider SH22 Drury project will be sought from the NLTF in 2026 once design is complete.

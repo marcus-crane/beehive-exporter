@@ -29,7 +29,7 @@ The Government has officially shut down contracted emergency housing in Rotorua,
 
 Rotorua MP Todd McClay says delivering on this Government’s election promise today is a huge moment for the city, the community and the now former motel residents.
 
-“For too long our local community endured the social, economic and reputational costs of emergency housing. It was an unacceptable situation imposed on us when the last Labour Government used Rotorua as a dumping ground for the country&#39;s homelessness problem.
+“For too long our local community endured the social, economic and reputational costs of emergency housing. It was an unacceptable situation imposed on us when the last Labour Government used Rotorua as a dumping ground for the country's homelessness problem.
 
 “Families are now in proper homes and Rotorua finally has the fresh start it deserves. This is what so many in the community have been fighting for.
 

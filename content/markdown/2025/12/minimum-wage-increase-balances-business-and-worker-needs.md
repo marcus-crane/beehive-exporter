@@ -33,7 +33,6 @@ The starting-out and training minimum wage rates will be set at $19.16, to remai
 **Editor notes:**
 
 - The Minister for Workplace Relations and Safety is required by law to review the minimum wages annually.
-
 - The change will take effect on 1 April 2026
 
-More information can be found here: [Minimum wage reviews | Ministry of Business, Innovation &amp; Employment (mbie.govt.nz)](https://www.mbie.govt.nz/business-and-employment/employment-and-skills/employment-legislation-reviews/minimum-wage-reviews/)
+More information can be found here: [Minimum wage reviews | Ministry of Business, Innovation & Employment (mbie.govt.nz)](https://www.mbie.govt.nz/business-and-employment/employment-and-skills/employment-legislation-reviews/minimum-wage-reviews/)

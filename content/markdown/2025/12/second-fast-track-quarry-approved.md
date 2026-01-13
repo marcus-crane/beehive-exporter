@@ -32,56 +32,33 @@ For more information about the project: [Kings Quarry Expansion – Stages 2 and
 
 Fast-track project approved by expert panels:
 
-- Bledisloe North Wharf and Fergusson North Berth Extension [Infrastructure]
-
-- Drury Metropolitan Centre – Consolidated Stages 1 and 2 [Housing]
-
-- Drury Quarry Expansion – Sutton Block [Mining/Quarrying]
-
-- Kings Quarry Expansion – Stages 2 and 3 [Mining/Quarrying]
-
-- Maitahi Village [Housing]
-
-- Milldale – Stages 4C and 10 to 13 [Housing]
-
-- Rangitoopuni [Housing]
-
-- Tekapo Power Scheme – Applications for Replacement Resource Consents [Renewable energy]
-
-- Waihi North [Mining/Quarrying]
+- Bledisloe North Wharf and Fergusson North Berth Extension \[Infrastructure]
+- Drury Metropolitan Centre – Consolidated Stages 1 and 2 \[Housing]
+- Drury Quarry Expansion – Sutton Block \[Mining/Quarrying]
+- Kings Quarry Expansion – Stages 2 and 3 \[Mining/Quarrying]
+- Maitahi Village \[Housing]
+- Milldale – Stages 4C and 10 to 13 \[Housing]
+- Rangitoopuni \[Housing]
+- Tekapo Power Scheme – Applications for Replacement Resource Consents \[Renewable energy]
+- Waihi North \[Mining/Quarrying]
 
 Expert panels have been appointed for:
 
 - Arataki project
-
 - Ashbourne
-
 - Ayrburn Screen Hub
-
 - Green Steel
-
 - Haldon Solar Farm
-
 - Homestead Bay
-
 - Kaimai Hydro-Electric Power Scheme
-
 - Pound Road Industrial Development
-
 - Ryans Road Industrial Development
-
 - Southland Wind Farm Project
-
 - Stella Passage Development
-
 - Sunfield Masterplanned Community
-
 - Takitimu North Link – Stage 2
-
 - Taranaki VTM Project
-
 - Waitaha Hydro
-
 - Waitākere District Court – New Courthouse Project
 
 25 projects have now been referred into the Fast-track process by the Minister for Infrastructure.

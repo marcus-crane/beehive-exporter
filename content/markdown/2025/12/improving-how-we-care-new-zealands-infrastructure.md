@@ -16,7 +16,7 @@ Infrastructure Minister Chris Bishop says new guidance from the New Zealand Infr
 
 “For years we’ve seen the consequences of poor asset management. Leaky hospitals and classrooms, mould in police stations and courthouses, rail service outages, and Defence Force personnel living in sub-standard accommodation. It’s not acceptable and New Zealanders deserve better.
 
-&#34;The new Asset Management and Investment Planning guidance provides clearer expectations for agencies and sets out what good practice looks like.
+"The new Asset Management and Investment Planning guidance provides clearer expectations for agencies and sets out what good practice looks like.
 
 “For the first time, agencies have one clear, practical source of guidance that explains what they need to do, how to measure their progress, and how to align asset management with investment decisions. It strengthens accountability and helps ensure maintenance and renewal are properly planned and funded.
 

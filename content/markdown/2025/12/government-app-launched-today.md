@@ -17,11 +17,9 @@ The Government has today released an app to make it easier and safer for people 
 
 Upon release, the app will provide:
 
-- Access to trusted information and services from across government. 
-
+- Access to trusted information and services from across government.
 - The ability to customise your experience by saving services most relevant to you to your personal dashboard.
-
-- Emergency warnings from trusted sources like the National Emergency Management Agency (NEMA) and Fire and Emergency.  
+- Emergency warnings from trusted sources like the National Emergency Management Agency (NEMA) and Fire and Emergency.
 
 “The app released today is just the start. Over the coming months additional features will be added, including secure messaging and notifications, and a digital wallet to hold identity credentials like licences and qualifications,” Ms Collins says.
 

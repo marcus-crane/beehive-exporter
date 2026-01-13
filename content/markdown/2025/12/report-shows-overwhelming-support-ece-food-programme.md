@@ -13,13 +13,9 @@ Associate Education Minister welcomes the Ministry of Education’s ECE Food Pro
 The list of positive ratings given to KidsCan from 130 (42.5 per cent) of the centres receiving taxpayer funded meals, and who participated in the survey were:
 
 - Supplier Reliability and Consistency 97.5 per cent
-
 - Supplier Food Safety and Hygiene 98.5 per cent
-
 - Communication 98 per cent
-
 - Flexibility and Adaptability 99 per cent
-
 - Service and Professionalism 95 per cent
 
 “I would like to acknowledge KidsCan for their amazing work supporting children’s learning since 2005. In 2019 they launched a national early childhood programme which provided healthy lunches to over 6,000 early learners with the highest needs. In 2025 this number increased to 16,000, with $4 million in additional funding each year from this government,” says Mr Seymour.

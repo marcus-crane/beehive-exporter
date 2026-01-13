@@ -27,13 +27,9 @@ The Government has agreed to make changes to the health and safety regulations f
 The 10 changes the Government have agreed to make include technical amendments to outdated provisions known to prevent businesses from adopting new practices and creates new requirements where clarity is needed now. They include:
 
 - setting specific requirements for hydrogen fuelling stations and cryogenic liquid hydrogen
-
 - providing for easier approval of hydrogen appliances and fittings
-
 - allowing alternatives to odorisation for hydrogen
-
 - allowing Multi-Element Gas Containers, commonly used overseas for storage and transport
-
 - enabling Safe Work Instruments and new safety instruments to set requirements as the sector evolves updating references to newer standards for transporting dangerous goods and hazardous areas.
 
 “By making these changes, we are delivering a key priority under the Hydrogen Action Plan which was released in November 2024,” Mr Watts says.

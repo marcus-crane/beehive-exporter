@@ -20,7 +20,7 @@ const (
 	BaseURL        = "https://www.beehive.govt.nz"
 	RSSFeedURL     = BaseURL + "/releases/feed"
 	ReleasesURL    = BaseURL + "/releases"
-	RateLimitDelay = 3000 * time.Millisecond // 3 seconds between requests (conservative to avoid WAF)
+	RateLimitDelay = 1000 * time.Millisecond // 1 second between requests
 
 	BrowserlessURL = "https://browser.home.utf9k.net"
 )

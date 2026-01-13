@@ -30,4 +30,4 @@ Veterinarians who are mobilised in a response will continue to be employed by th
 
 “This is a great opportunity for veterinarians to further develop their understanding of biosecurity, including on-farm biosecurity protocols and exotic disease detection.”
 
-More information is available on the Veterinary Council website [vetcouncil.org.nz](//vetcouncil.org.nz/Web/VetNet-Biosecurity.aspx  )
+More information is available on the Veterinary Council website [vetcouncil.org.nz](//vetcouncil.org.nz/Web/VetNet-Biosecurity.aspx)

@@ -20,21 +20,14 @@ Legislation to bring about a fairer and faster system for securing land for publ
 Reforms to the Public Works Act are significant. Key changes include:
 
 - **Incentive payments** worth 10 percent of the land value, up to $100,000, for landowners who agree to sell before a Notice of Intention is issued.
-
-**Updated home-loss and land-loss payments** to recognise the disruption caused by acquisition, on top of land value and incentive payments:
-
-- the home-loss base payment will increase from $35,000 to $50,000
-
-- land-loss payments will increase from $250-$25,000 to $350-$35,000
-
-- home-loss payments will extend to multiple homes on a property.
-
+- **Updated home-loss and land-loss payments** to recognise the disruption caused by acquisition, on top of land value and incentive payments:
+  
+  - the home-loss base payment will increase from $35,000 to $50,000
+  - land-loss payments will increase from $250-$25,000 to $350-$35,000
+  - home-loss payments will extend to multiple homes on a property.
 - **Simpler acquisition processes** including allowing government agencies and local authorities to work together to acquire land for connected public projects and enabling Transpower to bypass standard processes to acquire land directly.
-
 - **Clarifying factors the Environment Court can consider** when reviewing objections to land acquisitions, with a renewed focus on individual property rights and reduced overlap with the Resource Management Act.
-
 - **Emergency provisions** to support disaster recovery by allowing land acquisition after a state of emergency to support infrastructure restoration and community recovery.
-
 - **Stronger safeguards for Māori land and fairer compensation** by correcting a legal discrepancy that undervalues Māori freehold land.
 
 “Specific provisions to speed up the delivery of critical infrastructure projects passed in August. The additional amendments that passed first reading today will make sure the wider system is also fit-for-purpose into the future,” Mr Penk says.
@@ -46,7 +39,5 @@ Reforms to the Public Works Act are significant. Key changes include:
 *Further detail on these proposed changes to the Public Works Act can be found in previous press releases on the Beehive website:*
 
 - [Fairer compensation and safeguards for Māori landowners | Beehive.govt.nz](https://www.beehive.govt.nz/release/fairer-compensation-and-safeguards-m%C4%81ori-landowners)
-
 - [Going for Growth: Public Works Act overhaul | Beehive.govt.nz](https://www.beehive.govt.nz/release/going-growth-public-works-act-overhaul)
-
 - [Public Works Act overhaul complete to drive infrastructure growth | Beehive.govt.nz](https://www.beehive.govt.nz/release/public-works-act-overhaul-complete-drive-infrastructure-growth)

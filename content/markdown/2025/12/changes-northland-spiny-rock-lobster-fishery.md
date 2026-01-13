@@ -21,10 +21,8 @@ Most commercial spiny rock lobster fishing off the east coast of Northland has a
 Summary of the changes:
 
 - The CRA 1 closure will extend from Ohao Point, including Pārengarenga Harbour, to Hauraki Gulf at Cape Rodney
-
 - The recreational daily catch limit for spiny rock lobster will reduce to two per person per day in the CRA 1 fishery, which includes the west coast of Northland
-
-- A portion of the CRA 2 fishery will also close between Te Ārai Point and inner Hauraki Gulf. 
+- A portion of the CRA 2 fishery will also close between Te Ārai Point and inner Hauraki Gulf.
 
 The inner Hauraki Gulf was closed [to spiny rock lobster fishing earlier this year](https://www.beehive.govt.nz/release/inner-hauraki-gulf-closed-rock-lobster-fishing).
 

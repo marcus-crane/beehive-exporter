@@ -17,17 +17,11 @@ The settlement commits to a *Framework for Action* that responds to the support 
 The framework includes:
 
 - better data reporting and collection
-
 - improved access to specialist support services
-
 - better coordination among education agencies to improve the system for disabled students
-
 - taking steps to ensure the curriculum reflects and includes all learners
-
 - taking steps to enable more accessible infrastructure
-
 - an investigation of alternative funding structures
-
 - an investigation into the impacts of government policies and funding decisions on attitudes of ableism (a focus on what disabled students can’t do, rather than what they can).
 
 “This Government has already made a start on the measures in the framework. In Budget 25, we delivered the most significant investment in learning support in a generation - $750 million - directly tackling the long-standing inequities IHC has raised.

@@ -18,12 +18,9 @@ A new all-of-government plan to tackle organised crime was released today by  A
 
 The action plan sets out key cross-agency initiatives to improve the response to TSOC. The immediate priorities are:
 
-- exploring options for a department or agency responsible for TSOC to drive accountability and coordination across government 
-
-- developing a new mechanism for cross-agency information and data sharing 
-
+- exploring options for a department or agency responsible for TSOC to drive accountability and coordination across government
+- developing a new mechanism for cross-agency information and data sharing
 - implementing the package of actions that respond to methamphetamine harm, and
-
 - strengthening communities and addressing harm through Resilience to Organised Crime (ROCC) initiatives.
 
 “Organised criminal activity including the illicit drug trade, scams, migrant exploitation and money laundering inflicts misery in our communities. It drives violent crime, and harms individuals and families, legitimate businesses and the broader New Zealand economy,” Ms Costello says. “The illicit drug trade alone is estimated to cost the country around $1.5 billion in social harm.
@@ -37,7 +34,5 @@ The action plan sets out key cross-agency initiatives to improve the response to
 Note to Editors:
 
 - The TSOC strategy was informed by the report of the Ministerial Advisory Group on Transnational, Serious and Organised Crime and the twenty-eight agencies with responsibilities in this area.
-
-- The shift in naming convention from Transnational Organised Crime to Transnational, Serious and Organised Crime (TNOC to TSOC) reflects the shift in the Government’s strategic approach to incorporate domestic offending and the harm perpetrated in communities. 
-
+- The shift in naming convention from Transnational Organised Crime to Transnational, Serious and Organised Crime (TNOC to TSOC) reflects the shift in the Government’s strategic approach to incorporate domestic offending and the harm perpetrated in communities.
 - The Action Plan covers a five-year period and will be regularly reviewed and updated as needed to reflect new and emerging risks.

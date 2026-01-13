@@ -30,7 +30,7 @@ Mr Jones says aggregate was included on New Zealand’s Critical Minerals List b
 
 The project was listed in Schedule 2 of the Fast-track Approvals Act 2024 and was approved by an independent expert panel today. 
 
-**Notes to editor: **
+**Notes to editor:** 
 
 For more information about the project: [Drury Quarry Expansion – Sutton Block](https://www.fasttrack.govt.nz/projects/drury-quarry-expansion-sutton-block)
 
@@ -38,58 +38,34 @@ For more information about the project: [Drury Quarry Expansion – Sutton Bloc
 
  
 
-- Bledisloe North Wharf and Fergusson North Berth Extension [Infrastructure] 
+- Bledisloe North Wharf and Fergusson North Berth Extension \[Infrastructure]
+- Drury Metropolitan Centre – Consolidated Stages 1 and 2 \[Housing]
+- Drury Quarry Expansion – Sutton Block \[Quarry]
+- Maitahi Village \[Housing]
+- Milldale – Stages 4C and 10 to 13 \[Housing]
+- Rangitoopuni \[Housing]
+- Tekapo Power Scheme – Applications for Replacement Resource Consents \[Renewable energy]
 
-- Drury Metropolitan Centre – Consolidated Stages 1 and 2 [Housing] 
+**Expert panels have been appointed for:** 
 
-- Drury Quarry Expansion – Sutton Block [Quarry]
-
-- Maitahi Village [Housing] 
-
-- Milldale – Stages 4C and 10 to 13 [Housing] 
-
-- Rangitoopuni [Housing] 
-
-- Tekapo Power Scheme – Applications for Replacement Resource Consents [Renewable energy]
-
-**Expert panels have been appointed for: **
-
-- Arataki project 
-
-- Ashbourne 
-
-- Ayrburn Screen Hub 
-
-- Green Steel 
-
+- Arataki project
+- Ashbourne
+- Ayrburn Screen Hub
+- Green Steel
 - Haldon Solar Farm
-
 - Homestead Bay
-
-- Kaimai Hydro-Electric Power Scheme 
-
-- Kings Quarry Expansion - Stage 2 
-
-- Pound Road Industrial Development 
-
-- Ryans Road Industrial Development 
-
-- Southland Wind Farm Project 
-
-- Stella Passage Development 
-
-- Sunfield Masterplanned Community 
-
-- Takitimu North Link – Stage 2 
-
-- Taranaki VTM Project 
-
+- Kaimai Hydro-Electric Power Scheme
+- Kings Quarry Expansion - Stage 2
+- Pound Road Industrial Development
+- Ryans Road Industrial Development
+- Southland Wind Farm Project
+- Stella Passage Development
+- Sunfield Masterplanned Community
+- Takitimu North Link – Stage 2
+- Taranaki VTM Project
 - The Point Solar Farm
-
-- Waihi North 
-
-- Waitaha Hydro 
-
+- Waihi North
+- Waitaha Hydro
 - Waitākere District Court – New Courthouse Project
 
 24 projects have now been referred into the Fast-track process by the Minister for Infrastructure.

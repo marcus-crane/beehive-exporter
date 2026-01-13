@@ -20,7 +20,7 @@ The New Zealand Space Agency will administer the pilot programme which will have
 
 “Round one projects need to be ‘ready to fly’ - meaning they have technology that can be tested on a rocket, satellite, or high-altitude platform within 18-24 months,” Ms Collins says.
 
-&#34;The Kiwi Space Activator is designed to support projects that align with challenges identified by government agencies, such as maritime security, space situational awareness, biosecurity, and ecosystem health.
+"The Kiwi Space Activator is designed to support projects that align with challenges identified by government agencies, such as maritime security, space situational awareness, biosecurity, and ecosystem health.
 
 “Projects can also meet a New Zealand Space Agency challenge for delivering core components of a satellite in an innovative way – for example power supply or communications systems. 
 

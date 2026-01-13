@@ -8,6 +8,8 @@ ministers:
 portfolios:
   - Attorney-General
   - Conservation
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-12/Stafford%20media%20backgrounder%2C%20Q%26A_0.docx
 ---
 
 The ownership of approximately 7,583 acres (3,068 hectares) of Top of the South land will be restored to descendants of its original owners following a long-standing private litigation, Attorney General Judith Collins and Conservation Minister Tama Potaka announced today.
@@ -37,7 +39,3 @@ No private property is affected by the agreement but for many decades the Crown 
 Ms Collins says the Government is pleased to be resolving this unique private law case, and to be able to bring the matter to a satisfactory conclusion for all parties.
 
 “I want to acknowledge Mr Stafford and his whānau, and to thank them for their patience across many years.”
-
-## Attachments
-
-- https://www.beehive.govt.nz/sites/default/files/2025-12/Stafford%20media%20backgrounder%2C%20Q%26A_0.docx

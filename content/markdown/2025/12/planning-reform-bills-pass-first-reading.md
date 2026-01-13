@@ -22,17 +22,11 @@ Mr Bishop says each Bill plays a distinct but complementary role in delivering t
 Among other things, it will:
 
 - **consolidate** more than 100 existing plans into just 17 regional combined plans with clear timeframes
-
 - **allow** more activities to proceed without a consent
-
-- **introduce** simpler and standardised planning rules 
-
+- **introduce** simpler and standardised planning rules
 - **narrow** what councils can regulate to genuine impacts like noise and shading, and raise the threshold for what is regulated
-
 - **focus** consultation where it matters
-
 - **establish** a Planning Tribunal to speed up smaller disputes
-
 - **establish** a regulatory relief framework for situations where planning controls significantly affect the reasonable use of land.
 
 “The Planning Bill has been designed with property rights at its core including tension mechanisms like regulatory relief and a Planning Tribunal. The Bill streamlines and rationalises planning and consenting so that far fewer consents will be required,” Mr Court says.
@@ -41,14 +35,10 @@ Among other things, it will:
 
 The Natural Environment Bill:
 
-- **retains** the existing RMA allocation approach initially but enables more efficient allocation tools over time, including market-based methods. 
-
+- **retains** the existing RMA allocation approach initially but enables more efficient allocation tools over time, including market-based methods.
 - **requires** a proportionate regulatory approach – using voluntary or farmer-led tools wherever possible and regulating only when necessary
-
-- **upholds** Treaty settlements 
-
+- **upholds** Treaty settlements
 - **extends** regulatory relief to biodiversity controls where they have a significant impact on private property.
-
 - **ensures** mandatory limits, clear goals and a consistent national-to-local hierarchy so communities know exactly what must be protected and how environmental outcomes will be delivered.
 
 “The RMA tried to do everything at once and did none of it well. These Bills replace it with two focused, fit-for-purpose laws,” Mr Court says.

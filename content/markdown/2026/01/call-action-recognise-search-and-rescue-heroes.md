@@ -21,13 +21,11 @@ Associate Transport Minister James Meager is calling on Kiwis to do their part t
 The NZSAR Awards honour outstanding contributions across two categories:
 
 - Operational activity: Exceptional performance in specific search and rescue missions during the year.
-
 - Support activity: Significant impact through training, prevention, long service, or other vital support roles.
 
 Each category offers two levels of recognition:
 
 - Gold Awards: Reserved for truly exceptional contributions to search and rescue in New Zealand.
-
 - Certificates of Achievement: For notable efforts over the year or a sustained period.
 
 “Whether it’s a rescue in challenging conditions or years of dedicated service, these awards honour those who go above and beyond. Every person plays a part, and every contribution truly matters,” Mr Meager says.

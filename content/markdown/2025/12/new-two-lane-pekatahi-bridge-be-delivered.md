@@ -35,7 +35,5 @@ Transport Minister Chris Bishop announced today that a new two-lane bridge will 
 **Note to editors:**
 
 - The Pekatahi Bridge is part of the End-of-Life Bridge Programme. While there is no immediate risk to the bridge structure, resilience investigations have resulted in a greater priority for replacement being assigned to the bridge.
-
 - NZTA’s maintenance team will continue to monitor the current bridge closely and maintenance will still be required until the new bridge is open. The next planned deck maintenance and closure is scheduled for 15-18 December 2025. The team will be replacing planks, tightening bolts, and repairing the surface.
-
 - Steel plates are currently being procured for the bridge deck and are expected to be installed in early 2026. NZTA continue to engage with local stakeholders around the bridge deck replacement and will now do so on the bridge replacement.

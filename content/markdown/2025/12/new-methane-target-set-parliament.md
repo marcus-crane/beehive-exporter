@@ -33,13 +33,9 @@ This Government is backing innovative technology to meet the target and is alrea
 **The amendments:**
 
 - Reset biogenic methane target to 14-24 percent below 2017 levels by 2050.
-
 - Legislate a review of the methane target in 2040 to ensure its alignment with science and against progress of key trading partners.
-
 - Requires consideration of protecting food production when setting emissions budgets.
-
 - Removes the requirement for ETS settings to accord with NDCs, clarifying the purpose of the ETS as our key tool to drive domestic emissions reductions.
-
 - Defer the fourth emissions budget as more time is needed to reflect the updated 2050 target.
 
 Passing this Bill also confirms the Government’s decision to retain the current Net Zero target for long-lived gasses.

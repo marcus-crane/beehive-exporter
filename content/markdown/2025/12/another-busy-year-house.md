@@ -16,15 +16,11 @@ It has been another busy and productive year in the House as the Government cont
 
 “Important Government legislation passed this year has included:
 
-- Budget 2025 legislation which included Investment Boost, a major new tax incentive to encourage businesses to invest, grow the economy, and lift wages; 
-
+- Budget 2025 legislation which included Investment Boost, a major new tax incentive to encourage businesses to invest, grow the economy, and lift wages;
 - The United Arab Emirates Comprehensive Economic Partnership Agreement Legislation Amendment Bill, which furthered New Zealand’s trading relationships with the UAE, a major win for Kiwi exporters;
-
 - The Resource Management (Consenting and Other System Changes) Amendment Bill, which made consenting infrastructure projects easier;
-
-- The Public Works (Critical Infrastructure) Amendment Bill, which streamlines the process for critical infrastructure being built in New Zealand, and; 
-
-- The Income Tax (FamilyBoost) Amendment Bill, which provides tens of thousands of families with additional help towards early childhood education costs. 
+- The Public Works (Critical Infrastructure) Amendment Bill, which streamlines the process for critical infrastructure being built in New Zealand, and;
+- The Income Tax (FamilyBoost) Amendment Bill, which provides tens of thousands of families with additional help towards early childhood education costs.
 
 “I am particularly proud that the Parliament Bill passed into law unanimously this year. It was an important constitutional moment which modernises the legislation that governs Parliament and core parts of our democracy and has been in development for a decade. 
 
@@ -35,15 +31,9 @@ It has been another busy and productive year in the House as the Government cont
 **2025 by the numbers:**
 
 - 55 Bill were introduced (35 Government, 1 Local, 1 Private and 18 Members’ Bills)
-
-- 105 First Readings (91 Government, 1 Local, 1 Private and 12 Members’ Bills) 
-
-- 88 Bills reported back from Select Committee (79 Government, 2 Local, and 7 Members’ Bills) 
-
-- 89 Third Readings (81 Government, 2 Local, and 4 Members’ Bills) 
-
+- 105 First Readings (91 Government, 1 Local, 1 Private and 12 Members’ Bills)
+- 88 Bills reported back from Select Committee (79 Government, 2 Local, and 7 Members’ Bills)
+- 89 Third Readings (81 Government, 2 Local, and 4 Members’ Bills)
 - 1,516 papers have been presented to the House by Ministers
-
 - 79 Question Times during which Ministers have answered 946 Oral Questions and thousands more supplementary questions
-
 - And as of this morning, Ministers have been asked 58,938 written parliamentary questions.
