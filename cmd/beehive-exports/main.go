@@ -780,6 +780,20 @@ func runArchive(govFilter string, maxPages int, contentType string) {
 
 			log.Printf("  Found %d items on page %d (%d new so far)", foundOnPage, page, govTotal)
 
+			// Save incrementally after each page with new items
+			if govTotal > 0 {
+				govIndex.LastIndexedAt = time.Now().Format(time.RFC3339)
+				totalReleases := 0
+				for _, entries := range govIndex.Releases {
+					totalReleases += len(entries)
+				}
+				govIndex.TotalReleases = totalReleases
+
+				if err := saveGovernmentIndex(govIndex); err != nil {
+					log.Printf("  Error saving index: %v", err)
+				}
+			}
+
 			if foundOnPage == 0 {
 				break
 			}
@@ -788,22 +802,12 @@ func runArchive(govFilter string, maxPages int, contentType string) {
 			globalPageCount++
 		}
 
-		// Update government index metadata
-		govIndex.LastIndexedAt = time.Now().Format(time.RFC3339)
-
-		// Count total releases across all year-months
+		// Final save and summary
 		totalReleases := 0
 		for _, entries := range govIndex.Releases {
 			totalReleases += len(entries)
 		}
-		govIndex.TotalReleases = totalReleases
-
-		// Save this government's index
-		if err := saveGovernmentIndex(govIndex); err != nil {
-			log.Printf("  Error saving index: %v", err)
-		} else {
-			log.Printf("  Saved %s (%d new, %d total) to %s/%s.json", gov.Name, govTotal, totalReleases, discoveryIndexDir, gov.Key)
-		}
+		log.Printf("  Completed %s (%d new, %d total)", gov.Name, govTotal, totalReleases)
 
 		totalFound += govTotal
 	}

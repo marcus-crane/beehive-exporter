@@ -1,8 +1,8 @@
 {
   "government": "National-ACT-NZ First Coalition",
   "slug": "national-2023",
-  "last_indexed_at": "2026-01-17T16:46:18+13:00",
-  "total_releases": 3426,
+  "last_indexed_at": "2026-01-18T10:27:55+13:00",
+  "total_releases": 3427,
   "releases": {
     "2023-11": [
       {
@@ -13760,6 +13760,10 @@
       {
         "url": "https://www.beehive.govt.nz/release/changes-proposed-deemed-value-fish",
         "date": "2026-01-16T00:38:44Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/urgent-advice-sought-rockpool-collections",
+        "date": "2026-01-17T21:13:02Z"
       }
     ]
   }
