@@ -221,6 +221,73 @@ func (s *Storage) UpdateIndex() error {
 // URLIndex represents URLs grouped by government and year
 type URLIndex map[string]map[string][]string // government -> year -> urls
 
+// RawHTMLFile represents a raw HTML file with its path and metadata
+type RawHTMLFile struct {
+	Path string
+	ID   string
+	URL  string // Will be empty, needs to be provided separately
+}
+
+// LoadAllRawHTML returns paths to all raw HTML files
+func (s *Storage) LoadAllRawHTML() ([]RawHTMLFile, error) {
+	var files []RawHTMLFile
+
+	err := filepath.Walk(filepath.Join(s.baseDir, RawDir), func(path string, info os.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+
+		if info.IsDir() || !strings.HasSuffix(path, ".html") {
+			return nil
+		}
+
+		// Extract ID from filename: YYYY-MM-DD-id.html -> id
+		base := filepath.Base(path)
+		base = strings.TrimSuffix(base, ".html")
+		// Remove date prefix (YYYY-MM-DD-)
+		if len(base) > 11 && base[4] == '-' && base[7] == '-' && base[10] == '-' {
+			base = base[11:]
+		}
+
+		files = append(files, RawHTMLFile{
+			Path: path,
+			ID:   base,
+		})
+		return nil
+	})
+
+	if err != nil {
+		return nil, err
+	}
+
+	return files, nil
+}
+
+// ReadRawHTML reads the content of a raw HTML file
+func (s *Storage) ReadRawHTML(path string) (string, error) {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return "", err
+	}
+	return string(data), nil
+}
+
+// RawHTMLExists checks if raw HTML already exists for a given ID
+func (s *Storage) RawHTMLExists(id string) bool {
+	found := false
+	filepath.Walk(filepath.Join(s.baseDir, RawDir), func(path string, info os.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+		if !info.IsDir() && strings.HasSuffix(path, id+".html") {
+			found = true
+			return filepath.SkipAll
+		}
+		return nil
+	})
+	return found
+}
+
 // GenerateURLIndex builds an index of all release URLs grouped by government and year
 func (s *Storage) GenerateURLIndex() error {
 	releases, err := s.LoadAllReleases()

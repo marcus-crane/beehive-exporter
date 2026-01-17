@@ -27,14 +27,55 @@ func main() {
 	reingestCmd := flag.NewFlagSet("reingest", flag.ExitOnError)
 	reingestURL := reingestCmd.String("url", "", "Full URL of release to reingest")
 	reingestID := reingestCmd.String("id", "", "ID/slug of release to reingest")
-
-	markdownCmd := flag.NewFlagSet("markdown", flag.ExitOnError)
-	markdownOut := markdownCmd.String("out", "content/markdown", "Output directory for markdown files")
+	reingestCmd.Usage = func() {
+		fmt.Println("Usage: beehive-exports reingest [options]")
+		fmt.Println("\nOptions:")
+		fmt.Println("  --url string")
+		fmt.Println("        Full URL of release to reingest")
+		fmt.Println("  --id string")
+		fmt.Println("        ID/slug of release to reingest")
+		fmt.Println("\nProvide either --url or --id, not both.")
+	}
 
 	fetchCmd := flag.NewFlagSet("fetch", flag.ExitOnError)
 	fetchYear := fetchCmd.String("year", "", "Year to fetch (e.g., 2024)")
 	fetchMonth := fetchCmd.String("month", "", "Month to fetch (e.g., 2024-03)")
 	fetchGov := fetchCmd.String("government", "", "Government to fetch (e.g., national-1993)")
+	fetchCmd.Usage = func() {
+		fmt.Println("Usage: beehive-exports fetch [options]")
+		fmt.Println("\nOptions:")
+		fmt.Println("  --year string")
+		fmt.Println("        Year to fetch (e.g., 2024)")
+		fmt.Println("  --month string")
+		fmt.Println("        Month to fetch (e.g., 2024-03)")
+		fmt.Println("  --government string")
+		fmt.Println("        Government to fetch. If not specified, fetches all.")
+		fmt.Println("\nValid government values:")
+		fmt.Println("  national-1993   National (1993-1996)")
+		fmt.Println("  national-1996   National-NZ First Coalition (1996-1999)")
+		fmt.Println("  labour-1999     Labour-Alliance (1999-2002)")
+		fmt.Println("  labour-2002     Labour-Progressive Coalition (2002-2005)")
+		fmt.Println("  labour-2005     Labour-Progressive Coalition (2005-2008)")
+		fmt.Println("  national-2008   Fifth National Government (2008-2011)")
+		fmt.Println("  national-2011   Fifth National Government (2011-2014)")
+		fmt.Println("  national-2014   Fifth National Government (2014-2017)")
+		fmt.Println("  labour-2017     Labour-NZ First Coalition (2017-2020)")
+		fmt.Println("  labour-2020     Sixth Labour Government (2020-2023)")
+		fmt.Println("  national-2023   National-ACT-NZ First Coalition (2023-2026)")
+	}
+
+	processCmd := flag.NewFlagSet("process", flag.ExitOnError)
+	processJSON := processCmd.Bool("json", false, "Generate only JSON files")
+	processMD := processCmd.Bool("markdown", false, "Generate only Markdown files")
+	processCmd.Usage = func() {
+		fmt.Println("Usage: beehive-exports process [options]")
+		fmt.Println("\nOptions:")
+		fmt.Println("  --json")
+		fmt.Println("        Generate only JSON files")
+		fmt.Println("  --markdown")
+		fmt.Println("        Generate only Markdown files")
+		fmt.Println("\nIf no flags specified, generates both JSON and Markdown.")
+	}
 
 	archiveCmd := flag.NewFlagSet("archive", flag.ExitOnError)
 	archiveGov := archiveCmd.String("government", "", "Government term to index (see --help for list)")
@@ -72,9 +113,9 @@ func main() {
 		fmt.Println("Usage: beehive-exports <command> [options]")
 		fmt.Println("\nCommands:")
 		fmt.Println("  archive    Build discovery index from search page")
-		fmt.Println("  fetch      Fetch releases from discovery index")
+		fmt.Println("  fetch      Fetch raw HTML from discovery index")
+		fmt.Println("  process    Generate JSON + Markdown from raw HTML")
 		fmt.Println("  reingest   Re-fetch and overwrite a single release")
-		fmt.Println("  markdown   Generate markdown files from releases")
 		fmt.Println("\nExamples:")
 		fmt.Println("  beehive-exports archive                              # Index all releases")
 		fmt.Println("  beehive-exports archive --government national-2023   # Index one government")
@@ -84,8 +125,8 @@ func main() {
 		fmt.Println("  beehive-exports fetch                                # Fetch all indexed releases")
 		fmt.Println("  beehive-exports fetch --government national-1993     # Fetch one government")
 		fmt.Println("  beehive-exports fetch --year 2024                    # Fetch by year")
+		fmt.Println("  beehive-exports process                              # Generate JSON + Markdown from raw HTML")
 		fmt.Println("  beehive-exports reingest --id some-release           # Re-fetch single release")
-		fmt.Println("  beehive-exports markdown                             # Generate markdown files")
 		os.Exit(1)
 	}
 
@@ -93,12 +134,12 @@ func main() {
 	case "fetch":
 		fetchCmd.Parse(os.Args[2:])
 		runFetch(*fetchYear, *fetchMonth, *fetchGov)
+	case "process":
+		processCmd.Parse(os.Args[2:])
+		runProcess(*processJSON, *processMD)
 	case "reingest":
 		reingestCmd.Parse(os.Args[2:])
 		runReingest(*reingestURL, *reingestID)
-	case "markdown":
-		markdownCmd.Parse(os.Args[2:])
-		runMarkdown(*markdownOut)
 	case "archive":
 		archiveCmd.Parse(os.Args[2:])
 		runArchive(*archiveGov, *archivePages, *archiveType)
@@ -163,25 +204,93 @@ func runReingest(url string, id string) {
 	log.Println("Done!")
 }
 
-func runMarkdown(outDir string) {
-	log.Printf("Generating markdown files to %s", outDir)
-
-	store := storage.New(".")
-	releases, err := store.LoadAllReleases()
-	if err != nil {
-		log.Fatalf("Failed to load releases: %v", err)
+func runProcess(jsonOnly, markdownOnly bool) {
+	// Default to both if neither flag is set
+	doJSON := !markdownOnly || jsonOnly
+	doMarkdown := !jsonOnly || markdownOnly
+	if !jsonOnly && !markdownOnly {
+		doJSON = true
+		doMarkdown = true
 	}
 
-	log.Printf("Found %d releases", len(releases))
+	log.Println("Processing raw HTML files...")
+	if doJSON && !doMarkdown {
+		log.Println("  (JSON only)")
+	} else if doMarkdown && !doJSON {
+		log.Println("  (Markdown only)")
+	}
 
-	for _, release := range releases {
-		if err := writeMarkdown(outDir, release); err != nil {
-			log.Printf("Error writing %s: %v", release.ID, err)
+	store := storage.New(".")
+	files, err := store.LoadAllRawHTML()
+	if err != nil {
+		log.Fatalf("Failed to load raw HTML files: %v", err)
+	}
+
+	log.Printf("Found %d raw HTML files", len(files))
+
+	successCount := 0
+	errorCount := 0
+	markdownDir := "content/markdown"
+
+	for i, file := range files {
+		html, err := store.ReadRawHTML(file.Path)
+		if err != nil {
+			log.Printf("Error reading %s: %v", file.Path, err)
+			errorCount++
 			continue
+		}
+
+		// Reconstruct URL from file path (content/raw/YYYY/MM/YYYY-MM-DD-id.html)
+		url := "https://www.beehive.govt.nz/release/" + file.ID
+
+		release, err := parser.Parse(html, url)
+		if err != nil {
+			log.Printf("Error parsing %s: %v", file.Path, err)
+			errorCount++
+			continue
+		}
+
+		// Save JSON
+		if doJSON {
+			if err := store.SaveRelease(release); err != nil {
+				log.Printf("Error saving JSON for %s: %v", file.ID, err)
+				errorCount++
+				continue
+			}
+		}
+
+		// Save Markdown
+		if doMarkdown {
+			if err := writeMarkdown(markdownDir, release); err != nil {
+				log.Printf("Error saving Markdown for %s: %v", file.ID, err)
+				errorCount++
+				continue
+			}
+		}
+
+		if (i+1)%100 == 0 {
+			log.Printf("  Processed %d/%d files...", i+1, len(files))
+		}
+		successCount++
+	}
+
+	// Update indexes (only if we generated JSON)
+	if doJSON {
+		log.Println("Updating index...")
+		if err := store.UpdateIndex(); err != nil {
+			log.Printf("Warning: Failed to update index: %v", err)
+		}
+
+		log.Println("Updating URL index...")
+		if err := store.GenerateURLIndex(); err != nil {
+			log.Printf("Warning: Failed to update URL index: %v", err)
 		}
 	}
 
-	log.Printf("Done! Generated %d markdown files", len(releases))
+	log.Println("\n=== Process Complete ===")
+	log.Printf("Success: %d", successCount)
+	log.Printf("Errors:  %d", errorCount)
+	log.Printf("Total:   %d", len(files))
 }
 
 func writeMarkdown(outDir string, release *models.Release) error {
@@ -397,29 +506,43 @@ func runFetch(filterYear, filterMonth, filterGov string) {
 		}
 	}
 
-	log.Printf("Found %d URLs in index matching filters", len(urlsToFetch))
-
 	// Initialize components
 	f := fetcher.New()
 	store := storage.New(".")
 
+	// Count how many already exist
+	existingCount := 0
+	for _, url := range urlsToFetch {
+		id := parser.ExtractIDFromURL(url)
+		if store.RawHTMLExists(id) {
+			existingCount++
+		}
+	}
+
+	remaining := len(urlsToFetch) - existingCount
+	log.Printf("Found %d URLs in index (%d already downloaded, %d remaining)", len(urlsToFetch), existingCount, remaining)
+
+	if remaining == 0 {
+		log.Println("Nothing to fetch - all releases already downloaded")
+		return
+	}
+
 	// Fetch and parse each release
 	successCount := 0
-	skippedCount := 0
 	errorCount := 0
+	fetchCount := 0
 
-	for i, url := range urlsToFetch {
-		// Extract ID from URL
-		parts := strings.Split(url, "/")
-		id := parts[len(parts)-1]
+	for _, url := range urlsToFetch {
+		// Extract and normalize ID from URL
+		id := parser.ExtractIDFromURL(url)
 
-		// Skip if already exists
-		if store.ReleaseExists(id) {
-			skippedCount++
+		// Skip if raw HTML already exists
+		if store.RawHTMLExists(id) {
 			continue
 		}
 
-		log.Printf("[%d/%d] Fetching: %s", i+1, len(urlsToFetch), url)
+		fetchCount++
+		log.Printf("[%d/%d] Fetching: %s", fetchCount, remaining, url)
 
 		// Fetch HTML
 		html, err := f.FetchRelease(url)
@@ -429,7 +552,7 @@ func runFetch(filterYear, filterMonth, filterGov string) {
 			continue
 		}
 
-		// Parse release
+		// Parse just to get ID and time for file naming
 		release, err := parser.Parse(html, url)
 		if err != nil {
 			log.Printf("  Error parsing: %v", err)
@@ -437,40 +560,23 @@ func runFetch(filterYear, filterMonth, filterGov string) {
 			continue
 		}
 
-		// Save to JSON
-		if err := store.SaveRelease(release); err != nil {
+		// Save raw HTML only
+		if err := store.SaveRawHTML(release.ID, release.Time, html); err != nil {
 			log.Printf("  Error saving: %v", err)
 			errorCount++
 			continue
-		}
-
-		// Save raw HTML for potential future reprocessing
-		if err := store.SaveRawHTML(release.ID, release.Time, html); err != nil {
-			log.Printf("  Warning: Failed to save raw HTML: %v", err)
 		}
 
 		log.Printf("  ✓ Saved: %s", release.Title)
 		successCount++
 	}
 
-	// Update index
-	log.Println("Updating index...")
-	if err := store.UpdateIndex(); err != nil {
-		log.Printf("Warning: Failed to update index: %v", err)
-	}
-
-	// Update URL index
-	log.Println("Updating URL index...")
-	if err := store.GenerateURLIndex(); err != nil {
-		log.Printf("Warning: Failed to update URL index: %v", err)
-	}
-
 	// Print summary
 	log.Println("\n=== Fetch Complete ===")
-	log.Printf("Success: %d", successCount)
-	log.Printf("Skipped: %d (already exist)", skippedCount)
-	log.Printf("Errors:  %d", errorCount)
-	log.Printf("Total:   %d", len(urlsToFetch))
+	log.Printf("Downloaded: %d", successCount)
+	log.Printf("Errors:     %d", errorCount)
+	log.Printf("Skipped:    %d (already existed)", existingCount)
+	log.Println("\nRun 'beehive-exports process' to generate JSON and Markdown files")
 }
 
 // GovernmentFacet maps CLI-friendly names to beehive.govt.nz facet IDs

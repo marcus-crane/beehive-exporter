@@ -2,6 +2,10 @@
 title: "LUXTON CONGRATULATES BUSINESS BUT STILL WORK TO DO"
 date: 1996-07-23
 url: https://www.beehive.govt.nz/release/luxton-congratulates-business-still-work-do
+ministers:
+  - John Luxton
+portfolios:
+  - Commerce
 ---
 
 Minister of Commerce and Industry, Hon John Luxton, today said New Zealand business was to be applauded for its progress to date with managerial and business practices. However, there was still work to do to progress further towards improving the country's international competitiveness and achieving world class status.

@@ -2,6 +2,10 @@
 title: "McKinnon Details South Pacific Educational Assistance Package"
 date: 1996-07-30
 url: https://www.beehive.govt.nz/release/mckinnon-details-south-pacific-educational-assistance-package
+ministers:
+  - Don McKinnon
+portfolios:
+  - Foreign Affairs
 ---
 
 Details of five South Pacific education projects funded under the new Education Initiatives programme foreshadowed in the 1996/97 overseas aid budget in May were announced by Foreign Minister Don McKinnon today.

@@ -1,0 +1,43 @@
+---
+title: "Government's Commemorating Waitangi Day Fund Grants Announced"
+date: 1998-12-24
+url: https://www.beehive.govt.nz/release/governments-commemorating-waitangi-day-fund-grants-announced
+ministers:
+  - Jenny Shipley
+portfolios:
+  - Prime Minister
+---
+
+"Sixty-four community projects around the country have received a total of $100,000 from the Government's Commemorating Waitangi Day Fund," Prime Minister Jenny Shipley announced today.
+
+The Fund, which is administered by the Department of Internal Affairs, is quite separate from monies set aside for the traditional commemorations at Waitangi and Government House, Wellington.
+
+"The Fund was set up to increase community interest in Waitangi Day through community-driven activities, and promote greater ownership of Waitangi Day as a day of national commemoration for all New Zealanders.
+
+"This is the third year the Government has supported community commemorations and it is pleasing to see there has been an increased interest in the Fund with 87 applications received, 35 up on 1997," Mrs Shipley said.
+
+The grants made, which range from $500 to $10,000, support everything from educational programmes to cultural displays. "These grants will ensure that communities, from as far south as Invercargill to Kaitaia in the Far North, are able to acknowledge the signing of the Treaty of Waitangi in their own particular community way," the Prime Minister concluded
+
+The full list of successful grant recipients is as follows:
+
+FAR NORTH
+
+Te Kawariki, Kaitaia (Book outlining 20-year history regarding the Treaty from 1979 - 1999, $2,000); Ngapuhi Hokianga ki te Raki, Takiwa, Okaihau (Workshops for Rangatahi on Te Tiriti o Waitangi, $900). AUCKLAND
+
+Aotearoan Bangalee Council Inc. (Access Radio programme and public discussion among Bangalee community, $500); Network Waitangi Inc. (Treaty issues book, $2,000); Te Kaunihera Maori o Tamaki Makarau, Henderson (Hikoi Tawhito from Wellsford to Mercer for Kaumatua and Kuia, $1,000); Project Waitangi (Regional Treaty Workshops, $2,000); Maori Womens Welfare League Tamaki Makarau Region (Hui at Torere Marae to discuss the Treaty, $2,000); Waiata Artists Inc. Trust (Cultural events/entertainment to commemorate the Treaty signing, $8,000); Te Toi O Manukau (Day of culturally inspiring musical entertainment and library resource materials, books and brochures, $10,000); Awaroa ki Manuka, Waiuku (Community day including debates/workshops on Treaty, kapahaka and recreational activities, $2,000); Papakura Marae Committee (Waitangi Day celebration involving diverse range of entertainers, $1,500);
+
+CENTRAL/EAST
+
+Te Ataarangi Ki Wharekahika, Hicks Bay (Treaty wananga/workshops, $750); CKC REAP, Taumarunui (Treaty seminars/workshops, $500); Ngati Pukenga ki Manaia, Coromandel (Public lectures/discussion on Treaty $750); Te Aitanga a Hauiti Charitable Trust, Tolaga Bay (Raise awareness and commemorate Treaty signing, $1,000); Young Maori Party Rugby Football Club, Gisborne (Speakers and debate on Treaty at a three-day cultural/sporting event at Manutuke, $500); Te Kura Kaupapa Maori O Mangatuna, Tolaga Bay (Community event to commemorate Treaty signing, $500); Rangatahi Health Centre, Gisborne (Workshop and dance with static displays to celebrate Waitangi Day, $850); Runanga Wahine ki Te Whanganui a Orotu Inc, Napier (Treaty workshops over two-week period, $4,000); Te Whare o Ranga Wairua - Maori Women's Refuge, Taupo (Training on Tiriti o Waitangi, $1,000); Ngahihi Ltd, Hamilton (Hui and wananga for Rangatahi on Treaty, $1,000); Whanau o Riahona Te Kohanga Reo, Flaxmere (Treaty workshops for tamariki and whanau, $500); Te Runanga O Ngati Awa, Whakatane (Celebration of Treaty signing by Ngati Awa chiefs on June 16, 1840, $8,000); Ngapuwaiwaha Marae, Taumarunui (Series of wananga on marae on Treaty, $1,000); Ngati Pahauwera Haoura Service, Raupunga (Wananga to talk about Treaty and the relation to its claims to the Waitangi Tribunal, $500); Taparahi Tangata Whenua, Thames (Community day to commemorate Treaty signing, $5,000); Turanganui A Kiwa Pipiwharauroa, Gisborne (Special Waitangi Day newspaper edition ,$500).
+
+WEST
+
+Pukeariki Maori Womens Welfare League, New Plymouth (Fun day to commemorate Treaty, $500); Orakeinei Trust, Ratana (Community celebration/sports events in the town of Ratana, $500); Tu Tama Wahine O Taranaki, New Plymouth (Discussion series on how a Treaty of Waitangi based society might be developed ,$500); Te Kawau Bertrand Whanau Trust, Waitara (Two-day event to celebrate with whanau/hapu,iwi and community at Maniaroa Marae, Mokau, $1,000); Parikino Marae Committee Whanganui (Treaty workshops as part of a sports day for eight hapu from Whanganui area ,$500); Ka Taka Tu Promotions, New Plymouth (Waka regatta, tent city, exposition and concert to commemorate Treaty signing, $5,350); Taiporohenui Marae, Hawera (Community Awareness Day in conjunction with South Taranaki District Council, $1,000); Kararaina Steedman Whanau Trust, Marton (Hui to commemorate Waitangi Day and to revisit the whanau kainga and discuss its significance, $500); Te Whanau A Kapua, Whanganui (Celebrations at Kapua Marae, $500); Owae Marae Trustees and Taranaki Multi Ethnic Council, Waitara (Multi cultural celebration of Treaty at Owae Marae, $1,000); Te Niho o Te Atiawa, Parihaka, Pungarehu (Series of seminars about Parihaka which will help bridge cultures regionally, nationally and internationally, $1,000); Te Maunga Hauora Trust, Waitara (Wananga on Waitangi Day about the Treaty and related issues, $500); Waitara Maori Womens Welfare League, Waitara (Wananga on Waitangi Day about the Treaty and related issues, $500); Pukeariki Kaumatua Kaunihera, Waitara (Wananga on Waitangi Day about the Treaty and related issues, $500)
+
+WELLINGTON REGION
+
+Nga Hau E Wha O'Taihape Maori Squash, Taihape (Wananga in the Treaty and cultural knowledge, $500); Tuvalu-Wellington Inc. Society (Treaty translation and distribution/education among Tuvalu people in New Zealand $2,000); Parents Centres NZ Inc. (Workshops on Treaty issues during 1999 throughout New Zealand , $800); Orongomai Marae, Upper Hutt (Day of cultural performances to commemorate the signing of Treaty, $2,000); Ngati Koroki Kahukura, Lower Hutt (Distribution of information relating to Treaty issues, $500); Te Whanau Kotahi Ora Inc, Petone (Exhibition of "Maori Rongoa" at the Celebrating the Treaty Day, Frank Kitts Park, $500); Ngatitoa Branch Maori Womens Welfare League, Porirua (Commemoration of the Ngatitoa women who signed the Treaty, $500); Te Whanau Paneke Inc, Lower Hutt (Waitangi commemorations including Moko, Taiaha, Patu, traditional carving and weaving, $500); Te Runanganui O Taranaki Whanui ke te Upuko o te Ika a Maui Inc, Lower Hutt (Waka taua activities on Wellington harbour to commemorate Waitangi Day, $500); Ruakawa Social Services Inc. Palmerston North (Treaty workshops at sports tournament project involving 22 Raukawa Marae, $500); Kaumatua Kaunihera Komiti, Taihape (Treaty workshop at inter Marae sports day, $500); Te Kainga Awhina Inc, Paraparaumu (Wananga on Treaty and tikanga Maori, $1,000); Ngati Toa Rangatira, Porirua (Te Rauparaha Festival run in conjunction with Porirua City Council Festival of Elements, $500); Hue Te Para Kainga Kohungahunga, Wellington (Provide marae-based Treaty learning experience for whanau, $500).
+
+SOUTH
+
+Te Runanga a Rangitane o Wairau, Blenheim (Commemoration of the Day and the Rangitane Chief who signed the Treaty, $2000); Nelson kaupapa Maori Arts Inc. Nelson (Day of outdoor celebration, workshops and performances to raise Treaty awareness, $5,000); Tasman Bays Community Broadcasting Society Inc. Nelson (Research/produce all-day broadcast of Waitangi Day related material on community radio station, $1,200); Wakatipu Whanau Ahuru Mowai, Queenstown (Treaty workshops, reference material, and te reo Maori classes, $1,200); Nelson Ethnic Council, Nelson (Provide Treaty workshops in schools and wider community , $1,200); Hokitika Multicultural Centre, Hokitika (Series of workshops in the week leading up to Waitangi Day and a re-enactment of signing on February 6, $1,000); Te Tomairangi Society, Invercargill (Hui and wananga on Treaty related issues, $1,000); Te Whanau o Whanganui ki te Tonga, Invercargill (Three-day wananga and commemoration of Treaty, $1,000);Te Runanga Otakou Inc, Dunedin (Commemoration day at Otakou Marae, $3,500).

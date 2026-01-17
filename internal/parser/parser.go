@@ -35,7 +35,7 @@ func Parse(rawHTML, releaseURL string) (*models.Release, error) {
 	}
 
 	// Extract ID from URL
-	release.ID = extractIDFromURL(releaseURL)
+	release.ID = ExtractIDFromURL(releaseURL)
 
 	// Extract title
 	release.Title = strings.TrimSpace(doc.Find("h1").First().Text())
@@ -61,8 +61,8 @@ func Parse(rawHTML, releaseURL string) (*models.Release, error) {
 	return release, nil
 }
 
-// extractIDFromURL extracts the slug/ID from a release URL
-func extractIDFromURL(releaseURL string) string {
+// ExtractIDFromURL extracts and normalizes the slug/ID from a release URL
+func ExtractIDFromURL(releaseURL string) string {
 	// URL format: https://www.beehive.govt.nz/release/some-slug
 	parts := strings.Split(releaseURL, "/")
 	if len(parts) == 0 {
@@ -143,7 +143,7 @@ func extractMinisters(doc *goquery.Document) []models.Minister {
 	ministers := make([]models.Minister, 0)
 	seen := make(map[string]bool)
 
-	// Look for minister cards or links
+	// First, look for modern minister links with profile URLs
 	doc.Find("a[href*='/minister/']").Each(func(i int, s *goquery.Selection) {
 		href, exists := s.Attr("href")
 		if !exists {
@@ -170,7 +170,121 @@ func extractMinisters(doc *goquery.Document) []models.Minister {
 		}
 	})
 
+	// If no modern minister links found, look for archived minister patterns
+	if len(ministers) == 0 {
+		ministers = extractArchivedMinisters(doc, seen)
+	}
+
 	return ministers
+}
+
+// extractArchivedMinisters handles older releases where ministers are plain text
+func extractArchivedMinisters(doc *goquery.Document, seen map[string]bool) []models.Minister {
+	ministers := make([]models.Minister, 0)
+
+	// Pattern 1: Archived ministers inside the ministers list
+	// Structure: <ul class="meta--ministers"><li><span class="is-archived">Denis Marshall</span></li></ul>
+	doc.Find("ul.meta--ministers li span.is-archived").Each(func(i int, s *goquery.Selection) {
+		name := strings.TrimSpace(s.Text())
+		if name != "" && !seen[name] {
+			ministers = append(ministers, models.Minister{
+				Name:       name,
+				ProfileURL: "", // No profile URL for archived ministers
+			})
+			seen[name] = true
+		}
+	})
+
+	// Pattern 2: Ministers in list items before the main content (fallback)
+	if len(ministers) == 0 {
+		mainContent := doc.Find("div.ds-three-col__main, div.field--name-body, article").First()
+		if mainContent.Length() > 0 {
+			// Look at the first few list items - they often contain minister names
+			mainContent.Find("ul").First().Find("li").Each(func(i int, s *goquery.Selection) {
+				// Only check the first few items
+				if i > 2 {
+					return
+				}
+
+				text := strings.TrimSpace(s.Text())
+				if isLikelyMinisterName(text) && !seen[text] {
+					ministers = append(ministers, models.Minister{
+						Name:       text,
+						ProfileURL: "",
+					})
+					seen[text] = true
+				}
+			})
+		}
+	}
+
+	// Pattern 3: Look for field labels like "Minister:" followed by text
+	doc.Find(".field__label").Each(func(i int, s *goquery.Selection) {
+		label := strings.TrimSpace(s.Text())
+		if strings.Contains(strings.ToLower(label), "minister") {
+			// Look for the value in a sibling element
+			value := s.Parent().Find(".field__item").Text()
+			if value == "" {
+				value = s.Next().Text()
+			}
+			value = strings.TrimSpace(value)
+			if value != "" && !seen[value] {
+				ministers = append(ministers, models.Minister{
+					Name:       value,
+					ProfileURL: "",
+				})
+				seen[value] = true
+			}
+		}
+	})
+
+	return ministers
+}
+
+// isLikelyMinisterName checks if text looks like a minister name
+func isLikelyMinisterName(text string) bool {
+	if text == "" || len(text) > 100 {
+		return false
+	}
+
+	// Common minister name prefixes
+	prefixes := []string{"Hon", "Rt Hon", "Hon.", "Rt Hon.", "Dr", "Sir", "Dame"}
+	for _, prefix := range prefixes {
+		if strings.HasPrefix(text, prefix+" ") {
+			return true
+		}
+	}
+
+	// Check if it looks like a name (2-4 words, capitalized)
+	words := strings.Fields(text)
+	if len(words) < 2 || len(words) > 5 {
+		return false
+	}
+
+	// All words should start with uppercase (names)
+	for _, word := range words {
+		if len(word) == 0 {
+			continue
+		}
+		// Skip common titles/suffixes
+		if word == "MP" || word == "KC" || word == "QC" || word == "CNZM" || word == "GNZM" {
+			continue
+		}
+		if !unicode.IsUpper(rune(word[0])) {
+			return false
+		}
+	}
+
+	// Exclude obvious non-names
+	lowerText := strings.ToLower(text)
+	excludePatterns := []string{"portfolio", "minister for", "minister of", "office", "department", "conservation", "health", "education", "finance"}
+	for _, pattern := range excludePatterns {
+		if strings.Contains(lowerText, pattern) {
+			return false
+		}
+	}
+
+	return true
 }
 
 // extractPortfolios extracts portfolio tags
@@ -178,8 +292,31 @@ func extractPortfolios(doc *goquery.Document) []string {
 	portfolios := make([]string, 0)
 	seen := make(map[string]bool)
 
-	// Look for portfolio links or tags
+	// Look for modern portfolio links
 	doc.Find("a[href*='/portfolio/'], .portfolio, .portfolio-tag").Each(func(i int, s *goquery.Selection) {
+		name := strings.TrimSpace(s.Text())
+		if name != "" && !seen[name] {
+			portfolios = append(portfolios, name)
+			seen[name] = true
+		}
+	})
+
+	// Archived portfolios inside em.tag--portfolio
+	doc.Find("em.tag--portfolio span.is-archived, .tag--portfolio span.is-archived").Each(func(i int, s *goquery.Selection) {
+		name := strings.TrimSpace(s.Text())
+		if name != "" && !seen[name] {
+			portfolios = append(portfolios, name)
+			seen[name] = true
+		}
+	})
+
+	// Archived portfolios as standalone span.is-archived outside minister list
+	// These appear after the ministers list but before the content body
+	doc.Find("div.ds-three-col__main > span.is-archived").Each(func(i int, s *goquery.Selection) {
+		// Skip if inside ministers list
+		if s.ParentsFiltered("ul.meta--ministers").Length() > 0 {
+			return
+		}
 		name := strings.TrimSpace(s.Text())
 		if name != "" && !seen[name] {
 			portfolios = append(portfolios, name)
@@ -211,26 +348,15 @@ func extractContentText(doc *goquery.Document) string {
 	return text
 }
 
-// extractAttachments extracts downloadable attachment URLs
+// extractAttachments extracts downloadable attachment URLs from the sidebar
 func extractAttachments(doc *goquery.Document) []string {
 	var attachments []string
-	extensions := []string{".pdf", ".doc", ".docx", ".xls", ".xlsx"}
+	seen := make(map[string]bool)
 
-	doc.Find("a[href]").Each(func(i int, s *goquery.Selection) {
+	// Attachments live in the "Related Documents" sidebar section
+	doc.Find("aside.article__related a[href], aside.ds-three-col__right .file a[href]").Each(func(i int, s *goquery.Selection) {
 		href, exists := s.Attr("href")
-		if !exists {
-			return
-		}
-
-		lowerHref := strings.ToLower(href)
-		isAttachment := false
-		for _, ext := range extensions {
-			if strings.HasSuffix(lowerHref, ext) {
-				isAttachment = true
-				break
-			}
-		}
-		if !isAttachment {
+		if !exists || href == "" {
 			return
 		}
 
@@ -239,7 +365,10 @@ func extractAttachments(doc *goquery.Document) []string {
 			fullURL = "https://www.beehive.govt.nz" + fullURL
 		}
 
-		attachments = append(attachments, fullURL)
+		if !seen[fullURL] {
+			attachments = append(attachments, fullURL)
+			seen[fullURL] = true
+		}
 	})
 
 	return attachments

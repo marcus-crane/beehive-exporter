@@ -110,8 +110,8 @@ func (f *Fetcher) doBrowserlessRequest(targetURL string) (string, error) {
 	endpoint := fmt.Sprintf("%s/content?token=%s", BrowserlessURL, f.browserlessToken)
 
 	payload := map[string]interface{}{
-		"url":          targetURL,
-		"waitForTimeout": 3000,
+		"url":            targetURL,
+		"waitForTimeout": 500,
 	}
 	jsonPayload, err := json.Marshal(payload)
 	if err != nil {

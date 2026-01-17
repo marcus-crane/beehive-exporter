@@ -1,0 +1,23 @@
+---
+title: "Appointment of Queen's Counsel"
+date: 1997-06-30
+url: https://www.beehive.govt.nz/release/appointment-queens-counsel-1
+ministers:
+  - Paul East
+portfolios:
+  - Attorney-General
+---
+
+The Attorney-General Paul East announced today the appointment of Howard Carisbrooke Keyte of Auckland, John Grayson Rowan of Wanganui, David McCaw Wilson of Hamilton, Lynton Laurence Stevens of Auckland, Terence Arnold of Wellington, Brendan William Francis Brown of Wellington and Helen Ann Cull, Barrister of Wellington to be Queen's Counsel.
+
+Mr Keyte graduated from Auckland University in 1963 and joined the firm of Kensington Swan, becoming a litigation partner. He commenced practice as a barrister sole in 1995. He has been a member of the Civil Litigation and Tribunals Committee of the New Zealand Law Society. He acted as counsel assisting the Arthur Allen Thomas inquiry in 1980 and was a founding member of the New Zealand Chapter of LEADR.
+
+Mr Rowan graduated from the University of Canterbury in 1968 and commenced practice as a barrister, initially between 1974 and 1975, and then from 1992. He is a member of the Crown Prosecutors Panel in Wanganui and was appointed Judge Advocate under the Armed Forces Discipline Act 1991.
+
+Mr Wilson graduated from the University of Auckland in 1970 and joined the Hamilton firm of McCaw Smith and Arcus. He commenced practice as a barrister sole in 1984. He has been a member of the Crown Prosecution Panel at Hamilton since 1983. In 1996 he was elected Vice President of the Waikato Bay of Plenty District Law Society and a member of the Council of the New Zealand Law Society. He has lectured in law at the Auckland Technical Institute and Waikato Polytechnic and also at the University of Waikato.
+
+Mr Stevens graduated from Auckland University in 1970 and obtained a BCL from Oxford University in 1972. Between 1975 and 1980 he was a Crown Prosecutor and partner in Meredith Connell & Co in Auckland. In 1980 he joined Russell McVeagh McKenzie Bartleet & Co and commenced practice as a barrister sole in 1992. He has lectured in law at the University of Auckland and was visiting Assistant Professor, University of British Columbia between 1972 and 1974. He has served on various committees of the Auckland District Law Society and held offices with the International Bar Association.
+
+Mr Arnold graduated with an LLM from Victoria University of Wellington in 1972 and an LLM (Crim.J.) from New York University in 1973. He joined the Wellington firm of Chapman Tripp Sheffield Young in 1982 and commenced practice as barrister in 1994. He was appointed the Robert Marshall Fellow in Civil Liberties, New York University between 1972 and 1973 and was visiting professor, Faculty of Law to the University of Calgary, Alberta between 1984 and 1985. Mr Brown graduated from the University of Canterbury in 1976 and joined the Wellington firm of Bell Gully & Co in 1977. He commenced practice as a barrister sole in 1992. He was a member of the New Zealand Council of Law Reporting between 1987 and 1994 and has been a member of the District Court Rules Committee since 1988. He has served on a number of committees of the Wellington District Law Society and the New Zealand Law Society. He was one of the original authors of McGechan on Procedure published in 1985 and remained as a member of the editorial team until 1996. He was one of the authors of New Zealand Copyright and Design Law (Butterworths 1996) and was instrumental in the establishment of the Trade and Competition Law Report Series (Brooker and F riend) and was an editor from 1988 to 1992. Since the early 1980's he has been the New Zealand correspondent for the European Intellectual Property Review (Sweet and Maxwell/ESC Publishing).
+
+Ms Cull graduated from Victoria University of Wellington in 1977 and joined the Wellington firm of Tripe Matthews and Feist in 1983. She commenced practice as a barrister sole in 1990. She has served on a number of committees of the Wellington District Law Society and is a member of the Crown Prosecutors panel. She is currently the Chair of the ACC Counsellor's Approval Committee and was appointed District Inspector for the Wellington region in 1987. She was a council member for the Wellington District Law Society between 1988 and 1992. She has contributed extensively to legal publications and seminars and was a contributor to the commentary in Sims Court Practice between 1994 and 1995. She served as a barrister member of the Psychologists Board between 1991 and 1995 and was a member of the Legal Aid Appeal Authority between 1986 and 1991.

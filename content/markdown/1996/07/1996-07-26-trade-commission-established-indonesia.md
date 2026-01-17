@@ -2,6 +2,10 @@
 title: "Trade Commission Established with Indonesia"
 date: 1996-07-26
 url: https://www.beehive.govt.nz/release/trade-commission-established-indonesia
+ministers:
+  - Don McKinnon
+portfolios:
+  - Foreign Affairs
 ---
 
 New Zealand and Indonesia launched an important new economic, trade and investment initiative in Jakarta yesterday.

@@ -2,6 +2,10 @@
 title: "NZ FIRST EXPORT POLICY"
 date: 1996-07-31
 url: https://www.beehive.govt.nz/release/nz-first-export-policy
+ministers:
+  - Dr Lockwood Smith
+portfolios:
+  - Agriculture
 ---
 
 New Zealand First's export policy would do nothing for farmers other than make them pay higher interest rates, Agriculture Minister Lockwood Smith said today.
