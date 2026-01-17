@@ -24,9 +24,6 @@ func main() {
 	// Load .env file if present
 	_ = godotenv.Load()
 	// Define commands
-	syncCmd := flag.NewFlagSet("sync", flag.ExitOnError)
-	syncPages := syncCmd.Int("pages", 0, "Max pagination pages to fetch (0 = all, ~10 releases per page)")
-
 	reingestCmd := flag.NewFlagSet("reingest", flag.ExitOnError)
 	reingestURL := reingestCmd.String("url", "", "Full URL of release to reingest")
 	reingestID := reingestCmd.String("id", "", "ID/slug of release to reingest")
@@ -40,39 +37,59 @@ func main() {
 	fetchGov := fetchCmd.String("government", "", "Government to fetch (e.g., national-1993)")
 
 	archiveCmd := flag.NewFlagSet("archive", flag.ExitOnError)
-	archiveGov := archiveCmd.String("government", "", "Government term to index (e.g., national-1993, labour-1999)")
+	archiveGov := archiveCmd.String("government", "", "Government term to index (see --help for list)")
+	archivePages := archiveCmd.Int("pages", 0, "Maximum pages to index (0 = all)")
+	archiveType := archiveCmd.String("type", "release", "Content type to index (release, speech, feature, diary)")
+	archiveCmd.Usage = func() {
+		fmt.Println("Usage: beehive-exports archive [options]")
+		fmt.Println("\nOptions:")
+		fmt.Println("  --government string")
+		fmt.Println("        Government term to index. If not specified, indexes all governments.")
+		fmt.Println("  --pages int")
+		fmt.Println("        Maximum pages to index, 24 results per page (0 = all, default 0)")
+		fmt.Println("  --type string")
+		fmt.Println("        Content type to index (default \"release\")")
+		fmt.Println("\nValid government values:")
+		fmt.Println("  national-1993   National (1993-1996)")
+		fmt.Println("  national-1996   National-NZ First Coalition (1996-1999)")
+		fmt.Println("  labour-1999     Labour-Alliance (1999-2002)")
+		fmt.Println("  labour-2002     Labour-Progressive Coalition (2002-2005)")
+		fmt.Println("  labour-2005     Labour-Progressive Coalition (2005-2008)")
+		fmt.Println("  national-2008   Fifth National Government (2008-2011)")
+		fmt.Println("  national-2011   Fifth National Government (2011-2014)")
+		fmt.Println("  national-2014   Fifth National Government (2014-2017)")
+		fmt.Println("  labour-2017     Labour-NZ First Coalition (2017-2020)")
+		fmt.Println("  labour-2020     Sixth Labour Government (2020-2023)")
+		fmt.Println("  national-2023   National-ACT-NZ First Coalition (2023-2026)")
+		fmt.Println("\nValid content types:")
+		fmt.Println("  release   Press releases (54,966)")
+		fmt.Println("  speech    Speeches (12,355)")
+		fmt.Println("  feature   Features (1,279)")
+		fmt.Println("  diary     Ministerial diaries (2,347)")
+	}
 
 	if len(os.Args) < 2 {
 		fmt.Println("Usage: beehive-exports <command> [options]")
 		fmt.Println("\nCommands:")
-		fmt.Println("  sync       Fetch and save press releases from listing pages")
-		fmt.Println("  index      Build discovery index of all releases")
+		fmt.Println("  archive    Build discovery index from search page")
 		fmt.Println("  fetch      Fetch releases from discovery index")
-		fmt.Println("  archive    Build discovery index from search page (historical)")
 		fmt.Println("  reingest   Re-fetch and overwrite a single release")
 		fmt.Println("  markdown   Generate markdown files from releases")
 		fmt.Println("\nExamples:")
-		fmt.Println("  beehive-exports sync")
-		fmt.Println("  beehive-exports sync --pages 3  # Fetch ~30 recent releases")
-		fmt.Println("  beehive-exports index           # Build complete release index")
-		fmt.Println("  beehive-exports fetch           # Fetch all missing releases")
-		fmt.Println("  beehive-exports fetch --year 2024")
-		fmt.Println("  beehive-exports fetch --month 2024-03")
-		fmt.Println("  beehive-exports fetch --government national-1993")
-		fmt.Println("  beehive-exports archive         # Index all historical releases")
-		fmt.Println("  beehive-exports archive --government national-1993")
-		fmt.Println("  beehive-exports reingest --url https://www.beehive.govt.nz/release/some-release")
-		fmt.Println("  beehive-exports reingest --id some-release")
-		fmt.Println("  beehive-exports markdown --out ./content/markdown")
+		fmt.Println("  beehive-exports archive                              # Index all releases")
+		fmt.Println("  beehive-exports archive --government national-2023   # Index one government")
+		fmt.Println("  beehive-exports archive --pages 5                    # Index first 5 pages (120 items)")
+		fmt.Println("  beehive-exports archive --type speech                # Index speeches instead of releases")
+		fmt.Println("  beehive-exports archive --help                       # Show all options")
+		fmt.Println("  beehive-exports fetch                                # Fetch all indexed releases")
+		fmt.Println("  beehive-exports fetch --government national-1993     # Fetch one government")
+		fmt.Println("  beehive-exports fetch --year 2024                    # Fetch by year")
+		fmt.Println("  beehive-exports reingest --id some-release           # Re-fetch single release")
+		fmt.Println("  beehive-exports markdown                             # Generate markdown files")
 		os.Exit(1)
 	}
 
 	switch os.Args[1] {
-	case "sync":
-		syncCmd.Parse(os.Args[2:])
-		runSync(*syncPages)
-	case "index":
-		runIndex()
 	case "fetch":
 		fetchCmd.Parse(os.Args[2:])
 		runFetch(*fetchYear, *fetchMonth, *fetchGov)
@@ -84,98 +101,11 @@ func main() {
 		runMarkdown(*markdownOut)
 	case "archive":
 		archiveCmd.Parse(os.Args[2:])
-		runArchive(*archiveGov)
+		runArchive(*archiveGov, *archivePages, *archiveType)
 	default:
 		fmt.Printf("Unknown command: %s\n", os.Args[1])
 		os.Exit(1)
 	}
-}
-
-func runSync(maxPages int) {
-	log.Println("Starting sync")
-
-	// Initialize components
-	f := fetcher.New()
-	store := storage.New(".")
-
-	// Fetch release URLs
-	urls, err := f.FetchReleases(maxPages)
-	if err != nil {
-		log.Fatalf("Failed to fetch release URLs: %v", err)
-	}
-
-	log.Printf("Found %d release URLs to process", len(urls))
-
-	// Fetch and parse each release
-	successCount := 0
-	skippedCount := 0
-	errorCount := 0
-
-	for i, url := range urls {
-		log.Printf("[%d/%d] Processing: %s", i+1, len(urls), url)
-
-		// Parse to get ID (we'll do a quick parse just for the ID check)
-		// For now, extract ID manually from URL
-		parts := strings.Split(url, "/")
-		id := parts[len(parts)-1]
-
-		// Skip if already exists
-		if store.ReleaseExists(id) {
-			log.Printf("  Already exists, skipping")
-			skippedCount++
-			continue
-		}
-
-		// Fetch HTML
-		html, err := f.FetchRelease(url)
-		if err != nil {
-			log.Printf("  Error fetching: %v", err)
-			errorCount++
-			continue
-		}
-
-		// Parse release
-		release, err := parser.Parse(html, url)
-		if err != nil {
-			log.Printf("  Error parsing: %v", err)
-			errorCount++
-			continue
-		}
-
-		// Save to JSON
-		if err := store.SaveRelease(release); err != nil {
-			log.Printf("  Error saving: %v", err)
-			errorCount++
-			continue
-		}
-
-		// Save raw HTML for potential future reprocessing
-		if err := store.SaveRawHTML(release.ID, release.Time, html); err != nil {
-			log.Printf("  Warning: Failed to save raw HTML: %v", err)
-		}
-
-		log.Printf("  ✓ Saved: %s", release.Title)
-		successCount++
-	}
-
-	// Update index
-	log.Println("Updating index...")
-	if err := store.UpdateIndex(); err != nil {
-		log.Printf("Warning: Failed to update index: %v", err)
-	}
-
-	// Update URL index
-	log.Println("Updating URL index...")
-	if err := store.GenerateURLIndex(); err != nil {
-		log.Printf("Warning: Failed to update URL index: %v", err)
-	}
-
-	// Print summary
-	log.Println("\n=== Sync Complete ===")
-	log.Printf("Success: %d", successCount)
-	log.Printf("Skipped: %d", skippedCount)
-	log.Printf("Errors:  %d", errorCount)
-	log.Printf("Total:   %d", len(urls))
 }
 
 func runReingest(url string, id string) {
@@ -424,139 +354,6 @@ func loadAllGovernmentIndexes() ([]*GovernmentIndex, error) {
 	return indexes, nil
 }
 
-// governmentNameToSlug maps the names from determineGovernmentFromDate to file slugs
-var governmentNameToSlug = map[string]string{
-	"National-ACT-NZ First Coalition": "national-2023",
-	"Sixth Labour Government":         "labour-2020",
-	"Labour-NZ First Coalition":       "labour-2017",
-	"Fifth National Government":       "national-2008", // covers 2008-2017
-	"Earlier Government":              "earlier",
-}
-
-func runIndex() {
-	log.Println("Building complete release index from listing pages...")
-
-	f := fetcher.New()
-
-	// Collect releases by government
-	govIndexes := make(map[string]*GovernmentIndex)
-
-	page := 0
-	consecutiveEmpty := 0
-	totalFound := 0
-
-	for consecutiveEmpty < 3 {
-		log.Printf("Fetching page %d...", page)
-
-		url := fmt.Sprintf("https://www.beehive.govt.nz/releases?page=%d", page)
-		html, err := f.FetchURL(url)
-		if err != nil {
-			log.Printf("Error fetching page %d: %v", page, err)
-			consecutiveEmpty++
-			page++
-			continue
-		}
-
-		doc, err := goquery.NewDocumentFromReader(strings.NewReader(html))
-		if err != nil {
-			log.Printf("Error parsing page %d: %v", page, err)
-			consecutiveEmpty++
-			page++
-			continue
-		}
-
-		foundOnPage := 0
-		seen := make(map[string]bool)
-
-		// Find each release entry (article or container with time and link)
-		doc.Find("a[href^='/release/']").Each(func(i int, s *goquery.Selection) {
-			href, exists := s.Attr("href")
-			if !exists || href == "/release" || href == "/releases" {
-				return
-			}
-
-			fullURL := "https://www.beehive.govt.nz" + href
-			if seen[fullURL] {
-				return
-			}
-			seen[fullURL] = true
-
-			// Find the time element in the parent/grandparent context
-			var datetime string
-			parent := s.Parent().Parent().Parent()
-			parent.Find("time[datetime]").Each(func(j int, t *goquery.Selection) {
-				if dt, exists := t.Attr("datetime"); exists && datetime == "" {
-					datetime = dt
-				}
-			})
-
-			if datetime == "" {
-				return // Skip if no date found
-			}
-
-			// Parse date to determine government and month
-			t, err := time.Parse(time.RFC3339, datetime)
-			if err != nil {
-				return
-			}
-
-			govName := determineGovernmentFromDate(t)
-			slug := governmentNameToSlug[govName]
-			if slug == "" {
-				slug = "unknown"
-			}
-			yearMonth := t.Format("2006-01")
-
-			if govIndexes[slug] == nil {
-				govIndexes[slug] = &GovernmentIndex{
-					Government: govName,
-					Slug:       slug,
-					Releases:   make(map[string][]ReleaseEntry),
-				}
-			}
-
-			govIndexes[slug].Releases[yearMonth] = append(govIndexes[slug].Releases[yearMonth], ReleaseEntry{
-				URL:  fullURL,
-				Date: datetime,
-			})
-
-			foundOnPage++
-			totalFound++
-		})
-
-		log.Printf("Found %d releases on page %d", foundOnPage, page)
-
-		if foundOnPage == 0 {
-			consecutiveEmpty++
-		} else {
-			consecutiveEmpty = 0
-		}
-
-		page++
-	}
-
-	// Save each government's index
-	for slug, idx := range govIndexes {
-		count := 0
-		for _, releases := range idx.Releases {
-			count += len(releases)
-		}
-		idx.TotalReleases = count
-		idx.LastIndexedAt = time.Now().Format(time.RFC3339)
-
-		if err := saveGovernmentIndex(idx); err != nil {
-			log.Printf("Error saving %s: %v", slug, err)
-		} else {
-			log.Printf("Saved %s (%d releases)", slug, count)
-		}
-	}
-
-	log.Printf("\n=== Indexing Complete ===")
-	log.Printf("Total releases found: %d", totalFound)
-	log.Printf("Pages scanned: %d", page)
-	log.Printf("Index files saved to %s/", discoveryIndexDir)
-}
-
 func runFetch(filterYear, filterMonth, filterGov string) {
 	log.Println("Fetching releases from discovery index")
 
@@ -676,29 +473,6 @@ func runFetch(filterYear, filterMonth, filterGov string) {
 	log.Printf("Total:   %d", len(urlsToFetch))
 }
 
-func determineGovernmentFromDate(t time.Time) string {
-	year := t.Year()
-	month := t.Month()
-
-	// More precise government terms based on election dates
-	switch {
-	case year > 2023 || (year == 2023 && month >= 11):
-		return "National-ACT-NZ First Coalition"
-	case year > 2020 || (year == 2020 && month >= 11):
-		return "Sixth Labour Government"
-	case year > 2017 || (year == 2017 && month >= 10):
-		return "Labour-NZ First Coalition"
-	case year > 2014 || (year == 2014 && month >= 10):
-		return "Fifth National Government"
-	case year > 2011 || (year == 2011 && month >= 11):
-		return "Fifth National Government"
-	case year > 2008 || (year == 2008 && month >= 11):
-		return "Fifth National Government"
-	default:
-		return "Earlier Government"
-	}
-}
-
 // GovernmentFacet maps CLI-friendly names to beehive.govt.nz facet IDs
 var governmentFacets = map[string]struct {
 	FacetID string
@@ -717,8 +491,25 @@ var governmentFacets = map[string]struct {
 	"national-1993":  {"4194", "National (1993-1996)"},
 }
 
-func runArchive(govFilter string) {
-	log.Println("Building discovery index from search page...")
+// contentTypeFacets maps CLI-friendly names to beehive.govt.nz facet values and URL prefixes
+var contentTypeFacets = map[string]struct {
+	Facet     string
+	URLPrefix string
+}{
+	"release": {"article", "/release/"},
+	"speech":  {"speech", "/speech/"},
+	"feature": {"feature", "/feature/"},
+	"diary":   {"ministerial_diary", "/ministerial-diary/"},
+}
+
+func runArchive(govFilter string, maxPages int, contentType string) {
+	// Validate content type
+	ct, ok := contentTypeFacets[contentType]
+	if !ok {
+		log.Fatalf("Unknown content type: %s\nValid types: release, speech, feature, diary", contentType)
+	}
+
+	log.Printf("Building discovery index from search page (type: %s)...", contentType)
 
 	// Determine which governments to index
 	var toIndex []struct {
@@ -730,11 +521,7 @@ func runArchive(govFilter string) {
 	if govFilter != "" {
 		gov, ok := governmentFacets[govFilter]
 		if !ok {
-			log.Fatalf("Unknown government: %s\nAvailable options:", govFilter)
-			for k := range governmentFacets {
-				log.Printf("  %s", k)
-			}
-			os.Exit(1)
+			log.Fatalf("Unknown government: %s\nRun 'beehive-exports archive --help' for valid options", govFilter)
 		}
 		toIndex = append(toIndex, struct {
 			Key     string
@@ -767,7 +554,13 @@ func runArchive(govFilter string) {
 		govTotal := 0
 
 		for {
-			url := fmt.Sprintf("https://www.beehive.govt.nz/search?f[0]=government_facet:%s&f[1]=content_type_facet:article&page=%d", gov.FacetID, page)
+			// Check page limit
+			if maxPages > 0 && page >= maxPages {
+				log.Printf("  Reached page limit (%d)", maxPages)
+				break
+			}
+
+			url := fmt.Sprintf("https://www.beehive.govt.nz/search?f[0]=government_facet:%s&f[1]=content_type_facet:%s&page=%d", gov.FacetID, ct.Facet, page)
 			log.Printf("  Fetching page %d...", page)
 
 			html, err := f.FetchURL(url)
@@ -784,10 +577,11 @@ func runArchive(govFilter string) {
 
 			foundOnPage := 0
 
-			// Find release links in search results
-			doc.Find("a[href^='/release/']").Each(func(i int, s *goquery.Selection) {
+			// Find links matching the content type's URL prefix
+			selector := fmt.Sprintf("a[href^='%s']", ct.URLPrefix)
+			doc.Find(selector).Each(func(i int, s *goquery.Selection) {
 				href, exists := s.Attr("href")
-				if !exists || href == "/release" || href == "/releases" {
+				if !exists || href == ct.URLPrefix || href == strings.TrimSuffix(ct.URLPrefix, "/") {
 					return
 				}
 
@@ -840,7 +634,7 @@ func runArchive(govFilter string) {
 				govTotal++
 			})
 
-			log.Printf("  Found %d releases on page %d", foundOnPage, page)
+			log.Printf("  Found %d items on page %d", foundOnPage, page)
 
 			if foundOnPage == 0 {
 				break
@@ -857,7 +651,7 @@ func runArchive(govFilter string) {
 		if err := saveGovernmentIndex(govIndex); err != nil {
 			log.Printf("  Error saving index: %v", err)
 		} else {
-			log.Printf("  Saved %s (%d releases) to %s/%s.json", gov.Name, govTotal, discoveryIndexDir, gov.Key)
+			log.Printf("  Saved %s (%d items) to %s/%s.json", gov.Name, govTotal, discoveryIndexDir, gov.Key)
 		}
 
 		totalFound += govTotal
