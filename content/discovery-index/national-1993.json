@@ -1,0 +1,938 @@
+{
+  "government": "National (1993-1996)",
+  "slug": "national-1993",
+  "last_indexed_at": "2026-01-17T16:24:30+13:00",
+  "total_releases": 228,
+  "releases": {
+    "1996-03": [
+      {
+        "url": "https://www.beehive.govt.nz/release/waitutu-agreement-signed",
+        "date": "1996-03-08T11:59:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/consultation-period-public-works-policy-extended",
+        "date": "1996-03-11T12:04:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/changes-disputes-tribunals-benefit-consumers",
+        "date": "1996-03-12T12:07:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/finance-minister-meet-exporters",
+        "date": "1996-03-12T12:12:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-employment-programme-helps-very-long-term-job-seekers",
+        "date": "1996-03-13T12:14:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/career-information-internet",
+        "date": "1996-03-13T12:15:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-auckland-youth-justice-centre-under-consideration",
+        "date": "1996-03-14T12:17:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/birch-attends-apec-meeting-osaka",
+        "date": "1996-03-14T12:18:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/call-consumers-be-switched-electronic-age",
+        "date": "1996-03-14T12:19:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-district-court-judge-appointed",
+        "date": "1996-03-18T12:19:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/petrol-decisions-announced",
+        "date": "1996-03-19T12:21:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/forecasts-confirm-ongoing-growth",
+        "date": "1996-03-21T12:23:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/apple-pear-board-export-rights-clarified",
+        "date": "1996-03-22T12:06:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/step-closer",
+        "date": "1996-03-22T12:24:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/conservation-and-farmer-benefit-earnscleugh",
+        "date": "1996-03-22T12:25:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bovine-spongiform-encephalopathy",
+        "date": "1996-03-22T12:26:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/intensive-management-winner-bird-species",
+        "date": "1996-03-24T12:26:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bse-decision-belt-and-braces-approach",
+        "date": "1996-03-26T12:28:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/environmental-impact-road-use",
+        "date": "1996-03-28T12:29:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/labour-boosts-marginal-tax-least-33-13",
+        "date": "1996-03-28T12:30:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/conservation-speculation-wrong",
+        "date": "1996-03-29T12:31:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/advice-products-derived-uk-beef",
+        "date": "1996-03-29T12:32:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/no-privatisation-conservation-land",
+        "date": "1996-03-29T12:33:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-pays-tribute-sir-kenneth-keith",
+        "date": "1996-03-29T12:35:00Z"
+      }
+    ],
+    "1996-04": [
+      {
+        "url": "https://www.beehive.govt.nz/release/appointment-law-commissioner",
+        "date": "1996-04-02T12:36:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/key-facts-forestry-corporation",
+        "date": "1996-04-03T12:37:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-announces-plans-sell-forestry-corporation",
+        "date": "1996-04-03T12:37:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/kahurangi-national-park-gazettal",
+        "date": "1996-04-04T12:38:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-spending-20-million-six-new-schools",
+        "date": "1996-04-04T12:39:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-announces-oyster-season",
+        "date": "1996-04-10T12:52:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-wants-law-suspension",
+        "date": "1996-04-11T12:40:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/kiwi-chick-flies-north-operation-nestegg",
+        "date": "1996-04-11T12:51:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ngai-tahu-and-industry-partners-rebuilding-eel-fishery",
+        "date": "1996-04-11T12:53:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/launch-pilot-interactive-television-project",
+        "date": "1996-04-16T13:14:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/education-achievements-and-future",
+        "date": "1996-04-19T13:16:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bolger-shocked-shelling-lebanon",
+        "date": "1996-04-19T15:35:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealands-domestic-violence-legislation-attracts-international-interest",
+        "date": "1996-04-22T12:41:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/march-1996-underlying-inflation",
+        "date": "1996-04-22T12:50:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/premium-unleaded-petrol",
+        "date": "1996-04-23T12:56:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/premium-unleaded-petrol-0",
+        "date": "1996-04-23T12:58:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-education-releases-final-te-reo-maori-curriculum-document",
+        "date": "1996-04-24T12:59:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nominations-fisheries-commission-called",
+        "date": "1996-04-26T13:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-consulate-opens-atlanta-usa",
+        "date": "1996-04-28T13:01:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/east-coast-basin-permits-announced",
+        "date": "1996-04-29T13:02:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/teacher-strikes",
+        "date": "1996-04-30T13:03:00Z"
+      }
+    ],
+    "1996-06": [
+      {
+        "url": "https://www.beehive.govt.nz/release/taiapure-local-fishery-recommended-southern-hawkes-bay",
+        "date": "1996-06-04T13:04:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/african-children-receive-new-zealand-aid",
+        "date": "1996-06-05T13:05:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/mckinnon-welcomes-asia-2000-private-sector-funding",
+        "date": "1996-06-05T13:06:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-calls-china-stop-nuclear-tests",
+        "date": "1996-06-09T13:08:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/meat-grading-system-legislation",
+        "date": "1996-06-11T13:09:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-president-law-commission",
+        "date": "1996-06-11T13:10:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/meat-grading-system-legislation-0",
+        "date": "1996-06-11T13:36:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/intergenerational-equity-fair-and-just-society-all",
+        "date": "1996-06-12T13:11:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-responds-quickly-legal-bill-claims",
+        "date": "1996-06-13T13:12:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-residential-services-strategy-children-and-young-people",
+        "date": "1996-06-13T13:13:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tribunal-interim-report-taranaki-claims-welcomed",
+        "date": "1996-06-14T13:14:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/crown-and-ngai-tahu-sign-account-settlement",
+        "date": "1996-06-17T13:16:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/agriculture-sector-decidedly-mixed",
+        "date": "1996-06-18T13:18:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-becomes-full-member-conference-disarmament",
+        "date": "1996-06-18T13:19:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/legislation-abolishes-appeals-privy-council",
+        "date": "1996-06-18T13:20:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/mt-ruapehu-prime-minister-forms-ministerial-group",
+        "date": "1996-06-19T13:22:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/home-leasing-programme-allegations-0",
+        "date": "1996-06-20T13:23:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/home-leasing-programme-allegations",
+        "date": "1996-06-21T13:22:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-human-rights-commissioner-appointed",
+        "date": "1996-06-21T13:24:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/uncertainty-community-removed",
+        "date": "1996-06-25T13:17:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/crown-sells-shareholding-mdc",
+        "date": "1996-06-25T13:25:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-signals-future-directions-regulation-telecommunications-electricity-and-gas",
+        "date": "1996-06-26T13:26:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-signals-future-directions-regulation-telecommunications-electricity-and-gas-0",
+        "date": "1996-06-26T13:27:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/death-former-greek-prime-minister-papandreou",
+        "date": "1996-06-26T13:28:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/appointment-transfund-new-zealand-board",
+        "date": "1996-06-26T13:29:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-signals-future-directions-regulation-telecommunications-electricity-and-gas-1",
+        "date": "1996-06-26T13:29:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-did-not-confirm-any-abuse-perf-scheme",
+        "date": "1996-06-28T13:31:00Z"
+      }
+    ],
+    "1996-07": [
+      {
+        "url": "https://www.beehive.govt.nz/release/maharey-misunderstands-operation-employment-contracts-act",
+        "date": "1996-07-03T13:32:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/145-million-allocated-fisheries-research",
+        "date": "1996-07-05T13:34:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/luxton-welcomes-signing-trans-tasman-mutual-recognition-arrangement",
+        "date": "1996-07-09T13:34:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-support-improved-energy-efficiency",
+        "date": "1996-07-10T13:35:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-eu-conformity-assessment-agreement-first-its-kind-world",
+        "date": "1996-07-21T13:37:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/hospitals-not-sale",
+        "date": "1996-07-22T13:38:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/securities-commission-appointments-0",
+        "date": "1996-07-22T13:39:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/burmese-given-strong-message",
+        "date": "1996-07-23T13:40:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/two-judges-stand-down",
+        "date": "1996-07-23T13:41:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/luxton-congratulates-business-still-work-do",
+        "date": "1996-07-23T13:42:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/trade-commission-established-indonesia",
+        "date": "1996-07-26T13:45:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/mckinnon-details-south-pacific-educational-assistance-package",
+        "date": "1996-07-30T13:46:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-first-export-policy",
+        "date": "1996-07-31T13:46:00Z"
+      }
+    ],
+    "1996-08": [
+      {
+        "url": "https://www.beehive.govt.nz/release/modern-defence-equipment-government-priority",
+        "date": "1996-08-01T14:07:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-introduces-bill-whistleblowing",
+        "date": "1996-08-01T14:08:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bill-aims-provide-certainty-maori-reserved-land",
+        "date": "1996-08-05T14:11:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/homes-required-1000-wild-horses",
+        "date": "1996-08-06T14:12:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/alliance-defence-policy-out-touch-reality",
+        "date": "1996-08-06T14:13:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/appointments-council-creative-nz-arts-board-and-te-waka-toi",
+        "date": "1996-08-07T14:14:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-stands-fairness-maori-reserved-land",
+        "date": "1996-08-07T14:15:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-responds-equiticorp-judgement",
+        "date": "1996-08-08T14:16:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/birch-no-conflict-interest-fcnz",
+        "date": "1996-08-09T14:18:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/mckinnon-cedenco-move-seductive-labour",
+        "date": "1996-08-09T14:22:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ceg-look-extra-help-gisborne",
+        "date": "1996-08-09T14:26:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-calls-cool-heads",
+        "date": "1996-08-09T14:29:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cook-islands-happy-slater-help-davison-inquiry",
+        "date": "1996-08-14T14:31:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/education-minister-says-there-more-time-negotiate",
+        "date": "1996-08-15T14:32:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/moores-rip-comments-plainly-wrong",
+        "date": "1996-08-15T14:33:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/growth-employment-pleasing-says-minister",
+        "date": "1996-08-15T14:35:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-inmates-be-housed-mangaroa-prison",
+        "date": "1996-08-15T14:35:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-asks-examination-pay-roll-problem",
+        "date": "1996-08-15T14:38:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/aranga-farm-sale-agreements-signed",
+        "date": "1996-08-16T14:36:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/no-cold-showers-candlelight",
+        "date": "1996-08-16T14:37:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/442-million-school-property",
+        "date": "1996-08-18T14:39:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/180-million-be-spent-auckland-school-property",
+        "date": "1996-08-18T14:40:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-hopes-pay-dispute-end",
+        "date": "1996-08-19T14:41:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/2026-billion-sale-forestry-corporation-completed",
+        "date": "1996-08-20T14:42:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/concern-clarks-appointment",
+        "date": "1996-08-20T14:44:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/strenuous-efforts-made-behalf-waterloo-centre",
+        "date": "1996-08-20T14:45:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/harassment-and-criminal-associations-bill-introduced",
+        "date": "1996-08-20T14:47:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/major-new-investment-manawatu-polytechnic-enables-growth",
+        "date": "1996-08-21T14:48:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/independent-assessment-compensation-initiated",
+        "date": "1996-08-21T14:49:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-high-commissioner-cook-islands",
+        "date": "1996-08-21T14:50:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-high-commissioner-kiribati-0",
+        "date": "1996-08-21T14:51:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/credit-laws-revamped",
+        "date": "1996-08-21T14:52:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-approach-assurance-food-safety-new-zealand",
+        "date": "1996-08-21T14:53:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pamphlet-draws-travellers-attention-new-sex-law",
+        "date": "1996-08-21T14:54:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/appointments-maori-broadcasting-funding-agency",
+        "date": "1996-08-21T14:59:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/no-public-money-be-used",
+        "date": "1996-08-22T14:55:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/firearms-control-be-reviewed",
+        "date": "1996-08-22T14:56:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/wide-range-skills-che-boards",
+        "date": "1996-08-22T14:57:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-concerned-government-position-airport-misrepresented",
+        "date": "1996-08-22T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/asian-foreign-investment",
+        "date": "1996-08-22T15:16:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-regrets-failure-conference-disarmament",
+        "date": "1996-08-23T15:01:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/hong-kong-nattrass",
+        "date": "1996-08-24T15:02:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/hundreds-be-helped-latest-allocation",
+        "date": "1996-08-25T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/extra-investment-provide-more-teachers",
+        "date": "1996-08-27T15:11:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/police-taking-action-youth-offending",
+        "date": "1996-08-28T15:12:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/anderton-comments-border-controll-misinformed",
+        "date": "1996-08-29T15:13:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/crime-and-road-safety-statistics-continue-policing-success-story",
+        "date": "1996-08-30T15:17:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-says-goff-scaremongering",
+        "date": "1996-08-30T15:18:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-receives-report-kaimanawa-horses",
+        "date": "1996-08-30T15:19:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/paranoia-over-consultants-and-contractors",
+        "date": "1996-08-30T15:19:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/labour-health-policy-threatens-viability-smaller-hospitals",
+        "date": "1996-08-30T15:20:00Z"
+      }
+    ],
+    "1996-09": [
+      {
+        "url": "https://www.beehive.govt.nz/release/new-chief-naval-staff-announced",
+        "date": "1996-09-02T11:32:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-policies-combat-tb-announced",
+        "date": "1996-09-02T11:36:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-first-rural-policy-pathetic-effort",
+        "date": "1996-09-02T11:38:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-qualified-early-childhood-staff-new-programme",
+        "date": "1996-09-02T11:44:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealanders-iraq",
+        "date": "1996-09-03T11:39:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/turning-public-radio-over-advertisers-winston-peterss-plan",
+        "date": "1996-09-03T11:40:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/discussions-continue-kindergarten-associations",
+        "date": "1996-09-03T11:42:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/release-minerals-programmes-coal-metallic-and-non-metallic-minerals-and-industrial-rocks",
+        "date": "1996-09-03T11:43:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-firsts-maori-policy-voice-past",
+        "date": "1996-09-04T11:44:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-cannot-afford-limitless-maori-claims",
+        "date": "1996-09-04T11:46:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/radical-maori-policy-nz-first",
+        "date": "1996-09-04T11:48:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/women-fore-quality-culture",
+        "date": "1996-09-04T11:49:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-district-court-judge-2",
+        "date": "1996-09-05T11:49:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fees-studying-private-training-establishments",
+        "date": "1996-09-05T11:51:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-judge-environment-court",
+        "date": "1996-09-06T11:52:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ero-reports",
+        "date": "1996-09-09T11:53:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/appointment-judge-high-court-0",
+        "date": "1996-09-09T11:54:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/child-safety-critical",
+        "date": "1996-09-09T11:55:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/disarmament-expert-visits-new-zealand",
+        "date": "1996-09-09T11:56:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/appointments-board-museum-new-zealand-te-papa-tongarewa",
+        "date": "1996-09-09T12:02:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/announcement-historic-places-initiative-and-dame-catherine-tizards-appointment-chair-trust",
+        "date": "1996-09-10T11:57:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/surprise-rejection-pay-offer",
+        "date": "1996-09-10T11:58:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-welcomes-comprehensive-test-ban-treatys-adoption",
+        "date": "1996-09-11T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/families-need-apply-tax-credit",
+        "date": "1996-09-11T12:25:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-committed-cook-islands",
+        "date": "1996-09-14T12:03:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/release-rcd-australia",
+        "date": "1996-09-16T11:56:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/uk-and-france-exempt-nz-sheepmeat-measures",
+        "date": "1996-09-16T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-high-commissioner-western-samoa",
+        "date": "1996-09-16T12:04:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/appointments-waitangi-tribunal-announced",
+        "date": "1996-09-16T12:07:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/battle-training-facility-will-meet-troops-needs-says-minister",
+        "date": "1996-09-23T11:34:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/response-iraqi-bombing",
+        "date": "1996-09-23T11:41:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/labour-broadcast-policy-affront-bill-rights",
+        "date": "1996-09-23T11:47:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/announcement-1650000-expand-successful-youth-programmes",
+        "date": "1996-09-23T12:09:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/20-million-new-border-control-strategy",
+        "date": "1996-09-23T12:26:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/expansion-lsv-scheme-shows-governments-commitment-young-people",
+        "date": "1996-09-24T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/1-million-fund-iwi-social-services",
+        "date": "1996-09-25T12:11:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/auckland-snapper-fishery-catch-limit-announced",
+        "date": "1996-09-26T12:12:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/hippy-expansion",
+        "date": "1996-09-26T12:12:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/reversal-crown-ban-waitangi-welcomed",
+        "date": "1996-09-26T12:14:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/lights-will-stay",
+        "date": "1996-09-30T12:13:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/assault-levin-police-utterly-abhorrent",
+        "date": "1996-09-30T12:15:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cabinet-approves-settlement-whakatoheas-historical-claims",
+        "date": "1996-09-30T12:16:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-welcomes-opening-trans-tasman-trade",
+        "date": "1996-09-30T12:17:00Z"
+      }
+    ],
+    "1996-10": [
+      {
+        "url": "https://www.beehive.govt.nz/release/brazil-open-embassy-wellington",
+        "date": "1996-10-01T12:27:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-labels-panzs-claims-extravagant-and-inflammatory",
+        "date": "1996-10-01T12:28:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/typhoon-victims-receive-new-zealand-aid",
+        "date": "1996-10-02T12:28:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ngai-tahu-settlement-restores-confidence",
+        "date": "1996-10-04T12:29:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ngai-tahu-buy-wigram-airbase",
+        "date": "1996-10-07T12:30:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-district-court-judge-appointed-0",
+        "date": "1996-10-11T12:32:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bougainville-assassination",
+        "date": "1996-10-14T12:32:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/september-1996-underlying-inflation",
+        "date": "1996-10-15T12:33:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/czech-republic-announces-visa-waiver-kiwis",
+        "date": "1996-10-15T12:34:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/australia-misses-security-council-seat",
+        "date": "1996-10-22T12:35:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-refutes-claims-concerning-cypfs-funding",
+        "date": "1996-10-24T12:36:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tough-new-sentencing-powers-reflected-report",
+        "date": "1996-10-25T12:37:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/justice-john-wallace-retires",
+        "date": "1996-10-25T12:38:00Z"
+      }
+    ],
+    "1996-11": [
+      {
+        "url": "https://www.beehive.govt.nz/release/tragedy-zaire-prompts-government-aid-200-000",
+        "date": "1996-11-01T12:39:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/hon-john-banks-resigns-cabinet",
+        "date": "1996-11-01T12:40:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-welcomes-police-moves-further-enhance-police-officer-safety",
+        "date": "1996-11-01T12:41:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tourism-minister-pays-tribute-norman-geary",
+        "date": "1996-11-05T12:43:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/attorney-general-backs-judges-ability-determine-bail-issues",
+        "date": "1996-11-06T12:44:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tertiary-funding-allocations-1997",
+        "date": "1996-11-06T12:47:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/funding-schools",
+        "date": "1996-11-07T12:47:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/retiring-ministers-reallocation-portfolios",
+        "date": "1996-11-07T13:03:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/employment-growth-continues",
+        "date": "1996-11-08T13:02:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/dr-brashs-speech",
+        "date": "1996-11-11T13:01:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-wont-intervene-apple-dispute",
+        "date": "1996-11-13T13:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/design-parliaments-new-ministerial-building-released",
+        "date": "1996-11-14T12:58:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/october-fall-registered-unemployment",
+        "date": "1996-11-14T12:59:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/un-backs-nuclear-weapon-free-southern-hemisphere",
+        "date": "1996-11-14T13:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-supports-un-move-towards-nuclear-disarmament",
+        "date": "1996-11-15T12:43:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/executive-chairman-appointed-capital-coast-health",
+        "date": "1996-11-18T12:42:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/keep-reporting-child-abuse-cases-and-use-official-avenues-complaint-if-necessary-gresham",
+        "date": "1996-11-18T12:45:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/west-coast-schools-eligible-priority-staffing-status",
+        "date": "1996-11-19T12:48:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/oecd-environmental-performance-review-new-zealand",
+        "date": "1996-11-19T12:55:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pm-announces-further-assistance-zaire",
+        "date": "1996-11-22T12:54:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/japanese-whaling-protested",
+        "date": "1996-11-27T12:50:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/firearms-review-deadline-extended",
+        "date": "1996-11-27T12:51:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/che-ceo-bonuses",
+        "date": "1996-11-27T12:52:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/prospect-lengthy-parliamentary-recess-due-mmp-process-says-gresham",
+        "date": "1996-11-27T12:53:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/increased-assistance-red-cross",
+        "date": "1996-11-29T12:00:00Z"
+      }
+    ],
+    "1996-12": [
+      {
+        "url": "https://www.beehive.govt.nz/release/south-pacific-private-sector-aid",
+        "date": "1996-12-02T09:27:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/politicians-need-focus-welfare-solutions-not-just-problems",
+        "date": "1996-12-04T09:27:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/world-trade-organisation-conference-wto-and-apec",
+        "date": "1996-12-04T09:28:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/south-pacific-private-sector-aid-0",
+        "date": "1996-12-04T09:29:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/good-progress-being-made-supply-teachers",
+        "date": "1996-12-04T09:30:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-teacher-supply-initiative-get-experienced-nz-teachers-back-classrooms",
+        "date": "1996-12-05T09:31:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/opening-parliament-0",
+        "date": "1996-12-05T09:32:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pm-announces-dates-openings-parliament",
+        "date": "1996-12-05T09:33:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/privacy-commissioners-criticisms-another-re-run-says-gresham",
+        "date": "1996-12-05T09:35:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/us-cabinet-nominations-most-welcome",
+        "date": "1996-12-06T09:36:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/statement-rt-hon-j-b-bolger-leader-new-zealand-national-party",
+        "date": "1996-12-10T09:37:00Z"
+      }
+    ]
+  }
+}
