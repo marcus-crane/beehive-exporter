@@ -1,7 +1,7 @@
 ---
 title: "Huge interest in Government’s infrastructure plans"
 date: 2024-04-12
-url: https://www.beehive.govt.nz/release/huge-interest-government%E2%80%99s-infrastructure-plans
+url: https://www.beehive.govt.nz/release/huge-interest-governments-infrastructure-plans
 ministers:
   - Hon Shane Jones
 portfolios:

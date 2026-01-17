@@ -1,7 +1,7 @@
 ---
 title: "Mōkai Pātea settlement takes major step"
 date: 2025-11-06
-url: https://www.beehive.govt.nz/release/m%C5%8Dkai-p%C4%81tea-settlement-takes-major-step
+url: https://www.beehive.govt.nz/release/mokai-patea-settlement-takes-major-step
 ministers:
   - Hon Paul Goldsmith
 portfolios:

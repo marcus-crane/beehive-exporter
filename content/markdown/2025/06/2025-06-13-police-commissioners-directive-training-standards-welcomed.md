@@ -1,7 +1,7 @@
 ---
 title: "Police Commissioner’s directive on training standards welcomed"
 date: 2025-06-13
-url: https://www.beehive.govt.nz/release/police-commissioner%E2%80%99s-directive-training-standards-welcomed
+url: https://www.beehive.govt.nz/release/police-commissioners-directive-training-standards-welcomed
 ministers:
   - Hon Mark Mitchell
 portfolios:

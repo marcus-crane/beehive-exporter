@@ -1,7 +1,7 @@
 ---
 title: "Government commits to ‘stamping out’ foot and mouth disease"
 date: 2024-09-05
-url: https://www.beehive.govt.nz/release/government-commits-%E2%80%98stamping-out%E2%80%99-foot-and-mouth-disease
+url: https://www.beehive.govt.nz/release/government-commits-stamping-out-foot-and-mouth-disease
 ministers:
   - Hon Andrew Hoggard
 portfolios:

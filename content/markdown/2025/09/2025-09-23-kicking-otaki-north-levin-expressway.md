@@ -1,7 +1,7 @@
 ---
 title: "Kicking off the Ōtaki to north of Levin expressway"
 date: 2025-09-23
-url: https://www.beehive.govt.nz/release/kicking-%C5%8Dtaki-north-levin-expressway
+url: https://www.beehive.govt.nz/release/kicking-otaki-north-levin-expressway
 ministers:
   - Hon Chris Bishop
 portfolios:

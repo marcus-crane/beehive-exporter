@@ -1,7 +1,7 @@
 ---
 title: "Ministry for Regulation kicks off first sector review – Early Childhood Education"
 date: 2024-06-05
-url: https://www.beehive.govt.nz/release/ministry-regulation-kicks-first-sector-review-%E2%80%93-early-childhood-education
+url: https://www.beehive.govt.nz/release/ministry-regulation-kicks-first-sector-review--early-childhood-education
 ministers:
   - Hon David Seymour
 portfolios:

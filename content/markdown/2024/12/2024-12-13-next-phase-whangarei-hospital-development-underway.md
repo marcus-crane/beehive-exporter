@@ -1,7 +1,7 @@
 ---
 title: "Next phase of Whangārei Hospital development underway"
 date: 2024-12-13
-url: https://www.beehive.govt.nz/release/next-phase-whang%C4%81rei-hospital-development-underway
+url: https://www.beehive.govt.nz/release/next-phase-whangarei-hospital-development-underway
 ministers:
   - Hon Dr Shane Reti
 portfolios:

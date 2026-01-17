@@ -1,7 +1,7 @@
 ---
 title: "Celebrating 132 Years of Women’s Suffrage"
 date: 2025-09-18
-url: https://www.beehive.govt.nz/release/celebrating-132-years-women%E2%80%99s-suffrage
+url: https://www.beehive.govt.nz/release/celebrating-132-years-womens-suffrage
 ministers:
   - Hon Nicola Grigg
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "NZ–Saudi Arabia Business Council established"
 date: 2025-09-17
-url: https://www.beehive.govt.nz/release/nz%E2%80%93saudi-arabia-business-council-established
+url: https://www.beehive.govt.nz/release/nzsaudi-arabia-business-council-established
 ministers:
   - Hon Todd McClay
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Economic growth the focus of PM’s visit to Viet Nam"
 date: 2025-02-20
-url: https://www.beehive.govt.nz/release/economic-growth-focus-pm%E2%80%99s-visit-viet-nam
+url: https://www.beehive.govt.nz/release/economic-growth-focus-pms-visit-viet-nam
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

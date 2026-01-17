@@ -1,7 +1,7 @@
 ---
 title: "Government going after gangs’ guns with FPOs"
 date: 2024-02-29
-url: https://www.beehive.govt.nz/release/government-going-after-gangs%E2%80%99-guns-fpos
+url: https://www.beehive.govt.nz/release/government-going-after-gangs-guns-fpos
 ministers:
   - Hon Nicole McKee
 portfolios:

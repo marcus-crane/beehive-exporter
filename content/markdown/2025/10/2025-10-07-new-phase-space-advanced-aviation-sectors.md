@@ -6,8 +6,6 @@ ministers:
   - Hon Judith Collins KC
 portfolios:
   - Space
-attachments:
-  - https://www.mbie.govt.nz/assets/innovation-for-growth-charting-the-space-and-advanced-aviation-sectors.pdf
 ---
 
 The space and advanced aviation sectors are entering a phase defined by scale, ambition and global relevance, Space Minister Judith Collins says.

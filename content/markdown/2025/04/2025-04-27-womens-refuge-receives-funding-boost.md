@@ -1,7 +1,7 @@
 ---
 title: "Women’s Refuge receives funding boost"
 date: 2025-04-27
-url: https://www.beehive.govt.nz/release/women%E2%80%99s-refuge-receives-funding-boost
+url: https://www.beehive.govt.nz/release/womens-refuge-receives-funding-boost
 ministers:
   - Hon Matt Doocey
 portfolios:

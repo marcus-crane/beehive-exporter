@@ -1,7 +1,7 @@
 ---
 title: "NZ celebrates Papua New Guinea’s independence"
 date: 2025-09-11
-url: https://www.beehive.govt.nz/release/nz-celebrates-papua-new-guinea%E2%80%99s-independence
+url: https://www.beehive.govt.nz/release/nz-celebrates-papua-new-guineas-independence
 ministers:
   - Rt Hon Winston Peters
 portfolios:

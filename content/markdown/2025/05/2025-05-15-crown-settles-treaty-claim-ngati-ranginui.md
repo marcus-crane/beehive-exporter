@@ -1,7 +1,7 @@
 ---
 title: "Crown settles Treaty claim with Ngāti Ranginui"
 date: 2025-05-15
-url: https://www.beehive.govt.nz/release/crown-settles-treaty-claim-ng%C4%81ti-ranginui
+url: https://www.beehive.govt.nz/release/crown-settles-treaty-claim-ngati-ranginui
 ministers:
   - Hon Paul Goldsmith
 portfolios:

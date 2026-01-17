@@ -6,6 +6,8 @@ ministers:
   - Hon Simeon Brown
 portfolios:
   - Transport
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2024-11/Papakura%20to%20Drury%20map.jpg
 ---
 
 Construction on the next stage of the SH1 Papakura to Drury project will begin early next month, with the contract for works awarded to Fulton Hogan, Transport Minister Simeon Brown says.

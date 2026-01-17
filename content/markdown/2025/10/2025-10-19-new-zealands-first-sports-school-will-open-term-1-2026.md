@@ -1,7 +1,7 @@
 ---
 title: "New Zealand’s first sports school will open in Term 1 2026"
 date: 2025-10-19
-url: https://www.beehive.govt.nz/release/new-zealand%E2%80%99s-first-sports-school-will-open-term-1-2026
+url: https://www.beehive.govt.nz/release/new-zealands-first-sports-school-will-open-term-1-2026
 ministers:
   - Hon David Seymour
 portfolios:

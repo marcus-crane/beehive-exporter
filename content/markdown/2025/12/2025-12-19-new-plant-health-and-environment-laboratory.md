@@ -8,6 +8,10 @@ ministers:
 portfolios:
   - Biosecurity
   - Infrastructure
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-12/20251219_112929.jpg
+  - https://www.beehive.govt.nz/sites/default/files/2025-12/Ministers%20on%20site.jpg
+  - https://www.beehive.govt.nz/sites/default/files/2025-12/Safety%20briefing.jpg
 ---
 
 The Government has committed to a major biosecurity investment to protect New Zealand’s primary industries and drive economic growth, says Biosecurity Minister Andrew Hoggard and Infrastructure Minister Chris Bishop.

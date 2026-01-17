@@ -1,7 +1,7 @@
 ---
 title: "Earthquake-prone building system refocused"
 date: 2025-09-29
-url: https://www.beehive.govt.nz/release/earthquake-prone-building-system-refocused%C2%A0
+url: https://www.beehive.govt.nz/release/earthquake-prone-building-system-refocused
 ministers:
   - Hon Chris Penk
 portfolios:

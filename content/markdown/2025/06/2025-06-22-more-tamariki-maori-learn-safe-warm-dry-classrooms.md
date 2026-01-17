@@ -1,7 +1,7 @@
 ---
 title: "More tāmariki Māori to learn in safe, warm & dry classrooms"
 date: 2025-06-22
-url: https://www.beehive.govt.nz/release/more-t%C4%81mariki-m%C4%81ori-learn-safe-warm-dry-classrooms
+url: https://www.beehive.govt.nz/release/more-tamariki-maori-learn-safe-warm-dry-classrooms
 ministers:
   - Hon Erica Stanford
 portfolios:

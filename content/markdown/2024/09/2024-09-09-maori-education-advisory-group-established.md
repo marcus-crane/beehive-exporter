@@ -1,7 +1,7 @@
 ---
 title: "Māori Education Advisory Group established"
 date: 2024-09-09
-url: https://www.beehive.govt.nz/release/m%C4%81ori-education-advisory-group-established
+url: https://www.beehive.govt.nz/release/maori-education-advisory-group-established
 ministers:
   - Hon Erica Stanford
 portfolios:

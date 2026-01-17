@@ -1,7 +1,7 @@
 ---
 title: "Sod turned on Whangārei Hospital car park extension"
 date: 2025-11-13
-url: https://www.beehive.govt.nz/release/sod-turned-whang%C4%81rei-hospital-car-park-extension
+url: https://www.beehive.govt.nz/release/sod-turned-whangarei-hospital-car-park-extension
 ministers:
   - Hon Simeon Brown
 portfolios:

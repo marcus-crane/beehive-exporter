@@ -1,7 +1,7 @@
 ---
 title: "Boosting New Zealand’s film industry"
 date: 2025-11-06
-url: https://www.beehive.govt.nz/release/boosting-new-zealand%E2%80%99s-film-industry
+url: https://www.beehive.govt.nz/release/boosting-new-zealands-film-industry
 ministers:
   - Hon Nicola Willis
 portfolios:

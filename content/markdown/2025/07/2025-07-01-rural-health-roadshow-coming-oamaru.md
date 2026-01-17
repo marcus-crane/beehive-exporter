@@ -1,7 +1,7 @@
 ---
 title: "Rural health roadshow coming to Ōamaru"
 date: 2025-07-01
-url: https://www.beehive.govt.nz/release/rural-health-roadshow-coming-%C5%8Damaru
+url: https://www.beehive.govt.nz/release/rural-health-roadshow-coming-oamaru
 ministers:
   - Hon Matt Doocey
 portfolios:

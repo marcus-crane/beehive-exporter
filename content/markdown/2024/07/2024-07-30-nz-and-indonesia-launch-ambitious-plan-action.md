@@ -6,8 +6,6 @@ ministers:
   - Rt Hon Winston Peters
 portfolios:
   - Foreign Affairs
-attachments:
-  - https://www.mfat.govt.nz/assets/Countries-and-Regions/South-East-Asia/Indonesia/NZ-IDN-Plan-of-Action-2025-2029.pdf
 ---
 
 New Zealand and Indonesia have launched an ambitious Plan of Action to guide bilateral cooperation over the next five years, Foreign Minister Winston Peters has announced.

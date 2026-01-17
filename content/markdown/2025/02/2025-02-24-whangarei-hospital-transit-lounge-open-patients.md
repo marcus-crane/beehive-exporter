@@ -1,7 +1,7 @@
 ---
 title: "Whangārei Hospital transit lounge open to patients"
 date: 2025-02-24
-url: https://www.beehive.govt.nz/release/whang%C4%81rei-hospital-transit-lounge-open-patients
+url: https://www.beehive.govt.nz/release/whangarei-hospital-transit-lounge-open-patients
 ministers:
   - Hon Simeon Brown
 portfolios:

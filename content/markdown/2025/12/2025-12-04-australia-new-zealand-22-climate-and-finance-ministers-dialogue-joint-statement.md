@@ -1,7 +1,7 @@
 ---
 title: "Australia-New Zealand 2+2 Climate and Finance Ministers’ Dialogue Joint Statement"
 date: 2025-12-04
-url: https://www.beehive.govt.nz/release/australia-new-zealand-22-climate-and-finance-ministers%E2%80%99-dialogue-joint-statement
+url: https://www.beehive.govt.nz/release/australia-new-zealand-22-climate-and-finance-ministers-dialogue-joint-statement
 ministers:
   - Hon Nicola Willis
   - Hon Simon Watts

@@ -1,7 +1,7 @@
 ---
 title: "Funding approved to four-lane busiest section of Hawke’s Bay Expressway"
 date: 2025-08-21
-url: https://www.beehive.govt.nz/release/funding-approved-four-lane-busiest-section-hawke%E2%80%99s-bay-expressway
+url: https://www.beehive.govt.nz/release/funding-approved-four-lane-busiest-section-hawkes-bay-expressway
 ministers:
   - Hon Chris Bishop
 portfolios:

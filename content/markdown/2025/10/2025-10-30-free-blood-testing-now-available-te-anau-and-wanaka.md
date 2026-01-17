@@ -1,7 +1,7 @@
 ---
 title: "Free blood testing now available in Te Anau and Wānaka"
 date: 2025-10-30
-url: https://www.beehive.govt.nz/release/free-blood-testing-now-available-te-anau-and-w%C4%81naka
+url: https://www.beehive.govt.nz/release/free-blood-testing-now-available-te-anau-and-wanaka
 ministers:
   - Hon Simeon Brown
   - Hon Matt Doocey

@@ -1,7 +1,7 @@
 ---
 title: "Invigorating New Zealand’s capital markets"
 date: 2024-12-12
-url: https://www.beehive.govt.nz/release/invigorating-new-zealand%E2%80%99s-capital-markets
+url: https://www.beehive.govt.nz/release/invigorating-new-zealands-capital-markets
 ministers:
   - Hon Andrew Bayly
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Funding for Christchurch’s new Pages Road bridge confirmed"
 date: 2025-08-13
-url: https://www.beehive.govt.nz/release/funding-christchurch%E2%80%99s-new-pages-road-bridge-confirmed
+url: https://www.beehive.govt.nz/release/funding-christchurchs-new-pages-road-bridge-confirmed
 ministers:
   - Hon James Meager
 portfolios:

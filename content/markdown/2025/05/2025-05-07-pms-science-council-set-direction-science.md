@@ -1,7 +1,7 @@
 ---
 title: "PM’s Science Council to set direction for science"
 date: 2025-05-07
-url: https://www.beehive.govt.nz/release/pm%E2%80%99s-science-council-set-direction-science
+url: https://www.beehive.govt.nz/release/pms-science-council-set-direction-science
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

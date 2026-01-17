@@ -1,7 +1,7 @@
 ---
 title: "‘Safety-first’ approach at Oranga Tamariki underway"
 date: 2025-04-07
-url: https://www.beehive.govt.nz/release/%E2%80%98safety-first%E2%80%99-approach-oranga-tamariki-underway
+url: https://www.beehive.govt.nz/release/safety-first-approach-oranga-tamariki-underway
 ministers:
   - Hon Karen Chhour
 portfolios:

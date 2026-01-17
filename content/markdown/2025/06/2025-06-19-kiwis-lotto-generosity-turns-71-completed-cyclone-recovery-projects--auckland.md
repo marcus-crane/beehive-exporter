@@ -1,7 +1,7 @@
 ---
 title: "Kiwis’ Lotto generosity turns into 71 completed cyclone recovery projects – Auckland"
 date: 2025-06-19
-url: https://www.beehive.govt.nz/release/kiwis%E2%80%99-lotto-generosity-turns-71-completed-cyclone-recovery-projects-%E2%80%93-auckland
+url: https://www.beehive.govt.nz/release/kiwis-lotto-generosity-turns-71-completed-cyclone-recovery-projects--auckland
 ministers:
   - Hon Brooke van Velden
 portfolios:

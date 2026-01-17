@@ -1,7 +1,7 @@
 ---
 title: "Supporting whānau out of emergency housing"
 date: 2024-04-29
-url: https://www.beehive.govt.nz/release/supporting-wh%C4%81nau-out-emergency-housing
+url: https://www.beehive.govt.nz/release/supporting-whanau-out-emergency-housing
 ministers:
   - Hon Tama Potaka
 portfolios:

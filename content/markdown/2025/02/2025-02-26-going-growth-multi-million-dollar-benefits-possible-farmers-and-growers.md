@@ -11,10 +11,6 @@ portfolios:
   - Food Safety
   - Regulation
 attachments:
-  - https://www.regulation.govt.nz/assets/Publication-Documents/Agricultural-Horticultural-Products-Regulatory-Review-full-report.pdf
-  - https://www.regulation.govt.nz/assets/Publication-Documents/Agricultural-Horticultural-Products-Regulatory-Review-summary-report.pdf
-  - https://www.regulation.govt.nz/assets/Publication-Documents/Agricultural-Horticultural-Products-Regulatory-Review-summary-engagement.pdf
-  - https://www.regulation.govt.nz/assets/Publication-Documents/Agricultural-Horticultural-Products-Regulatory-Review-scenario-analysis.pdf
   - https://www.beehive.govt.nz/sites/default/files/2025-02/Agricultural%20and%20Horticultural%20Products%20Regulatory%20Review%20media%20information.pdf
   - https://www.beehive.govt.nz/sites/default/files/2025-02/Agricultural-Horticultural-Products-Regulatory-Review-summary-report.pdf
   - https://www.beehive.govt.nz/sites/default/files/2025-02/Agricultural-Horticultural-Products-Regulatory-Review-full-report.pdf

@@ -1,7 +1,7 @@
 ---
 title: "Māori housing partnership to deliver 100 affordable rental homes"
 date: 2025-02-26
-url: https://www.beehive.govt.nz/release/m%C4%81ori-housing-partnership-deliver-100-affordable-rental-homes
+url: https://www.beehive.govt.nz/release/maori-housing-partnership-deliver-100-affordable-rental-homes
 ministers:
   - Hon Tama Potaka
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Ngāruawāhia section of Waikato Expressway back to 4 lanes for Christmas"
 date: 2024-12-19
-url: https://www.beehive.govt.nz/release/ng%C4%81ruaw%C4%81hia-section-waikato-expressway-back-4-lanes-christmas
+url: https://www.beehive.govt.nz/release/ngaruawahia-section-waikato-expressway-back-4-lanes-christmas
 ministers:
   - Hon Simeon Brown
 portfolios:

@@ -1,0 +1,41 @@
+---
+title: "New Zealand – Japan Summit Meeting Joint Press Release"
+date: 2017-05-18
+url: https://www.beehive.govt.nz/release/new-zealand--japan-summit-meeting-joint-press-release
+ministers:
+  - Bill English
+portfolios:
+  - Prime Minister
+---
+
+1\. Prime Minister of New Zealand the Right Honourable Bill English and Prime Minister of Japan His Excellency Shinzo Abe held a productive meeting in Tokyo on 17th May 2017. The two leaders reiterated the Strategic Cooperative Partnership between New Zealand and Japan founded on common values, such as freedom, democracy, rule of law and human rights, as well as a strong commitment to peace and security, free trade and investment, and sustainable development.  
+
+2\. The two leaders acknowledged the success and maturity of New Zealand –Japan relationship at all levels, reflecting strong cooperation over many years.
+
+3\. The two leaders reiterated their firm commitment to the Trans-Pacific Partnership (TPP). Prime Minister Abe welcomed New Zealand’s recent ratification of the TPP Agreement, alongside Japan. The two leaders appreciated the value of the TPP in enhancing high-standard regional trade rules and architecture, and contributing to growth, competition, innovation, and productivity that creates jobs and lower costs to consumers, as well as its strategic benefits. The two leaders affirmed the importance of close cooperation in realising TPP’s strategic and economic benefits and remain committed to maintaining the unity among the signatories and early entry into force of the TPP Agreement, whilst bearing in mind opportunities for other economies to join if they accept the high standards of the TPP. They also confirmed that New Zealand and Japan continue to work together on the Regional Comprehensive Economic Partnership (RCEP) Agreement negotiations to achieve a high-quality agreement, covering trade in goods, trade in services, and investment as well as rules such as trade facilitation, rules of origin, e-commerce, intellectual property and government procurement, reaffirming the RCEP Guiding Principles and the Joint Statements by RCEP Leaders. They shared the view that ambitious, comprehensive, balanced, and high-standard TPP and RCEP outcomes would contribute positively to the shared goal of regional economic integration.  
+
+4\. The two leaders condemned in the strongest terms North Korea’s nuclear tests, repeated ballistic missile launches and proliferation activities. They strongly urged North Korea to cease its destabilising and provocative actions immediately and to fully comply with its international obligations and commitments, including those under relevant United Nations (UN) Security Council resolutions. The two leaders welcomed the unanimous adoption of UN Security Council resolution 2321 and emphasised the importance of enhancing pressure on North Korea through full, thorough and sustained implementation by Member States of all relevant UN Security Council resolutions, including Resolutions 2270 and 2321. The two leaders strongly urged North Korea to resolve the abductions issue at the earliest time.  
+
+5\. The two leaders underlined the importance of ensuring a stable, free and open rules-based order and of enhancing connectivity in our region and beyond. They confirmed that New Zealand and Japan will continue to work proactively in this regard, together with other like-minded partners. Prime Minister English appreciated the briefing by Prime Minister Abe on Japan’s “Free and Open Indo-Pacific Strategy” and welcomed Japan’s greater engagement in the region.  
+
+6\. The two leaders also re-emphasised the importance of upholding the rules-based regional and international order in the maritime domain, and called on all states to respect freedom of navigation and overflight, and unimpeded trade. They reaffirmed that any issues in the maritime domain should be resolved peacefully and in accordance with international law and expressed their strong opposition to any use of force or actions that could increase tensions.  
+
+7\. In this regard, the two leaders expressed concern over the situation in the South China Sea and called on the parties to settle disputes by peaceful means in accordance with United Nations
+
+Conventions on the Law of the Sea (UNCLOS) and in light of the award rendered by the Arbitral Tribunal on 12 July 2016. They called on all parties to uphold freedom of navigation and overflight and ensure unimpeded trade while avoiding provocative actions that could increase tensions and erode regional trust and confidence, including land reclamation, building of outposts, construction and militarisation.  
+
+8\. The two leaders encouraged early finalisation of an effective Code of Conduct in the South China Sea (COC) and full implementation of the Declaration on the Conduct of Parties in the South China Sea (DOC) in its entirety.  
+
+9\. The two leaders welcomed the contribution of the East Asia Summit (EAS) and Asia-Pacific Economic Cooperation (APEC) as important elements of regional architecture that promote stability and prosperity and advance regional economic integration. Japan welcomed New Zealand’s hosting of APEC in 2021.  
+
+10\. Recognising the unique and complex challenges in the Pacific region, the two leaders emphasised the importance of cooperation between Japan, New Zealand, and the Pacific island countries to build economic and environmental resilience and maintain regional peace and stability. The two leaders committed to continue practical cooperation and policy consultation.  
+
+11\. The two leaders acknowledged the commitment to develop the security and defence relationship following the signing of a Memorandum of Intent on Defence Cooperation in 2013. They welcomed recent concrete progress on the unit-to-unit exchanges and underscored the importance to seek further exchange and cooperation opportunities. They encouraged their officials to continue work on a possible acquisition and cross-servicing agreement (ACSA) between the two countries.  
+
+12\. The two leaders encouraged stronger business linkages between Japan and New Zealand in areas of complementary strengths. They reaffirmed the importance of strengthening the partnership in food and agriculture between the two countries, and a shared commitment to food quality and safety. They welcomed the recent growth in research and commercialisation partnerships in functional food, elderly care technologies, agri-business, and geothermal energy. The two leaders welcomed the ongoing discussion between their officials to explore a Japan-New Zealand partnership on renewable energy. Prime Minister English welcomed Japan’s upcoming role as Chair of the Global Research Alliance on Agricultural Greenhouse Gases (GRA). The two leaders instructed their officials to resume Joint Economic Consultations.
+
+13\. The two leaders welcomed enhanced bilateral cooperation in sport, culture and people-to- people linkages. They stated their intention to cooperate for the success of the Rugby World Cup 2019, the Tokyo 2020 Olympic and Paralympic Games and the World Masters Games 2021 to be hosted by Japan. They appreciated both initiatives; “Sport for Tomorrow” and “Game on English”. They also welcomed the signing of the bilateral Memorandum of Cooperation between the Japan Sports Agency and the Sport New Zealand. The two leaders reaffirmed the importance of sister city exchanges for promoting mutual understanding especially among young people.  
+
+14\. With their past experiences of natural disasters in both countries, including great earthquakes, the two leaders shared the intention that both sides will seek further opportunities to work together to enhance recovery and resilience in the region.  
+
+15\. The two leaders reaffirmed that Japan and New Zealand would continue to work closely together on global issues such as security, disarmament and non-proliferation, human rights, the 2030  Agenda for Sustainable Development, climate change, the UN Security Council reform, based on their shared commitment to common democratic values, peace and security, free trade and investment, and international law.

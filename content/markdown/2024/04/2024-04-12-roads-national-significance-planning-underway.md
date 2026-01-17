@@ -6,8 +6,6 @@ ministers:
   - Hon Simeon Brown
 portfolios:
   - Transport
-attachments:
-  - http://www.nzta.govt.nz/assets/resources/state-highway-investment-proposal-2024-34/state-highway-investment-proposal-2024-34.pdf
 ---
 
 The NZ Transport Agency (NZTA) has signalled their proposed delivery approach for the Government’s 15 Roads of National Significance (RoNS), with the release of the State Highway Investment Proposal (SHIP) today, Transport Minister Simeon Brown says.

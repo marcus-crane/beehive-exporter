@@ -1,7 +1,7 @@
 ---
 title: "Minister welcomes the launch of Vine –  Violence Information Aotearoa"
 date: 2025-05-07
-url: https://www.beehive.govt.nz/release/minister-welcomes-launch-vine-%E2%80%93-violence-information-aotearoa
+url: https://www.beehive.govt.nz/release/minister-welcomes-launch-vine--violence-information-aotearoa
 ministers:
   - Hon Karen Chhour
 portfolios:

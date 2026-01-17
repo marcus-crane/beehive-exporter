@@ -1,7 +1,7 @@
 ---
 title: "Marking Victory in Europe Day’s 80th anniversary"
 date: 2025-05-07
-url: https://www.beehive.govt.nz/release/marking-victory-europe-day%E2%80%99s-80th-anniversary
+url: https://www.beehive.govt.nz/release/marking-victory-europe-days-80th-anniversary
 ministers:
   - Hon Paul Goldsmith
   - Hon Judith Collins KC

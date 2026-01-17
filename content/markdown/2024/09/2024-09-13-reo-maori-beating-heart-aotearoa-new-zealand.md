@@ -1,7 +1,7 @@
 ---
 title: "Reo Māori the ‘beating heart’ of Aotearoa New Zealand"
 date: 2024-09-13
-url: https://www.beehive.govt.nz/release/reo-m%C4%81ori-%E2%80%98beating-heart%E2%80%99-aotearoa-new-zealand
+url: https://www.beehive.govt.nz/release/reo-maori-beating-heart-aotearoa-new-zealand
 ministers:
   - Hon Tama Potaka
 portfolios:

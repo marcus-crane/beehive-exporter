@@ -6,6 +6,9 @@ ministers:
   - Hon Chris Bishop
 portfolios:
   - Transport
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-07/Intersection%20upgrade.jpg
+  - https://www.beehive.govt.nz/sites/default/files/2025-07/Speed%20Limit%20review.jpg
 ---
 
 Safety improvements will begin soon on State Highway 2 (SH2) at the Moonshine Hill Road intersection at Riverstone Terraces in Upper Hutt, including intersection upgrades and a speed limit review, Transport Minister Chris Bishop says.

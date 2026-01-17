@@ -1,7 +1,7 @@
 ---
 title: "Air New Zealand and Singapore Airlines’ alliance extended"
 date: 2024-02-28
-url: https://www.beehive.govt.nz/release/air-new-zealand-and-singapore-airlines%E2%80%99-alliance-extended
+url: https://www.beehive.govt.nz/release/air-new-zealand-and-singapore-airlines-alliance-extended
 ministers:
   - Hon Matt Doocey
 portfolios:

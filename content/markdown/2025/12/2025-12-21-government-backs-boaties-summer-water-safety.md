@@ -1,7 +1,7 @@
 ---
 title: "Government backs boaties’ summer water safety"
 date: 2025-12-21
-url: https://www.beehive.govt.nz/release/government-backs-boaties%E2%80%99-summer-water-safety
+url: https://www.beehive.govt.nz/release/government-backs-boaties-summer-water-safety
 ministers:
   - Hon James Meager
 portfolios:

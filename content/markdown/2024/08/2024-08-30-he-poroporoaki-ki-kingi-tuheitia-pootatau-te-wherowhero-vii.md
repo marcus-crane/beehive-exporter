@@ -1,7 +1,7 @@
 ---
 title: "He poroporoaki ki a Kīngi Tuheitia Pootatau Te Wherowhero VII"
 date: 2024-08-30
-url: https://www.beehive.govt.nz/release/he-poroporoaki-ki-k%C4%ABngi-tuheitia-pootatau-te-wherowhero-vii
+url: https://www.beehive.govt.nz/release/he-poroporoaki-ki-kingi-tuheitia-pootatau-te-wherowhero-vii
 ministers:
   - Hon Tama Potaka
 portfolios:

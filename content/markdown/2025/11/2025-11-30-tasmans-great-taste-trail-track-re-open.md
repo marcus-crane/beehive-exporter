@@ -1,7 +1,7 @@
 ---
 title: "Tasman’s Great Taste Trail on track to re-open"
 date: 2025-11-30
-url: https://www.beehive.govt.nz/release/tasman%E2%80%99s-great-taste-trail-track-re-open
+url: https://www.beehive.govt.nz/release/tasmans-great-taste-trail-track-re-open
 ministers:
   - Hon Louise Upston
 portfolios:

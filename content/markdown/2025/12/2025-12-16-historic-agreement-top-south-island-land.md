@@ -9,6 +9,7 @@ portfolios:
   - Attorney-General
   - Conservation
 attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-12/Stafford%20map.jpg
   - https://www.beehive.govt.nz/sites/default/files/2025-12/Stafford%20media%20backgrounder%2C%20Q%26A_0.docx
 ---
 

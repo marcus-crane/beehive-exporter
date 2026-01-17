@@ -1,7 +1,7 @@
 ---
 title: "New science fund to boost Māori economy"
 date: 2025-05-28
-url: https://www.beehive.govt.nz/release/new-science-fund-boost-m%C4%81ori-economy
+url: https://www.beehive.govt.nz/release/new-science-fund-boost-maori-economy
 ministers:
   - Hon Dr Shane Reti
   - Hon Tama Potaka

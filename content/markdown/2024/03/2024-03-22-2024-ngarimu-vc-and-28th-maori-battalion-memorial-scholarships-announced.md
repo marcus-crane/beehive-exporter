@@ -1,7 +1,7 @@
 ---
 title: "2024 Ngarimu VC and 28th (Māori) Battalion Memorial Scholarships announced"
 date: 2024-03-22
-url: https://www.beehive.govt.nz/release/2024-ngarimu-vc-and-28th-m%C4%81ori-battalion-memorial-scholarships-announced
+url: https://www.beehive.govt.nz/release/2024-ngarimu-vc-and-28th-maori-battalion-memorial-scholarships-announced
 ministers:
   - Hon Erica Stanford
 portfolios:

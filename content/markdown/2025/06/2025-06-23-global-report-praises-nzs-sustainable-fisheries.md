@@ -1,7 +1,7 @@
 ---
 title: "Global report praises NZ’s sustainable fisheries"
 date: 2025-06-23
-url: https://www.beehive.govt.nz/release/global-report-praises-nz%E2%80%99s-sustainable-fisheries
+url: https://www.beehive.govt.nz/release/global-report-praises-nzs-sustainable-fisheries
 ministers:
   - Hon Shane Jones
 portfolios:

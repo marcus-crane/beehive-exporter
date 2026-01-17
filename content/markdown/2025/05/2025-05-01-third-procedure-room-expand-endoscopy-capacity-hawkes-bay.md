@@ -1,7 +1,7 @@
 ---
 title: "Third procedure room to expand endoscopy capacity in Hawke’s Bay"
 date: 2025-05-01
-url: https://www.beehive.govt.nz/release/third-procedure-room-expand-endoscopy-capacity-hawke%E2%80%99s-bay
+url: https://www.beehive.govt.nz/release/third-procedure-room-expand-endoscopy-capacity-hawkes-bay
 ministers:
   - Hon Simeon Brown
 portfolios:

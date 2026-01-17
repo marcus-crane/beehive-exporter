@@ -1,7 +1,7 @@
 ---
 title: "Climate change – mitigating the risks and costs"
 date: 2024-05-09
-url: https://www.beehive.govt.nz/release/climate-change-%E2%80%93-mitigating-risks-and-costs
+url: https://www.beehive.govt.nz/release/climate-change--mitigating-risks-and-costs
 ministers:
   - Hon Simon Watts
 portfolios:

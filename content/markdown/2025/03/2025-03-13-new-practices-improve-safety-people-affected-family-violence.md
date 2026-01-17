@@ -6,8 +6,6 @@ ministers:
   - Hon Karen Chhour
 portfolios:
   - Prevention of Family and Sexual Violence
-attachments:
-  - https://tepunaaonui.govt.nz/assets/Workforce-Frameworks/Risk-and-Safety-Practice-Framework-Web-Version.pdf
 ---
 
 The Minister for the Prevention of Family and Sexual Violence Karen Chhour has launched the new Family Violence Risk and Safety Practice Framework, which will improve the safety of people affected by family violence.

@@ -1,7 +1,7 @@
 ---
 title: "Anzac commemorations, Türkiye relationship focus of visit"
 date: 2024-04-19
-url: https://www.beehive.govt.nz/release/anzac-commemorations-t%C3%BCrkiye-relationship-focus-visit
+url: https://www.beehive.govt.nz/release/anzac-commemorations-turkiye-relationship-focus-visit
 ministers:
   - Rt Hon Winston Peters
 portfolios:

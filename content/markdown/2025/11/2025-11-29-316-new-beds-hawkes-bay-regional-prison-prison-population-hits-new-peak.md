@@ -1,7 +1,7 @@
 ---
 title: "316 new beds for Hawke’s Bay Regional Prison as prison population hits new peak"
 date: 2025-11-29
-url: https://www.beehive.govt.nz/release/316-new-beds-hawke%E2%80%99s-bay-regional-prison-prison-population-hits-new-peak
+url: https://www.beehive.govt.nz/release/316-new-beds-hawkes-bay-regional-prison-prison-population-hits-new-peak
 ministers:
   - Hon Mark Mitchell
 portfolios:

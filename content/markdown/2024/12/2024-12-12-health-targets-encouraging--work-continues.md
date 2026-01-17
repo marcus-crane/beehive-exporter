@@ -1,7 +1,7 @@
 ---
 title: "Health targets encouraging – work continues"
 date: 2024-12-12
-url: https://www.beehive.govt.nz/release/health-targets-encouraging-%E2%80%93-work-continues
+url: https://www.beehive.govt.nz/release/health-targets-encouraging--work-continues
 ministers:
   - Hon Dr Shane Reti
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Improving New Zealand’s environmental reporting"
 date: 2025-04-22
-url: https://www.beehive.govt.nz/release/improving-new-zealand%E2%80%99s-environmental-reporting
+url: https://www.beehive.govt.nz/release/improving-new-zealands-environmental-reporting
 ministers:
   - Hon Penny Simmonds
 portfolios:

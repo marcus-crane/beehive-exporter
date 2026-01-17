@@ -1,7 +1,7 @@
 ---
 title: "King’s Counsel appointments 2024"
 date: 2024-06-27
-url: https://www.beehive.govt.nz/release/king%E2%80%99s-counsel-appointments-2024
+url: https://www.beehive.govt.nz/release/kings-counsel-appointments-2024
 ministers:
   - Hon Judith Collins KC
 portfolios:

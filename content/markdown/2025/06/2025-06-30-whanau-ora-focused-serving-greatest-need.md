@@ -1,7 +1,7 @@
 ---
 title: "Whānau Ora focused on serving greatest need"
 date: 2025-06-30
-url: https://www.beehive.govt.nz/release/wh%C4%81nau-ora-focused-serving-greatest-need
+url: https://www.beehive.govt.nz/release/whanau-ora-focused-serving-greatest-need
 ministers:
   - Hon Tama Potaka
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Taupō Hospital accredited to train next generation of rural doctors"
 date: 2025-04-28
-url: https://www.beehive.govt.nz/release/taup%C5%8D-hospital-accredited-train-next-generation-rural-doctors
+url: https://www.beehive.govt.nz/release/taupo-hospital-accredited-train-next-generation-rural-doctors
 ministers:
   - Hon Simeon Brown
   - Hon Matt Doocey

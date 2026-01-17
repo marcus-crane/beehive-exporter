@@ -1,7 +1,7 @@
 ---
 title: "NZ to host first Fiji, Australia trilateral trade Ministers’ meeting in Rotorua"
 date: 2024-09-18
-url: https://www.beehive.govt.nz/release/nz-host-first-fiji-australia-trilateral-trade-ministers%E2%80%99-meeting-rotorua
+url: https://www.beehive.govt.nz/release/nz-host-first-fiji-australia-trilateral-trade-ministers-meeting-rotorua
 ministers:
   - Hon Todd McClay
 portfolios:

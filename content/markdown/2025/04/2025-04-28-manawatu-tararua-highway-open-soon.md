@@ -1,7 +1,7 @@
 ---
 title: "Manawatū Tararua Highway open soon"
 date: 2025-04-28
-url: https://www.beehive.govt.nz/release/manawat%C5%AB-tararua-highway-open-soon
+url: https://www.beehive.govt.nz/release/manawatu-tararua-highway-open-soon
 ministers:
   - Hon Chris Bishop
 portfolios:

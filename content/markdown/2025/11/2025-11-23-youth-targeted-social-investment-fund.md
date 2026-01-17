@@ -6,8 +6,6 @@ ministers:
   - Hon Nicola Willis
 portfolios:
   - Social Investment
-attachments:
-  - https://www.sia.govt.nz/assets/Documents/QUICK-GUIDE-Outcomes.pdf
 ---
 
 Children with parents in prison are among those who will benefit from early intervention through seven new projects funded by the Social Investment Fund.

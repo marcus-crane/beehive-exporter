@@ -6,8 +6,6 @@ ministers:
   - Hon Judith Collins KC
 portfolios:
   - Space
-attachments:
-  - https://www.nzsis.govt.nz/assets/NZSIS-Documents/New-Zealands-Security-Threat-Environment-2024.pdf
 ---
 
 New legislation to deter foreign interference and protect New Zealand’s national interests and national security will be in place for operators of ground-based space infrastructure (GBSI) by July, Space Minister Judith Collins said today.

@@ -1,7 +1,7 @@
 ---
 title: "New mental health and addictions facility officially opened in Whangārei"
 date: 2025-04-10
-url: https://www.beehive.govt.nz/release/new-mental-health-and-addictions-facility-officially-opened-whang%C4%81rei
+url: https://www.beehive.govt.nz/release/new-mental-health-and-addictions-facility-officially-opened-whangarei
 ministers:
   - Hon Simeon Brown
   - Hon Matt Doocey

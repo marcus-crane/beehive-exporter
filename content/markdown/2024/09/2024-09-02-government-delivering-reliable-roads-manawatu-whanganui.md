@@ -1,7 +1,7 @@
 ---
 title: "Government delivering reliable roads for Manawatū-Whanganui"
 date: 2024-09-02
-url: https://www.beehive.govt.nz/release/government-delivering-reliable-roads-manawat%C5%AB-whanganui
+url: https://www.beehive.govt.nz/release/government-delivering-reliable-roads-manawatu-whanganui
 ministers:
   - Hon Simeon Brown
 portfolios:

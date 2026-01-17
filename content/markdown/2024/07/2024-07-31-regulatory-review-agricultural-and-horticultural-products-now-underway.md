@@ -10,8 +10,6 @@ portfolios:
   - Environment
   - Food Safety
   - Regulation
-attachments:
-  - https://www.regulation.govt.nz/assets/Ministry-for-Regulation-files/b71cf32a45/Terms-of-Reference-for-Agricultural-and-Horticultural-Products-Regulatory-Review.pdf
 ---
 
 Regulation Minister David Seymour, Environment Minister Penny Simmonds, and Food Safety Minister Andrew Hoggard have confirmed the regulatory review into the approval path for agricultural and horticultural products is now underway, with the terms of reference approved. 

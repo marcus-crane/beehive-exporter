@@ -1,7 +1,7 @@
 ---
 title: "Supporting more tamariki Māori to flourish"
 date: 2025-05-27
-url: https://www.beehive.govt.nz/release/supporting-more-tamariki-m%C4%81ori-flourish
+url: https://www.beehive.govt.nz/release/supporting-more-tamariki-maori-flourish
 ministers:
   - Hon Erica Stanford
 portfolios:

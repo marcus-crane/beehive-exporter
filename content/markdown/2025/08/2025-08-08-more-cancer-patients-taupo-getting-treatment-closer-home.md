@@ -1,7 +1,7 @@
 ---
 title: "More cancer patients in Taupō getting treatment closer to home"
 date: 2025-08-08
-url: https://www.beehive.govt.nz/release/more-cancer-patients-taup%C5%8D-getting-treatment-closer-home
+url: https://www.beehive.govt.nz/release/more-cancer-patients-taupo-getting-treatment-closer-home
 ministers:
   - Hon Simeon Brown
 portfolios:

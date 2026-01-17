@@ -1,0 +1,77 @@
+---
+title: "Joint Statement: Japan and Aotearoa New\u00a0Zealand: a Strategic Cooperative Partnership for Common Peace, Security and Prosperity"
+date: 2022-04-21
+url: https://www.beehive.govt.nz/release/joint-statement-japan-and-aotearoa-newzealand-strategic-cooperative-partnership-common
+ministers:
+  - Rt Hon Jacinda Ardern
+portfolios:
+  - Prime Minister
+---
+
+**Strengthening the Strategic Cooperative Partnership**
+
+1.     The Prime Minister of Japan His Excellency KISHIDA Fumio and the Prime Minister of New Zealand the Right Honourable Jacinda Ardern held a productive and substantive meeting in Tokyo on 21 April 2022. Acknowledging the Summit Meeting was taking place at a significant time as the two countries were celebrating the 70th anniversary of establishment of diplomatic relations, the two leaders emphasised the close and strong bilateral relations and expressed their ambition to further enhance the Strategic Cooperative Partnership between Japan and New Zealand, which is founded on common values including democracy, the rule of law and human rights, and a shared commitment to peace and security, free and open trade, countering climate change and sustainable growth.  
+
+2.     Amid growing challenges to the fundamental values and principles shared by Japan and New Zealand and their like-minded partners in the region and beyond, the Prime Ministers reiterated their shared commitment to realise a free and open Indo-Pacific based on the rule of law, to ensure that the region remains inclusive, stable and prosperous, and free from foreign intereference and coercion, and that the rights, freedoms and sovereignty of all countries regardless of size or power are protected.
+
+3.     Russia’s aggression against Ukraine is a serious threat to the rules-based international order, with ramifications well beyond Europe, including in the Indo-Pacific. The two leaders reiterated Japan’s and New Zealand’s unequivocal condemnation of Russia’s illegal aggression against Ukraine and demanded Russia’s immediate withdrawal. They strongly condemned Russian’s inhumane acts including the killing of civilians. They affirmed their consistent support for Ukraine’s sovereignty and territorial integrity and their intention to align their support for the Ukrainian people. They will continue to raise the costs for the architects of Russia’s illegal and unjustified aggression by applying economic and financial sanctions, which target strategic and economic sectors of significance, as well as Russia’s elite.
+
+4.     Japan and New Zealand are key partners in advancing and protecting peace and security in the Indo-Pacific. Confirming the importance of further deepening the Strategic Cooperative Partnership, the two leaders shared their commitment to enhancing information sharing between the two countries. In this context, the two leaders decided to commence negotiations on an agreement to provide a legal framework for the reciprocal protection of classified information exchanged between the Governments and enable more seamless sharing of such classified information.
+
+5.     The two leaders recognised the importance of sharing strategic vision between Japan and New Zealand and determined to strengthen exchanges of views between the two countries including through holding regular dialogues between leaders, foreign ministers and defence ministers, with a view to promoting closer bilateral ties and deepening our coordination on regional and global challenges.
+
+**Security and Defence cooperation**
+
+6.    The two leaders emphasised the importance of enhancing the two countries’ bilateral and regional security and defence cooperation through substantive initiatives such as cooperation in humanitarian assistance and disaster relief, and maritime security. Both leaders shared the view that it was important for the respective Governments to continue to work closely together on cyber security and matters of economic security.
+
+7.     The two leaders expressed their intention to strengthen, in cooperation with other partners in the Pacific Islands region, coordination and information sharing on Pacific priorities, including on climate change as the single greatest threat to the livelihoods, security and wellbeing of the peoples of the Pacific, maritime security, and humanitarian assistance and disaster relief.
+
+8.     Both leaders emphasised the importance of cooperation between the Japan Self-Defense Forces and the New Zealand Defence Force. They noted the close partnership demonstrated during recent deployments of Royal New Zealand Air Force aircraft to Japan. Prime Ministers welcomed that the two countries would develop coordination towards conducting Japan-New Zealand bilateral exercises as opportunities arise.
+
+**Economic relationship and Reconnection**
+
+9.     Over the last 50 years New Zealand and Japan have developed a strong economic partnership, especially related to food, based on natural complementarities and strong business relationships. The two leaders reaffirmed the importance of strengthening the partnership in food and agriculture, and reiterated the importance of promoting the bilateral economic relationship and acknowledged that there is scope for further growth particularly in the digital, technology, services and space sectors. They also emphasised the importance of promoting collaboration in addressing the economic challenges facing the region such as climate change, supply chain security and COVID-19 recovery. Prime Minister Ardern acknowledged that Japanese companies are important long-term investors in New Zealand’s economy.
+
+10.     Both leaders welcomed the recent development of space cooperation between government and private sectors, particularly in technologies which generate new economic opportunities, while solving critical problems which contribute to the continued safe and sustainable use of space. Prime Minister Kishida welcomed the New Zealand government’s initiative to invest in joint research in the area of Advanced Technologies, which would strengthen cooperative activities in science and technology between the two countries. Furthermore, the leaders also affirmed to cooperate in clean energy, such as hydrogen, geothermal energy, and e-vehicles.
+
+11.   The two leaders acknowledged the importance of further strengthening and broadening the people-to-people links between the two countries. In this regard, they welcomed the opportunity for the people of Japan and New Zealand to reconnect following the disruptions of the pandemic and easing of border restrictions. Both leaders looked forward to the resumptions of regular air links, tourism, education, trade, business, scientific and cultural exchanges in person between our two countries.
+
+**Indo-Pacific and Beyond**
+
+12.   The two leaders expressed serious concerns about the situation in the East China Sea, which undermines regional peace and stability. They shared the intention to remain in close communication about the situation in the East China Sea and expressed strong opposition to any unilateral actions that seek to alter the status quo by force and increase tensions in the area.
+
+13.   The two leaders stated their serious concerns about the situation in the South China Sea including militarisation, and maritime claims and activities that are inconsistent with the UN Convention on the Law of the Sea (UNCLOS), and opposed any unilateral actions that could escalate tensions and undermine regional stability and the international rules-based order. They reaffirmed the importance of resolving maritime disputes in accordance with international law, particularly UNCLOS. The Prime Ministers reiterated that all claims to maritime zones must be consistent with the relevant provisions of UNCLOS and called on both parties to comply with the July 2016 Arbitral Award on the South China Sea, which is final and legally binding.
+
+14.   The two leaders stated their grave concerns regarding human rights situation in Xinjiang, and the erosion of rights and freedoms in Hong Kong which undermines the high degree of autonomy enshrined in the Sino-British Joint Declaration and the Basic Law.
+
+15.   Both leaders strongly condemned North Korea’s ongoing development of nuclear weapons and ballistic missiles. They urged North Korea to cease provocative actions, and to fully comply with all of its obligations under the relevant UN Security Council resolutions. They also reiterated their commitment to achieving the complete, verifiable and irreversible dismantlement of all weapons of mass destruction and ballistic missiles of all ranges of North Korea in accordance with relevant UN Security Council resolutions. The leaders emphasised their shared commitment to fully implementing and upholding all relevant UN Security Council Resolutions including addressing North Korea’s sanctions evading tactics such as “ship-to-ship transfers”. Prime Minister Kishida welcomed New Zealand's engagement in monitoring and surveillance activities by aircraft against such illicit maritime activities. Prime Minister Ardern expressed understanding and strong support for Japan in its efforts to immediately resolve the abductions issue.
+
+16.   Both leaders reaffirmed the importance of their enhanced partnership with ASEAN to maintain an open, inclusive, stable and prosperous Indo-Pacific. They reiterated their strong support for ASEAN unity and centrality and their full support for the “ASEAN Outlook on the Indo-Pacific” (AOIP), which upholds the principles such as the rule of law, openness, freedom, transparency and inclusiveness.
+
+17.   Both leaders highlighted their commitment in support of the Pacific Islands region’s sustainable development, prosperity, security and resilience, especially in the face of climate change, and areas including COVID-19 health response, economic recovery from COVID-19, maritime cooperation and economic development, including through the Pacific Islands Leaders Meeting (PALM) process. The two Prime Ministers also acknowledged respective countries’ quick response in support of Tonga following the volcanic eruption and tsunami in January 2022. The leaders reiterated the need to address growing strategic challenges in the Pacific that could destabilise the regional security environemt. Both leaders renewed their determination to contribute to the peace and stability of the region in cooperation with Pacific and other partners, based on shared values and in support of Pacific priorities.
+
+**Free Trade architecture**
+
+18.   The two leaders noted the strong working relationship between New Zealand and Japan on the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). They welcomed the future expansion of CPTPP to economies that are able to fully meet, implement and adhere to its high standards and with a demonstrated pattern of complying with trade commitments. They recognised the strategic significance of CPTPP and reaffirmed its importance in promoting free trade, and open and competitive markets, including as a tool to counter economic coercion.
+
+19.   Both leaders welcomed the recent entry into force of the Regional Comprehensive Economic Partnership (RCEP) Agreement. They reaffirmed that RCEP Agreement is a major development for the region, providing a mechanism to support economic recovery from COVID-19 and demonstrating our joint commitment to economic integration. They reaffirmed their strong commitment to collaborating for full implementation of the Agreement to enhance rules-based economic order in the region.
+
+20\.  The two leaders also reaffirmed the value they place on APEC as a forum for supporting trade and economic growth in the region, and offered their support to current and upcoming hosts Thailand, the United States and Peru in delivering on APEC’s goals.  They recognised the importance of peace and stability as preconditions for the inclusive and sustainable economic growth envisioned by APEC Leaders, and called on all of its members to fully respect the tenets of APEC’s Putrajaya Vision 2040.
+
+21.   The two leaders underscored the importance of fostering economic cooperation in the Indo-Pacific region, and welcomed the United States’ commitment to the region. They noted the significant role the United States played in the development of TPP and expressed their strong and shared desire for the United States’ return to the agreement.
+
+22.   Both Prime Ministers expressed support for free and open rules-based trade and reaffirmed their shared determination to strengthen the multilateral trading system, with the World Trade Organization at its centre. They shared serious concern over trade-related economic coercion and non-market policies and practices that undermine the functioning of and confidence in the rules-based multilateral trading system. They committed to work together to identify, deter, and address these policies and practices, including through multilateral institutions, such as the WTO.
+
+23.   The two leaders stressed the importance of fair and transparent grant financing and lending practices to achieve sustainable development in developing countries and called on all actors to adhere to international rules and standards, including those for lending and investment.
+
+**Climate and Sustainability**　
+
+24.   The two leaders acknowledged the need for intensified global efforts to counter climate change, and committed to working together, including in agriculture and clean energy, to build on the outcomes of the COP26 Climate Summit and the latest deeply concerning IPCC reports. They emphasised the existential threat that climate change poses to the world, including many partners in the Pacific. They stressed the critical importance of effective finance in building climate resilience within the Pacific, particularly to support adaptation. They noted the importance of coordinating our trade and economic relationship towards our shared goal of net-zero carbon economies by 2050. They reiterated their strong support for the Global Research Alliance on Agricultural Greenhouse Gases.
+
+**Global Health**
+
+25\. The two leaders affirmed the importance of strengthening the global health system to overcome the current pandemic and to address prevention, preparedness and response to future health emergencies, as part of progress towards universal health coverage. This includes strengthening the World Health Organization (WHO) and supporting it in its leading and coordinating role in the global health system.   
+
+**Nuclear disarmament and non-proliferation**
+
+26.   Both leaders emphasised the importance of maintaining and strengthening the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) as the cornerstone of the international nuclear disarmament and non-proliferation regime, including through the activities pursued together in the framework of the Stockholm Initiative on Nuclear Disarmament. Both leaders stressed that global nuclear arsenals must continue to decline. Reaffirming the obligations of all States Parties under the NPT, including Article VI of the Treaty, they reiterated that considerable work remains to be done to advance nuclear disarmament. In view of the tense international security environment, both leaders reiterated that the 76-year record of non-use of nuclear weapons must be maintained, recognising the catastrophic humanitarian consequences of any use of nuclear weapons.

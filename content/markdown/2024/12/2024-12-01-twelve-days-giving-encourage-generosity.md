@@ -1,7 +1,7 @@
 ---
 title: "‘Twelve Days of Giving’ to encourage generosity"
 date: 2024-12-01
-url: https://www.beehive.govt.nz/release/%E2%80%98twelve-days-giving%E2%80%99-encourage-generosity
+url: https://www.beehive.govt.nz/release/twelve-days-giving-encourage-generosity
 ministers:
   - Hon Louise Upston
 portfolios:

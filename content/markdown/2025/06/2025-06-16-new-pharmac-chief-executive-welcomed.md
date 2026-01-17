@@ -6,6 +6,8 @@ ministers:
   - Hon David Seymour
 portfolios:
   - Health
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-06/Natalie%20McMurtry%20pic.jpg
 ---
 
 Associate Health Minister with responsibility for Pharmac David Seymour has welcomed Natalie McMurtry as Pharmac’s Chief Executive.

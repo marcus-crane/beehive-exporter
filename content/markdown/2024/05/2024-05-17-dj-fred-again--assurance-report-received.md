@@ -1,7 +1,7 @@
 ---
 title: "DJ Fred Again – Assurance report received"
 date: 2024-05-17
-url: https://www.beehive.govt.nz/release/dj-fred-again-%E2%80%93-assurance-report-received
+url: https://www.beehive.govt.nz/release/dj-fred-again--assurance-report-received
 ministers:
   - Hon Brooke van Velden
 portfolios:

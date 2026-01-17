@@ -1,7 +1,7 @@
 ---
 title: "Ōtaki to north of Levin construction contracts signed"
 date: 2025-07-31
-url: https://www.beehive.govt.nz/release/%C5%8Dtaki-north-levin-construction-contracts-signed
+url: https://www.beehive.govt.nz/release/otaki-north-levin-construction-contracts-signed
 ministers:
   - Hon Chris Bishop
 portfolios:

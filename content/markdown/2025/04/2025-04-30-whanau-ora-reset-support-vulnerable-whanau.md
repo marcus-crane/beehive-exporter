@@ -1,7 +1,7 @@
 ---
 title: "Whānau Ora reset to support vulnerable whānau"
 date: 2025-04-30
-url: https://www.beehive.govt.nz/release/wh%C4%81nau-ora-reset-support-vulnerable-wh%C4%81nau
+url: https://www.beehive.govt.nz/release/whanau-ora-reset-support-vulnerable-whanau
 ministers:
   - Hon Tama Potaka
 portfolios:

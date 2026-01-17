@@ -1,7 +1,7 @@
 ---
 title: "Coalition Government’s reforms give workers the best chance to succeed and prosper"
 date: 2024-10-22
-url: https://www.beehive.govt.nz/release/coalition-government%E2%80%99s-reforms-give-workers-best-chance-succeed-and-prosper
+url: https://www.beehive.govt.nz/release/coalition-governments-reforms-give-workers-best-chance-succeed-and-prosper
 ministers:
   - Hon Brooke van Velden
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Wellington’s Watts Peninsula reserve confirmed"
 date: 2025-09-10
-url: https://www.beehive.govt.nz/release/wellington%E2%80%99s-watts-peninsula-reserve-confirmed
+url: https://www.beehive.govt.nz/release/wellingtons-watts-peninsula-reserve-confirmed
 ministers:
   - Hon Tama Potaka
   - Hon Chris Penk

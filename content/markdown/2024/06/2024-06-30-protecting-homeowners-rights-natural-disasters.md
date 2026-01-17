@@ -1,7 +1,7 @@
 ---
 title: "Protecting homeowners’ rights in natural disasters"
 date: 2024-06-30
-url: https://www.beehive.govt.nz/release/protecting-homeowners%E2%80%99-rights-natural-disasters
+url: https://www.beehive.govt.nz/release/protecting-homeowners-rights-natural-disasters
 ministers:
   - Hon David Seymour
 portfolios:

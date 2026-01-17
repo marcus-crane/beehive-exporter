@@ -1,7 +1,7 @@
 ---
 title: "Ōpōtiki Harbour completion unlocks opportunities"
 date: 2025-11-23
-url: https://www.beehive.govt.nz/release/%C5%8Dp%C5%8Dtiki-harbour-completion-unlocks-opportunities
+url: https://www.beehive.govt.nz/release/opotiki-harbour-completion-unlocks-opportunities
 ministers:
   - Hon Shane Jones
 portfolios:

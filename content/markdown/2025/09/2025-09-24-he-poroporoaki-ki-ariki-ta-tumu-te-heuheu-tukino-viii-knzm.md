@@ -1,7 +1,7 @@
 ---
 title: "He poroporoaki ki a Ariki Tā Tumu Te Heuheu Tūkino VIII, KNZM"
 date: 2025-09-24
-url: https://www.beehive.govt.nz/release/he-poroporoaki-ki-ariki-t%C4%81-tumu-te-heuheu-t%C5%ABkino-viii-knzm
+url: https://www.beehive.govt.nz/release/he-poroporoaki-ki-ariki-ta-tumu-te-heuheu-tukino-viii-knzm
 ministers:
   - Hon Tama Potaka
 portfolios:

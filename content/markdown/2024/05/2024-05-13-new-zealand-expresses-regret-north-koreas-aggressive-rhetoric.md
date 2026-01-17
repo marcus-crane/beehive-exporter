@@ -1,7 +1,7 @@
 ---
 title: "New Zealand expresses regret at North Korea’s aggressive rhetoric"
 date: 2024-05-13
-url: https://www.beehive.govt.nz/release/new-zealand-expresses-regret-north-korea%E2%80%99s-aggressive-rhetoric
+url: https://www.beehive.govt.nz/release/new-zealand-expresses-regret-north-koreas-aggressive-rhetoric
 ministers:
   - Rt Hon Winston Peters
 portfolios:

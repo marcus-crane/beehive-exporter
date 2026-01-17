@@ -1,7 +1,7 @@
 ---
 title: "Kāinga Ora getting firmer on rent payments"
 date: 2025-02-11
-url: https://www.beehive.govt.nz/release/k%C4%81inga-ora-getting-firmer-rent-payments
+url: https://www.beehive.govt.nz/release/kainga-ora-getting-firmer-rent-payments
 ministers:
   - Hon Tama Potaka
 portfolios:

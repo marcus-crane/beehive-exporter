@@ -1,7 +1,7 @@
 ---
 title: "Funding approved for two new roundabouts on SH2 near Ōpōtiki to improve road safety"
 date: 2025-05-09
-url: https://www.beehive.govt.nz/release/funding-approved-two-new-roundabouts-sh2-near-%C5%8Dp%C5%8Dtiki-improve-road-safety
+url: https://www.beehive.govt.nz/release/funding-approved-two-new-roundabouts-sh2-near-opotiki-improve-road-safety
 ministers:
   - Hon Chris Bishop
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Ruakura four-lane road to boost Hamilton’s economic growth"
 date: 2025-06-03
-url: https://www.beehive.govt.nz/release/ruakura-four-lane-road-boost-hamilton%E2%80%99s-economic-growth
+url: https://www.beehive.govt.nz/release/ruakura-four-lane-road-boost-hamiltons-economic-growth
 ministers:
   - Hon Chris Bishop
 portfolios:

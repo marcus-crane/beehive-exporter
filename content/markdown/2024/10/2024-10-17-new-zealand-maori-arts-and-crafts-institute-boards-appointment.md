@@ -1,7 +1,7 @@
 ---
 title: "New Zealand Māori Arts and Crafts Institute Boards Appointment"
 date: 2024-10-17
-url: https://www.beehive.govt.nz/release/new-zealand-m%C4%81ori-arts-and-crafts-institute-boards-appointment
+url: https://www.beehive.govt.nz/release/new-zealand-maori-arts-and-crafts-institute-boards-appointment
 ministers:
   - Hon Tama Potaka
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "A century of healthcare for Te Kūiti Hospital"
 date: 2025-10-31
-url: https://www.beehive.govt.nz/release/century-healthcare-te-k%C5%ABiti-hospital
+url: https://www.beehive.govt.nz/release/century-healthcare-te-kuiti-hospital
 ministers:
   - Hon Simeon Brown
   - Hon Matt Doocey

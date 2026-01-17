@@ -6,8 +6,6 @@ ministers:
   - Hon Louise Upston
 portfolios:
   - Tourism and Hospitality
-attachments:
-  - http://www.hospitality.org.nz/assets/Hospitality-Summit-2024-Report.pdf
 ---
 
 Tourism and Hospitality Minister Louise Upston has welcomed a report from the Restaurant Association and Hospitality New Zealand on steps to support the hospitality sector to thrive.

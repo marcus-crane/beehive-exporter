@@ -6,6 +6,8 @@ ministers:
   - Hon Chris Bishop
 portfolios:
   - Transport
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-07/IMG_0852.JPG
 ---
 
 From 1 September, commonsense changes will see vintage light vehicles and private heavy motorhomes moving to annual vehicle inspections rather than six-monthly, Transport Minister Chris Bishop says.

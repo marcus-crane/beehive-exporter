@@ -1,7 +1,7 @@
 ---
 title: "Significant protection for Hauraki Gulf/Tīkapa Moana"
 date: 2024-10-12
-url: https://www.beehive.govt.nz/release/significant-protection-hauraki-gulft%C4%ABkapa-moana
+url: https://www.beehive.govt.nz/release/significant-protection-hauraki-gulftikapa-moana
 ministers:
   - Hon Tama Potaka
 portfolios:

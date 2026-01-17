@@ -1,7 +1,7 @@
 ---
 title: "Prime Minister strengthens NZ’s ties with Europe"
 date: 2025-06-23
-url: https://www.beehive.govt.nz/release/prime-minister-strengthens-nz%E2%80%99s-ties-europe
+url: https://www.beehive.govt.nz/release/prime-minister-strengthens-nzs-ties-europe
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

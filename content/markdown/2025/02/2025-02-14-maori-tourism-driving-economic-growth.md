@@ -1,7 +1,7 @@
 ---
 title: "Māori tourism driving economic growth"
 date: 2025-02-14
-url: https://www.beehive.govt.nz/release/m%C4%81ori-tourism-driving-economic-growth
+url: https://www.beehive.govt.nz/release/maori-tourism-driving-economic-growth
 ministers:
   - Hon Louise Upston
   - Hon Tama Potaka

@@ -1,13 +1,11 @@
 ---
 title: "New sea walls safeguard Ōpōtiki’s transformation"
 date: 2024-09-20
-url: https://www.beehive.govt.nz/release/new-sea-walls-safeguard-%C5%8Dp%C5%8Dtiki%E2%80%99s-transformation
+url: https://www.beehive.govt.nz/release/new-sea-walls-safeguard-opotikis-transformation
 ministers:
   - Hon Shane Jones
 portfolios:
   - Regional Development
-attachments:
-  - https://www.odc.govt.nz/repository/libraries/id:2bpcqtp1b1cxby3k9b0b/hierarchy/sitecollectiondocuments/our-council/Reports%20%26%20Studies/Reports/Te%20Ara%20Moana%20a%20Toi%20-%20Initial%20Benefits%20Assessment.pdf
 ---
 
 Two new breakwater walls at Pākihikura (Ōpōtiki) Harbour will provide boats with safe harbour access to support the continued growth of aquaculture in Bay of Plenty, Deputy Prime Minister Winston Peters and Regional Development Minister Shane Jones say.

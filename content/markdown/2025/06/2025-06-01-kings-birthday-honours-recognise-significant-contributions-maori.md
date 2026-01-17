@@ -1,7 +1,7 @@
 ---
 title: "King’s Birthday Honours recognise significant contributions of Māori"
 date: 2025-06-01
-url: https://www.beehive.govt.nz/release/king%E2%80%99s-birthday-honours-recognise-significant-contributions-m%C4%81ori
+url: https://www.beehive.govt.nz/release/kings-birthday-honours-recognise-significant-contributions-maori
 ministers:
   - Hon Tama Potaka
 portfolios:

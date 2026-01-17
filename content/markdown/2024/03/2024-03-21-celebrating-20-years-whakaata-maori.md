@@ -1,7 +1,7 @@
 ---
 title: "Celebrating 20 years of Whakaata Māori"
 date: 2024-03-21
-url: https://www.beehive.govt.nz/release/celebrating-20-years-whakaata-m%C4%81ori
+url: https://www.beehive.govt.nz/release/celebrating-20-years-whakaata-maori
 ministers:
   - Hon Tama Potaka
 portfolios:

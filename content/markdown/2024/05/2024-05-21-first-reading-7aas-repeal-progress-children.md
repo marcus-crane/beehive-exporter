@@ -1,7 +1,7 @@
 ---
 title: "First reading of 7AA’s repeal: progress for children"
 date: 2024-05-21
-url: https://www.beehive.govt.nz/release/first-reading-7aa%E2%80%99s-repeal-progress-children
+url: https://www.beehive.govt.nz/release/first-reading-7aas-repeal-progress-children
 ministers:
   - Hon Karen Chhour
 portfolios:

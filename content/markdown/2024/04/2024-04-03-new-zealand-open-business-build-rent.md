@@ -1,7 +1,7 @@
 ---
 title: "New Zealand “open for business” for Build To Rent"
 date: 2024-04-03
-url: https://www.beehive.govt.nz/release/new-zealand-%E2%80%9Copen-business%E2%80%9D-build-rent
+url: https://www.beehive.govt.nz/release/new-zealand-open-business-build-rent
 ministers:
   - Hon Chris Bishop
   - Hon David Seymour

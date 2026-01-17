@@ -1,7 +1,7 @@
 ---
 title: "Improving how we care for New Zealand’s infrastructure"
 date: 2025-12-11
-url: https://www.beehive.govt.nz/release/improving-how-we-care-new-zealand%E2%80%99s-infrastructure
+url: https://www.beehive.govt.nz/release/improving-how-we-care-new-zealands-infrastructure
 ministers:
   - Hon Chris Bishop
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "King’s Counsel appointments 2025"
 date: 2025-09-26
-url: https://www.beehive.govt.nz/release/king%E2%80%99s-counsel-appointments-2025
+url: https://www.beehive.govt.nz/release/kings-counsel-appointments-2025
 ministers:
   - Hon Judith Collins KC
 portfolios:

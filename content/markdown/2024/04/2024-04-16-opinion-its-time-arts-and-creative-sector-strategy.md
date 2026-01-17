@@ -1,7 +1,7 @@
 ---
 title: "Opinion: It’s time for an arts and creative sector strategy"
 date: 2024-04-16
-url: https://www.beehive.govt.nz/release/opinion-it%E2%80%99s-time-arts-and-creative-sector-strategy
+url: https://www.beehive.govt.nz/release/opinion-its-time-arts-and-creative-sector-strategy
 ministers:
   - Hon Paul Goldsmith
 portfolios:

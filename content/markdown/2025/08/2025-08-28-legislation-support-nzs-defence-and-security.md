@@ -1,7 +1,7 @@
 ---
 title: "Legislation to support NZ’s defence and security"
 date: 2025-08-28
-url: https://www.beehive.govt.nz/release/legislation-support-nz%E2%80%99s-defence-and-security
+url: https://www.beehive.govt.nz/release/legislation-support-nzs-defence-and-security
 ministers:
   - Hon Judith Collins KC
 portfolios:

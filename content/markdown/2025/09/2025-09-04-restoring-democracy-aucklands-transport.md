@@ -1,7 +1,7 @@
 ---
 title: "Restoring democracy to Auckland’s transport"
 date: 2025-09-04
-url: https://www.beehive.govt.nz/release/restoring-democracy-auckland%E2%80%99s-transport
+url: https://www.beehive.govt.nz/release/restoring-democracy-aucklands-transport
 ministers:
   - Hon Chris Bishop
   - Hon Simeon Brown

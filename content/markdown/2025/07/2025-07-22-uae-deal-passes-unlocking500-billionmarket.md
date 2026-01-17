@@ -1,7 +1,7 @@
 ---
 title: "UAE deal passes, unlocking\u00a0$500 billion\u00a0market"
 date: 2025-07-22
-url: https://www.beehive.govt.nz/release/uae-deal-passes-unlocking%C2%A0500-billion%C2%A0market
+url: https://www.beehive.govt.nz/release/uae-deal-passes-unlocking500-billionmarket
 ministers:
   - Hon Todd McClay
 portfolios:

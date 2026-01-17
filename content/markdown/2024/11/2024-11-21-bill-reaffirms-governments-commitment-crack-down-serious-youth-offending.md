@@ -1,7 +1,7 @@
 ---
 title: "Bill reaffirms Government’s commitment to crack down on serious youth offending"
 date: 2024-11-21
-url: https://www.beehive.govt.nz/release/bill-reaffirms-government%E2%80%99s-commitment-crack-down-serious-youth-offending
+url: https://www.beehive.govt.nz/release/bill-reaffirms-governments-commitment-crack-down-serious-youth-offending
 ministers:
   - Hon Karen Chhour
 portfolios:

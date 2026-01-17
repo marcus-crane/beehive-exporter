@@ -1,7 +1,7 @@
 ---
 title: "King’s Birthday Honours recognise significant contributions to education"
 date: 2024-06-03
-url: https://www.beehive.govt.nz/release/king%E2%80%99s-birthday-honours-recognise-significant-contributions-education
+url: https://www.beehive.govt.nz/release/kings-birthday-honours-recognise-significant-contributions-education
 ministers:
   - Hon Erica Stanford
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Kaikōura redevelopment opens for summer"
 date: 2025-12-11
-url: https://www.beehive.govt.nz/release/kaik%C5%8Dura-redevelopment-opens-summer
+url: https://www.beehive.govt.nz/release/kaikoura-redevelopment-opens-summer
 ministers:
   - Hon Shane Jones
 portfolios:

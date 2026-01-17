@@ -1,7 +1,7 @@
 ---
 title: "Crown settles with Ngāti Pāoa after 14 years"
 date: 2025-11-04
-url: https://www.beehive.govt.nz/release/crown-settles-ng%C4%81ti-p%C4%81oa-after-14-years
+url: https://www.beehive.govt.nz/release/crown-settles-ngati-paoa-after-14-years
 ministers:
   - Hon Paul Goldsmith
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "It’s official: Kiwis can look forward to better days"
 date: 2025-03-19
-url: https://www.beehive.govt.nz/release/it%E2%80%99s-official-kiwis-can-look-forward-better-days
+url: https://www.beehive.govt.nz/release/its-official-kiwis-can-look-forward-better-days
 ministers:
   - Hon Nicola Willis
 portfolios:

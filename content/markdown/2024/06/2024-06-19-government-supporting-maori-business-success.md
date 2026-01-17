@@ -1,7 +1,7 @@
 ---
 title: "Government supporting Māori business success"
 date: 2024-06-19
-url: https://www.beehive.govt.nz/release/government-supporting-m%C4%81ori-business-success
+url: https://www.beehive.govt.nz/release/government-supporting-maori-business-success
 ministers:
   - Hon Tama Potaka
   - Hon Shane Jones

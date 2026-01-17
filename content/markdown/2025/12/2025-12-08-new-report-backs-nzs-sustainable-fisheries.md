@@ -1,7 +1,7 @@
 ---
 title: "New report backs NZ’s sustainable fisheries"
 date: 2025-12-08
-url: https://www.beehive.govt.nz/release/new-report-backs-nz%E2%80%99s-sustainable-fisheries
+url: https://www.beehive.govt.nz/release/new-report-backs-nzs-sustainable-fisheries
 ministers:
   - Hon Shane Jones
 portfolios:

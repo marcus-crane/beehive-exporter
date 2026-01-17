@@ -1,7 +1,7 @@
 ---
 title: "Growing the potential of New Zealand’s forestry sector in partnership"
 date: 2024-06-13
-url: https://www.beehive.govt.nz/release/growing-potential-new-zealand%E2%80%99s-forestry-sector-partnership
+url: https://www.beehive.govt.nz/release/growing-potential-new-zealands-forestry-sector-partnership
 ministers:
   - Hon Todd McClay
 portfolios:

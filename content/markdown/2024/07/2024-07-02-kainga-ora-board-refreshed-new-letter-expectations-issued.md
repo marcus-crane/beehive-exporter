@@ -1,7 +1,7 @@
 ---
 title: "Kāinga Ora board refreshed, new Letter of Expectations issued"
 date: 2024-07-02
-url: https://www.beehive.govt.nz/release/k%C4%81inga-ora-board-refreshed-new-letter-expectations-issued
+url: https://www.beehive.govt.nz/release/kainga-ora-board-refreshed-new-letter-expectations-issued
 ministers:
   - Hon Chris Bishop
 portfolios:

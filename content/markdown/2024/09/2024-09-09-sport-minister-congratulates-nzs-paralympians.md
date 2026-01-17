@@ -1,7 +1,7 @@
 ---
 title: "Sport Minister congratulates NZ’s Paralympians"
 date: 2024-09-09
-url: https://www.beehive.govt.nz/release/sport-minister-congratulates-nz%E2%80%99s-paralympians
+url: https://www.beehive.govt.nz/release/sport-minister-congratulates-nzs-paralympians
 ministers:
   - Hon Chris Bishop
 portfolios:

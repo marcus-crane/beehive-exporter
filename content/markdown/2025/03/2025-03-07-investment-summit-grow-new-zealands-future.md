@@ -1,7 +1,7 @@
 ---
 title: "Investment Summit to grow New Zealand’s future"
 date: 2025-03-07
-url: https://www.beehive.govt.nz/release/investment-summit-grow-new-zealand%E2%80%99s-future
+url: https://www.beehive.govt.nz/release/investment-summit-grow-new-zealands-future
 ministers:
   - Hon Chris Bishop
 portfolios:

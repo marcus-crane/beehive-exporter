@@ -1,7 +1,7 @@
 ---
 title: "‘Open banking’ and ‘open electricity’ on the way"
 date: 2024-07-23
-url: https://www.beehive.govt.nz/release/%E2%80%98open-banking%E2%80%99-and-%E2%80%98open-electricity%E2%80%99-way
+url: https://www.beehive.govt.nz/release/open-banking-and-open-electricity-way
 ministers:
   - Hon Andrew Bayly
 portfolios:

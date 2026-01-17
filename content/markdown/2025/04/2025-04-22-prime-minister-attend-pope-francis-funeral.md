@@ -1,7 +1,7 @@
 ---
 title: "Prime Minister to attend Pope Francis’ funeral"
 date: 2025-04-22
-url: https://www.beehive.govt.nz/release/prime-minister-attend-pope-francis%E2%80%99-funeral
+url: https://www.beehive.govt.nz/release/prime-minister-attend-pope-francis-funeral
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

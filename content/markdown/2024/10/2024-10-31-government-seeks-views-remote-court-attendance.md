@@ -6,8 +6,6 @@ ministers:
   - Hon Nicole McKee
 portfolios:
   - Courts
-attachments:
-  - https://www.justice.govt.nz/assets/Documents/Publications/Discussion-Document-Review-of-the-Courts-Remote-Participation-Act-2010.pdf
 ---
 
 The Government is exploring how to modernise the law around people attending court remotely, to support access to justice and enhance court performance.

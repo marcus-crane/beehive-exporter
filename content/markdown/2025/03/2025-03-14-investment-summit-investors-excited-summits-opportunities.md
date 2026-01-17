@@ -1,7 +1,7 @@
 ---
 title: "INVESTMENT SUMMIT: Investors excited at Summit’s opportunities"
 date: 2025-03-14
-url: https://www.beehive.govt.nz/release/investment-summit-investors-excited-summit%E2%80%99s-opportunities
+url: https://www.beehive.govt.nz/release/investment-summit-investors-excited-summits-opportunities
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

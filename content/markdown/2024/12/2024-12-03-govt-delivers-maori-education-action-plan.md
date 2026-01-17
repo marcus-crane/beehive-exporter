@@ -1,7 +1,7 @@
 ---
 title: "Govt delivers Māori Education Action Plan"
 date: 2024-12-03
-url: https://www.beehive.govt.nz/release/govt-delivers-m%C4%81ori-education-action-plan
+url: https://www.beehive.govt.nz/release/govt-delivers-maori-education-action-plan
 ministers:
   - Hon Erica Stanford
 portfolios:

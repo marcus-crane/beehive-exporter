@@ -1,7 +1,7 @@
 ---
 title: "Poroporoaki: Sir Robert ‘Bom’ Gillies"
 date: 2024-11-07
-url: https://www.beehive.govt.nz/release/poroporoaki-sir-robert-%E2%80%98bom%E2%80%99-gillies
+url: https://www.beehive.govt.nz/release/poroporoaki-sir-robert-bom-gillies
 ministers:
   - Hon Tama Potaka
 portfolios:

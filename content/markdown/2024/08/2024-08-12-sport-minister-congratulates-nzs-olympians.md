@@ -1,7 +1,7 @@
 ---
 title: "Sport Minister congratulates NZ’s Olympians"
 date: 2024-08-12
-url: https://www.beehive.govt.nz/release/sport-minister-congratulates-nz%E2%80%99s-olympians
+url: https://www.beehive.govt.nz/release/sport-minister-congratulates-nzs-olympians
 ministers:
   - Hon Chris Bishop
 portfolios:

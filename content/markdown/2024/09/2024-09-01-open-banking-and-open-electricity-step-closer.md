@@ -1,7 +1,7 @@
 ---
 title: "‘Open banking’ and ‘open electricity’ a step closer"
 date: 2024-09-01
-url: https://www.beehive.govt.nz/release/%E2%80%98open-banking%E2%80%99-and-%E2%80%98open-electricity%E2%80%99-step-closer
+url: https://www.beehive.govt.nz/release/open-banking-and-open-electricity-step-closer
 ministers:
   - Hon Simeon Brown
   - Hon Andrew Bayly

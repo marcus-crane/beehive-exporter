@@ -1,7 +1,7 @@
 ---
 title: "Ō-Rākau Remembrance Bill passes first reading"
 date: 2024-04-30
-url: https://www.beehive.govt.nz/release/%C5%8D-r%C4%81kau-remembrance-bill-passes-first-reading
+url: https://www.beehive.govt.nz/release/o-rakau-remembrance-bill-passes-first-reading
 ministers:
   - Hon Tama Potaka
 portfolios:

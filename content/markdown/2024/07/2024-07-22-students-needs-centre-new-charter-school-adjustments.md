@@ -1,7 +1,7 @@
 ---
 title: "Students’ needs at centre of new charter school adjustments"
 date: 2024-07-22
-url: https://www.beehive.govt.nz/release/students%E2%80%99-needs-centre-new-charter-school-adjustments
+url: https://www.beehive.govt.nz/release/students-needs-centre-new-charter-school-adjustments
 ministers:
   - Hon David Seymour
 portfolios:

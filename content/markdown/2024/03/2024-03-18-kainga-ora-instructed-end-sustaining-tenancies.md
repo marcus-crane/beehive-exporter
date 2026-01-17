@@ -1,7 +1,7 @@
 ---
 title: "Kāinga Ora instructed to end Sustaining Tenancies"
 date: 2024-03-18
-url: https://www.beehive.govt.nz/release/k%C4%81inga-ora-instructed-end-sustaining-tenancies
+url: https://www.beehive.govt.nz/release/kainga-ora-instructed-end-sustaining-tenancies
 ministers:
   - Hon Chris Bishop
 portfolios:

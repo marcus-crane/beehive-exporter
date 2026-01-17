@@ -6,6 +6,8 @@ ministers:
   - Hon Andrew Hoggard
 portfolios:
   - Biosecurity
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-12/Hornet%20signage_3.jpg
 ---
 
 Intensive efforts are under way to combat yellow-legged hornets from Auckland’s North Shore, says Biosecurity Minister Andrew Hoggard.

@@ -1,7 +1,7 @@
 ---
 title: "Resilience work for SH6’s Gates of Haast begins"
 date: 2025-12-03
-url: https://www.beehive.govt.nz/release/resilience-work-sh6%E2%80%99s-gates-haast-begins
+url: https://www.beehive.govt.nz/release/resilience-work-sh6s-gates-haast-begins
 ministers:
   - Hon James Meager
 portfolios:

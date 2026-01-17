@@ -1,7 +1,7 @@
 ---
 title: "Support for Māori economic development projects"
 date: 2025-02-04
-url: https://www.beehive.govt.nz/release/support-m%C4%81ori-economic-development-projects
+url: https://www.beehive.govt.nz/release/support-maori-economic-development-projects
 ministers:
   - Hon Tama Potaka
   - Hon Shane Jones

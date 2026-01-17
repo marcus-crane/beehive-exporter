@@ -1,7 +1,7 @@
 ---
 title: "A responsible Budget to secure NZ’s future"
 date: 2025-05-22
-url: https://www.beehive.govt.nz/release/responsible-budget-secure-nz%E2%80%99s-future
+url: https://www.beehive.govt.nz/release/responsible-budget-secure-nzs-future
 ministers:
   - Hon Nicola Willis
 portfolios:

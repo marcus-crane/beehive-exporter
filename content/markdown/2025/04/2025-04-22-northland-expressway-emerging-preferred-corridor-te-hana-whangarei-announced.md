@@ -1,7 +1,7 @@
 ---
 title: "Northland Expressway: Emerging preferred corridor from Te Hana to Whangārei announced"
 date: 2025-04-22
-url: https://www.beehive.govt.nz/release/northland-expressway-emerging-preferred-corridor-te-hana-whang%C4%81rei-announced
+url: https://www.beehive.govt.nz/release/northland-expressway-emerging-preferred-corridor-te-hana-whangarei-announced
 ministers:
   - Hon Chris Bishop
   - Hon Shane Jones

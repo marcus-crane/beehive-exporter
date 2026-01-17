@@ -1,7 +1,7 @@
 ---
 title: "Manawatū Tararua Highway open for business"
 date: 2025-06-06
-url: https://www.beehive.govt.nz/release/manawat%C5%AB-tararua-highway-open-business
+url: https://www.beehive.govt.nz/release/manawatu-tararua-highway-open-business
 ministers:
   - Hon Chris Bishop
 portfolios:

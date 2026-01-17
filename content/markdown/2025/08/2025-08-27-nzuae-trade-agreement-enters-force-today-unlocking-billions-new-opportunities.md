@@ -1,7 +1,7 @@
 ---
 title: "NZ–UAE Trade Agreement enters into force today, unlocking billions in new opportunities"
 date: 2025-08-27
-url: https://www.beehive.govt.nz/release/nz%E2%80%93uae-trade-agreement-enters-force-today-unlocking-billions-new-opportunities
+url: https://www.beehive.govt.nz/release/nzuae-trade-agreement-enters-force-today-unlocking-billions-new-opportunities
 ministers:
   - Hon Todd McClay
 portfolios:

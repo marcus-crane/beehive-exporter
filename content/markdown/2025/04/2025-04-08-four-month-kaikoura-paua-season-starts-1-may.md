@@ -1,7 +1,7 @@
 ---
 title: "Four-month Kaikōura pāua season starts 1 May"
 date: 2025-04-08
-url: https://www.beehive.govt.nz/release/four-month-kaik%C5%8Dura-p%C4%81ua-season-starts-1-may
+url: https://www.beehive.govt.nz/release/four-month-kaikoura-paua-season-starts-1-may
 ministers:
   - Hon Shane Jones
 portfolios:

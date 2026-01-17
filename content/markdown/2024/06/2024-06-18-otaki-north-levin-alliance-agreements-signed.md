@@ -1,7 +1,7 @@
 ---
 title: "Ōtaki to north of Levin alliance agreements signed"
 date: 2024-06-18
-url: https://www.beehive.govt.nz/release/%C5%8Dtaki-north-levin-alliance-agreements-signed
+url: https://www.beehive.govt.nz/release/otaki-north-levin-alliance-agreements-signed
 ministers:
   - Hon Simeon Brown
 portfolios:

@@ -6,8 +6,6 @@ ministers:
   - Hon Brooke van Velden
 portfolios:
   - Internal Affairs
-attachments:
-  - https://www.fireandemergency.nz/assets/Documents/About-FENZ/Levy/Public-Consultation-Outcome-Levy-consultation-2024.pdf
 ---
 
 Minister of Internal Affairs Brooke van Velden says the Government has agreed to the final regulations for the levy on insurance contracts that will fund Fire and Emergency New Zealand from July 2026.

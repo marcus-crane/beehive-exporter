@@ -1,7 +1,7 @@
 ---
 title: "Statement by Minister Todd McClay following\u00a0U.S. tariff announcement"
 date: 2025-04-02
-url: https://www.beehive.govt.nz/release/statement-minister-todd-mcclay-following%C2%A0us-tariff-announcement
+url: https://www.beehive.govt.nz/release/statement-minister-todd-mcclay-followingus-tariff-announcement
 ministers:
   - Hon Todd McClay
 portfolios:

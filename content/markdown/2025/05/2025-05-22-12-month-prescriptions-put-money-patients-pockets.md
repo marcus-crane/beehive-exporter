@@ -1,7 +1,7 @@
 ---
 title: "12-month prescriptions put money in patients’ pockets"
 date: 2025-05-22
-url: https://www.beehive.govt.nz/release/12-month-prescriptions-put-money-patients%E2%80%99-pockets
+url: https://www.beehive.govt.nz/release/12-month-prescriptions-put-money-patients-pockets
 ministers:
   - Hon Simeon Brown
   - Hon David Seymour

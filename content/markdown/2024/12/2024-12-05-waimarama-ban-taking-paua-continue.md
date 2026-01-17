@@ -1,7 +1,7 @@
 ---
 title: "Waimārama ban on taking pāua to continue"
 date: 2024-12-05
-url: https://www.beehive.govt.nz/release/waim%C4%81rama-ban-taking-p%C4%81ua-continue
+url: https://www.beehive.govt.nz/release/waimarama-ban-taking-paua-continue
 ministers:
   - Hon Shane Jones
 portfolios:

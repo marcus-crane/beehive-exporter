@@ -1,7 +1,7 @@
 ---
 title: "Housing Minister thanks outgoing Kāinga Ora Chair"
 date: 2024-02-29
-url: https://www.beehive.govt.nz/release/housing-minister-thanks-outgoing-k%C4%81inga-ora-chair
+url: https://www.beehive.govt.nz/release/housing-minister-thanks-outgoing-kainga-ora-chair
 ministers:
   - Hon Chris Bishop
 portfolios:

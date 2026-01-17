@@ -1,7 +1,7 @@
 ---
 title: "Restoring connections in Hawke’s Bay"
 date: 2024-09-02
-url: https://www.beehive.govt.nz/release/restoring-connections-hawke%E2%80%99s-bay
+url: https://www.beehive.govt.nz/release/restoring-connections-hawkes-bay
 ministers:
   - Hon Simeon Brown
 portfolios:

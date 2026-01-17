@@ -1,7 +1,7 @@
 ---
 title: "Government supports Tairāwhiti marae to relocate to safer ground"
 date: 2025-05-15
-url: https://www.beehive.govt.nz/release/government-supports-tair%C4%81whiti-marae-relocate-safer-ground
+url: https://www.beehive.govt.nz/release/government-supports-tairawhiti-marae-relocate-safer-ground
 ministers:
   - Hon Mark Mitchell
   - Hon Tama Potaka

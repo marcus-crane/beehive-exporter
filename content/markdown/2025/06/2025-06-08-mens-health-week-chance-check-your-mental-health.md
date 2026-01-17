@@ -1,7 +1,7 @@
 ---
 title: "Men’s Health Week chance to check in on your mental health"
 date: 2025-06-08
-url: https://www.beehive.govt.nz/release/men%E2%80%99s-health-week-chance-check-your-mental-health
+url: https://www.beehive.govt.nz/release/mens-health-week-chance-check-your-mental-health
 ministers:
   - Hon Matt Doocey
 portfolios:

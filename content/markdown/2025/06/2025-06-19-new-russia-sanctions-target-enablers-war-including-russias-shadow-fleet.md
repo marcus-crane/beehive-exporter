@@ -1,7 +1,7 @@
 ---
 title: "New Russia sanctions target enablers of war, including Russia’s ‘shadow fleet’"
 date: 2025-06-19
-url: https://www.beehive.govt.nz/release/new-russia-sanctions-target-enablers-war-including-russia%E2%80%99s-%E2%80%98shadow-fleet%E2%80%99
+url: https://www.beehive.govt.nz/release/new-russia-sanctions-target-enablers-war-including-russias-shadow-fleet
 ministers:
   - Rt Hon Winston Peters
 portfolios:

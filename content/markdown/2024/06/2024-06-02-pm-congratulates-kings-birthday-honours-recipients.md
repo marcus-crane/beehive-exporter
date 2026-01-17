@@ -1,7 +1,7 @@
 ---
 title: "PM congratulates King’s Birthday Honours recipients"
 date: 2024-06-02
-url: https://www.beehive.govt.nz/release/pm-congratulates-king%E2%80%99s-birthday-honours-recipients
+url: https://www.beehive.govt.nz/release/pm-congratulates-kings-birthday-honours-recipients
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

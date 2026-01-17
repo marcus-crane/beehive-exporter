@@ -1,0 +1,109 @@
+---
+title: "Joint Statement by Prime Ministers Hon Tony Abbott and Rt Hon John Key"
+date: 2015-02-28
+url: https://www.beehive.govt.nz/release/joint-statement-prime-ministers-hon-tony-abbott-and-rt-hon-john-key
+ministers:
+  - John Key
+portfolios:
+  - Prime Minister
+---
+
+Prime Minister the Hon Tony Abbott MP and Prime Minister the Rt Hon John Key met in Auckland on 28 February 2015 for the annual Australia-New Zealand Leaders’ Meeting.
+
+Prime Minister Key warmly welcomed Prime Minister Abbott and Mrs Abbott to New Zealand. The visit has enabled wide-ranging and substantive discussion that has underlined the strength, value, diversity and warmth of our trans-Tasman relationship.
+
+Prime Minister Key also acknowledged the visits of Foreign Minister Julie Bishop, Trade and Investment Minister Andrew Robb, Health and Sports Minister Sussan Ley and Parliamentary Secretary Paul Fletcher, as well as a senior Australian trade delegation. This diverse range of Australian Government and business representation underlines the depth and breadth of links between the two nations.
+
+This year marks 100 years since the first official visit by an Australian Prime Minister to New Zealand. On 23 December 1914 Prime Minister Andrew Fisher left Australia on the liner *Makura* to Auckland, New Zealand. He stayed in New Zealand for almost two months. Prime Minister Fisher met with the New Zealand Prime Minister, William F. Massey, to discuss trade and wartime cooperation between the two countries, including the arrangement that would later become known as ANZAC. 
+
+**Anzacs: One Hundred Years On**
+
+This year we mark the Centenary of the Gallipoli campaign.  We will pay tribute to the men and women of our two nations who have served, and continue to serve our countries with honour and sacrifice. 
+
+Prime Minister Abbott confirmed that he will attend the dedication of the Australian Memorial in New Zealand’s National War Memorial Park in Wellington on 20 April 2015. 
+
+Both Prime Ministers announced their intention to travel to Turkey in April to attend the Centenary Gallipoli commemorations. 
+
+The Prime Ministers reaffirmed their wish to ensure Australia and New Zealand’s unique shared heritage and Anzac legacy is used as a catalyst for further cooperation, peace-building and the promotion of democracy, human rights and the rule of law into the future. 
+
+**Security and Defence Cooperation**
+
+The Prime Ministers reaffirmed their commitment to Australia and New Zealand’s ongoing defence and security cooperation.  They reiterated their commitment to working together to counter domestic, regional and international security threats. 
+
+The Prime Ministers agreed that the security environment in 2015, with the activities of Da’esh/the Islamic State of Iraq and the Levant (ISIL), requires countries to work together, share resources and expertise, and leverage off each other’s connections and networks.  Prime Minister Key acknowledged Australia’s ongoing contribution - an Air Task Group and an Advise and Assist mission - to the international coalition effort to assist the Government of Iraq to degrade and ultimately defeat Da’esh. Prime Minister Abbott welcomed the New Zealand Government’s decision to commit Defence Force personnel to a coalition Building Partner Capacity mission to train the Iraqi Security Forces at the Taji Military Complex near Baghdad. He said discussion with Prime Minister Key had informed Australia’s consideration of what further assistance it would provide Iraq. 
+
+Australia and New Zealand continue to work together to combat home-grown terrorism through engagement and cooperation between law enforcement and intelligence agencies. Both countries are investing new funding in countering terrorism and both have passed legislation to strengthen our intelligence communities and strengthen our borders.  Prime Ministers Key and Abbott noted the particular value at this time of the close consultation on these issues made possible through the Australia-New Zealand Counter-Terrorism Committee.
+
+The two leaders noted their shared concern that some Australians and New Zealanders are attempting to join terrorist organisations in Syria and Iraq.  They expressed their determination to implement effective measures to counter the threat of foreign terrorist fighters to domestic safety and security, including in accordance with UN Security Council Resolution 2178.
+
+The Prime Ministers discussed their deep concern about the violence and dire humanitarian situation in Syria and Iraq.  They noted the serious impact of this humanitarian crisis on the wider region.   They called on all parties to the Syrian conflict to allow unhindered access for the delivery of humanitarian assistance to those in need, in accordance with UN Security Council Resolutions 2139, 2165 and 2191.
+
+The two leaders highlighted Australia’s and New Zealand’s close collaboration on cyber security, which helps to protect both countries against cyber-attack, and coordination of efforts to build the cyber capacity of other nations in our region.
+
+**Emergency Response Cooperation**
+
+The Prime Ministers welcomed the joint training and exercises that had taken place in 2014 between Australian and New Zealand defence forces, as well as other security personnel such as police, intelligence officers, fire fighters and medical practitioners to ensure a high degree of interoperability and understanding between the two countries.  Such readiness enabled the swift deployment of personnel across the Tasman, and beyond in the event of an emergency or threat.  Australia and New Zealand were pleased to be able to work together in the global response effort to Ebola.  Later today, the Prime Ministers will call on the New Zealand Rural Fire Service to express their thanks for the work the rural fire fighters have done in both countries.       
+
+**Trade and Economic Cooperation**
+
+Prime Minister Key congratulated Prime Minister Abbott on Australia’s successful presidency of the G20 in 2014. New Zealand appreciated the opportunity to participate in and contribute to the G20 and B20 meetings as Australia’s guest and share perspectives on trade and future economic challenges.
+
+After meeting with leading business figures, including at the business-led Australia-New Zealand Leadership Forum, which this year marks its tenth anniversary, the Prime Ministers underlined the critical role that the business community plays in driving higher growth and expanding trade.   
+
+The Prime Ministers recognised the strength and importance of the trade and economic relationship between their two countries, underpinned by the Australia New Zealand Closer Economic Relations Trade Agreement (CER) and maintained through the ambitious Single Economic Market (SEM) agenda.
+
+The Prime Ministers acknowledged continued progress in the implementation of the recommendations of the 2012 joint report of the Australian and New Zealand Productivity Commissions; progress on the alignment of qualifications frameworks with the goal of *enhancing the mobility of students and skilled labour between the two countries;* and cooperation towards the mutual recognition of online identity credentials so as to enable trusted online identities to be accepted in both countries for accessing government services online.
+
+The Prime Ministers noted that reviews will take place in 2015 of the Trans-Tasman Mutual Recognition Arrangement, which is an important mechanism for regulatory coordination and a key plank of CER, and the five-year-old Double Taxation Agreement.
+
+Prime Minister Key noted New Zealand’s interest, given the integrated state of the two countries’ economies, in domestic reviews which are currently under way in Australia, particularly the review of Australia’s tax system which will also consider the issue of trans-Tasman mutual recognition of imputation credits.
+
+The Prime Ministers agreed on ongoing cooperation in areas such as infrastructure planning and science and research collaboration.
+
+**Regional and International Trade**
+
+The Prime Ministers reaffirmed their shared goal of greater trade and economic integration in the Asia-Pacific region, and their continued commitment to working together as they engage in regional markets.
+
+As members of the Asia Pacific Economic Cooperation forum (APEC), Australia and New Zealand recently reaffirmed a commitment to a Free Trade Area of the Asia-Pacific (FTAAP) encompassing all 21 APEC members, and agreed to launch a collective strategic study on its realisation.
+
+The Prime Ministers are committed to concluding the Trans Pacific Partnership (TPP) negotiations in 2015. They reiterated their expectation for an outcome that delivers a high quality, comprehensive, 21st century agreement, as reaffirmed at their meeting in Beijing last year.
+
+Both countries are also committed to progressing the Regional Comprehensive Economic Partnership (RCEP) negotiations alongside ASEAN, China, India, Japan and Korea. The Prime Ministers agreed they will continue to push for a modern, comprehensive, high quality agreement which significantly builds on the Agreement Establishing the ASEAN - Australia-New Zealand Free Trade Area (AANZFTA). The Prime Ministers welcomed the positive headway over the past year in the PACER Plus negotiations.
+
+The Prime Ministers welcomed developments in 2014 including the agreement on taking forward the WTO Trade Facilitation Agreement.  Both Prime Ministers hope that substantive progress would be made in 2015 to enable satisfactory resolution of outstanding issues in the WTO Doha Round negotiations particularly in agriculture issues, non-agriculture market access and services.
+
+**Co-Hosting Cricket World Cup 2015**
+
+Cooperation and friendly competition are hallmarks of the Australia-New Zealand relationship.  As one of the most viewed sporting events globally, and the flagship event of the international cricketing calendar, co-hosting the Cricket World Cup has presented an excellent opportunity to showcase our two countries to the world.  The Prime Ministers said they looked forward to attending the Australia-New Zealand game at Eden Park.
+
+**Other Ongoing Trans-Tasman Cooperation:**
+
+Noting the importance of ensuring that travel across the Tasman is as seamless and efficient as possible; both Prime Ministers encouraged the progress and success of SmartGate which continues to smooth trans-Tasman travel for Australian and New Zealand passport-holders. Prime Minister Abbott confirmed Australia is set to introduce 63 next generation eGates (SmartGate) for departures at its eight international airports from mid-2015.
+
+The Prime Ministers welcomed agreement on an information-sharing arrangement between Australia and New Zealand for the recovery of student loans, which should become operational in the second half of 2016.  Draft legislation is currently before the Australian Parliament to extend access to Australian student loans under the Higher Education Loan Program to long-term New Zealand residents in Australia under terms announced in 2013.
+
+Australia and New Zealand are working together to share criminal history information for a variety of purposes, including to enable agencies from both countries, with the consent of the individual involved, to request criminal history checks for employment purposes. To this end, the Prime Ministers acknowledged the signing of a Memorandum of Understanding which will enable agencies to make informed decisions about an individual’s suitability for employment, registration and training. Prime Ministers Key and Abbott welcomed the development of a formal arrangement to share more information about trans-Tasman deportations, so that appropriate due diligence and risk management procedures can be put in place.
+
+Both Prime Ministers welcomed efforts made on both sides of the Tasman to provide clear and coordinated whole-of-government advice to New Zealand Special Category Visa holders living in Australia and underlined the importance of New Zealanders being aware of their rights and responsibilities before moving to Australia.
+
+**Regional and International Cooperation**
+
+Australia and New Zealand continue to value and prioritise their close engagement with the Pacific.  Both countries work in close partnership in Pacific development, including disaster risk management, to further our shared objectives for a more secure and prosperous Pacific region.  
+
+Prime Minister Key expressed his thanks for the strong support Australia had given New Zealand during its United Nations Security Council campaign.  
+
+New Zealand is committed to building on the significant contribution made by Australia during its term, 2013-2014, including by ensuring that the voice of small island states and the Pacific region is heard in the Council over the two years of its membership, 2015-2016. Prime Minister Key acknowledged the leadership role Australia had played on the Council over its term and said that New Zealand was aiming to continue in Australia’s footsteps.   
+
+The Prime Ministers welcomed the democratic election held in Fiji in 2014.  Both countries were now actively focused on reengaging with Fiji and encouraging it back into the regional institutions to which it has historically made such an important and valued contribution to.   
+
+Australia and New Zealand are key partners in supporting the Bougainville Peace Agreement, including assisting Papua New Guinea and the Autonomous Bougainville Government to ensure the referendum on Bougainville’s future status, scheduled to occur between 2015 and 2020, is free and fair and takes place peacefully.
+
+The Prime Ministers reaffirmed the pre-eminence of the Pacific Islands Forum and thanked Palau for its work as Chair of the Forum. Australia and New Zealand are committed to working with their Pacific neighbours over year ahead, including the implementation of the Framework for Pacific Regionalism.  Both Prime Ministers are looking forward to visiting Papua New Guinea for the next Forum Leaders’ Meeting in September.
+
+Australia and New Zealand noted preparations under way for Papua New Guinea’s hosting of APEC in 2018 and reaffirmed their commitment to supporting Papua New Guinea hosting a successful summit.
+
+The Prime Ministers welcomed engagement between their foreign services on the co-location of diplomatic missions, including the successful placement of a senior New Zealand diplomat in Australia’s diplomatic mission in Ghana.
+
+Prime Ministers Abbott and Key welcomed cooperation between their countries combating people smuggling, drug trafficking and illegal, unreported and unregulated fishing in the Pacific.  The Prime Ministers welcomed work under way to develop a joint information campaign to deter people smuggling targeting Australia and New Zealand and reaffirmed their ongoing cooperation with regional partners through the Bali Process. 
+
+Prime Minister Key noted that New Zealand intercepted three vessels fishing illegally in the Southern Ocean in January this year and is now committed to putting these vessels out of business and doing what it can to penalise the owners and operators.  Prime Ministers agreed the interception highlights the need for ongoing cooperation and vigilance to protect the Southern Ocean from IUU activities.  Australia and New Zealand will also continue to work closely and cooperatively in pursuit of the establishment of marine protected areas in the Ross Sea region and East Antarctica and stand together against lethal whaling in the Southern Ocean.

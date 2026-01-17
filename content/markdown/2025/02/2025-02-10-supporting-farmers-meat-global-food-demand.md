@@ -1,7 +1,7 @@
 ---
 title: "Supporting farmers to ‘meat’ global food demand"
 date: 2025-02-10
-url: https://www.beehive.govt.nz/release/supporting-farmers-%E2%80%98meat%E2%80%99-global-food-demand
+url: https://www.beehive.govt.nz/release/supporting-farmers-meat-global-food-demand
 ministers:
   - Hon Todd McClay
 portfolios:

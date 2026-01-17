@@ -6,6 +6,10 @@ ministers:
   - Hon Tama Potaka
 portfolios:
   - Conservation
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-09/Outlook1.jpg
+  - https://www.beehive.govt.nz/sites/default/files/2025-09/outlook2.jpg
+  - https://www.beehive.govt.nz/sites/default/files/2025-09/Rauk%C5%ABmara%20Ranges.jpg
 ---
 
 *Whakaeteete mai ko Hikurangi!*

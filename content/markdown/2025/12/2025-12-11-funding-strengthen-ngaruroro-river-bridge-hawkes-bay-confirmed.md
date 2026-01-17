@@ -1,7 +1,7 @@
 ---
 title: "Funding to strengthen Ngaruroro River bridge in Hawke’s Bay confirmed"
 date: 2025-12-11
-url: https://www.beehive.govt.nz/release/funding-strengthen-ngaruroro-river-bridge-hawke%E2%80%99s-bay-confirmed
+url: https://www.beehive.govt.nz/release/funding-strengthen-ngaruroro-river-bridge-hawkes-bay-confirmed
 ministers:
   - Hon Chris Bishop
 portfolios:

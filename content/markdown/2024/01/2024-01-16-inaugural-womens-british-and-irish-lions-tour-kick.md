@@ -1,7 +1,7 @@
 ---
 title: "Inaugural Women’s British and Irish Lions tour to kick off"
 date: 2024-01-16
-url: https://www.beehive.govt.nz/release/inaugural-women%E2%80%99s-british-and-irish-lions-tour-kick
+url: https://www.beehive.govt.nz/release/inaugural-womens-british-and-irish-lions-tour-kick
 ministers:
   - Hon Chris Bishop
   - Hon Melissa Lee

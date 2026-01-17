@@ -1,7 +1,7 @@
 ---
 title: "More funding to Hawke’s Bay and Tairāwhiti"
 date: 2024-02-12
-url: https://www.beehive.govt.nz/release/more-funding-hawke%E2%80%99s-bay-and-tair%C4%81whiti
+url: https://www.beehive.govt.nz/release/more-funding-hawkes-bay-and-tairawhiti
 ministers:
   - Hon Mark Mitchell
 portfolios:

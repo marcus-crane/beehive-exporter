@@ -1,7 +1,7 @@
 ---
 title: "Pharmac performing well against Minister’s expectations"
 date: 2025-11-05
-url: https://www.beehive.govt.nz/release/pharmac-performing-well-against-minister%E2%80%99s-expectations
+url: https://www.beehive.govt.nz/release/pharmac-performing-well-against-ministers-expectations
 ministers:
   - Hon David Seymour
 portfolios:

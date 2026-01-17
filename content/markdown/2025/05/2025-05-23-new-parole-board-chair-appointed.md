@@ -1,7 +1,7 @@
 ---
 title: "New Parole Board chair appointed"
 date: 2025-05-23
-url: https://www.beehive.govt.nz/release/new-parole-board-chair-appointed%E2%80%AF%E2%80%AF
+url: https://www.beehive.govt.nz/release/new-parole-board-chair-appointed
 ministers:
   - Hon Judith Collins KC
 portfolios:

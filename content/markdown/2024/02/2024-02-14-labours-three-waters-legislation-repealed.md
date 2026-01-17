@@ -1,7 +1,7 @@
 ---
 title: "Labour’s Three Waters legislation repealed"
 date: 2024-02-14
-url: https://www.beehive.govt.nz/release/labour%E2%80%99s-three-waters-legislation-repealed
+url: https://www.beehive.govt.nz/release/labours-three-waters-legislation-repealed
 ministers:
   - Hon Simeon Brown
 portfolios:

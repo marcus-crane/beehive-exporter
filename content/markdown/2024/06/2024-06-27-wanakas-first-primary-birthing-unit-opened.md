@@ -1,7 +1,7 @@
 ---
 title: "Wānaka’s first primary birthing unit opened"
 date: 2024-06-27
-url: https://www.beehive.govt.nz/release/w%C4%81naka%E2%80%99s-first-primary-birthing-unit-opened
+url: https://www.beehive.govt.nz/release/wanakas-first-primary-birthing-unit-opened
 ministers:
   - Hon Dr Shane Reti
 portfolios:

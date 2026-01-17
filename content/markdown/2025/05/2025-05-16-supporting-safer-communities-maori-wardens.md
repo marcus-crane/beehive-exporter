@@ -1,7 +1,7 @@
 ---
 title: "Supporting safer communities with Māori Wardens"
 date: 2025-05-16
-url: https://www.beehive.govt.nz/release/supporting-safer-communities-m%C4%81ori-wardens
+url: https://www.beehive.govt.nz/release/supporting-safer-communities-maori-wardens
 ministers:
   - Hon Tama Potaka
   - Rt Hon Winston Peters

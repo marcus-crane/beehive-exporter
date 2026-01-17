@@ -1,7 +1,7 @@
 ---
 title: "Prime Minister to attend APEC Leaders’ Meeting"
 date: 2024-11-11
-url: https://www.beehive.govt.nz/release/prime-minister-attend-apec-leaders%E2%80%99-meeting
+url: https://www.beehive.govt.nz/release/prime-minister-attend-apec-leaders-meeting
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

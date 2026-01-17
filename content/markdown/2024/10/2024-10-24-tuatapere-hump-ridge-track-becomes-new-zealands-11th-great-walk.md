@@ -1,7 +1,7 @@
 ---
 title: "Tuatapere Hump Ridge Track becomes New Zealand’s 11th Great Walk"
 date: 2024-10-24
-url: https://www.beehive.govt.nz/release/tuatapere-hump-ridge-track-becomes-new-zealand%E2%80%99s-11th-great-walk
+url: https://www.beehive.govt.nz/release/tuatapere-hump-ridge-track-becomes-new-zealands-11th-great-walk
 ministers:
   - Hon Tama Potaka
 portfolios:

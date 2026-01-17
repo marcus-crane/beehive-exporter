@@ -1,7 +1,7 @@
 ---
 title: "Bringing breast screening close to home in Kāpiti"
 date: 2025-10-14
-url: https://www.beehive.govt.nz/release/bringing-breast-screening-close-home-k%C4%81piti
+url: https://www.beehive.govt.nz/release/bringing-breast-screening-close-home-kapiti
 ministers:
   - Hon Simeon Brown
   - Hon Nicola Grigg

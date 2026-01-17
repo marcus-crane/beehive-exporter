@@ -1,7 +1,7 @@
 ---
 title: "Celebrating 100 years of the Māori Trustee"
 date: 2024-08-06
-url: https://www.beehive.govt.nz/release/celebrating-100-years-m%C4%81ori-trustee
+url: https://www.beehive.govt.nz/release/celebrating-100-years-maori-trustee
 ministers:
   - Hon Tama Potaka
 portfolios:

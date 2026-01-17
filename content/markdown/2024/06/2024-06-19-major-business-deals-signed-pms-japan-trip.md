@@ -1,7 +1,7 @@
 ---
 title: "Major business deals signed on PM’s Japan trip"
 date: 2024-06-19
-url: https://www.beehive.govt.nz/release/major-business-deals-signed-pm%E2%80%99s-japan-trip
+url: https://www.beehive.govt.nz/release/major-business-deals-signed-pms-japan-trip
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

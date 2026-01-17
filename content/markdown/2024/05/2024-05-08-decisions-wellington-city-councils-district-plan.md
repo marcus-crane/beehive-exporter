@@ -1,7 +1,7 @@
 ---
 title: "Decisions on Wellington City Council’s District Plan"
 date: 2024-05-08
-url: https://www.beehive.govt.nz/release/decisions-wellington-city-council%E2%80%99s-district-plan
+url: https://www.beehive.govt.nz/release/decisions-wellington-city-councils-district-plan
 ministers:
   - Hon Chris Bishop
 portfolios:

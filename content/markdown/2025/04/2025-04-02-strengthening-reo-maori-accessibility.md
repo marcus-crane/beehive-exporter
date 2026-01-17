@@ -1,7 +1,7 @@
 ---
 title: "Strengthening reo Māori accessibility"
 date: 2025-04-02
-url: https://www.beehive.govt.nz/release/strengthening-reo-m%C4%81ori-accessibility
+url: https://www.beehive.govt.nz/release/strengthening-reo-maori-accessibility
 ministers:
   - Hon Tama Potaka
 portfolios:

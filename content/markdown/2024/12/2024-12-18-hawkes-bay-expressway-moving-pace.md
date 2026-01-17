@@ -1,11 +1,13 @@
 ---
 title: "Hawke’s Bay Expressway moving at pace"
 date: 2024-12-18
-url: https://www.beehive.govt.nz/release/hawke%E2%80%99s-bay-expressway-moving-pace
+url: https://www.beehive.govt.nz/release/hawkes-bay-expressway-moving-pace
 ministers:
   - Hon Simeon Brown
 portfolios:
   - Transport
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2024-12/HBExpressway.jpg
 ---
 
 Transport Minister Simeon Brown has welcomed further progress on the Hawke’s Bay Expressway Road of National Significance (RoNS), with the NZ Transport Agency (NZTA) Board approving funding for the detailed design of Stage 1, paving the way for main works construction to begin in late 2025.

@@ -8,8 +8,6 @@ ministers:
 portfolios:
   - Internal Affairs
   - Police
-attachments:
-  - https://ngcc.govt.nz/assets/Public-Safety-Network-Cellular-Roaming-go-live-media-release-26072023.pdf
 ---
 
 Police Minister, Mark Mitchell, and Internal Affairs Minister, Brooke van Velden, today launched a further [Public Safety Network](https://ngcc.govt.nz/public-safety-network) cellular service that alongside last year’s [Cellular Roaming](https://ngcc.govt.nz/assets/Public-Safety-Network-Cellular-Roaming-go-live-media-release-26072023.pdf) roll-out, puts globally-leading cellular communications capability into the hands of our emergency responders.

@@ -1,7 +1,7 @@
 ---
 title: "White Ribbon Day – Preventing violence against Women"
 date: 2025-11-24
-url: https://www.beehive.govt.nz/release/white-ribbon-day-%E2%80%93-preventing-violence-against-women
+url: https://www.beehive.govt.nz/release/white-ribbon-day--preventing-violence-against-women
 ministers:
   - Hon Karen Chhour
 portfolios:

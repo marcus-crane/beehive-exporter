@@ -1,7 +1,7 @@
 ---
 title: "NZ’s partnership with United Kingdom reinforced"
 date: 2025-04-24
-url: https://www.beehive.govt.nz/release/nz%E2%80%99s-partnership-united-kingdom-reinforced
+url: https://www.beehive.govt.nz/release/nzs-partnership-united-kingdom-reinforced
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

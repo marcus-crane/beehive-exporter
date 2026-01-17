@@ -1,7 +1,7 @@
 ---
 title: "Sheep and Beef farmers deliver\u00a0record red meat returns"
 date: 2025-05-28
-url: https://www.beehive.govt.nz/release/sheep-and-beef-farmers-deliver%C2%A0record-red-meat-returns
+url: https://www.beehive.govt.nz/release/sheep-and-beef-farmers-deliverrecord-red-meat-returns
 ministers:
   - Hon Todd McClay
 portfolios:

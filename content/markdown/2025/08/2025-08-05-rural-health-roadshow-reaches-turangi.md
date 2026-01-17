@@ -1,7 +1,7 @@
 ---
 title: "Rural health roadshow reaches Tūrangi"
 date: 2025-08-05
-url: https://www.beehive.govt.nz/release/rural-health-roadshow-reaches-t%C5%ABrangi
+url: https://www.beehive.govt.nz/release/rural-health-roadshow-reaches-turangi
 ministers:
   - Hon Matt Doocey
   - Hon Mark Patterson

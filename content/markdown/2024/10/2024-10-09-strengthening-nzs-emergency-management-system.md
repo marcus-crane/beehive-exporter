@@ -1,7 +1,7 @@
 ---
 title: "Strengthening NZ’s emergency management system"
 date: 2024-10-09
-url: https://www.beehive.govt.nz/release/strengthening-nz%E2%80%99s-emergency-management-system
+url: https://www.beehive.govt.nz/release/strengthening-nzs-emergency-management-system
 ministers:
   - Hon Mark Mitchell
 portfolios:

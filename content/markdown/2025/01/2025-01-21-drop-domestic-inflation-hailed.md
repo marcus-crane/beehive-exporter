@@ -1,7 +1,7 @@
 ---
 title: "Drop in domestic inflation hailed"
 date: 2025-01-21
-url: https://www.beehive.govt.nz/release/drop-domestic-inflation-hailed%C2%A0%C2%A0
+url: https://www.beehive.govt.nz/release/drop-domestic-inflation-hailed
 ministers:
   - Hon Nicola Willis
 portfolios:

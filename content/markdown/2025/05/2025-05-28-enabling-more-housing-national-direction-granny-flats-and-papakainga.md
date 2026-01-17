@@ -1,7 +1,7 @@
 ---
 title: "Enabling more housing: National direction on granny flats and papakāinga"
 date: 2025-05-28
-url: https://www.beehive.govt.nz/release/enabling-more-housing-national-direction-granny-flats-and-papak%C4%81inga
+url: https://www.beehive.govt.nz/release/enabling-more-housing-national-direction-granny-flats-and-papakainga
 ministers:
   - Hon Chris Bishop
   - Hon Tama Potaka

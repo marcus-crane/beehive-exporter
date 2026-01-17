@@ -1,7 +1,7 @@
 ---
 title: "Discharging Labour’s redundant ram raid bill"
 date: 2025-02-03
-url: https://www.beehive.govt.nz/release/discharging-labour%E2%80%99s-redundant-ram-raid-bill
+url: https://www.beehive.govt.nz/release/discharging-labours-redundant-ram-raid-bill
 ministers:
   - Hon Paul Goldsmith
   - Hon Karen Chhour

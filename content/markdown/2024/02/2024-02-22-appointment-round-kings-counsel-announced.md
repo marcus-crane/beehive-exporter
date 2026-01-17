@@ -1,7 +1,7 @@
 ---
 title: "Appointment round for King’s Counsel announced"
 date: 2024-02-22
-url: https://www.beehive.govt.nz/release/appointment-round-king%E2%80%99s-counsel-announced
+url: https://www.beehive.govt.nz/release/appointment-round-kings-counsel-announced
 ministers:
   - Hon Judith Collins KC
 portfolios:

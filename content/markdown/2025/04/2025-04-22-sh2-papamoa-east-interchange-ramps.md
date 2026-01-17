@@ -1,7 +1,7 @@
 ---
 title: "SH2 Pāpāmoa East Interchange ramps up"
 date: 2025-04-22
-url: https://www.beehive.govt.nz/release/sh2-p%C4%81p%C4%81moa-east-interchange-ramps
+url: https://www.beehive.govt.nz/release/sh2-papamoa-east-interchange-ramps
 ministers:
   - Hon Chris Bishop
 portfolios:

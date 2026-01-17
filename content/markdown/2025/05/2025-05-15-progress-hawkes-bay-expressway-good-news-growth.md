@@ -1,7 +1,7 @@
 ---
 title: "Progress on Hawke’s Bay Expressway good news for growth"
 date: 2025-05-15
-url: https://www.beehive.govt.nz/release/progress-hawke%E2%80%99s-bay-expressway-good-news-growth
+url: https://www.beehive.govt.nz/release/progress-hawkes-bay-expressway-good-news-growth
 ministers:
   - Hon Chris Bishop
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Improving New Zealand’s climate change act"
 date: 2025-11-04
-url: https://www.beehive.govt.nz/release/improving-new-zealand%E2%80%99s-climate-change-act
+url: https://www.beehive.govt.nz/release/improving-new-zealands-climate-change-act
 ministers:
   - Hon Simon Watts
 portfolios:

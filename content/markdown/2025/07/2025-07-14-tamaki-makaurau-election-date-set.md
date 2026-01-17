@@ -1,7 +1,7 @@
 ---
 title: "Tāmaki Makaurau by-election date set"
 date: 2025-07-14
-url: https://www.beehive.govt.nz/release/t%C4%81maki-makaurau-election-date-set
+url: https://www.beehive.govt.nz/release/tamaki-makaurau-election-date-set
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

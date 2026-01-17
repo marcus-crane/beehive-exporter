@@ -1,7 +1,7 @@
 ---
 title: "Port investment to drive Gisborne’s economic growth"
 date: 2025-11-27
-url: https://www.beehive.govt.nz/release/port-investment-drive-gisborne%E2%80%99s-economic-growth
+url: https://www.beehive.govt.nz/release/port-investment-drive-gisbornes-economic-growth
 ministers:
   - Hon James Meager
 portfolios:

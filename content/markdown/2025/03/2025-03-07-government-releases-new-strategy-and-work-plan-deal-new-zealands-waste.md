@@ -1,7 +1,7 @@
 ---
 title: "Government releases new strategy and work plan to deal with New Zealand’s waste"
 date: 2025-03-07
-url: https://www.beehive.govt.nz/release/government-releases-new-strategy-and-work-plan-deal-new-zealand%E2%80%99s-waste
+url: https://www.beehive.govt.nz/release/government-releases-new-strategy-and-work-plan-deal-new-zealands-waste
 ministers:
   - Hon Penny Simmonds
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "PM heads to Australia for annual Leaders’ Meeting"
 date: 2024-08-12
-url: https://www.beehive.govt.nz/release/pm-heads-australia-annual-leaders%E2%80%99-meeting
+url: https://www.beehive.govt.nz/release/pm-heads-australia-annual-leaders-meeting
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

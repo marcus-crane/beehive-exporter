@@ -1,7 +1,7 @@
 ---
 title: "New Zealand Biosecurity Awards – Winners announced"
 date: 2024-04-08
-url: https://www.beehive.govt.nz/release/new-zealand-biosecurity-awards-%E2%80%93-winners-announced
+url: https://www.beehive.govt.nz/release/new-zealand-biosecurity-awards--winners-announced
 ministers:
   - Hon Andrew Hoggard
 portfolios:

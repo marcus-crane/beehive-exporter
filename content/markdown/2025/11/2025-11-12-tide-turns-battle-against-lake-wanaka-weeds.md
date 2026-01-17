@@ -1,7 +1,7 @@
 ---
 title: "Tide turns in battle against Lake Wānaka weeds"
 date: 2025-11-12
-url: https://www.beehive.govt.nz/release/tide-turns-battle-against-lake-w%C4%81naka-weeds
+url: https://www.beehive.govt.nz/release/tide-turns-battle-against-lake-wanaka-weeds
 ministers:
   - Hon Chris Penk
 portfolios:

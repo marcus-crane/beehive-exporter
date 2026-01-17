@@ -1,7 +1,7 @@
 ---
 title: "$340m NZ-China trade boost through 24\u00a0key partnerships"
 date: 2024-11-07
-url: https://www.beehive.govt.nz/release/340m-nz-china-trade-boost-through-24%C2%A0key-partnerships
+url: https://www.beehive.govt.nz/release/340m-nz-china-trade-boost-through-24key-partnerships
 ministers:
   - Hon Todd McClay
 portfolios:

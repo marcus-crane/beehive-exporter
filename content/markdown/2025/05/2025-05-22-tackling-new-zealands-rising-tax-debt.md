@@ -1,7 +1,7 @@
 ---
 title: "Tackling New Zealand’s rising tax debt"
 date: 2025-05-22
-url: https://www.beehive.govt.nz/release/tackling-new-zealand%E2%80%99s-rising-tax-debt
+url: https://www.beehive.govt.nz/release/tackling-new-zealands-rising-tax-debt
 ministers:
   - Hon Simon Watts
 portfolios:

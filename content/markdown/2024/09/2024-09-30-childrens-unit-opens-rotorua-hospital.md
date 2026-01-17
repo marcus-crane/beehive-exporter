@@ -1,7 +1,7 @@
 ---
 title: "Children’s Unit opens at Rotorua Hospital"
 date: 2024-09-30
-url: https://www.beehive.govt.nz/release/children%E2%80%99s-unit-opens-rotorua-hospital
+url: https://www.beehive.govt.nz/release/childrens-unit-opens-rotorua-hospital
 ministers:
   - Hon Dr Shane Reti
 portfolios:

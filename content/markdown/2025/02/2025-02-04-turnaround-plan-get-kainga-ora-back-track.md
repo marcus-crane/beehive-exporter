@@ -1,7 +1,7 @@
 ---
 title: "Turnaround plan to get Kāinga Ora back on track"
 date: 2025-02-04
-url: https://www.beehive.govt.nz/release/turnaround-plan-get-k%C4%81inga-ora-back-track
+url: https://www.beehive.govt.nz/release/turnaround-plan-get-kainga-ora-back-track
 ministers:
   - Hon Chris Bishop
 portfolios:

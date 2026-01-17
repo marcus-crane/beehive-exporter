@@ -1,7 +1,7 @@
 ---
 title: "Peer support workers join Dunedin Hospital’s frontline"
 date: 2025-10-07
-url: https://www.beehive.govt.nz/release/peer-support-workers-join-dunedin-hospital%E2%80%99s-frontline
+url: https://www.beehive.govt.nz/release/peer-support-workers-join-dunedin-hospitals-frontline
 ministers:
   - Hon Matt Doocey
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Radiology upgrade to double scanning capacity in Hawke’s Bay"
 date: 2025-11-10
-url: https://www.beehive.govt.nz/release/radiology-upgrade-double-scanning-capacity-hawke%E2%80%99s-bay
+url: https://www.beehive.govt.nz/release/radiology-upgrade-double-scanning-capacity-hawkes-bay
 ministers:
   - Hon Simeon Brown
 portfolios:

@@ -6,8 +6,6 @@ ministers:
   - Hon Nicole McKee
 portfolios:
   - Justice
-attachments:
-  - https://www.justice.govt.nz/assets/Documents/Publications/Proceeds-of-Crime-Fund-Terms-of-Reference-2025.pdf
 ---
 
 The Proceeds of Crime Fund will open a new funding round based on new criteria on 31 March Associate Minister of Justice Nicole McKee says.

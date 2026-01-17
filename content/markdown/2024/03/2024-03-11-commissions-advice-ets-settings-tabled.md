@@ -1,7 +1,7 @@
 ---
 title: "Commission’s advice on ETS settings tabled"
 date: 2024-03-11
-url: https://www.beehive.govt.nz/release/commission%E2%80%99s-advice-ets-settings-tabled
+url: https://www.beehive.govt.nz/release/commissions-advice-ets-settings-tabled
 ministers:
   - Hon Simon Watts
 portfolios:

@@ -6,8 +6,6 @@ ministers:
   - Hon Chris Penk
 portfolios:
   - Building and Construction
-attachments:
-  - https://d39d3mj7qio96p.cloudfront.net/media/documents/BRANZ_ModelDocs_Anthony_Hoete_241005.pdf
 ---
 
 More building consent and code compliance applications are being processed within the statutory timeframe since the Government required councils to submit quarterly data, Building and Construction Minister Chris Penk says.

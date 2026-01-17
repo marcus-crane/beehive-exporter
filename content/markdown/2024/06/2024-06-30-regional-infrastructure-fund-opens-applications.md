@@ -6,8 +6,6 @@ ministers:
   - Hon Shane Jones
 portfolios:
   - Regional Development
-attachments:
-  - https://www.resilientrivers.nz/files/1702942770396.pdf
 ---
 
 Councils, iwi, businesses and community organisations with infrastructure projects that support regional priorities are invited to apply for funding from the Regional Infrastructure Fund, which opened today.

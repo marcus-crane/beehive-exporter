@@ -1,7 +1,7 @@
 ---
 title: "Legal action dropped over ETS Forestry Registry"
 date: 2025-02-02
-url: https://www.beehive.govt.nz/release/legal-action-dropped-over-ets-forestry-registry%C2%A0
+url: https://www.beehive.govt.nz/release/legal-action-dropped-over-ets-forestry-registry
 ministers:
   - Hon Todd McClay
 portfolios:

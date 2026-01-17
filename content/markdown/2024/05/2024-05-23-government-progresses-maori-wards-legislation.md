@@ -1,7 +1,7 @@
 ---
 title: "Government progresses Māori wards legislation"
 date: 2024-05-23
-url: https://www.beehive.govt.nz/release/government-progresses-m%C4%81ori-wards-legislation
+url: https://www.beehive.govt.nz/release/government-progresses-maori-wards-legislation
 ministers:
   - Hon Simeon Brown
 portfolios:

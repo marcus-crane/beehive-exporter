@@ -1,7 +1,7 @@
 ---
 title: "Clarifying Corrections’ management of EM bail"
 date: 2025-03-11
-url: https://www.beehive.govt.nz/release/clarifying-corrections%E2%80%99-management-em-bail
+url: https://www.beehive.govt.nz/release/clarifying-corrections-management-em-bail
 ministers:
   - Hon Paul Goldsmith
 portfolios:

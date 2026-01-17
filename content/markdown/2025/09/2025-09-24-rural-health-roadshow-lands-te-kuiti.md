@@ -1,7 +1,7 @@
 ---
 title: "Rural health roadshow lands in Te Kūiti"
 date: 2025-09-24
-url: https://www.beehive.govt.nz/release/rural-health-roadshow-lands-te-k%C5%ABiti
+url: https://www.beehive.govt.nz/release/rural-health-roadshow-lands-te-kuiti
 ministers:
   - Hon Matt Doocey
   - Hon Mark Patterson

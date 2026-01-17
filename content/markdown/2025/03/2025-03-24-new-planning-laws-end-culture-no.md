@@ -1,7 +1,7 @@
 ---
 title: "New planning laws to end the culture of ‘no’"
 date: 2025-03-24
-url: https://www.beehive.govt.nz/release/new-planning-laws-end-culture-%E2%80%98no%E2%80%99
+url: https://www.beehive.govt.nz/release/new-planning-laws-end-culture-no
 ministers:
   - Hon Chris Bishop
   - Simon Court

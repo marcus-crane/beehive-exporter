@@ -1,7 +1,7 @@
 ---
 title: "Government redress for Te Korowai o Wainuiārua"
 date: 2024-04-11
-url: https://www.beehive.govt.nz/release/government-redress-te-korowai-o-wainui%C4%81rua
+url: https://www.beehive.govt.nz/release/government-redress-te-korowai-o-wainuiarua
 ministers:
   - Hon Paul Goldsmith
 portfolios:

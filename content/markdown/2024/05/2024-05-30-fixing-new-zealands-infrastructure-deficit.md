@@ -1,7 +1,7 @@
 ---
 title: "Fixing New Zealand’s infrastructure deficit"
 date: 2024-05-30
-url: https://www.beehive.govt.nz/release/fixing-new-zealand%E2%80%99s-infrastructure-deficit
+url: https://www.beehive.govt.nz/release/fixing-new-zealands-infrastructure-deficit
 ministers:
   - Hon Chris Bishop
 portfolios:

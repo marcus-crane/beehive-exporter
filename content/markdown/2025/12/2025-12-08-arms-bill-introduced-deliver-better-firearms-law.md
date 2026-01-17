@@ -6,8 +6,6 @@ ministers:
   - Hon Nicole McKee
 portfolios:
   - Justice
-attachments:
-  - https://www.beehive.govt.nz/sites/default/files/2025-11/20251110%20Arms%20Bill%20-%20Explainer%20-%20Final%20Version%20v2.pdf
 ---
 
 The Government has introduced the Arms Bill to Parliament, bringing New Zealand one step closer to fairer, fit for purpose firearms laws, says Associate Justice Minister Nicole McKee.

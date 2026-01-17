@@ -1,7 +1,7 @@
 ---
 title: "Appointments made to NZ’s community trusts"
 date: 2025-12-01
-url: https://www.beehive.govt.nz/release/appointments-made-nz%E2%80%99s-community-trusts
+url: https://www.beehive.govt.nz/release/appointments-made-nzs-community-trusts
 ministers:
   - Hon Shane Jones
 portfolios:

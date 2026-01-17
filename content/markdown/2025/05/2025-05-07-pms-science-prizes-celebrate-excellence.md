@@ -1,7 +1,7 @@
 ---
 title: "PM’s Science Prizes celebrate excellence"
 date: 2025-05-07
-url: https://www.beehive.govt.nz/release/pm%E2%80%99s-science-prizes-celebrate-excellence
+url: https://www.beehive.govt.nz/release/pms-science-prizes-celebrate-excellence
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

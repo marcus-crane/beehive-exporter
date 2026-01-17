@@ -1,7 +1,7 @@
 ---
 title: "Ministers reveal consequences for unruly Kāinga Ora tenants"
 date: 2024-07-13
-url: https://www.beehive.govt.nz/release/ministers-reveal-consequences-unruly-k%C4%81inga-ora-tenants
+url: https://www.beehive.govt.nz/release/ministers-reveal-consequences-unruly-kainga-ora-tenants
 ministers:
   - Hon Chris Bishop
 portfolios:

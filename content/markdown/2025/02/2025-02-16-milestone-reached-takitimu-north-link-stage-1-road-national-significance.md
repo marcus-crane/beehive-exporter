@@ -6,6 +6,8 @@ ministers:
   - Hon Chris Bishop
 portfolios:
   - Transport
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-02/Takitimu%20North%20Link%20Stage%201%20Map.jpg
 ---
 
 Construction of Takitimu North Link Stage 1, a new four lane expressway connecting Tauranga and Te Puna, has passed the halfway point, which is great news for economic growth and productivity in the western Bay of Plenty, Transport Minister Chris Bishop says.

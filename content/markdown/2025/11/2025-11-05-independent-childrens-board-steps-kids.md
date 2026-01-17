@@ -1,7 +1,7 @@
 ---
 title: "Independent Children’s Board steps up for kids"
 date: 2025-11-05
-url: https://www.beehive.govt.nz/release/independent-children%E2%80%99s-board-steps-kids
+url: https://www.beehive.govt.nz/release/independent-childrens-board-steps-kids
 ministers:
   - Hon Louise Upston
 portfolios:

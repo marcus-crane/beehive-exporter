@@ -8,8 +8,6 @@ ministers:
 portfolios:
   - Infrastructure
   - Local Government
-attachments:
-  - https://www.beehive.govt.nz/sites/default/files/2024-08/Regional%20Deals%20Strategic%20Framework.pdf
 ---
 
 The Government’s City and Regional Deals initiative has received a great response from regions across New Zealand, and is now into the assessment stage to determine which regions will be the first to progress towards a deal, Local Government Minister Simon Watts and Infrastructure Minister Chris Bishop say.

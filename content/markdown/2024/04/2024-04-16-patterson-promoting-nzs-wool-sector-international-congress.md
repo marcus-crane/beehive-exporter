@@ -1,7 +1,7 @@
 ---
 title: "Patterson promoting NZ’s wool sector at International Congress"
 date: 2024-04-16
-url: https://www.beehive.govt.nz/release/patterson-promoting-nz%E2%80%99s-wool-sector-international-congress
+url: https://www.beehive.govt.nz/release/patterson-promoting-nzs-wool-sector-international-congress
 ministers:
   - Hon Mark Patterson
 portfolios:

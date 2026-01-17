@@ -1,0 +1,51 @@
+---
+title: "Fairer rules for tenants and landlords"
+date: 2019-11-17
+url: https://www.beehive.govt.nz/release/fairer-rules-tenants-and-landlords
+ministers:
+  - Hon Kris Faafoi
+portfolios:
+  - Housing
+---
+
+The Government has delivered on its promise to the over one million New Zealanders who now rent to make it fairer and more secure, Associate Minister of Housing (Public Housing) Kris Faafoi has announced today.
+
+Both renters and landlords will benefit from the suite of practical changes to the Residential Tenancies Act announced today that sit alongside the Government’s previous improvements to renting, including the banning of letting fees and the Healthy Homes Guarantee.
+
+The key changes include:
+
+- **Limit rent increases to once every 12 months** and banning the solicitation of rental bids by landlords.
+- **Improve tenant’s security** by removing a landlord’s right to use no cause terminations to end a periodic tenancy agreement.
+- **Making rental properties safer and more liveable** by letting tenants add minor fittings such as brackets to secure furniture against earthquake risk, to baby proof the property, install visual fire alarms and doorbells, and hang pictures.
+- **Improve compliance with the law** by increasing financial penalties and introducing new tools to take direct action against parties who are not meeting their obligations.
+
+“With more and more people renting, the law should provide enough security to responsible renters to put down roots in their community,” Kris Faafoi said.
+
+“Greater security of tenancy and less regular rent increases, coupled with the ability to make minor improvements, mean renters will be better placed to make their house a home.
+
+“One third of all New Zealanders now rent and the previous Government neglected this new reality for nine years. I’ve heard horror stories of families forced to continually move house, damaging their children’s education by constantly changing schools.
+
+“Our changes are balanced, providing certainty to both parties about their respective roles and responsibilities.
+
+“We understand that landlords require clear guidelines, which help them protect their investment and assist them in their dealings with difficult tenants and the law ensures this. If a tenant acts irresponsibly there can be repercussions.
+
+“These reforms deliver on the Coalition Government’s promise to address out-dated rules for rental accommodation, and are part of our plan to improve wellbeing for many new Zealanders who rent their homes.
+
+“These changes complete the package of improvements for rental markets that were planned for the Coalition Government’s first term and which also include banning of letting fees and introducing a healthy homes standard to ensure all rental accommodation is warm and dry,” Kris Faafoi said.
+
+The changes will be drafted in a Bill to amend the Residential Tenancies Act 1986, which will be introduced to Parliament in the first half of 2020.
+
+For more information on the Residential Tenancies Act reforms visit the Ministry of Housing and Urban Development web link:
+
+[https://www.hud.govt.nz/residential-housing/tenancy-and-rentals/changes-to-the-residential-tenancies-act-1986/rta-reforms/](https://www.hud.govt.nz/residential-housing/tenancy-and-rentals/changes-to-the-residential-tenancies-act-1986/rta-reforms/)
+
+**Notes to Editors:**
+
+**The Government has a comprehensive plan of initiatives to fix the housing crisis we inherited which includes:**
+
+- **Banning letting fees**
+- **Healthy home standards** requiring all rental properties meet the standards for insulation, heating and drainage to make life better for renters
+- **Establishing Kāinga Ora – Homes and Communities** which plays a key role in providing tenancy services to public housing tenants, prioritise tenant wellbeing, and provide good quality, warm, dry and healthy homes. Kāinga Ora will partner to deliver urban development projects of all sizes to provide a mix of public, affordable and market housing.
+- **Banning foreign speculators** from buying existing New Zealand homes, to ensure that Kiwi families are not priced out of the market.
+- **Committing significant new funding** through Budget 2018 to public housing construction, by a combination of $234 million in operating funding and $2.9 billion of borrowing through Housing NZ/Kainga Ora, for an additional 6,400 public housing places by June 2022 in order to meet emerging demand. In 2018/19 we exceeded the target of 1,600 places with 2,178 public houses becoming available with 1,601 of these places being new builds. Between 1 November 2017 and 30 September 2019, the total number of Public Housing places increased by 3,381, of which 2,752 were new builds.
+- **First time home buyers** now have more options with the Government making $400 million available to support more New Zealanders into home ownership by increasing support for progressive home ownership schemes. The deposit required for a Government-backed mortgage has reduced to 5%, and family and friends can each use their $10,000 First Home Grant and their KiwiSavers to buy their first home together.

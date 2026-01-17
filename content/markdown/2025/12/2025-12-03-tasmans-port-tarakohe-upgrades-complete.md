@@ -1,7 +1,7 @@
 ---
 title: "Tasman’s Port Tarakohe upgrades complete"
 date: 2025-12-03
-url: https://www.beehive.govt.nz/release/tasman%E2%80%99s-port-tarakohe-upgrades-complete
+url: https://www.beehive.govt.nz/release/tasmans-port-tarakohe-upgrades-complete
 ministers:
   - Hon Shane Jones
   - Jenny Marcroft

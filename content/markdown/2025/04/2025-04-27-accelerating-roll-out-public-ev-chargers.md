@@ -9,8 +9,6 @@ portfolios:
   - Climate Change
   - Energy
   - Transport
-attachments:
-  - https://www.eeca.govt.nz/assets/EECA-Transport-Monitor-Mar-Jun-2024.pdf
 ---
 
 The Government is updating the way it co-invests in public electric vehicle (EV) chargers with the private sector to accelerate the delivery of EV chargers across New Zealand, Transport Minister Chris Bishop and Energy Minister Simon Watts say.

@@ -1,7 +1,7 @@
 ---
 title: "Supporting the health and wellbeing of New Zealand’s farming community"
 date: 2025-11-24
-url: https://www.beehive.govt.nz/release/supporting-health-and-wellbeing-new-zealand%E2%80%99s-farming-community
+url: https://www.beehive.govt.nz/release/supporting-health-and-wellbeing-new-zealands-farming-community
 ministers:
   - Hon Nicola Grigg
 portfolios:

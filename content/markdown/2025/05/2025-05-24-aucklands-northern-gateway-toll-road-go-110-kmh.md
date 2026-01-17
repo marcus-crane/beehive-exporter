@@ -1,7 +1,7 @@
 ---
 title: "Auckland’s Northern Gateway Toll Road to go to 110 km/h"
 date: 2025-05-24
-url: https://www.beehive.govt.nz/release/auckland%E2%80%99s-northern-gateway-toll-road-go-110-kmh
+url: https://www.beehive.govt.nz/release/aucklands-northern-gateway-toll-road-go-110-kmh
 ministers:
   - Hon Chris Bishop
 portfolios:

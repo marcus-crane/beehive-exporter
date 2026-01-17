@@ -1,7 +1,7 @@
 ---
 title: "Te Māori Manaaki Taonga Trust Board strengthened"
 date: 2024-10-30
-url: https://www.beehive.govt.nz/release/te-m%C4%81ori-manaaki-taonga-trust-board-strengthened
+url: https://www.beehive.govt.nz/release/te-maori-manaaki-taonga-trust-board-strengthened
 ministers:
   - Hon Paul Goldsmith
   - Hon Tama Potaka

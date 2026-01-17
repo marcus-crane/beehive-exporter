@@ -1,7 +1,7 @@
 ---
 title: "Government agrees approach for accelerating Māori development"
 date: 2024-08-13
-url: https://www.beehive.govt.nz/release/government-agrees-approach-accelerating-m%C4%81ori-development
+url: https://www.beehive.govt.nz/release/government-agrees-approach-accelerating-maori-development
 ministers:
   - Hon Tama Potaka
 portfolios:

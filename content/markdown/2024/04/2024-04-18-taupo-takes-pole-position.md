@@ -1,7 +1,7 @@
 ---
 title: "Taupō takes pole position"
 date: 2024-04-18
-url: https://www.beehive.govt.nz/release/taup%C5%8D-takes-pole-position
+url: https://www.beehive.govt.nz/release/taupo-takes-pole-position
 ministers:
   - Hon Melissa Lee
 portfolios:

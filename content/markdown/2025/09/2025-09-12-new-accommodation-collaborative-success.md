@@ -6,6 +6,8 @@ ministers:
   - Hon Shane Jones
 portfolios:
   - Regional Development
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-09/Reefton%20accommodation%2012.9.25.jpeg
 ---
 
 A joint effort to build new accommodation in Buller using local labour, local procurement and local businesses has been warmly welcomed by Regional Development Minister Shane Jones.

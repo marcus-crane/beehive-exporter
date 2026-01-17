@@ -1,7 +1,7 @@
 ---
 title: "Safer ports – approved code of practice for loading and unloading cargo takes effect today"
 date: 2024-11-28
-url: https://www.beehive.govt.nz/release/safer-ports-%E2%80%93-approved-code-practice-loading-and-unloading-cargo-takes-effect-today
+url: https://www.beehive.govt.nz/release/safer-ports--approved-code-practice-loading-and-unloading-cargo-takes-effect-today
 ministers:
   - Hon Matt Doocey
   - Hon Brooke van Velden

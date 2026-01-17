@@ -1,7 +1,7 @@
 ---
 title: "$414,527 worth of lottery-funded cyclone recovery projects now complete\u202fin Waikato"
 date: 2025-06-19
-url: https://www.beehive.govt.nz/release/414527-worth-lottery-funded-cyclone-recovery-projects-now-complete%E2%80%AF-waikato
+url: https://www.beehive.govt.nz/release/414527-worth-lottery-funded-cyclone-recovery-projects-now-complete-waikato
 ministers:
   - Hon Brooke van Velden
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Funding boost to strengthen Maritime’s rescue team"
 date: 2024-12-04
-url: https://www.beehive.govt.nz/release/funding-boost-strengthen-maritime%E2%80%99s-rescue-team
+url: https://www.beehive.govt.nz/release/funding-boost-strengthen-maritimes-rescue-team
 ministers:
   - Hon Simeon Brown
   - Hon Matt Doocey

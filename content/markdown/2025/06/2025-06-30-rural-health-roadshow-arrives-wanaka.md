@@ -1,7 +1,7 @@
 ---
 title: "Rural health roadshow arrives in Wānaka"
 date: 2025-06-30
-url: https://www.beehive.govt.nz/release/rural-health-roadshow-arrives-w%C4%81naka
+url: https://www.beehive.govt.nz/release/rural-health-roadshow-arrives-wanaka
 ministers:
   - Hon Matt Doocey
   - Hon Mark Patterson

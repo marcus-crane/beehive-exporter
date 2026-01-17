@@ -1,7 +1,7 @@
 ---
 title: "Prime Minister’s scholarships awarded"
 date: 2024-11-25
-url: https://www.beehive.govt.nz/release/prime-minister%E2%80%99s-scholarships-awarded-0
+url: https://www.beehive.govt.nz/release/prime-ministers-scholarships-awarded-0
 ministers:
   - Hon Penny Simmonds
 portfolios:

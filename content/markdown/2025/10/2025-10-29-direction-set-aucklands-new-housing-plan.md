@@ -1,7 +1,7 @@
 ---
 title: "Direction set for Auckland’s new housing plan"
 date: 2025-10-29
-url: https://www.beehive.govt.nz/release/direction-set-auckland%E2%80%99s-new-housing-plan
+url: https://www.beehive.govt.nz/release/direction-set-aucklands-new-housing-plan
 ministers:
   - Hon Chris Bishop
 portfolios:

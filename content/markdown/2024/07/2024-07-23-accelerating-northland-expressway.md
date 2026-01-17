@@ -7,7 +7,6 @@ ministers:
 portfolios:
   - Transport
 attachments:
-  - https://www.mckay.co.nz/wp-content/uploads/2024/04/NCG-SH1-extension-NZIER-report-080424.pdf
   - https://www.beehive.govt.nz/sites/default/files/2024-07/Northland%20Expressway%20map.pdf
 ---
 

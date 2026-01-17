@@ -1,7 +1,7 @@
 ---
 title: "Judicial Conduct Panel to inquire into Judge’s conduct"
 date: 2025-06-12
-url: https://www.beehive.govt.nz/release/judicial-conduct-panel-inquire-judge%E2%80%99s-conduct
+url: https://www.beehive.govt.nz/release/judicial-conduct-panel-inquire-judges-conduct
 ministers:
   - Hon Paul Goldsmith
 portfolios:

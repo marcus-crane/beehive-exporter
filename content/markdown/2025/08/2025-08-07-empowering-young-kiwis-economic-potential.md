@@ -1,7 +1,7 @@
 ---
 title: "Empowering young Kiwis’ economic potential"
 date: 2025-08-07
-url: https://www.beehive.govt.nz/release/empowering-young-kiwis%E2%80%99-economic-potential
+url: https://www.beehive.govt.nz/release/empowering-young-kiwis-economic-potential
 ministers:
   - Hon James Meager
 portfolios:

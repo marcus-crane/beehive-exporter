@@ -1,7 +1,7 @@
 ---
 title: "INVESTMENT SUMMIT: Māori business success primed for investment"
 date: 2025-03-13
-url: https://www.beehive.govt.nz/release/investment-summit-m%C4%81ori-business-success-primed-investment
+url: https://www.beehive.govt.nz/release/investment-summit-maori-business-success-primed-investment
 ministers:
   - Hon Tama Potaka
 portfolios:

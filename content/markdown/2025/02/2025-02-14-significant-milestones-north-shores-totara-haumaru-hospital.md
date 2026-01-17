@@ -1,7 +1,7 @@
 ---
 title: "Significant milestones at North Shore’s Tōtara Haumaru Hospital"
 date: 2025-02-14
-url: https://www.beehive.govt.nz/release/significant-milestones-north-shore%E2%80%99s-t%C5%8Dtara-haumaru-hospital
+url: https://www.beehive.govt.nz/release/significant-milestones-north-shores-totara-haumaru-hospital
 ministers:
   - Hon Simeon Brown
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "New inpatient unit to be built at Hawke’s Bay Hospital"
 date: 2025-02-27
-url: https://www.beehive.govt.nz/release/new-inpatient-unit-be-built-hawke%E2%80%99s-bay-hospital
+url: https://www.beehive.govt.nz/release/new-inpatient-unit-be-built-hawkes-bay-hospital
 ministers:
   - Hon Simeon Brown
 portfolios:

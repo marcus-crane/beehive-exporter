@@ -1,7 +1,7 @@
 ---
 title: "Speech to Social Investment Hui: Jack and his whānau need our help"
 date: 2024-11-14
-url: https://www.beehive.govt.nz/release/speech-social-investment-hui-jack-and-his-wh%C4%81nau-need-our-help
+url: https://www.beehive.govt.nz/release/speech-social-investment-hui-jack-and-his-whanau-need-our-help
 ministers:
   - Hon Nicola Willis
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "New chair appointed to Māori Heritage Council"
 date: 2024-08-22
-url: https://www.beehive.govt.nz/release/new-chair-appointed-m%C4%81ori-heritage-council
+url: https://www.beehive.govt.nz/release/new-chair-appointed-maori-heritage-council
 ministers:
   - Hon Paul Goldsmith
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "New Zealand expands sanctions on Russia’s oil industry and shadow fleet"
 date: 2025-10-29
-url: https://www.beehive.govt.nz/release/new-zealand-expands-sanctions-russia%E2%80%99s-oil-industry-and-shadow-fleet
+url: https://www.beehive.govt.nz/release/new-zealand-expands-sanctions-russias-oil-industry-and-shadow-fleet
 ministers:
   - Rt Hon Winston Peters
 portfolios:

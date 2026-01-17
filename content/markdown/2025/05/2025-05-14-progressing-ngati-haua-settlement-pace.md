@@ -1,7 +1,7 @@
 ---
 title: "Progressing Ngāti Hāua settlement at pace"
 date: 2025-05-14
-url: https://www.beehive.govt.nz/release/progressing-ng%C4%81ti-h%C4%81ua-settlement-pace
+url: https://www.beehive.govt.nz/release/progressing-ngati-haua-settlement-pace
 ministers:
   - Hon Paul Goldsmith
 portfolios:

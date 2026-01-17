@@ -1,7 +1,7 @@
 ---
 title: "Patterson reopens world’s largest wool scouring facility"
 date: 2024-04-22
-url: https://www.beehive.govt.nz/release/patterson-reopens-world%E2%80%99s-largest-wool-scouring-facility
+url: https://www.beehive.govt.nz/release/patterson-reopens-worlds-largest-wool-scouring-facility
 ministers:
   - Hon Mark Patterson
 portfolios:

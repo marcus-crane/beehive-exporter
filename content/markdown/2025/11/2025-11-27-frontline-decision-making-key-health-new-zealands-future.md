@@ -1,7 +1,7 @@
 ---
 title: "Frontline decision-making key to Health New Zealand’s future"
 date: 2025-11-27
-url: https://www.beehive.govt.nz/release/frontline-decision-making-key-health-new-zealand%E2%80%99s-future
+url: https://www.beehive.govt.nz/release/frontline-decision-making-key-health-new-zealands-future
 ministers:
   - Hon Simeon Brown
 portfolios:

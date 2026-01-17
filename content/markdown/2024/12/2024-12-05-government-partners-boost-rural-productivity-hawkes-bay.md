@@ -1,7 +1,7 @@
 ---
 title: "Government partners to boost rural productivity in Hawke’s Bay"
 date: 2024-12-05
-url: https://www.beehive.govt.nz/release/government-partners-boost-rural-productivity-hawke%E2%80%99s-bay
+url: https://www.beehive.govt.nz/release/government-partners-boost-rural-productivity-hawkes-bay
 ministers:
   - Hon Todd McClay
 portfolios:

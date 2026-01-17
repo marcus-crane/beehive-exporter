@@ -1,7 +1,7 @@
 ---
 title: "Landmark phonics check in te reo Māori"
 date: 2024-09-20
-url: https://www.beehive.govt.nz/release/landmark-phonics-check-te-reo-m%C4%81ori
+url: https://www.beehive.govt.nz/release/landmark-phonics-check-te-reo-maori
 ministers:
   - Hon Erica Stanford
 portfolios:

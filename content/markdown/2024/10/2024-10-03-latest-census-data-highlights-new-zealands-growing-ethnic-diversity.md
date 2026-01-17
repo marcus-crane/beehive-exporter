@@ -1,7 +1,7 @@
 ---
 title: "Latest census data highlights New Zealand’s growing ethnic diversity"
 date: 2024-10-03
-url: https://www.beehive.govt.nz/release/latest-census-data-highlights-new-zealand%E2%80%99s-growing-ethnic-diversity
+url: https://www.beehive.govt.nz/release/latest-census-data-highlights-new-zealands-growing-ethnic-diversity
 ministers:
   - Hon Melissa Lee
 portfolios:

@@ -6,6 +6,8 @@ ministers:
   - Hon Simon Watts
 portfolios:
   - Climate Change
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2024-11/Photo%201.jpeg
 ---
 
 Countries have reached a deal on carbon markets at the annual United Nations climate change meeting (COP29) in Baku, Azerbaijan.

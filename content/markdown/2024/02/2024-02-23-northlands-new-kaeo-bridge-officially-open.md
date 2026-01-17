@@ -1,7 +1,7 @@
 ---
 title: "Northland’s new Kāeo Bridge officially open"
 date: 2024-02-23
-url: https://www.beehive.govt.nz/release/northland%E2%80%99s-new-k%C4%81eo-bridge-officially-open
+url: https://www.beehive.govt.nz/release/northlands-new-kaeo-bridge-officially-open
 ministers:
   - Hon Simeon Brown
 portfolios:

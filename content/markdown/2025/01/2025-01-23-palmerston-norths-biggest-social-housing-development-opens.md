@@ -1,7 +1,7 @@
 ---
 title: "Palmerston North’s biggest social housing development opens"
 date: 2025-01-23
-url: https://www.beehive.govt.nz/release/palmerston-north%E2%80%99s-biggest-social-housing-development-opens
+url: https://www.beehive.govt.nz/release/palmerston-norths-biggest-social-housing-development-opens
 ministers:
   - Hon Tama Potaka
 portfolios:

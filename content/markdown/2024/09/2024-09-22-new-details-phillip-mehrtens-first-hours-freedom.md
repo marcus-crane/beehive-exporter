@@ -1,7 +1,7 @@
 ---
 title: "New details of Phillip Mehrtens’ first hours of freedom"
 date: 2024-09-22
-url: https://www.beehive.govt.nz/release/new-details-phillip-mehrtens%E2%80%99-first-hours-freedom
+url: https://www.beehive.govt.nz/release/new-details-phillip-mehrtens-first-hours-freedom
 ministers:
   - Rt Hon Winston Peters
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Milestone for Iwi Māori Partnership Boards"
 date: 2024-12-10
-url: https://www.beehive.govt.nz/release/milestone-iwi-m%C4%81ori-partnership-boards
+url: https://www.beehive.govt.nz/release/milestone-iwi-maori-partnership-boards
 ministers:
   - Hon Dr Shane Reti
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Securing New Zealand’s energy future"
 date: 2025-09-30
-url: https://www.beehive.govt.nz/release/securing-new-zealand%E2%80%99s-energy-future
+url: https://www.beehive.govt.nz/release/securing-new-zealands-energy-future
 ministers:
   - Hon Nicola Willis
   - Hon Simon Watts

@@ -6,8 +6,6 @@ ministers:
   - Hon David Seymour
 portfolios:
   - Regulation
-attachments:
-  - https://www.regulation.govt.nz/assets/Ministry-for-Regulation-files/Terms-of-reference-hairdressing-barbering-regulatory-review.pdf
 ---
 
 Minister for Regulation David Seymour has today announced that the third sector review, led by the Ministry for Regulation, will cut red tape for the hairdresser and barber industry. 

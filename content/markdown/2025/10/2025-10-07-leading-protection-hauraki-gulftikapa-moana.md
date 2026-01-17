@@ -1,7 +1,7 @@
 ---
 title: "Leading protection for Hauraki Gulf/Tīkapa Moana"
 date: 2025-10-07
-url: https://www.beehive.govt.nz/release/leading-protection-hauraki-gulft%C4%ABkapa-moana%E2%80%AF
+url: https://www.beehive.govt.nz/release/leading-protection-hauraki-gulftikapa-moana
 ministers:
   - Hon Tama Potaka
 portfolios:

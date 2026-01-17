@@ -1,7 +1,7 @@
 ---
 title: "Enabling faster flood resilience works in Māngere"
 date: 2024-07-29
-url: https://www.beehive.govt.nz/release/enabling-faster-flood-resilience-works-m%C4%81ngere
+url: https://www.beehive.govt.nz/release/enabling-faster-flood-resilience-works-mangere
 ministers:
   - Hon Mark Mitchell
   - Hon Penny Simmonds

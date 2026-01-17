@@ -1,7 +1,7 @@
 ---
 title: "New Zealand’s ties with Netherlands reaffirmed"
 date: 2025-06-24
-url: https://www.beehive.govt.nz/release/new-zealand%E2%80%99s-ties-netherlands-reaffirmed
+url: https://www.beehive.govt.nz/release/new-zealands-ties-netherlands-reaffirmed
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

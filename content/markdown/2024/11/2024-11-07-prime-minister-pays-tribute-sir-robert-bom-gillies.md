@@ -1,7 +1,7 @@
 ---
 title: "Prime Minister pays tribute to Sir Robert ‘Bom’ Gillies"
 date: 2024-11-07
-url: https://www.beehive.govt.nz/release/prime-minister-pays-tribute-sir-robert-%E2%80%98bom%E2%80%99-gillies
+url: https://www.beehive.govt.nz/release/prime-minister-pays-tribute-sir-robert-bom-gillies
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

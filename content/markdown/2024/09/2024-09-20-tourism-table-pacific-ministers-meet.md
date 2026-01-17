@@ -1,7 +1,7 @@
 ---
 title: "Tourism on the table for Pacific Ministers’ meet-up"
 date: 2024-09-20
-url: https://www.beehive.govt.nz/release/tourism-table-pacific-ministers%E2%80%99-meet
+url: https://www.beehive.govt.nz/release/tourism-table-pacific-ministers-meet
 ministers:
   - Hon Matt Doocey
 portfolios:

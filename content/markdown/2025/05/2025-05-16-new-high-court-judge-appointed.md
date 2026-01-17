@@ -1,7 +1,7 @@
 ---
 title: "New High Court Judge appointed"
 date: 2025-05-16
-url: https://www.beehive.govt.nz/release/new-high-court-judge-appointed%E2%80%AF
+url: https://www.beehive.govt.nz/release/new-high-court-judge-appointed
 ministers:
   - Hon Judith Collins KC
 portfolios:

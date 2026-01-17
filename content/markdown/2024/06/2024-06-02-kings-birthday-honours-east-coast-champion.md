@@ -1,7 +1,7 @@
 ---
 title: "King’s Birthday Honours for East Coast champion"
 date: 2024-06-02
-url: https://www.beehive.govt.nz/release/king%E2%80%99s-birthday-honours-east-coast-champion
+url: https://www.beehive.govt.nz/release/kings-birthday-honours-east-coast-champion
 ministers:
   - Hon Tama Potaka
 portfolios:

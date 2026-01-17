@@ -1,7 +1,7 @@
 ---
 title: "Unacceptable number of empty Kāinga Ora – Homes & Communities homes"
 date: 2024-01-17
-url: https://www.beehive.govt.nz/release/unacceptable-number-empty-k%C4%81inga-ora-%E2%80%93-homes-communities-homes
+url: https://www.beehive.govt.nz/release/unacceptable-number-empty-kainga-ora--homes-communities-homes
 ministers:
   - Hon Chris Bishop
 portfolios:

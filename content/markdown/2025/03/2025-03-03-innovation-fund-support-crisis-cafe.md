@@ -1,7 +1,7 @@
 ---
 title: "Innovation Fund to support Crisis Café"
 date: 2025-03-03
-url: https://www.beehive.govt.nz/release/innovation-fund-support-crisis-caf%C3%A9
+url: https://www.beehive.govt.nz/release/innovation-fund-support-crisis-cafe
 ministers:
   - Hon Matt Doocey
 portfolios:

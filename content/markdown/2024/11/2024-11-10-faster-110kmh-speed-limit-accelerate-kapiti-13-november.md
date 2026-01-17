@@ -1,7 +1,7 @@
 ---
 title: "Faster 110km/h speed limit to accelerate Kāpiti from 13 November"
 date: 2024-11-10
-url: https://www.beehive.govt.nz/release/faster-110kmh-speed-limit-accelerate-k%C4%81piti-13-november
+url: https://www.beehive.govt.nz/release/faster-110kmh-speed-limit-accelerate-kapiti-13-november
 ministers:
   - Hon Simeon Brown
 portfolios:

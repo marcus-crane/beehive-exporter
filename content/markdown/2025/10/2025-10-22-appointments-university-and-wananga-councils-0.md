@@ -1,7 +1,7 @@
 ---
 title: "Appointments to university and wānanga councils"
 date: 2025-10-22
-url: https://www.beehive.govt.nz/release/appointments-university-and-w%C4%81nanga-councils-0
+url: https://www.beehive.govt.nz/release/appointments-university-and-wananga-councils-0
 ministers:
   - Hon Dr Shane Reti
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Tāwhaki aerospace venture supported to grow"
 date: 2025-07-24
-url: https://www.beehive.govt.nz/release/t%C4%81whaki-aerospace-venture-supported-grow
+url: https://www.beehive.govt.nz/release/tawhaki-aerospace-venture-supported-grow
 ministers:
   - Hon Judith Collins KC
 portfolios:

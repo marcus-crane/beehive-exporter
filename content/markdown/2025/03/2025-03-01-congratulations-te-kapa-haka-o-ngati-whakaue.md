@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Te Kapa Haka o Ngāti Whakaue"
 date: 2025-03-01
-url: https://www.beehive.govt.nz/release/congratulations-te-kapa-haka-o-ng%C4%81ti-whakaue
+url: https://www.beehive.govt.nz/release/congratulations-te-kapa-haka-o-ngati-whakaue
 ministers:
   - Hon Tama Potaka
 portfolios:

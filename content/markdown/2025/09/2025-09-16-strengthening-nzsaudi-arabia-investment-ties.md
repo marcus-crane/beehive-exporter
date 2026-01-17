@@ -1,7 +1,7 @@
 ---
 title: "Strengthening NZ–Saudi Arabia investment ties"
 date: 2025-09-16
-url: https://www.beehive.govt.nz/release/strengthening-nz%E2%80%93saudi-arabia-investment-ties
+url: https://www.beehive.govt.nz/release/strengthening-nzsaudi-arabia-investment-ties
 ministers:
   - Hon Todd McClay
 portfolios:

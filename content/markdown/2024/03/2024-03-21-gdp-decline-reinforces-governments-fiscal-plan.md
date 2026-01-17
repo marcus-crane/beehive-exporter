@@ -1,7 +1,7 @@
 ---
 title: "GDP decline reinforces Government’s fiscal plan"
 date: 2024-03-21
-url: https://www.beehive.govt.nz/release/gdp-decline-reinforces-government%E2%80%99s-fiscal-plan
+url: https://www.beehive.govt.nz/release/gdp-decline-reinforces-governments-fiscal-plan
 ministers:
   - Hon Nicola Willis
 portfolios:

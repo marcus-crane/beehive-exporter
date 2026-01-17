@@ -1,7 +1,7 @@
 ---
 title: "Funding for Hawke’s Bay water security project"
 date: 2024-12-05
-url: https://www.beehive.govt.nz/release/funding-hawke%E2%80%99s-bay-water-security-project
+url: https://www.beehive.govt.nz/release/funding-hawkes-bay-water-security-project
 ministers:
   - Hon Shane Jones
 portfolios:

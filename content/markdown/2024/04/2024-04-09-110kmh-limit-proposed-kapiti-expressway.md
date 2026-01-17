@@ -1,7 +1,7 @@
 ---
 title: "110km/h limit proposed for Kāpiti Expressway"
 date: 2024-04-09
-url: https://www.beehive.govt.nz/release/110kmh-limit-proposed-k%C4%81piti-expressway
+url: https://www.beehive.govt.nz/release/110kmh-limit-proposed-kapiti-expressway
 ministers:
   - Hon Simeon Brown
 portfolios:

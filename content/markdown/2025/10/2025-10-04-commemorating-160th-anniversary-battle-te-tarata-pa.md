@@ -1,7 +1,7 @@
 ---
 title: "Commemorating 160th anniversary of The Battle of Te Tarata Pā"
 date: 2025-10-04
-url: https://www.beehive.govt.nz/release/commemorating-160th-anniversary-battle-te-tarata-p%C4%81
+url: https://www.beehive.govt.nz/release/commemorating-160th-anniversary-battle-te-tarata-pa
 ministers:
   - Hon Tama Potaka
 portfolios:

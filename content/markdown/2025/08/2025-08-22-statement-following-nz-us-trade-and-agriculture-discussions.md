@@ -1,7 +1,7 @@
 ---
 title: "Statement following NZ-US Trade and Agriculture discussions"
 date: 2025-08-22
-url: https://www.beehive.govt.nz/release/statement-following-nz-us-trade-and-agriculture-discussions%C2%A0
+url: https://www.beehive.govt.nz/release/statement-following-nz-us-trade-and-agriculture-discussions
 ministers:
   - Hon Todd McClay
 portfolios:

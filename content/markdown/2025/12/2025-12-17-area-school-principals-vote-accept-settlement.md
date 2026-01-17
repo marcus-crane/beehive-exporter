@@ -1,7 +1,7 @@
 ---
 title: "Area School Principals’ Vote to Accept Settlement"
 date: 2025-12-17
-url: https://www.beehive.govt.nz/release/area-school-principals%E2%80%99-vote-accept-settlement
+url: https://www.beehive.govt.nz/release/area-school-principals-vote-accept-settlement
 ministers:
   - Hon Erica Stanford
 portfolios:

@@ -10,8 +10,6 @@ portfolios:
   - Agriculture
   - Environment
   - RMA Reform
-attachments:
-  - https://www.beehive.govt.nz/sites/default/files/2024-04/Action%20Plan.pdf
 ---
 
 The coalition Government has today introduced legislation to slash the tangle of red and green tape throttling some of New Zealand’s key sectors, including farming, mining and other primary industries.

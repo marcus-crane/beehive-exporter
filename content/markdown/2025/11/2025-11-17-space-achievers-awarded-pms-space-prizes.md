@@ -1,15 +1,13 @@
 ---
 title: "Space achievers awarded PM’s space prizes"
 date: 2025-11-17
-url: https://www.beehive.govt.nz/release/space-achievers-awarded-pm%E2%80%99s-space-prizes
+url: https://www.beehive.govt.nz/release/space-achievers-awarded-pms-space-prizes
 ministers:
   - Rt Hon Christopher Luxon
   - Hon Judith Collins KC
 portfolios:
   - Prime Minister
   - Space
-attachments:
-  - https://www.mbie.govt.nz/assets/innovation-for-growth-charting-the-space-and-advanced-aviation-sectors.pdf
 ---
 
 Co-founder and CEO of Dawn Aerospace Stefan Powell and Southland schoolgirl Sophie Ineson are this year’s recipients of the Prime Minister’s Space Prizes.

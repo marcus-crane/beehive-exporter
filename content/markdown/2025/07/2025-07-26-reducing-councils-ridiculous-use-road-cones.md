@@ -1,7 +1,7 @@
 ---
 title: "Reducing councils’ ridiculous use of road cones"
 date: 2025-07-26
-url: https://www.beehive.govt.nz/release/reducing-councils%E2%80%99-ridiculous-use-road-cones
+url: https://www.beehive.govt.nz/release/reducing-councils-ridiculous-use-road-cones
 ministers:
   - Hon Chris Bishop
 portfolios:

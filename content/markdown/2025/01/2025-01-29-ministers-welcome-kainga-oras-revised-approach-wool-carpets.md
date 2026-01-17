@@ -1,7 +1,7 @@
 ---
 title: "Ministers welcome Kāinga Ora’s revised approach to wool carpets"
 date: 2025-01-29
-url: https://www.beehive.govt.nz/release/ministers-welcome-k%C4%81inga-ora%E2%80%99s-revised-approach-wool-carpets
+url: https://www.beehive.govt.nz/release/ministers-welcome-kainga-oras-revised-approach-wool-carpets
 ministers:
   - Hon Chris Bishop
   - Hon Mark Patterson

@@ -6,6 +6,8 @@ ministers:
   - Hon Simon Watts
 portfolios:
   - Climate Change
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2024-12/Dame%20Patsy%20Reddy%20%26%20Hon%20Simon%20Watts.jpg
 ---
 
 Rt Hon Dame Patsy Reddy has been appointed as the new chair of the Climate Change Commission, the independent Crown entity that provides the Government advice, monitoring and reporting to support New Zealand’s transition to a climate-resilient, low emissions future, Climate Change Minister Simon Watts says.

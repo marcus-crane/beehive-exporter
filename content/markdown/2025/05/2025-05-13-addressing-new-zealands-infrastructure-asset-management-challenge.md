@@ -1,7 +1,7 @@
 ---
 title: "Addressing New Zealand’s infrastructure asset management challenge"
 date: 2025-05-13
-url: https://www.beehive.govt.nz/release/addressing-new-zealand%E2%80%99s-infrastructure-asset-management-challenge
+url: https://www.beehive.govt.nz/release/addressing-new-zealands-infrastructure-asset-management-challenge
 ministers:
   - Hon Chris Bishop
 portfolios:

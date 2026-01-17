@@ -6,6 +6,8 @@ ministers:
   - Hon Karen Chhour
 portfolios:
   - Children
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2024-07/Minister%20Chhour%20with%20the%20MAB%20July%202024_1.jpg
 ---
 
 The Oranga Tamariki Ministerial Advisory Board has been re-established by the Minister for Children, Karen Chhour.

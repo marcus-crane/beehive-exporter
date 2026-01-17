@@ -6,6 +6,8 @@ ministers:
   - Hon Chris Bishop
 portfolios:
   - Transport
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-12/SH25%20Pepe%20Stream%20Bridge%20Artists%20Impression.jpg
 ---
 
 Transport Minister Chris Bishop has welcomed news that a contract has been confirmed for design, consenting, and construction of the new two-lane bridge to replace the Pepe Stream Bridge on State Highway 25 (SH25).

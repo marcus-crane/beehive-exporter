@@ -1,7 +1,7 @@
 ---
 title: "Wairarapa Moana ki Pouakani win top Māori dairy farming award"
 date: 2024-05-17
-url: https://www.beehive.govt.nz/release/wairarapa-moana-ki-pouakani-win-top-m%C4%81ori-dairy-farming-award
+url: https://www.beehive.govt.nz/release/wairarapa-moana-ki-pouakani-win-top-maori-dairy-farming-award
 ministers:
   - Hon Tama Potaka
 portfolios:

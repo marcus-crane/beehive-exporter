@@ -1,7 +1,7 @@
 ---
 title: "Modernising heart failure treatment in Hawke’s Bay"
 date: 2025-07-24
-url: https://www.beehive.govt.nz/release/modernising-heart-failure-treatment-hawke%E2%80%99s-bay
+url: https://www.beehive.govt.nz/release/modernising-heart-failure-treatment-hawkes-bay
 ministers:
   - Hon Simeon Brown
 portfolios:

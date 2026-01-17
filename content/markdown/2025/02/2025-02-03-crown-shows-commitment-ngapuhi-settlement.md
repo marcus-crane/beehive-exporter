@@ -1,7 +1,7 @@
 ---
 title: "Crown shows commitment to Ngāpuhi settlement"
 date: 2025-02-03
-url: https://www.beehive.govt.nz/release/crown-shows-commitment-ng%C4%81puhi-settlement
+url: https://www.beehive.govt.nz/release/crown-shows-commitment-ngapuhi-settlement
 ministers:
   - Hon Paul Goldsmith
   - Hon Tama Potaka

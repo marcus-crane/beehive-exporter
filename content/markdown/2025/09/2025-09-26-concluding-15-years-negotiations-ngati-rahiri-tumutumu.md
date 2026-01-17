@@ -1,7 +1,7 @@
 ---
 title: "Concluding 15 years of negotiations with Ngāti Rāhiri Tumutumu"
 date: 2025-09-26
-url: https://www.beehive.govt.nz/release/concluding-15-years-negotiations-ng%C4%81ti-r%C4%81hiri-tumutumu
+url: https://www.beehive.govt.nz/release/concluding-15-years-negotiations-ngati-rahiri-tumutumu
 ministers:
   - Hon Paul Goldsmith
 portfolios:

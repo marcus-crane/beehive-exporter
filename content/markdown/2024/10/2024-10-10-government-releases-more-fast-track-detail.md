@@ -7,7 +7,6 @@ ministers:
 portfolios:
   - Infrastructure
 attachments:
-  - https://environment.govt.nz/assets/acts-and-regulations/fast-track-projects-advisory-group-report-to-ministers-redacted.pdf
   - https://www.beehive.govt.nz/sites/default/files/2024-10/CB24-OC066%20Letter%20to%20Hon%20Potaka%20-%20Re%20Fast%20Track%20Approval%20Bill%20Conflict%20Management.pdf
 ---
 

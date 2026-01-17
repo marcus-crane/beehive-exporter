@@ -1,7 +1,7 @@
 ---
 title: "Enhanced mental health crisis support in Hawke’s Bay"
 date: 2025-05-29
-url: https://www.beehive.govt.nz/release/enhanced-mental-health-crisis-support-hawke%E2%80%99s-bay
+url: https://www.beehive.govt.nz/release/enhanced-mental-health-crisis-support-hawkes-bay
 ministers:
   - Hon Matt Doocey
 portfolios:

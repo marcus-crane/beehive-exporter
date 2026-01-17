@@ -6,6 +6,10 @@ ministers:
   - Hon Chris Bishop
 portfolios:
   - Transport
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-04/Melling%203.jpg
+  - https://www.beehive.govt.nz/sites/default/files/2025-04/Melling%202.jpg
+  - https://www.beehive.govt.nz/sites/default/files/2025-04/Melling%201.jpg
 ---
 
 - The Melling Road of Regional Significance project will start this year.

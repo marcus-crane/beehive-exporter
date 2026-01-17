@@ -6,8 +6,6 @@ ministers:
   - Hon Matt Doocey
 portfolios:
   - Mental Health
-attachments:
-  - https://www.tewhatuora.govt.nz/assets/Corporate-information/Planning-and-performance/Health-targets/Mental-health-and-addiction-targets/Quarter-One-2024-25/Mental-health-and-addiction-target-results-2024-25-Quarter-One.pdf
 ---
 
 With quarter four data now in, for the first time we can compare a full year of data to measure how well mental health and addiction services are performing across the country, Minister for Mental Health Matt Doocey says.

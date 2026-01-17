@@ -1,7 +1,7 @@
 ---
 title: "Investing in Whanganui Airport’s future"
 date: 2025-08-10
-url: https://www.beehive.govt.nz/release/investing-whanganui-airport%E2%80%99s-future
+url: https://www.beehive.govt.nz/release/investing-whanganui-airports-future
 ministers:
   - Hon James Meager
 portfolios:

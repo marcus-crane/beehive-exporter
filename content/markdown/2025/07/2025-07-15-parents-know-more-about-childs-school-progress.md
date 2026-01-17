@@ -1,7 +1,7 @@
 ---
 title: "Parents to know more about child’s school progress"
 date: 2025-07-15
-url: https://www.beehive.govt.nz/release/parents-know-more-about-child%E2%80%99s-school-progress
+url: https://www.beehive.govt.nz/release/parents-know-more-about-childs-school-progress
 ministers:
   - Hon Erica Stanford
 portfolios:

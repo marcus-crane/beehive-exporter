@@ -1,7 +1,7 @@
 ---
 title: "Kicking off Eden Park’s full potential"
 date: 2025-09-15
-url: https://www.beehive.govt.nz/release/kicking-eden-park%E2%80%99s-full-potential
+url: https://www.beehive.govt.nz/release/kicking-eden-parks-full-potential
 ministers:
   - Hon Chris Bishop
   - Hon Louise Upston

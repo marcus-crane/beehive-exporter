@@ -6,8 +6,6 @@ ministers:
   - Hon Erica Stanford
 portfolios:
   - Education
-attachments:
-  - https://www.beehive.govt.nz/sites/default/files/2024-10/Report%20of%20the%20Ministerial%20Inquiry%20into%20School%20Property.pdf
 ---
 
 The Government has taken decisive action to address the inequitable state of school property to ensure better outcomes for all students. 

@@ -1,7 +1,7 @@
 ---
 title: "Lower the gender pay gap this International Women’s Day"
 date: 2025-03-07
-url: https://www.beehive.govt.nz/release/lower-gender-pay-gap-international-women%E2%80%99s-day
+url: https://www.beehive.govt.nz/release/lower-gender-pay-gap-international-womens-day
 ministers:
   - Hon Nicola Grigg
 portfolios:

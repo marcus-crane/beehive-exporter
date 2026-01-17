@@ -1,7 +1,7 @@
 ---
 title: "Change forecast for Govt’s weather agencies"
 date: 2025-04-09
-url: https://www.beehive.govt.nz/release/change-forecast-govt%E2%80%99s-weather-agencies
+url: https://www.beehive.govt.nz/release/change-forecast-govts-weather-agencies
 ministers:
   - Hon Simeon Brown
   - Hon Dr Shane Reti

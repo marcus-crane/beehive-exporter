@@ -1,7 +1,7 @@
 ---
 title: "Ō-Rākau battle site returning to tūpuna ownership"
 date: 2025-02-18
-url: https://www.beehive.govt.nz/release/%C5%8D-r%C4%81kau-battle-site-returning-t%C5%ABpuna-ownership
+url: https://www.beehive.govt.nz/release/o-rakau-battle-site-returning-tupuna-ownership
 ministers:
   - Hon Tama Potaka
 portfolios:

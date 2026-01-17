@@ -1,7 +1,7 @@
 ---
 title: "Wānaka community to benefit from new overnight health service"
 date: 2024-09-19
-url: https://www.beehive.govt.nz/release/w%C4%81naka-community-benefit-new-overnight-health-service
+url: https://www.beehive.govt.nz/release/wanaka-community-benefit-new-overnight-health-service
 ministers:
   - Hon Dr Shane Reti
 portfolios:

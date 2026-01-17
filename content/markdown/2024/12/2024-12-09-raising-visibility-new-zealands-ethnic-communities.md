@@ -1,7 +1,7 @@
 ---
 title: "Raising the visibility of New Zealand’s ethnic communities"
 date: 2024-12-09
-url: https://www.beehive.govt.nz/release/raising-visibility-new-zealand%E2%80%99s-ethnic-communities
+url: https://www.beehive.govt.nz/release/raising-visibility-new-zealands-ethnic-communities
 ministers:
   - Hon Melissa Lee
 portfolios:

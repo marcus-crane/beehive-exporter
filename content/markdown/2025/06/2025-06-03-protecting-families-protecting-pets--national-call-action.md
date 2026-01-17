@@ -1,7 +1,7 @@
 ---
 title: "Protecting Families by Protecting Pets – a national call to action"
 date: 2025-06-03
-url: https://www.beehive.govt.nz/release/protecting-families-protecting-pets-%E2%80%93-national-call-action
+url: https://www.beehive.govt.nz/release/protecting-families-protecting-pets--national-call-action
 ministers:
   - Hon Karen Chhour
 portfolios:

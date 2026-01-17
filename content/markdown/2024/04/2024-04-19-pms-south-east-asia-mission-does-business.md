@@ -1,7 +1,7 @@
 ---
 title: "PM’s South East Asia mission does the business"
 date: 2024-04-19
-url: https://www.beehive.govt.nz/release/pm%E2%80%99s-south-east-asia-mission-does-business
+url: https://www.beehive.govt.nz/release/pms-south-east-asia-mission-does-business
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

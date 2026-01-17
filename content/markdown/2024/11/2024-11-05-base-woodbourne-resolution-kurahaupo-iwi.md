@@ -1,7 +1,7 @@
 ---
 title: "Base Woodbourne resolution with Kurahaupō Iwi"
 date: 2024-11-05
-url: https://www.beehive.govt.nz/release/base-woodbourne-resolution-kurahaup%C5%8D-iwi
+url: https://www.beehive.govt.nz/release/base-woodbourne-resolution-kurahaupo-iwi
 ministers:
   - Hon Tama Potaka
 portfolios:

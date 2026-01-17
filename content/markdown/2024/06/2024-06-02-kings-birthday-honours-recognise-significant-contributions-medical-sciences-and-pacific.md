@@ -1,7 +1,7 @@
 ---
 title: "King’s Birthday Honours recognise significant contributions to medical sciences and Pacific leadership"
 date: 2024-06-02
-url: https://www.beehive.govt.nz/release/king%E2%80%99s-birthday-honours-recognise-significant-contributions-medical-sciences-and-pacific
+url: https://www.beehive.govt.nz/release/kings-birthday-honours-recognise-significant-contributions-medical-sciences-and-pacific
 ministers:
   - Hon Dr Shane Reti
 portfolios:

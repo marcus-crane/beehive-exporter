@@ -1,7 +1,7 @@
 ---
 title: "Gordon Wilson Flats’ heritage protection goneburger"
 date: 2025-06-16
-url: https://www.beehive.govt.nz/release/gordon-wilson-flats%E2%80%99-heritage-protection-goneburger
+url: https://www.beehive.govt.nz/release/gordon-wilson-flats-heritage-protection-goneburger
 ministers:
   - Hon Chris Bishop
 portfolios:

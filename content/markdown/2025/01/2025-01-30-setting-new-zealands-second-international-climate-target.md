@@ -1,7 +1,7 @@
 ---
 title: "Setting New Zealand’s second international climate target"
 date: 2025-01-30
-url: https://www.beehive.govt.nz/release/setting-new-zealand%E2%80%99s-second-international-climate-target
+url: https://www.beehive.govt.nz/release/setting-new-zealands-second-international-climate-target
 ministers:
   - Hon Simon Watts
 portfolios:

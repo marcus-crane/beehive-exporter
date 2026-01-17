@@ -1,7 +1,7 @@
 ---
 title: "Sport diplomacy to grow NZ’s global ties"
 date: 2025-09-26
-url: https://www.beehive.govt.nz/release/sport-diplomacy-grow-nz%E2%80%99s-global-ties
+url: https://www.beehive.govt.nz/release/sport-diplomacy-grow-nzs-global-ties
 ministers:
   - Hon Chris Bishop
 portfolios:

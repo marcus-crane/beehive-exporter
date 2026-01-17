@@ -1,11 +1,14 @@
 ---
 title: "Contract awarded to deliver the Ōmanawa Bridge for SH29 Tauriko West Road of National Significance"
 date: 2025-09-03
-url: https://www.beehive.govt.nz/release/contract-awarded-deliver-%C5%8Dmanawa-bridge-sh29-tauriko-west-road-national-significance
+url: https://www.beehive.govt.nz/release/contract-awarded-deliver-omanawa-bridge-sh29-tauriko-west-road-national-significance
 ministers:
   - Hon Chris Bishop
 portfolios:
   - Transport
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-09/%C5%8Cmanawa%20Bridge.jpg
+  - https://www.beehive.govt.nz/sites/default/files/2025-09/%C5%8Cmanawa%20Bridge%20Map.jpg
 ---
 
 The NZ Transport Agency (NZTA) has now awarded a contract to deliver the first phase of the State Highway 29 (SH29) Tauriko West Road of National Significance (RoNS), with the Ōmanawa Bridge replacement set to begin construction in October this year, Transport Minister Chris Bishop says.

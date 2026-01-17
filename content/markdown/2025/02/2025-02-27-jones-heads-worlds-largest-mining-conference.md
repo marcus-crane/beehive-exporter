@@ -1,7 +1,7 @@
 ---
 title: "Jones heads to world’s largest mining conference"
 date: 2025-02-27
-url: https://www.beehive.govt.nz/release/jones-heads-world%E2%80%99s-largest-mining-conference
+url: https://www.beehive.govt.nz/release/jones-heads-worlds-largest-mining-conference
 ministers:
   - Hon Shane Jones
 portfolios:

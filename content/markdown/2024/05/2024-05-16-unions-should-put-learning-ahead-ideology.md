@@ -6,8 +6,6 @@ ministers:
   - Hon David Seymour
 portfolios:
   - Education
-attachments:
-  - https://ncss3.stanford.edu/wp-content/uploads/2023/06/Credo-NCSS3-Report.pdf
 ---
 
 Associate Education Minister David Seymour is calling on the Post Primary Teachers’ Association (PPTA) to put ideology to the side and focus on students’ learning, in reaction to the union holding paid teacher meetings across New Zealand about charter schools.

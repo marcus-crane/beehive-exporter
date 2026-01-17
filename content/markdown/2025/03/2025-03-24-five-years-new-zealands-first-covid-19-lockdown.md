@@ -1,7 +1,7 @@
 ---
 title: "Five years on since New Zealand’s first COVID-19 lockdown"
 date: 2025-03-24
-url: https://www.beehive.govt.nz/release/five-years-new-zealand%E2%80%99s-first-covid-19-lockdown
+url: https://www.beehive.govt.nz/release/five-years-new-zealands-first-covid-19-lockdown
 ministers:
   - Hon Brooke van Velden
 portfolios:

@@ -7,7 +7,6 @@ ministers:
 portfolios:
   - Regional Development
 attachments:
-  - https://www.resilientrivers.nz/files/1702942770396.pdf
   - https://www.beehive.govt.nz/sites/default/files/2024-05/Factsheet%20-%20Regional%20resilience%20and%20prosperity%20.pdf
   - https://www.beehive.govt.nz/sites/default/files/2024-05/Map%20-%20Proposed%20RIF%20flood%20resilience%20projects.pdf
 ---

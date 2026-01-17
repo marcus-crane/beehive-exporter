@@ -6,6 +6,8 @@ ministers:
   - Hon Simeon Brown
 portfolios:
   - Transport
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-01/Northwest%20Rapid%20Transit%20project%20map%20including%20station%20locations.jpg
 ---
 
 Work is set to get underway on a new bus station at Westgate this week. A contract has been awarded to HEB Construction to start a package of enabling works to get the site ready in advance of main construction beginning in mid-2025, Transport Minister Simeon Brown says.

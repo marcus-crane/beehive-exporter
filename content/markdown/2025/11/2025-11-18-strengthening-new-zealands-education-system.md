@@ -1,7 +1,7 @@
 ---
 title: "Strengthening New Zealand’s education system"
 date: 2025-11-18
-url: https://www.beehive.govt.nz/release/strengthening-new-zealand%E2%80%99s-education-system
+url: https://www.beehive.govt.nz/release/strengthening-new-zealands-education-system
 ministers:
   - Hon Erica Stanford
   - Hon David Seymour

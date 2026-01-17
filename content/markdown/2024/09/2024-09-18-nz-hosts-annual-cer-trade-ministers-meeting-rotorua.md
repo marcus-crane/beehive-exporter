@@ -1,7 +1,7 @@
 ---
 title: "NZ hosts Annual CER Trade Ministers’ meeting in Rotorua"
 date: 2024-09-18
-url: https://www.beehive.govt.nz/release/nz-hosts-annual-cer-trade-ministers%E2%80%99-meeting-rotorua
+url: https://www.beehive.govt.nz/release/nz-hosts-annual-cer-trade-ministers-meeting-rotorua
 ministers:
   - Hon Todd McClay
 portfolios:

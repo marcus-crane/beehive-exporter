@@ -1,7 +1,7 @@
 ---
 title: "Fresh stats reinforce tourism’s contribution to the economy"
 date: 2025-03-04
-url: https://www.beehive.govt.nz/release/fresh-stats-reinforce-tourism%E2%80%99s-contribution-economy
+url: https://www.beehive.govt.nz/release/fresh-stats-reinforce-tourisms-contribution-economy
 ministers:
   - Hon Louise Upston
 portfolios:

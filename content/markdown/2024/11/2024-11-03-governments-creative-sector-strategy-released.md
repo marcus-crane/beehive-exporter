@@ -1,7 +1,7 @@
 ---
 title: "Government’s creative sector strategy released"
 date: 2024-11-03
-url: https://www.beehive.govt.nz/release/government%E2%80%99s-creative-sector-strategy-released
+url: https://www.beehive.govt.nz/release/governments-creative-sector-strategy-released
 ministers:
   - Hon Paul Goldsmith
 portfolios:

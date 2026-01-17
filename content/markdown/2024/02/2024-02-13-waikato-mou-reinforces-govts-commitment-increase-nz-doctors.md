@@ -1,7 +1,7 @@
 ---
 title: "Waikato MoU reinforces Govt’s commitment to increase NZ doctors"
 date: 2024-02-13
-url: https://www.beehive.govt.nz/release/waikato-mou-reinforces-govt%E2%80%99s-commitment-increase-nz-doctors
+url: https://www.beehive.govt.nz/release/waikato-mou-reinforces-govts-commitment-increase-nz-doctors
 ministers:
   - Hon Dr Shane Reti
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "First Crisis Recovery Café Opens in Whanganui"
 date: 2025-09-02
-url: https://www.beehive.govt.nz/release/first-crisis-recovery-caf%C3%A9-opens-whanganui
+url: https://www.beehive.govt.nz/release/first-crisis-recovery-cafe-opens-whanganui
 ministers:
   - Hon Matt Doocey
 portfolios:

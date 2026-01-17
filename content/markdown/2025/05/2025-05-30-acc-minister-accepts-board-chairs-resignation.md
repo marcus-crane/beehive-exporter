@@ -1,7 +1,7 @@
 ---
 title: "ACC Minister accepts Board Chair’s resignation"
 date: 2025-05-30
-url: https://www.beehive.govt.nz/release/acc-minister-accepts-board-chair%E2%80%99s-resignation
+url: https://www.beehive.govt.nz/release/acc-minister-accepts-board-chairs-resignation
 ministers:
   - Hon Scott Simpson
 portfolios:

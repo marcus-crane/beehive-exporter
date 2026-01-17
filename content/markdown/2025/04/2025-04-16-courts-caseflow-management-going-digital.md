@@ -1,7 +1,7 @@
 ---
 title: "Courts’ caseflow management going digital"
 date: 2025-04-16
-url: https://www.beehive.govt.nz/release/courts%E2%80%99-caseflow-management-going-digital
+url: https://www.beehive.govt.nz/release/courts-caseflow-management-going-digital
 ministers:
   - Hon Paul Goldsmith
   - Hon Nicole McKee

@@ -1,7 +1,7 @@
 ---
 title: "New weekend urgent care service launched in Tairāwhiti"
 date: 2025-04-30
-url: https://www.beehive.govt.nz/release/new-weekend-urgent-care-service-launched-tair%C4%81whiti
+url: https://www.beehive.govt.nz/release/new-weekend-urgent-care-service-launched-tairawhiti
 ministers:
   - Hon Simeon Brown
 portfolios:

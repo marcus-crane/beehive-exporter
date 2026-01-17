@@ -1,7 +1,7 @@
 ---
 title: "Historic moment for Kiwis’ rights"
 date: 2025-11-13
-url: https://www.beehive.govt.nz/release/historic-moment-kiwis%E2%80%99-rights
+url: https://www.beehive.govt.nz/release/historic-moment-kiwis-rights
 ministers:
   - Hon David Seymour
 portfolios:

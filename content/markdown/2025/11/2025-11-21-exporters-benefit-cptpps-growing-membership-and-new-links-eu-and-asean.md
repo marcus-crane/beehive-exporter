@@ -1,7 +1,7 @@
 ---
 title: "Exporters to benefit from CPTPP’s growing membership and new links to the EU and ASEAN"
 date: 2025-11-21
-url: https://www.beehive.govt.nz/release/exporters-benefit-cptpp%E2%80%99s-growing-membership-and-new-links-eu-and-asean
+url: https://www.beehive.govt.nz/release/exporters-benefit-cptpps-growing-membership-and-new-links-eu-and-asean
 ministers:
   - Hon Todd McClay
 portfolios:

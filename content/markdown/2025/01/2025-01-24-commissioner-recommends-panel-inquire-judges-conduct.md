@@ -1,7 +1,7 @@
 ---
 title: "Commissioner recommends panel inquire into Judge’s conduct"
 date: 2025-01-24
-url: https://www.beehive.govt.nz/release/commissioner-recommends-panel-inquire-judge%E2%80%99s-conduct
+url: https://www.beehive.govt.nz/release/commissioner-recommends-panel-inquire-judges-conduct
 ministers:
   - Hon Judith Collins KC
 portfolios:

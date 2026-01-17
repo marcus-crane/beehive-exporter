@@ -1,7 +1,7 @@
 ---
 title: "150+ new social homes on the way for Hawke’s Bay"
 date: 2025-11-19
-url: https://www.beehive.govt.nz/release/150-new-social-homes-way-hawke%E2%80%99s-bay
+url: https://www.beehive.govt.nz/release/150-new-social-homes-way-hawkes-bay
 ministers:
   - Hon Chris Bishop
 portfolios:

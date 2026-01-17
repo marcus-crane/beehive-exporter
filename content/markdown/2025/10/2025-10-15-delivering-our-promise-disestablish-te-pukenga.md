@@ -1,7 +1,7 @@
 ---
 title: "Delivering on our promise to disestablish Te Pūkenga"
 date: 2025-10-15
-url: https://www.beehive.govt.nz/release/delivering-our-promise-disestablish-te-p%C5%ABkenga
+url: https://www.beehive.govt.nz/release/delivering-our-promise-disestablish-te-pukenga
 ministers:
   - Hon Penny Simmonds
 portfolios:

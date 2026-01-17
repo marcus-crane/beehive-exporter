@@ -1,7 +1,7 @@
 ---
 title: "New cellular network visibility tool strengthens emergency services’ operations"
 date: 2025-09-14
-url: https://www.beehive.govt.nz/release/new-cellular-network-visibility-tool-strengthens-emergency-services%E2%80%99-operations
+url: https://www.beehive.govt.nz/release/new-cellular-network-visibility-tool-strengthens-emergency-services-operations
 ministers:
   - Hon Mark Mitchell
 portfolios:

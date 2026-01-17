@@ -1,7 +1,7 @@
 ---
 title: "Hawke’s Bay patients to benefit from new and improved radiology and cancer treatment services"
 date: 2025-01-30
-url: https://www.beehive.govt.nz/release/hawke%E2%80%99s-bay-patients-benefit-new-and-improved-radiology-and-cancer-treatment-services
+url: https://www.beehive.govt.nz/release/hawkes-bay-patients-benefit-new-and-improved-radiology-and-cancer-treatment-services
 ministers:
   - Hon Simeon Brown
 portfolios:

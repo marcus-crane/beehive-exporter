@@ -1,7 +1,7 @@
 ---
 title: "Supercharging literacy & numeracy achievement through te reo Māori"
 date: 2025-02-03
-url: https://www.beehive.govt.nz/release/supercharging-literacy-numeracy-achievement-through-te-reo-m%C4%81ori
+url: https://www.beehive.govt.nz/release/supercharging-literacy-numeracy-achievement-through-te-reo-maori
 ministers:
   - Hon Erica Stanford
 portfolios:

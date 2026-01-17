@@ -1,7 +1,7 @@
 ---
 title: "Ambitious course set for NZ’s geothermal potential"
 date: 2025-07-30
-url: https://www.beehive.govt.nz/release/ambitious-course-set-nz%E2%80%99s-geothermal-potential
+url: https://www.beehive.govt.nz/release/ambitious-course-set-nzs-geothermal-potential
 ministers:
   - Hon Shane Jones
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Govt reinforces commitment to Māori health"
 date: 2024-03-05
-url: https://www.beehive.govt.nz/release/govt-reinforces-commitment-m%C4%81ori-health
+url: https://www.beehive.govt.nz/release/govt-reinforces-commitment-maori-health
 ministers:
   - Hon Dr Shane Reti
 portfolios:

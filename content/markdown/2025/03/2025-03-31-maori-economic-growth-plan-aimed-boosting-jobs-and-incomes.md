@@ -1,7 +1,7 @@
 ---
 title: "Māori economic growth plan aimed at boosting jobs and incomes"
 date: 2025-03-31
-url: https://www.beehive.govt.nz/release/m%C4%81ori-economic-growth-plan-aimed-boosting-jobs-and-incomes
+url: https://www.beehive.govt.nz/release/maori-economic-growth-plan-aimed-boosting-jobs-and-incomes
 ministers:
   - Hon Tama Potaka
 portfolios:

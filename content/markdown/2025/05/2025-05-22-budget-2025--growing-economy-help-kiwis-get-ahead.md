@@ -1,7 +1,7 @@
 ---
 title: "Budget 2025 – Growing the economy to help Kiwis get ahead"
 date: 2025-05-22
-url: https://www.beehive.govt.nz/release/budget-2025-%E2%80%93-growing-economy-help-kiwis-get-ahead
+url: https://www.beehive.govt.nz/release/budget-2025--growing-economy-help-kiwis-get-ahead
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

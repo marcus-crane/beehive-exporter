@@ -6,8 +6,6 @@ ministers:
   - Rt Hon Winston Peters
 portfolios:
   - Racing
-attachments:
-  - https://www.dia.govt.nz/diawebsite.nsf/Files/Greyhound-Racing-2025/$file/Interim-Report-of-the-Greyhound-Racing-Ministerial-Committee-May-2025.pdf
 ---
 
 Cabinet has formally agreed this week to the closure of the greyhound racing industry in New Zealand.

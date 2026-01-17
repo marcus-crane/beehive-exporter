@@ -1,7 +1,7 @@
 ---
 title: "Government’s creative sector strategy goes live"
 date: 2025-08-28
-url: https://www.beehive.govt.nz/release/government%E2%80%99s-creative-sector-strategy-goes-live
+url: https://www.beehive.govt.nz/release/governments-creative-sector-strategy-goes-live
 ministers:
   - Hon Paul Goldsmith
 portfolios:

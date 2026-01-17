@@ -1,7 +1,7 @@
 ---
 title: "ERO report shows Government’s truancy emphasis is vital"
 date: 2024-10-29
-url: https://www.beehive.govt.nz/release/ero-report-shows-government%E2%80%99s-truancy-emphasis-vital
+url: https://www.beehive.govt.nz/release/ero-report-shows-governments-truancy-emphasis-vital
 ministers:
   - Hon David Seymour
 portfolios:

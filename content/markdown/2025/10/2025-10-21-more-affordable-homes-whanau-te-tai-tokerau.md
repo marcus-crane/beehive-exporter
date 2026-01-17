@@ -1,7 +1,7 @@
 ---
 title: "More affordable homes for whānau in Te Tai Tokerau"
 date: 2025-10-21
-url: https://www.beehive.govt.nz/release/more-affordable-homes-wh%C4%81nau-te-tai-tokerau
+url: https://www.beehive.govt.nz/release/more-affordable-homes-whanau-te-tai-tokerau
 ministers:
   - Hon Tama Potaka
 portfolios:

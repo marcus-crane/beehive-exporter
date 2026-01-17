@@ -6,6 +6,8 @@ ministers:
   - Hon Simeon Brown
 portfolios:
   - Transport
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2024-07/Indicative%20alignment%20and%20station%20locations.jpg
 ---
 
 Transport Minister Simeon Brown has welcomed progress on Northwest Rapid Transit, as the NZ Transport Agency (NZTA) confirms next steps on the preferred option, a busway alongside State Highway 16 from Brigham Creek to Auckland City Centre.

@@ -1,0 +1,89 @@
+---
+title: "Joint statement by the Hon Malcolm Turnbull and Rt Hon Jacinda Ardern"
+date: 2018-03-01
+url: https://www.beehive.govt.nz/release/joint-statement-hon-malcolm-turnbull-and-rt-hon-jacinda-ardern
+ministers:
+  - Rt Hon Jacinda Ardern
+portfolios:
+  - Prime Minister
+---
+
+Prime Minister the Hon Malcolm Turnbull MP and Prime Minister the Rt Hon Jacinda Ardern met in Sydney on 2 March 2018 for the annual Australia-New Zealand Leaders’ Meeting. Prime Minister Turnbull and Ms Lucy Turnbull warmly welcomed Prime Minister Ardern and Mr Clarke Gayford to their home.
+
+The Prime Ministers reiterated their commitment to this enduring partnership; there is no closer friendship than that between Australia and New Zealand. They noted these bonds endure not only as a result of our shared history, community ties and region, but draw strongly on the two countries’ shared core values, including our joint commitment to liberal democratic governance, open markets and the rule of law.
+
+The leaders underscored their shared belief that Australia and New Zealand are natural partners in responding to the challenges and opportunities arising from the rapidly changing global environment. They agreed to deepen cooperation to enhance the security and prosperity of Australians, New Zealanders and the region.
+
+**Regional and International Trade**
+
+The Prime Ministers highlighted their steadfast support for open markets and rejected economic protectionism. Australian and New Zealand citizens continue to prosper from economies that create jobs, deliver opportunities and lower costs for consumers. The Prime Ministers agreed to collaborate in support of an open, rules-based global trading system.
+
+To this end, both leaders reaffirmed their commitment to the Comprehensive and Progressive Agreement for the Trans-Pacific Partnership (CPTPP), expected to be signed this month. They emphasised the CPTPP is the most important contribution to the global rules-based trading order in recent times. It will shape our region’s future economic integration and growth trajectory and provide significant new market access opportunities for our goods and services exporters.
+
+Prime Minister Turnbull and Prime Minister Ardern also emphasised the importance of pursuing an ambitious Regional Comprehensive Economic Partnership (RCEP) Agreement to improve market access and the business environment for Australian and New Zealand exporters to ASEAN, China, India, Japan and Korea.
+
+**Trans-Tasman Economic Integration**
+
+The Prime Ministers welcomed the progress in reinvigorating the trans-Tasman Single Economic Market (SEM) agenda and reaffirmed Australia and New Zealand’s commitment to broadening and deepening the economic relationship between the two countries. They agreed that finding innovative ways to create a more seamless economic environment is a partnership priority.
+
+Leaders acknowledged the importance of the Australia New Zealand Leadership Forum (ANZLF) to provide insights and innovative business ideas to take forward the SEM agenda. They thanked the senior representatives from the Australian and New Zealand business communities for generously contributing their time and ideas to improve trans-Tasman flows of people, goods and services.
+
+Both countries will capitalise on recent trials looking to improve the trans-Tasman movement of goods and people, such as the successful proof of concept trials of an e-commerce green lane and secure trade lane, and Australia’s removal of outgoing passenger cards. As a result of our joint efforts, we continue to work towards making trans-Tasman travel and trade one of the smoothest pathways for people and business in the world.
+
+Building on this momentum, Australia and New Zealand will also continue to streamline passenger clearance processes through trials such as the reciprocal data-sharing arrangement for cruise passengers.
+
+Leaders welcomed the success of the Australia New Zealand Infrastructure Pipeline (launched in October 2016), which will continue to be a useful mechanism to promote investment opportunities in both countries and attract capital from outside the region. They also welcomed good progress toward the mutual recognition of prequalification criteria for road infrastructure projects, making it easier and more efficient for companies to tender successfully across the Tasman.
+
+Leaders discussed the growth potential that exists within small and medium sized enterprises (SMEs), and agreed to strive for gains for small business under the Single Economic Market agenda. Leaders recognised that the most common leap into exporting for the majority of SMEs in both countries was across the Tasman. They undertook to make that leap as seamless as possible, and commissioned work to identify opportunities for SME exporters to make full use of trans-Tasman economic integration.
+
+The Prime Ministers recognised that the digital economy is the future economy, providing tremendous opportunities for growth and jobs, and connecting people who would otherwise be excluded. It opens up new markets for SMEs and levels the playing field. The Prime Ministers commissioned a review into how Australia and New Zealand can work together to remove barriers to growing the digital economy, both between our countries and into our region, to ensure our two countries are prepared to seize the opportunities arising from the digital transformation of our economies. Both countries will also explore further opportunities to reduce the costs of engaging in e-commerce and digital trade, especially for our SMEs, including through practical action around common approaches to e-invoicing.
+
+The Prime Ministers welcomed the delegation of Australian Indigenous business leaders to New Zealand in January-February 2018 to speak with Maori business leaders and Ministers. The initiative was part of reinvigorating the SEM agenda and was aimed at developing collaboration, trade and investment linkages between Indigenous businesses for mutual benefit. The Prime Ministers welcomed the formation of a new Sector Group on Indigenous business under the ANZLF to increase collaboration on promoting indigenous business.
+
+**People and Immigration**
+
+The Prime Ministers noted that the Trans-Tasman Travel Arrangement is the cornerstone of the two countries’ economic, social, and cultural integration. New Zealand and Australia remain two of the most connected economies and two of the most successful multicultural societies in the world.      
+
+The Prime Ministers discussed the first eight months of operation of the unique pathway to citizenship for New Zealanders who are long-term residents of Australia, and committed to work closely on ongoing implementation of the policy. More than 8,500 New Zealand citizens have applied for the new permanent residency visa to date, and both Prime Ministers encouraged further applications by eligible New Zealanders.  
+
+Prime Minister Turnbull reconfirmed Australia’s commitment to ensuring the process for visa cancellation and removal of New Zealand citizens on character grounds is conducted as sensitively as possible. Prime Minister Ardern noted the cooperation Australia has provided through information sharing to aid in the management of these cases. The two Prime Ministers noted the importance of decisions and information sharing that lead to successful integration and re-settlement in New Zealand.
+
+**Research, Science and Innovation**
+
+The Prime Ministers welcomed ratification of the bilateral Science, Research and Innovation Cooperation Agreement in November 2017. They noted the importance of the Treaty in helping Australia and New Zealand work together to develop ideas that will drive new opportunities for our economies and people. They welcomed work underway to strengthen links between science organisations on both sides of the Tasman and cooperation, including joint investment in the Australian Synchrotron to promote high quality research and innovation, addressing chronic disease, and the Satellite-Based Augmentation System trial. The two countries will continue working together to explore avenues to cooperate on genomics in healthcare.
+
+Leaders agreed to establish new trans-Tasman cyber security research collaboration. This will focus on two key areas: ‘post quantum cyber security’ and ‘artificial intelligence for improved cyber security’. The collaboration will include joint research projects, and provide for PhD and researcher exchanges. The Prime Ministers reaffirmed their joint commitment to championing an open, free and secure internet and the important role it will play in the future prosperity of both countries. They agreed to continue regular dialogues on cyber security issues, joint cyber security exercises, and efforts to build cyber security capacity internationally, particularly among Pacific island countries.
+
+Leaders also agreed that Australia and New Zealand, in partnership with relevant organisations, will jointly host a smart and sustainable cities symposium in Australia. This will bring together experts from across the Tasman to investigate initiatives to improve the productivity and liveability of our major cities.
+
+**Security and Defence Cooperation**
+
+The Prime Ministers reiterated the importance of unity as defence allies in the face of current and emerging regional and global threats, including to the international rules-based order. They looked forward to their Defence Ministers reaffirming their enduring commitment to close defence and security cooperation, and agreed that the interoperability of our defence forces is important to maintaining security in our region and more broadly.
+
+Both leaders committed to continue to work together to counter people smuggling and trafficking of persons in our region, particularly through the Bali Process. The leaders noted that regional cooperation was essential in disrupting the harmful people smuggling trade, as it puts vulnerable peoples’ lives at risk and enriches criminal networks.
+
+Prime Minister Ardern and Prime Minister Turnbull also exchanged views on domestic security and the threat of foreign interference. Both leaders noted the need to remain vigilant in the face of this threat and resolved that Australia and New Zealand would actively share information, cooperate, and jointly work to defend the integrity of our democratic institutions.
+
+The two leaders agreed to build on the substantial collaboration and information sharing between the two Governments to combat terrorism and counter violent extremism. The terrorism threat in Southeast Asia, particularly the Philippines, is acute. Both countries reaffirmed their commitment to work closely together and with regional partners, including on managing the return of foreign fighters.
+
+Prime Ministers Ardern and Turnbull shared their grave concerns over the illegal, dangerous and increasingly defiant actions of North Korea. North Korea’s actions violate successive United Nations Security Council resolutions and pose a grave threat to regional and global security. Leaders agreed on the importance of rigorously enforcing sanctions against the regime. Australia and New Zealand are committed to working with the international community to apply maximum pressure on North Korea to bring it back to denuclearisation negotiations.
+
+The two leaders remained concerned about the situation in the South China Sea, including land reclamation, and the ongoing construction and militarisation of disputed features. The Prime Ministers called on the parties to avoid unilateral actions that change the status quo, erode trust, and undermine efforts to manage tensions. The leaders also reiterated the importance of freedom of navigation and overflight, and resolving maritime disputes peacefully through full respect for legal and diplomatic processes and in accordance with international law, including the United Nations Convention on the Law of the Sea (UNCLOS). They acknowledged work towards a Code of Conduct for the South China Sea and supported early conclusion of an effective Code of Conduct, consistent with international law.
+
+The leaders discussed the protracted conflict in Syria and underlined that only a negotiated political solution in Syria could provide lasting peace. The Prime Ministers recognised the valuable work of the joint Australia-New Zealand Building Partner Capacity mission in Iraq, which has provided training to more than 30,000 Iraqi soldiers and police to help Iraq to combat Daesh and secure its country and people.
+
+**Cooperation in the Pacific**
+
+Prime Ministers Ardern and Turnbull agreed that the stability, security, well-being, and economic prosperity of Pacific island countries was of fundamental importance to both Australia and New Zealand. Noting her Foreign Minister’s speech the previous day foreshadowing New Zealand’s own re-energised approach to the Pacific, Prime Minister Ardern welcomed the Australian Government’s commitment in its 2017 Foreign Policy White Paper to step up Australia’s engagement in the region. The leaders resolved to strengthen their already close partnerships with Pacific island countries to address the region’s unique challenges. They highlighted the need as responsible, enduring partners to support the Pacific Islands Forum and other regional institutions to respond to existing and emerging economic and security challenges.
+
+As the region’s major economic partners, leaders agreed on the need to promote the conditions for regional economic growth to support opportunity, stability and security in the Pacific. They welcomed the signing of the Pacific Agreement on Closer Economic Relations Plus (PACER Plus) trade and development agreement by eleven countries as a means to create closer regional economic integration and drive economic activity, and reaffirmed their commitment to support Pacific island signatories to implement the agreement.
+
+The Prime Ministers agreed on the importance of labour mobility to provide new work opportunities, skills development and flows of remittances in the region and welcomed the inauguration of a Pacific Labour Mobility Annual Meeting to facilitate regional collaboration amongst signatories. In this light, Prime Minister Ardern noted the recent increase in New Zealand’s Recognised Seasonal Employer (RSE) scheme and new labour mobility initiatives under way and welcomed the announcement in 2017 of Australia’s new Pacific Labour Scheme. Both countries will increase collaboration and coordination on the implementation of their respective labour mobility schemes to ensure these bring maximum benefit to participating countries. The Prime Ministers also agreed to maintain the momentum of work being done jointly by the two countries to reduce the cost of remittances in the Pacific.
+
+Australia and New Zealand will also work with Pacific partners to respond to the distinct security challenges of the region. The Prime Ministers welcomed the decision of leaders at the Pacific Islands Forum last September to negotiate a new ‘Biketawa Plus’ regional security declaration that will improve the ability of the region to tackle emerging security challenges, such as climate change, transnational crime, cyber threats and illegal fishing. Prime Minister Ardern welcomed Australia’s initiative to establish an Australia Pacific Security College (APSC). Both countries are agreed on the objective of building the capacity of law enforcement, border protection and intelligence agencies within partner governments in the region to respond to transnational crime, identity fraud, and other security threats.
+
+The Prime Ministers agreed on the importance of Australia and New Zealand, as the region’s largest security contributors, strengthening cooperation on regional maritime security. Prime Ministers acknowledged Australia’s $2 billion Pacific Maritime Security Program. They asked their Defence Ministers to investigate ways to better coordinate support to regional maritime surveillance operations and to Pacific nations as they transition to the new Guardian-class patrol boats. They welcomed the condemnation at September’s Pacific Islands Forum of North Korean provocations and also welcomed the Pacific leaders’ agreement to identify and de-register North Korean vessels operating under Pacific flags in order to evade UN sanctions. The Prime Ministers highlighted the cooperation of both countries to help Pacific partners to implement this commitment.
+
+The Prime Ministers discussed the unique vulnerability of the Pacific to impacts of climate change and natural disasters, and agreed to continue to work together and with partners to implement the Paris Agreement. Noting successful cooperation to date, Australia and New Zealand will continue to support the region’s climate change mitigation, adaptation, and disaster risk reduction strategies. This includes supporting the region’s access to clean energy and climate finance, including through our respective development assistance programmes and support for mechanisms such as the Green Climate Fund. The Prime Ministers reaffirmed the role of Australia and New Zealand as first responders for humanitarian and disaster relief in the Pacific, as recently demonstrated in the response to Tropical Cyclone Gita.
+
+The leaders discussed the upcoming APEC meetings to be hosted by PNG, and welcomed PNG’s thematic focus on the digital economy. They agreed to continue to coordinate their security support to PNG for its host year. The Prime Ministers discussed common priorities in multilateral fora, recognising the responsibility of Australia, as a G20 member, to take into account the interests of its neighbours.

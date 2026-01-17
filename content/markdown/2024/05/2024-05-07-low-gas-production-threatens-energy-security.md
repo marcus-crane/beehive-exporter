@@ -8,8 +8,6 @@ ministers:
 portfolios:
   - Energy
   - Resources
-attachments:
-  - https://www.gasindustry.co.nz/assets/DMSDocumentsOld/quarterly-reports/Quarterly-Report-March-2024.pdf
 ---
 
 There has been a material decline in gas production according to figures released today by the [Gas Industry Co.](https://www.gasindustry.co.nz/assets/DMSDocumentsOld/quarterly-reports/Quarterly-Report-March-2024.pdf)

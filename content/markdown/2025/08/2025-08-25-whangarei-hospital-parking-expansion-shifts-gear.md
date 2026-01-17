@@ -1,7 +1,7 @@
 ---
 title: "Whangārei Hospital parking expansion shifts into gear"
 date: 2025-08-25
-url: https://www.beehive.govt.nz/release/whang%C4%81rei-hospital-parking-expansion-shifts-gear
+url: https://www.beehive.govt.nz/release/whangarei-hospital-parking-expansion-shifts-gear
 ministers:
   - Hon Matt Doocey
 portfolios:

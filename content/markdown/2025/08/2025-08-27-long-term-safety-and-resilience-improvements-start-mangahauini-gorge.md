@@ -6,6 +6,8 @@ ministers:
   - Hon Chris Bishop
 portfolios:
   - Transport
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-08/SH35%20Mangahauini%20Gorge%20Improvements%20-%20Artist%27s%20Impression.jpg
 ---
 
 Major works are getting underway in Mangahauini Gorge on State Highway 35 (SH35) north of Gisborne, as crews tackle the final and largest phase of Cyclone Gabrielle recovery efforts in Tairāwhiti, Transport Minister Chris Bishop says.

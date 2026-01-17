@@ -1,7 +1,7 @@
 ---
 title: "Māori Health Authority disestablished"
 date: 2024-02-28
-url: https://www.beehive.govt.nz/release/m%C4%81ori-health-authority-disestablished
+url: https://www.beehive.govt.nz/release/maori-health-authority-disestablished
 ministers:
   - Hon Dr Shane Reti
 portfolios:

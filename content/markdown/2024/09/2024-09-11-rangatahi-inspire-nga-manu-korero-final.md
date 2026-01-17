@@ -1,7 +1,7 @@
 ---
 title: "Rangatahi inspire at Ngā Manu Kōrero final"
 date: 2024-09-11
-url: https://www.beehive.govt.nz/release/rangatahi-inspire-ng%C4%81-manu-k%C5%8Drero-final
+url: https://www.beehive.govt.nz/release/rangatahi-inspire-nga-manu-korero-final
 ministers:
   - Hon Tama Potaka
 portfolios:

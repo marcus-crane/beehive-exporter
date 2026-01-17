@@ -1,7 +1,7 @@
 ---
 title: "Law passed to support NZ’s defence and security"
 date: 2025-11-18
-url: https://www.beehive.govt.nz/release/law-passed-support-nz%E2%80%99s-defence-and-security
+url: https://www.beehive.govt.nz/release/law-passed-support-nzs-defence-and-security
 ministers:
   - Hon Judith Collins KC
 portfolios:

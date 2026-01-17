@@ -1,7 +1,7 @@
 ---
 title: "Speeding up flood resilience work in Hawke’s Bay"
 date: 2024-03-05
-url: https://www.beehive.govt.nz/release/speeding-flood-resilience-work-hawke%E2%80%99s-bay
+url: https://www.beehive.govt.nz/release/speeding-flood-resilience-work-hawkes-bay
 ministers:
   - Hon Mark Mitchell
   - Hon Penny Simmonds

@@ -1,7 +1,7 @@
 ---
 title: "Reshaping the health system to bring Māori health closer to home"
 date: 2024-02-27
-url: https://www.beehive.govt.nz/release/reshaping-health-system-bring-m%C4%81ori-health-closer-home
+url: https://www.beehive.govt.nz/release/reshaping-health-system-bring-maori-health-closer-home
 ministers:
   - Hon Dr Shane Reti
 portfolios:

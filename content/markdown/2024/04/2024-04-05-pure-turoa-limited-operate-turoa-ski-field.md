@@ -1,7 +1,7 @@
 ---
 title: "Pure Tūroa Limited to operate Tūroa ski field"
 date: 2024-04-05
-url: https://www.beehive.govt.nz/release/pure-t%C5%ABroa-limited-operate-t%C5%ABroa-ski-field
+url: https://www.beehive.govt.nz/release/pure-turoa-limited-operate-turoa-ski-field
 ministers:
   - Hon Tama Potaka
 portfolios:

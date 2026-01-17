@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Ngā Kura Kaupapa Māori o Te Puku o te Ika a Māui"
 date: 2024-07-01
-url: https://www.beehive.govt.nz/release/congratulations-ng%C4%81-kura-kaupapa-m%C4%81ori-o-te-puku-o-te-ika-m%C4%81ui
+url: https://www.beehive.govt.nz/release/congratulations-nga-kura-kaupapa-maori-o-te-puku-o-te-ika-maui
 ministers:
   - Hon Tama Potaka
 portfolios:

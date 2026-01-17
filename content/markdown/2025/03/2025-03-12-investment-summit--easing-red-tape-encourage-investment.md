@@ -1,7 +1,7 @@
 ---
 title: "INVESTMENT SUMMIT – Easing red tape to encourage investment"
 date: 2025-03-12
-url: https://www.beehive.govt.nz/release/investment-summit-%E2%80%93-easing-red-tape-encourage-investment
+url: https://www.beehive.govt.nz/release/investment-summit--easing-red-tape-encourage-investment
 ministers:
   - Hon David Seymour
 portfolios:

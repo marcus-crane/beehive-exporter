@@ -1,7 +1,7 @@
 ---
 title: "Minister’s message to disgruntled providers"
 date: 2024-08-15
-url: https://www.beehive.govt.nz/release/minister%E2%80%99s-message-disgruntled-providers
+url: https://www.beehive.govt.nz/release/ministers-message-disgruntled-providers
 ministers:
   - Hon Karen Chhour
 portfolios:

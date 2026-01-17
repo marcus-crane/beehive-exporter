@@ -10,9 +10,6 @@ portfolios:
   - Environment
   - Food Safety
   - Regulation
-attachments:
-  - https://www.regulation.govt.nz/assets/Publication-Documents/Agricultural-Horticultural-Products-Regulatory-Review-full-report.pdf
-  - https://www.regulation.govt.nz/assets/Publication-Documents/Agricultural-Horticultural-Products-Regulatory-Review-summary-report.pdf
 ---
 
 Farmers and growers will have faster access to new agriculture and horticulture products because innovation drives success, says Regulation Minister David Seymour, Environment Minister Penny Simmonds and Food Safety Minister Andrew Hoggard.

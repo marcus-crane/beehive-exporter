@@ -1,7 +1,7 @@
 ---
 title: "150 social homes for Hawke’s Bay through community-led approach"
 date: 2025-05-16
-url: https://www.beehive.govt.nz/release/150-social-homes-hawke%E2%80%99s-bay-through-community-led-approach
+url: https://www.beehive.govt.nz/release/150-social-homes-hawkes-bay-through-community-led-approach
 ministers:
   - Hon Chris Bishop
 portfolios:

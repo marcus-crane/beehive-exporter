@@ -1,7 +1,7 @@
 ---
 title: "Appointments to QEII National Trust and Ngā Whenua Rāhui Komiti"
 date: 2025-10-03
-url: https://www.beehive.govt.nz/release/appointments-qeii-national-trust-and-ng%C4%81-whenua-r%C4%81hui-komiti
+url: https://www.beehive.govt.nz/release/appointments-qeii-national-trust-and-nga-whenua-rahui-komiti
 ministers:
   - Hon Tama Potaka
 portfolios:

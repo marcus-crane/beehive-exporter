@@ -1,7 +1,7 @@
 ---
 title: "McClay to champion NZ’s trade interests at OECD and in Brussels"
 date: 2025-05-30
-url: https://www.beehive.govt.nz/release/mcclay-champion-nz%E2%80%99s-trade-interests-oecd-and-brussels
+url: https://www.beehive.govt.nz/release/mcclay-champion-nzs-trade-interests-oecd-and-brussels
 ministers:
   - Hon Todd McClay
 portfolios:

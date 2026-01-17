@@ -1,7 +1,7 @@
 ---
 title: "Judge Craig Coxhead and Nathan Milner newest Māori Land Court appointments"
 date: 2024-06-06
-url: https://www.beehive.govt.nz/release/judge-craig-coxhead-and-nathan-milner-newest-m%C4%81ori-land-court-appointments
+url: https://www.beehive.govt.nz/release/judge-craig-coxhead-and-nathan-milner-newest-maori-land-court-appointments
 ministers:
   - Hon Tama Potaka
 portfolios:

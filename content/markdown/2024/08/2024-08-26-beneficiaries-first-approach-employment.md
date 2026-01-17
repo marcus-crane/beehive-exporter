@@ -1,7 +1,7 @@
 ---
 title: "A ‘Beneficiaries-First’ approach to employment"
 date: 2024-08-26
-url: https://www.beehive.govt.nz/release/%E2%80%98beneficiaries-first%E2%80%99-approach-employment
+url: https://www.beehive.govt.nz/release/beneficiaries-first-approach-employment
 ministers:
   - Hon Louise Upston
 portfolios:

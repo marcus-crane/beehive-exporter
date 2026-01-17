@@ -6,8 +6,6 @@ ministers:
   - Hon Judith Collins KC
 portfolios:
   - Space
-attachments:
-  - https://www.nzsis.govt.nz/assets/NZSIS-Documents/New-Zealands-Security-Threat-Environment-2024.pdf
 ---
 
 New legislation to manage risks posed by ground-based space infrastructure will be introduced next year, Space Minister Judith Collins says. 

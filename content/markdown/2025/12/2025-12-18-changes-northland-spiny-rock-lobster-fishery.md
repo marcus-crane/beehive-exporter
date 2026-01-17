@@ -6,6 +6,8 @@ ministers:
   - Hon Shane Jones
 portfolios:
   - Oceans and Fisheries
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-12/r250336_CRA_Closures.jpg
 ---
 
 Northland’s rock lobster fishery will have a reprieve from fishing to help build stocks of spiny rock lobster, Oceans and Fisheries Minister Shane Jones says.

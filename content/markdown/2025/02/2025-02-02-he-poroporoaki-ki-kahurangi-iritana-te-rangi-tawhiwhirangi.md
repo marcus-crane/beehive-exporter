@@ -1,7 +1,7 @@
 ---
 title: "He poroporoaki ki a Kahurangi Iritana Te Rangi Tāwhiwhirangi"
 date: 2025-02-02
-url: https://www.beehive.govt.nz/release/he-poroporoaki-ki-kahurangi-iritana-te-rangi-t%C4%81whiwhirangi
+url: https://www.beehive.govt.nz/release/he-poroporoaki-ki-kahurangi-iritana-te-rangi-tawhiwhirangi
 ministers:
   - Hon Tama Potaka
 portfolios:

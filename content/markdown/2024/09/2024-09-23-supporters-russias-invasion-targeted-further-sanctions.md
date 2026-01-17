@@ -1,7 +1,7 @@
 ---
 title: "Supporters of Russia’s invasion targeted in further sanctions"
 date: 2024-09-23
-url: https://www.beehive.govt.nz/release/supporters-russia%E2%80%99s-invasion-targeted-further-sanctions
+url: https://www.beehive.govt.nz/release/supporters-russias-invasion-targeted-further-sanctions
 ministers:
   - Rt Hon Winston Peters
 portfolios:

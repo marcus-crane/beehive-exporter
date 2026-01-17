@@ -1,7 +1,7 @@
 ---
 title: "Recognising Dr Allan Freeth’s service to the EPA"
 date: 2025-11-03
-url: https://www.beehive.govt.nz/release/recognising-dr-allan-freeth%E2%80%99s-service-epa
+url: https://www.beehive.govt.nz/release/recognising-dr-allan-freeths-service-epa
 ministers:
   - Hon Penny Simmonds
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "New school year starts with focus on students’ success"
 date: 2024-01-29
-url: https://www.beehive.govt.nz/release/new-school-year-starts-focus-students%E2%80%99-success
+url: https://www.beehive.govt.nz/release/new-school-year-starts-focus-students-success
 ministers:
   - Hon Erica Stanford
 portfolios:

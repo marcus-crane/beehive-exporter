@@ -1,7 +1,7 @@
 ---
 title: "Māori excel in New Year Honours 2025"
 date: 2024-12-30
-url: https://www.beehive.govt.nz/release/m%C4%81ori-excel-new-year-honours-2025
+url: https://www.beehive.govt.nz/release/maori-excel-new-year-honours-2025
 ministers:
   - Hon Tama Potaka
 portfolios:

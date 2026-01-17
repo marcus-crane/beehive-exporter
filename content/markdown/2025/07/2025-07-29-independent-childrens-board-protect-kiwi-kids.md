@@ -1,7 +1,7 @@
 ---
 title: "Independent Children’s Board to protect Kiwi kids"
 date: 2025-07-29
-url: https://www.beehive.govt.nz/release/independent-children%E2%80%99s-board-protect-kiwi-kids
+url: https://www.beehive.govt.nz/release/independent-childrens-board-protect-kiwi-kids
 ministers:
   - Hon Louise Upston
 portfolios:

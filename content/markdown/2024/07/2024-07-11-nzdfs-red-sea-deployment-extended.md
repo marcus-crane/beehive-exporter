@@ -1,7 +1,7 @@
 ---
 title: "NZDF’s Red Sea deployment extended"
 date: 2024-07-11
-url: https://www.beehive.govt.nz/release/nzdf%E2%80%99s-red-sea-deployment-extended
+url: https://www.beehive.govt.nz/release/nzdfs-red-sea-deployment-extended
 ministers:
   - Hon Judith Collins KC
   - Rt Hon Winston Peters

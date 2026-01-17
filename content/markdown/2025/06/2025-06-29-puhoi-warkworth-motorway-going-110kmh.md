@@ -1,7 +1,7 @@
 ---
 title: "Pūhoi to Warkworth Motorway going to 110km/h"
 date: 2025-06-29
-url: https://www.beehive.govt.nz/release/p%C5%ABhoi-warkworth-motorway-going-110kmh
+url: https://www.beehive.govt.nz/release/puhoi-warkworth-motorway-going-110kmh
 ministers:
   - Hon Chris Bishop
 portfolios:

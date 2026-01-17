@@ -1,7 +1,7 @@
 ---
 title: "Government ends ‘Ute Tax’"
 date: 2024-01-01
-url: https://www.beehive.govt.nz/release/government-ends-%E2%80%98ute-tax%E2%80%99
+url: https://www.beehive.govt.nz/release/government-ends-ute-tax
 ministers:
   - Hon Simeon Brown
 portfolios:

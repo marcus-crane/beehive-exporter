@@ -1,7 +1,7 @@
 ---
 title: "PM’s Prizes for Space to showcase sector’s talent"
 date: 2024-03-25
-url: https://www.beehive.govt.nz/release/pm%E2%80%99s-prizes-space-showcase-sector%E2%80%99s-talent
+url: https://www.beehive.govt.nz/release/pms-prizes-space-showcase-sectors-talent
 ministers:
   - Rt Hon Christopher Luxon
   - Hon Judith Collins KC

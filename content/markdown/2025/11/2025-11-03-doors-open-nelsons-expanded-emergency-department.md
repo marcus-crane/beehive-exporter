@@ -1,7 +1,7 @@
 ---
 title: "Doors open to Nelson’s expanded emergency department"
 date: 2025-11-03
-url: https://www.beehive.govt.nz/release/doors-open-nelson%E2%80%99s-expanded-emergency-department
+url: https://www.beehive.govt.nz/release/doors-open-nelsons-expanded-emergency-department
 ministers:
   - Hon Simeon Brown
 portfolios:

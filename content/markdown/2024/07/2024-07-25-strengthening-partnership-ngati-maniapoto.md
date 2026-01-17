@@ -1,7 +1,7 @@
 ---
 title: "Strengthening partnership with Ngāti Maniapoto"
 date: 2024-07-25
-url: https://www.beehive.govt.nz/release/strengthening-partnership-ng%C4%81ti-maniapoto
+url: https://www.beehive.govt.nz/release/strengthening-partnership-ngati-maniapoto
 ministers:
   - Hon Tama Potaka
 portfolios:

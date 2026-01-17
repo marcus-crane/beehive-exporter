@@ -1,7 +1,7 @@
 ---
 title: "Resources Minister heads to Australia with message - ‘NZ is open for business’"
 date: 2024-07-04
-url: https://www.beehive.govt.nz/release/resources-minister-heads-australia-message-%E2%80%98nz-open-business%E2%80%99
+url: https://www.beehive.govt.nz/release/resources-minister-heads-australia-message-nz-open-business
 ministers:
   - Hon Shane Jones
 portfolios:

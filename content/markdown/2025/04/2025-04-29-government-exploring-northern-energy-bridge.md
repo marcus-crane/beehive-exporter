@@ -1,7 +1,7 @@
 ---
 title: "Government exploring northern ‘energy bridge’"
 date: 2025-04-29
-url: https://www.beehive.govt.nz/release/government-exploring-northern-%E2%80%98energy-bridge%E2%80%99
+url: https://www.beehive.govt.nz/release/government-exploring-northern-energy-bridge
 ministers:
   - Hon Shane Jones
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Backing New Zealand’s native forest champions"
 date: 2025-06-12
-url: https://www.beehive.govt.nz/release/backing-new-zealand%E2%80%99s-native-forest-champions
+url: https://www.beehive.govt.nz/release/backing-new-zealands-native-forest-champions
 ministers:
   - Hon Todd McClay
 portfolios:

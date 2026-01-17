@@ -1,7 +1,7 @@
 ---
 title: "Greatest ever protection for Hauraki Gulf/Tīkapa Moana"
 date: 2025-08-21
-url: https://www.beehive.govt.nz/release/greatest-ever-protection-hauraki-gulft%C4%ABkapa-moana
+url: https://www.beehive.govt.nz/release/greatest-ever-protection-hauraki-gulftikapa-moana
 ministers:
   - Hon Tama Potaka
 portfolios:

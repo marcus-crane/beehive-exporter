@@ -1,7 +1,7 @@
 ---
 title: "Binding arbitration sought to resolve senior doctors’ dispute"
 date: 2025-09-04
-url: https://www.beehive.govt.nz/release/binding-arbitration-sought-resolve-senior-doctors%E2%80%99-dispute
+url: https://www.beehive.govt.nz/release/binding-arbitration-sought-resolve-senior-doctors-dispute
 ministers:
   - Hon Simeon Brown
 portfolios:

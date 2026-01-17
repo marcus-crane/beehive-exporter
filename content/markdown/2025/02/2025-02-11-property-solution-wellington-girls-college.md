@@ -1,7 +1,7 @@
 ---
 title: "Property solution for Wellington Girls’ College"
 date: 2025-02-11
-url: https://www.beehive.govt.nz/release/property-solution-wellington-girls%E2%80%99-college
+url: https://www.beehive.govt.nz/release/property-solution-wellington-girls-college
 ministers:
   - Hon Erica Stanford
 portfolios:

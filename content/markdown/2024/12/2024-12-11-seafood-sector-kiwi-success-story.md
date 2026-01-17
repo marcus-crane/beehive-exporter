@@ -1,7 +1,7 @@
 ---
 title: "Seafood sector a ‘Kiwi success story’"
 date: 2024-12-11
-url: https://www.beehive.govt.nz/release/seafood-sector-%E2%80%98kiwi-success-story%E2%80%99
+url: https://www.beehive.govt.nz/release/seafood-sector-kiwi-success-story
 ministers:
   - Hon Shane Jones
 portfolios:

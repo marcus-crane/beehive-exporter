@@ -1,7 +1,7 @@
 ---
 title: "Enabling rural recovery works in Hawke’s Bay"
 date: 2024-09-16
-url: https://www.beehive.govt.nz/release/enabling-rural-recovery-works-hawke%E2%80%99s-bay
+url: https://www.beehive.govt.nz/release/enabling-rural-recovery-works-hawkes-bay
 ministers:
   - Hon Mark Mitchell
   - Hon Penny Simmonds

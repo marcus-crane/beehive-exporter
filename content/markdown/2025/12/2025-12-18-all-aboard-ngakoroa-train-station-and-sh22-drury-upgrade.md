@@ -1,7 +1,7 @@
 ---
 title: "All aboard the Ngākōroa Train Station and SH22 Drury Upgrade"
 date: 2025-12-18
-url: https://www.beehive.govt.nz/release/all-aboard-ng%C4%81k%C5%8Droa-train-station-and-sh22-drury-upgrade
+url: https://www.beehive.govt.nz/release/all-aboard-ngakoroa-train-station-and-sh22-drury-upgrade
 ministers:
   - Hon Chris Bishop
   - Rt Hon Winston Peters

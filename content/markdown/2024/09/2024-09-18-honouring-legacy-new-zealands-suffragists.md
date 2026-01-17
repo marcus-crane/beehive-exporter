@@ -1,7 +1,7 @@
 ---
 title: "Honouring the legacy of New Zealand’s suffragists"
 date: 2024-09-18
-url: https://www.beehive.govt.nz/release/honouring-legacy-new-zealand%E2%80%99s-suffragists
+url: https://www.beehive.govt.nz/release/honouring-legacy-new-zealands-suffragists
 ministers:
   - Hon Nicola Grigg
 portfolios:

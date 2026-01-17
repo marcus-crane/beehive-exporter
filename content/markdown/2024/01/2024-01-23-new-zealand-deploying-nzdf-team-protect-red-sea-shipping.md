@@ -12,7 +12,6 @@ portfolios:
   - Foreign Affairs
 attachments:
   - https://www.beehive.govt.nz/sites/default/files/2024-01/Fact%20sheet%20-%20Maritime%20Security%20in%20the%20Middle%20East.pdf
-  - https://www.beehive.govt.nz/sites/default/files/2024-01/Fact%20sheet%20-%20Maritime%20Security%20in%20the%20Middle%20East.pdf
 ---
 
 New Zealand is deploying a six-member Defence Force team to the Middle East region to uphold maritime security in the Red Sea, Prime Minister Christopher Luxon says.

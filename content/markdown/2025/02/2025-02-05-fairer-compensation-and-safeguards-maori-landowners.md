@@ -1,7 +1,7 @@
 ---
 title: "Fairer compensation and safeguards for Māori landowners"
 date: 2025-02-05
-url: https://www.beehive.govt.nz/release/fairer-compensation-and-safeguards-m%C4%81ori-landowners
+url: https://www.beehive.govt.nz/release/fairer-compensation-and-safeguards-maori-landowners
 ministers:
   - Hon Chris Penk
 portfolios:

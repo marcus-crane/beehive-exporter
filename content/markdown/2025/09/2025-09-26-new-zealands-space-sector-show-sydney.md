@@ -1,7 +1,7 @@
 ---
 title: "New Zealand’s space sector on show in Sydney"
 date: 2025-09-26
-url: https://www.beehive.govt.nz/release/new-zealand%E2%80%99s-space-sector-show-sydney
+url: https://www.beehive.govt.nz/release/new-zealands-space-sector-show-sydney
 ministers:
   - Hon Judith Collins KC
 portfolios:

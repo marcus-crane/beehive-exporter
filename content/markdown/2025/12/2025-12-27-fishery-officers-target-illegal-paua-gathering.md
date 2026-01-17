@@ -1,7 +1,7 @@
 ---
 title: "Fishery officers target illegal pāua gathering"
 date: 2025-12-27
-url: https://www.beehive.govt.nz/release/fishery-officers-target-illegal-p%C4%81ua-gathering
+url: https://www.beehive.govt.nz/release/fishery-officers-target-illegal-paua-gathering
 ministers:
   - Hon Shane Jones
 portfolios:

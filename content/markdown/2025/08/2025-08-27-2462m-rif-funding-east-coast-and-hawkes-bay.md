@@ -1,7 +1,7 @@
 ---
 title: "$24.62m RIF funding for East Coast and Hawke’s Bay"
 date: 2025-08-27
-url: https://www.beehive.govt.nz/release/2462m-rif-funding-east-coast-and-hawke%E2%80%99s-bay
+url: https://www.beehive.govt.nz/release/2462m-rif-funding-east-coast-and-hawkes-bay
 ministers:
   - Hon Shane Jones
 portfolios:

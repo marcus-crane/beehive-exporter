@@ -1,7 +1,7 @@
 ---
 title: "Crown takes significant step forward with Ngāpuhi"
 date: 2025-09-10
-url: https://www.beehive.govt.nz/release/crown-takes-significant-step-forward-ng%C4%81puhi
+url: https://www.beehive.govt.nz/release/crown-takes-significant-step-forward-ngapuhi
 ministers:
   - Hon Paul Goldsmith
 portfolios:

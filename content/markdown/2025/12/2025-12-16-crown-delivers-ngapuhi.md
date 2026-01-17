@@ -1,7 +1,7 @@
 ---
 title: "Crown delivers for Ngāpuhi"
 date: 2025-12-16
-url: https://www.beehive.govt.nz/release/crown-delivers-ng%C4%81puhi
+url: https://www.beehive.govt.nz/release/crown-delivers-ngapuhi
 ministers:
   - Hon Paul Goldsmith
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Boosting NZ’s trade and agricultural relationship with China"
 date: 2024-04-10
-url: https://www.beehive.govt.nz/release/boosting-nz%E2%80%99s-trade-and-agricultural-relationship-china
+url: https://www.beehive.govt.nz/release/boosting-nzs-trade-and-agricultural-relationship-china
 ministers:
   - Hon Todd McClay
 portfolios:

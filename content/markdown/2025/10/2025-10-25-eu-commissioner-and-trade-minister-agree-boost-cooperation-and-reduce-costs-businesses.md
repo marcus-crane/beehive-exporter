@@ -7,6 +7,7 @@ ministers:
 portfolios:
   - Trade and Investment
 attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-10/EU-NZ%20FTA%20Trade%20Committee%20meeting.jpg
   - https://www.beehive.govt.nz/sites/default/files/2025-10/Joint%20Statement%20EU-NZ%20FTA%20Trade%20Committee%20October%202025.pdf
 ---
 

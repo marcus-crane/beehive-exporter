@@ -1,7 +1,7 @@
 ---
 title: "Partnering with Northland’s employers for success"
 date: 2025-10-01
-url: https://www.beehive.govt.nz/release/partnering-northland%E2%80%99s-employers-success
+url: https://www.beehive.govt.nz/release/partnering-northlands-employers-success
 ministers:
   - Hon Louise Upston
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Affordable homes to address Te Kūiti housing shortage"
 date: 2025-07-23
-url: https://www.beehive.govt.nz/release/affordable-homes-address-te-k%C5%ABiti-housing-shortage
+url: https://www.beehive.govt.nz/release/affordable-homes-address-te-kuiti-housing-shortage
 ministers:
   - Hon Tama Potaka
 portfolios:

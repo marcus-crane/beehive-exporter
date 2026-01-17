@@ -1,13 +1,12 @@
 ---
 title: "Minister responds to review of Kāinga Ora"
 date: 2024-05-20
-url: https://www.beehive.govt.nz/release/minister-responds-review-k%C4%81inga-ora
+url: https://www.beehive.govt.nz/release/minister-responds-review-kainga-ora
 ministers:
   - Hon Chris Bishop
 portfolios:
   - Housing
 attachments:
-  - https://www.hud.govt.nz/assets/Uploads/Documents/Kainga-Ora-Review/Kainga-Ora-Independent-Review-proactive-release-documents-embargoed-until-4pm-20-May-2024.pdf
   - https://www.beehive.govt.nz/sites/default/files/2024-05/Independent%20Review%20of%20Kainga%20Ora.pdf
   - https://www.beehive.govt.nz/sites/default/files/2024-05/KO%20Review%20factsheet.pdf
   - https://www.beehive.govt.nz/sites/default/files/2024-05/Cabinet%20Paper%20Initial%20Response%20to%20the%20Independent%20Review%20of%20K%C4%81inga%20Ora.pdf

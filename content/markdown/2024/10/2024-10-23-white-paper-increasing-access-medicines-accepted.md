@@ -1,7 +1,7 @@
 ---
 title: "White paper on increasing access to medicines accepted"
 date: 2024-10-23
-url: https://www.beehive.govt.nz/release/white-paper-increasing-access-medicines-accepted%E2%80%AF
+url: https://www.beehive.govt.nz/release/white-paper-increasing-access-medicines-accepted
 ministers:
   - Hon David Seymour
 portfolios:

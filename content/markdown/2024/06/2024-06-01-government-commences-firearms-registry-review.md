@@ -6,8 +6,6 @@ ministers:
   - Hon Nicole McKee
 portfolios:
   - Justice
-attachments:
-  - https://www.justice.govt.nz/assets/Documents/Publications/Review-of-the-Firearms-Registry-Terms-of-Reference.pdf
 ---
 
 The Government is delivering on a commitment made in the National-ACT coalition agreement by commencing a review of the Firearms Registry.

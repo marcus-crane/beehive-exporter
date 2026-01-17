@@ -1,7 +1,7 @@
 ---
 title: "First sod turned on Hawke’s Bay Expressway"
 date: 2025-11-12
-url: https://www.beehive.govt.nz/release/first-sod-turned-hawke%E2%80%99s-bay-expressway
+url: https://www.beehive.govt.nz/release/first-sod-turned-hawkes-bay-expressway
 ministers:
   - Hon Chris Bishop
 portfolios:

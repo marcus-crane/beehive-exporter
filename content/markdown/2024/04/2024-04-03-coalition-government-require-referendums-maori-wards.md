@@ -1,7 +1,7 @@
 ---
 title: "Coalition Government to require referendums on Māori wards"
 date: 2024-04-03
-url: https://www.beehive.govt.nz/release/coalition-government-require-referendums-m%C4%81ori-wards
+url: https://www.beehive.govt.nz/release/coalition-government-require-referendums-maori-wards
 ministers:
   - Hon Simeon Brown
 portfolios:

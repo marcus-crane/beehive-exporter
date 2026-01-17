@@ -6,8 +6,6 @@ ministers:
   - Hon David Seymour
 portfolios:
   - Regulation
-attachments:
-  - https://www.regulation.govt.nz/assets/Ministry-for-Regulation-files/Regulatory-System-Capability/Quick-guides/RPE-Quick-Guide-Regulation-in-New-Zealand.pdf
 ---
 
 Minister for Regulation David Seymour has today announced that the Ministry for Regulation’s Red Tape Tipline is now live.

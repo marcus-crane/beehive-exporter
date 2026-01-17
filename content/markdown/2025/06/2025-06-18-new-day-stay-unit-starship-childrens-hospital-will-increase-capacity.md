@@ -1,7 +1,7 @@
 ---
 title: "New day stay unit at Starship Children’s Hospital will increase capacity"
 date: 2025-06-18
-url: https://www.beehive.govt.nz/release/new-day-stay-unit-starship-children%E2%80%99s-hospital-will-increase-capacity
+url: https://www.beehive.govt.nz/release/new-day-stay-unit-starship-childrens-hospital-will-increase-capacity
 ministers:
   - Hon Simeon Brown
 portfolios:

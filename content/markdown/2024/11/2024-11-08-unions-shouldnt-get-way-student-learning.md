@@ -1,7 +1,7 @@
 ---
 title: "Unions shouldn’t get in the way of student learning"
 date: 2024-11-08
-url: https://www.beehive.govt.nz/release/unions-shouldn%E2%80%99t-get-way-student-learning
+url: https://www.beehive.govt.nz/release/unions-shouldnt-get-way-student-learning
 ministers:
   - Hon Erica Stanford
   - Hon David Seymour

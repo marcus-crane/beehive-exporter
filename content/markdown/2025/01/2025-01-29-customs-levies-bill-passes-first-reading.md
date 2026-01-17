@@ -1,7 +1,7 @@
 ---
 title: "Customs’ levies bill passes first reading"
 date: 2025-01-29
-url: https://www.beehive.govt.nz/release/customs%E2%80%99-levies-bill-passes-first-reading
+url: https://www.beehive.govt.nz/release/customs-levies-bill-passes-first-reading
 ministers:
   - Hon Casey Costello
 portfolios:

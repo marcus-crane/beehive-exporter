@@ -1,7 +1,7 @@
 ---
 title: "Housing investment will deliver 400 affordable homes for whānau Māori"
 date: 2025-02-04
-url: https://www.beehive.govt.nz/release/housing-investment-will-deliver-400-affordable-homes-wh%C4%81nau-m%C4%81ori
+url: https://www.beehive.govt.nz/release/housing-investment-will-deliver-400-affordable-homes-whanau-maori
 ministers:
   - Hon Tama Potaka
 portfolios:

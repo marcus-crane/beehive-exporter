@@ -1,7 +1,7 @@
 ---
 title: "Ruakākā recreation centre opened"
 date: 2024-10-04
-url: https://www.beehive.govt.nz/release/ruak%C4%81k%C4%81-recreation-centre-opened
+url: https://www.beehive.govt.nz/release/ruakaka-recreation-centre-opened
 ministers:
   - Hon Shane Jones
 portfolios:

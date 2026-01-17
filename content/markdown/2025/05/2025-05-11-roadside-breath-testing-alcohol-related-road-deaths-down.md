@@ -8,6 +8,8 @@ ministers:
 portfolios:
   - Police
   - Transport
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-05/Alcohol%20Breath%20Tests%20Conducted%20versus%20Road%20Fatalities%20Alcohol%20Proven%20Contributing.jpg
 ---
 
 As Road Safety Week begins, the Government’s crackdown on drunk drivers is delivering real results with newly released 2024 statistics showing the number of alcohol-related road deaths reducing by nearly 40%, Transport Minister Chris Bishop and Police Minister Mark Mitchell say.

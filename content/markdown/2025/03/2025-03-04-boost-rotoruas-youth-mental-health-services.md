@@ -1,7 +1,7 @@
 ---
 title: "Boost for Rotorua’s youth mental health services"
 date: 2025-03-04
-url: https://www.beehive.govt.nz/release/boost-rotorua%E2%80%99s-youth-mental-health-services
+url: https://www.beehive.govt.nz/release/boost-rotoruas-youth-mental-health-services
 ministers:
   - Hon Matt Doocey
 portfolios:

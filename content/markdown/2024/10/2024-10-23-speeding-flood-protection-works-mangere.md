@@ -1,7 +1,7 @@
 ---
 title: "Speeding up flood protection works in Māngere"
 date: 2024-10-23
-url: https://www.beehive.govt.nz/release/speeding-flood-protection-works-m%C4%81ngere
+url: https://www.beehive.govt.nz/release/speeding-flood-protection-works-mangere
 ministers:
   - Hon Mark Mitchell
   - Hon Penny Simmonds

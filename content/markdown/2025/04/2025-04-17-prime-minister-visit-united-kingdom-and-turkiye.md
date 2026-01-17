@@ -1,7 +1,7 @@
 ---
 title: "Prime Minister to visit the United Kingdom and Türkiye"
 date: 2025-04-17
-url: https://www.beehive.govt.nz/release/prime-minister-visit-united-kingdom-and-t%C3%BCrkiye
+url: https://www.beehive.govt.nz/release/prime-minister-visit-united-kingdom-and-turkiye
 ministers:
   - Rt Hon Christopher Luxon
 portfolios:

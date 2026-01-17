@@ -1,7 +1,7 @@
 ---
 title: "INVESTMENT SUMMIT: Investment into Christchurch Men’s Prison"
 date: 2025-03-13
-url: https://www.beehive.govt.nz/release/investment-summit-investment-christchurch-men%E2%80%99s-prison
+url: https://www.beehive.govt.nz/release/investment-summit-investment-christchurch-mens-prison
 ministers:
   - Hon Mark Mitchell
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Kiwis’ hard-earned money safer"
 date: 2025-06-30
-url: https://www.beehive.govt.nz/release/kiwis%E2%80%99-hard-earned-money-safer
+url: https://www.beehive.govt.nz/release/kiwis-hard-earned-money-safer
 ministers:
   - Hon Nicola Willis
 portfolios:

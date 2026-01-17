@@ -6,6 +6,8 @@ ministers:
   - Hon Chris Bishop
 portfolios:
   - Transport
+attachments:
+  - https://www.beehive.govt.nz/sites/default/files/2025-01/Lane%20Kilometres%20Rehabilitated.png_.jpg
 ---
 
 The Government’s commitment to get New Zealand’s roads back on track is delivering strong results, with around 98 per cent of potholes on state highways repaired within 24 hours of identification every month since targets were introduced, Transport Minister Chris Bishop says.

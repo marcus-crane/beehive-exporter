@@ -1,7 +1,7 @@
 ---
 title: "PM’s Space Prizes highlight talent and innovation"
 date: 2024-12-17
-url: https://www.beehive.govt.nz/release/pm%E2%80%99s-space-prizes-highlight-talent-and-innovation
+url: https://www.beehive.govt.nz/release/pms-space-prizes-highlight-talent-and-innovation
 ministers:
   - Rt Hon Christopher Luxon
   - Hon Judith Collins KC

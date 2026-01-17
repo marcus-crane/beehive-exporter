@@ -1,7 +1,7 @@
 ---
 title: "Minister celebrates students’ space success"
 date: 2024-06-25
-url: https://www.beehive.govt.nz/release/minister-celebrates-students%E2%80%99-space-success
+url: https://www.beehive.govt.nz/release/minister-celebrates-students-space-success
 ministers:
   - Hon Judith Collins KC
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "Appointments to the Hauora Māori Advisory Committee"
 date: 2025-11-27
-url: https://www.beehive.govt.nz/release/appointments-hauora-m%C4%81ori-advisory-committee
+url: https://www.beehive.govt.nz/release/appointments-hauora-maori-advisory-committee
 ministers:
   - Hon Simeon Brown
 portfolios:

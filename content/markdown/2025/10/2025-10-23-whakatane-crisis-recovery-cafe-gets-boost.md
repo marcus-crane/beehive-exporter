@@ -1,7 +1,7 @@
 ---
 title: "Whakatāne crisis recovery café gets boost"
 date: 2025-10-23
-url: https://www.beehive.govt.nz/release/whakat%C4%81ne-crisis-recovery-caf%C3%A9-gets-boost
+url: https://www.beehive.govt.nz/release/whakatane-crisis-recovery-cafe-gets-boost
 ministers:
   - Hon Matt Doocey
 portfolios:

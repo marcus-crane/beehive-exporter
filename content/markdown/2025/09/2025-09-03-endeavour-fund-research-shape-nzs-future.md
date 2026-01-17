@@ -1,7 +1,7 @@
 ---
 title: "Endeavour Fund research to shape NZ’s future"
 date: 2025-09-03
-url: https://www.beehive.govt.nz/release/endeavour-fund-research-shape-nz%E2%80%99s-future
+url: https://www.beehive.govt.nz/release/endeavour-fund-research-shape-nzs-future
 ministers:
   - Hon Dr Shane Reti
   - Hon Shane Jones

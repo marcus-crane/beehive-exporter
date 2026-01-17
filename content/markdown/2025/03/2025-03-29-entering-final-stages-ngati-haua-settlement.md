@@ -1,7 +1,7 @@
 ---
 title: "Entering final stages of Ngāti Hāua settlement"
 date: 2025-03-29
-url: https://www.beehive.govt.nz/release/entering-final-stages-ng%C4%81ti-h%C4%81ua-settlement
+url: https://www.beehive.govt.nz/release/entering-final-stages-ngati-haua-settlement
 ministers:
   - Hon Paul Goldsmith
 portfolios:

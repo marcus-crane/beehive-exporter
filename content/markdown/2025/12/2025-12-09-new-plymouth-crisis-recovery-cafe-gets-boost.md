@@ -1,7 +1,7 @@
 ---
 title: "New Plymouth crisis recovery café gets a boost"
 date: 2025-12-09
-url: https://www.beehive.govt.nz/release/new-plymouth-crisis-recovery-caf%C3%A9-gets-boost
+url: https://www.beehive.govt.nz/release/new-plymouth-crisis-recovery-cafe-gets-boost
 ministers:
   - Hon Matt Doocey
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "INVESTMENT SUMMIT: Waitematā Harbour Crossing"
 date: 2025-03-13
-url: https://www.beehive.govt.nz/release/investment-summit-waitemat%C4%81-harbour-crossing
+url: https://www.beehive.govt.nz/release/investment-summit-waitemata-harbour-crossing
 ministers:
   - Hon Chris Bishop
 portfolios:

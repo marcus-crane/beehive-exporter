@@ -1,7 +1,7 @@
 ---
 title: "Ethnic communities recognised in King’s Birthday Honours"
 date: 2024-06-02
-url: https://www.beehive.govt.nz/release/ethnic-communities-recognised-king%E2%80%99s-birthday-honours
+url: https://www.beehive.govt.nz/release/ethnic-communities-recognised-kings-birthday-honours
 ministers:
   - Hon Melissa Lee
 portfolios:

@@ -1,7 +1,7 @@
 ---
 title: "New Ngāpuhi investment fund Chair appointed"
 date: 2024-04-04
-url: https://www.beehive.govt.nz/release/new-ng%C4%81puhi-investment-fund-chair-appointed
+url: https://www.beehive.govt.nz/release/new-ngapuhi-investment-fund-chair-appointed
 ministers:
   - Hon Paul Goldsmith
   - Hon Shane Jones

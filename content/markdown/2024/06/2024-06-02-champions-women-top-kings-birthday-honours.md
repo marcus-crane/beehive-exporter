@@ -1,7 +1,7 @@
 ---
 title: "Champions of women top King’s Birthday Honours"
 date: 2024-06-02
-url: https://www.beehive.govt.nz/release/champions-women-top-king%E2%80%99s-birthday-honours
+url: https://www.beehive.govt.nz/release/champions-women-top-kings-birthday-honours
 ministers:
   - Hon Louise Upston
 portfolios:

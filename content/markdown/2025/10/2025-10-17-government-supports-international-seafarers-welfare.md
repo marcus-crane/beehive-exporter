@@ -1,7 +1,7 @@
 ---
 title: "Government supports international seafarers’ welfare"
 date: 2025-10-17
-url: https://www.beehive.govt.nz/release/government-supports-international-seafarers%E2%80%99-welfare
+url: https://www.beehive.govt.nz/release/government-supports-international-seafarers-welfare
 ministers:
   - Hon James Meager
 portfolios:

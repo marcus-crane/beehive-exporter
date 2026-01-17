@@ -6,8 +6,6 @@ ministers:
   - Hon Andrew Bayly
 portfolios:
   - Small Business and Manufacturing
-attachments:
-  - https://treasury.gov.au/sites/default/files/2023-08/p2023-428993.pdf
 ---
 
 The Government will repeal the Business Payment Practices Act 2023, Small Business and Manufacturing Minister Andrew Bayly announced today.

@@ -1,7 +1,7 @@
 ---
 title: "Whangārei and Counties Manukau to receive 24/7 urgent care boost"
 date: 2025-05-18
-url: https://www.beehive.govt.nz/release/whang%C4%81rei-and-counties-manukau-receive-247-urgent-care-boost
+url: https://www.beehive.govt.nz/release/whangarei-and-counties-manukau-receive-247-urgent-care-boost
 ministers:
   - Hon Simeon Brown
 portfolios:
