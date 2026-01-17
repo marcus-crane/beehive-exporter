@@ -642,32 +642,64 @@ func runArchive(govFilter string, maxPages int, contentType string) {
 				Name    string
 			}{k, v.FacetID, v.Name})
 		}
+		// Sort by year descending (newest first)
+		sort.Slice(toIndex, func(i, j int) bool {
+			// Keys are like "national-2023", "labour-2020" - extract year from end
+			yi := toIndex[i].Key[strings.LastIndex(toIndex[i].Key, "-")+1:]
+			yj := toIndex[j].Key[strings.LastIndex(toIndex[j].Key, "-")+1:]
+			return yi > yj
+		})
 	}
 
 	f := fetcher.New()
 	totalFound := 0
+	globalPageCount := 0
+	globalPageLimit := govFilter == "" && maxPages > 0 // Apply global limit only when no gov filter
 
 	for _, gov := range toIndex {
+		// Check global page limit before starting new government
+		if globalPageLimit && globalPageCount >= maxPages {
+			log.Printf("\nReached global page limit (%d)", maxPages)
+			break
+		}
+
 		log.Printf("\nIndexing %s (facet: %s)...", gov.Name, gov.FacetID)
 
-		govIndex := &GovernmentIndex{
-			Government: gov.Name,
-			Slug:       gov.Key,
-			Releases:   make(map[string][]ReleaseEntry),
+		// Load existing index or create new one
+		govIndex, err := loadGovernmentIndex(gov.Key)
+		if err != nil {
+			// No existing index, create new one
+			govIndex = &GovernmentIndex{
+				Government: gov.Name,
+				Slug:       gov.Key,
+				Releases:   make(map[string][]ReleaseEntry),
+			}
+		}
+
+		// Build set of existing URLs for deduplication
+		existingURLs := make(map[string]bool)
+		for _, entries := range govIndex.Releases {
+			for _, entry := range entries {
+				existingURLs[entry.URL] = true
+			}
 		}
 
 		page := 0
 		govTotal := 0
 
 		for {
-			// Check page limit
-			if maxPages > 0 && page >= maxPages {
+			// Check page limit (global if no gov filter, per-gov otherwise)
+			if globalPageLimit && globalPageCount >= maxPages {
+				log.Printf("  Reached global page limit (%d)", maxPages)
+				break
+			}
+			if !globalPageLimit && maxPages > 0 && page >= maxPages {
 				log.Printf("  Reached page limit (%d)", maxPages)
 				break
 			}
 
 			url := fmt.Sprintf("https://www.beehive.govt.nz/search?f[0]=government_facet:%s&f[1]=content_type_facet:%s&page=%d", gov.FacetID, ct.Facet, page)
-			log.Printf("  Fetching page %d...", page)
+			log.Printf("  Fetching page %d (global: %d)...", page, globalPageCount)
 
 			html, err := f.FetchURL(url)
 			if err != nil {
@@ -730,34 +762,47 @@ func runArchive(govFilter string, maxPages int, contentType string) {
 				}
 
 				yearMonth := t.Format("2006-01")
+				foundOnPage++
+
+				// Skip if already indexed
+				if existingURLs[fullURL] {
+					return
+				}
+				existingURLs[fullURL] = true
 
 				govIndex.Releases[yearMonth] = append(govIndex.Releases[yearMonth], ReleaseEntry{
 					URL:  fullURL,
 					Date: datetime,
 				})
 
-				foundOnPage++
 				govTotal++
 			})
 
-			log.Printf("  Found %d items on page %d", foundOnPage, page)
+			log.Printf("  Found %d items on page %d (%d new so far)", foundOnPage, page, govTotal)
 
 			if foundOnPage == 0 {
 				break
 			}
 
 			page++
+			globalPageCount++
 		}
 
 		// Update government index metadata
 		govIndex.LastIndexedAt = time.Now().Format(time.RFC3339)
-		govIndex.TotalReleases = govTotal
+
+		// Count total releases across all year-months
+		totalReleases := 0
+		for _, entries := range govIndex.Releases {
+			totalReleases += len(entries)
+		}
+		govIndex.TotalReleases = totalReleases
 
 		// Save this government's index
 		if err := saveGovernmentIndex(govIndex); err != nil {
 			log.Printf("  Error saving index: %v", err)
 		} else {
-			log.Printf("  Saved %s (%d items) to %s/%s.json", gov.Name, govTotal, discoveryIndexDir, gov.Key)
+			log.Printf("  Saved %s (%d new, %d total) to %s/%s.json", gov.Name, govTotal, totalReleases, discoveryIndexDir, gov.Key)
 		}
 
 		totalFound += govTotal
