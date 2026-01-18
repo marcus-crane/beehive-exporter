@@ -1,0 +1,558 @@
+{
+  "government": "Labour-Progressive Coalition (2002-2005)",
+  "slug": "labour-2002",
+  "last_indexed_at": "2026-01-18T12:44:26+13:00",
+  "total_releases": 136,
+  "releases": {
+    "2005-08": [
+      {
+        "url": "https://www.beehive.govt.nz/release/government-grants-155m-biodiversity-work-private-land",
+        "date": "2005-08-09T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/safer-communities-policy",
+        "date": "2005-08-11T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-programme-intervene-family-violence",
+        "date": "2005-08-12T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-product-safety-standards-approved",
+        "date": "2005-08-15T10:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-cataract-and-joint-operations",
+        "date": "2005-08-16T11:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/labour-welcomes-brash-agreement-govt-policy",
+        "date": "2005-08-16T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/goff-welcomes-signing-aceh-peace-accord",
+        "date": "2005-08-16T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/renowned-conservationist-kevin-smith-has-died",
+        "date": "2005-08-17T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/better-access-health-services-thousands-new-zealanders",
+        "date": "2005-08-17T14:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/family-court-judge-appointed-5",
+        "date": "2005-08-17T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/website-makeover-benefits-rma-practitioners",
+        "date": "2005-08-17T17:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/schools-count-census",
+        "date": "2005-08-18T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-guardian-patrolling-south-island-waters",
+        "date": "2005-08-18T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/mccahon-house-receives-government-funding",
+        "date": "2005-08-18T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/botany-downs-school-future-gets-26m-now",
+        "date": "2005-08-18T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/good-morning-new-zealand",
+        "date": "2005-08-18T17:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/service-rt-hon-david-lange",
+        "date": "2005-08-19T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/waitangirua-and-whareroa-farms-saved-public",
+        "date": "2005-08-19T14:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/maori-tourism-making-unprecedented-progress",
+        "date": "2005-08-19T17:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-ready-help-tonga",
+        "date": "2005-08-19T17:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tourism-minister-supports-first-scallop-festival",
+        "date": "2005-08-20T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-act-regulates-reproductive-technologies",
+        "date": "2005-08-22T10:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-support-afghan-elections",
+        "date": "2005-08-22T17:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-child-health-measures-announced",
+        "date": "2005-08-23T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tonga-invites-goddard-mediate-pay-dispute",
+        "date": "2005-08-23T10:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/kyoto-turns-paeroa-gas-cash",
+        "date": "2005-08-23T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-tackles-environmental-impacts-fishing",
+        "date": "2005-08-23T18:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/strategic-vision-new-zealands-labour-market",
+        "date": "2005-08-25T10:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/police-minister-hails-lowest-crime-rate-25-years",
+        "date": "2005-08-25T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-social-worker-code-important-step-forward",
+        "date": "2005-08-25T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/partnership-benefits-investment-and-environment",
+        "date": "2005-08-25T14:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-code-social-workers-important-step-forward",
+        "date": "2005-08-25T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/te-reo-m%C3%A2ori-learning-strengthened-northland",
+        "date": "2005-08-25T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/kua-whakapakaritia-ake-te-akoranga-o-te-reo-m%C3%A4ori-i-roto-i-te-taitokerau",
+        "date": "2005-08-25T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/only-crime-wave-tony-ryalls-head",
+        "date": "2005-08-26T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-preparing-plan-save-new-zealands-endangered-dolphins",
+        "date": "2005-08-26T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/national-confirms-it-will-cut-health-services",
+        "date": "2005-08-26T13:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/students-local-schools-and-community-win-multi-sport-centre-decision",
+        "date": "2005-08-26T18:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-strategies-aim-prevent-falls-and-drowning",
+        "date": "2005-08-29T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/300-small-schools-be-connected-online-world",
+        "date": "2005-08-29T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sharples-harawira-apologists-fraud-says-goff",
+        "date": "2005-08-29T17:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ict-centre-overcomes-distance-barrier-far-north-college-students",
+        "date": "2005-08-29T18:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-announces-new-15-million-mental-health-facility-waitakere",
+        "date": "2005-08-30T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/total-mobility-scheme-gets-95-million-boost",
+        "date": "2005-08-30T11:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rural-gp-recruitment-working-new-zealand",
+        "date": "2005-08-30T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/total-mobility-scheme-gets-95-million-boost-0",
+        "date": "2005-08-30T14:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/first-step-towards-biofuels",
+        "date": "2005-08-30T14:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/schools-providing-digital-opportunities-students",
+        "date": "2005-08-30T14:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/vivian-kloosterman-appointed-standards-council",
+        "date": "2005-08-30T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/labour-revamping-dental-services-young-nzers",
+        "date": "2005-08-31T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/funding-dental-therapy-increase",
+        "date": "2005-08-31T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/world-war-one-pardoned-soldiers-recognised",
+        "date": "2005-08-31T11:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/online-initiative-clicks-great-barrier-schools",
+        "date": "2005-08-31T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-air-quality-standards-begin-clearing-our-air",
+        "date": "2005-08-31T14:00:00Z"
+      }
+    ],
+    "2005-09": [
+      {
+        "url": "https://www.beehive.govt.nz/release/organ-donor-register-be-established",
+        "date": "2005-09-01T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-community-fm-broadcasting-opportunities",
+        "date": "2005-09-01T10:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/christchurch-air-quality-study-supports-tougher-rules",
+        "date": "2005-09-01T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-dog-safety-education-kit-children-launched",
+        "date": "2005-09-01T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-accepts-catholic-communitys-school-decisions",
+        "date": "2005-09-01T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/offshore-east-coast-blocks-offer-raises-hopes-new-petroleum-discoveries",
+        "date": "2005-09-01T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-sends-condolences-united-states",
+        "date": "2005-09-01T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-sends-condolences-iraq",
+        "date": "2005-09-01T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/christchurch-growth-means-new-school-halswell",
+        "date": "2005-09-01T19:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/483000-auckland-projects-gifted-students",
+        "date": "2005-09-02T09:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-buildings-takapuna-grammar",
+        "date": "2005-09-02T14:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-congratulates-gisbornes-fisheries-officers",
+        "date": "2005-09-02T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/safer-roads-thank-you-very-much",
+        "date": "2005-09-02T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-agencies-embrace-positive-ageing",
+        "date": "2005-09-02T17:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/te-arawa-agreement-principle-signed",
+        "date": "2005-09-05T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/kiwi-hurricane-mission",
+        "date": "2005-09-05T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-seven-new-schools-manukau-city",
+        "date": "2005-09-06T08:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-top-country-uk",
+        "date": "2005-09-06T13:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/slashing-school-red-tape-target-new-data-project",
+        "date": "2005-09-07T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/glenfield-schools-set-benefit-240000-project",
+        "date": "2005-09-08T10:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/participate-disability-newsletter-no-22",
+        "date": "2005-09-08T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/national-would-abandon-pacific-ministry",
+        "date": "2005-09-09T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/kiwi-kids-make-good-progress-reading-music-and-technology",
+        "date": "2005-09-09T13:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nzs-contribution-global-fight-against-poverty",
+        "date": "2005-09-09T14:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/waikato-river-trail-gets-government-funding",
+        "date": "2005-09-09T17:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/surplus-aircraft-sold",
+        "date": "2005-09-12T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/hands-support-forestry-innovation-gets-results",
+        "date": "2005-09-12T17:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/oconnor-thai-national",
+        "date": "2005-09-12T20:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-congratulates-junichiro-koizumi",
+        "date": "2005-09-13T10:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/another-boost-rural-health",
+        "date": "2005-09-13T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/funding-springhill-addiction-treatment-centre-good-news-napier",
+        "date": "2005-09-14T11:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-funding-welltrust-good-news-wellington",
+        "date": "2005-09-14T14:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/milestone-reached-greenhouse-gas-agreement",
+        "date": "2005-09-14T14:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/salvation-army-alcohol-treatment-work-gets-funding",
+        "date": "2005-09-15T14:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-project-better-understand-tourists-needs",
+        "date": "2005-09-15T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ka-pai-mainstream-new-zealanders-who-are-giving-it-go",
+        "date": "2005-09-15T19:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/honorary-consul-appointed-paraguay",
+        "date": "2005-09-16T18:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-signs-treaty-against-nuclear-terrorism",
+        "date": "2005-09-16T18:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/campbell%E2%80%99s-triumph",
+        "date": "2005-09-19T11:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/post-election-timetable",
+        "date": "2005-09-19T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pm-names-inquiry-head",
+        "date": "2005-09-21T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tribute-simon-wiesenthal",
+        "date": "2005-09-21T17:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/afghanistan-votes-historic-election",
+        "date": "2005-09-21T18:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/burton-presents-supreme-tourism-award",
+        "date": "2005-09-21T23:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cullen-04-05-final-outturn",
+        "date": "2005-09-22T11:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/1-million-occupied-palestinian-territories",
+        "date": "2005-09-23T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-assist-following-hospital-fire",
+        "date": "2005-09-27T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-support-fiji-elections",
+        "date": "2005-09-30T08:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-affordable-childcare-3-october",
+        "date": "2005-09-30T10:00:00Z"
+      }
+    ],
+    "2005-10": [
+      {
+        "url": "https://www.beehive.govt.nz/release/pm-comments-declaration-final-election-result",
+        "date": "2005-10-01T11:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pm-condemns-bombings-bali",
+        "date": "2005-10-02T11:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/waitaki-catchment-regional-plan-completed",
+        "date": "2005-10-03T09:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/hobbs-not-seeking-seat-cabinet",
+        "date": "2005-10-04T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/hawkins-will-not-stand-cabinet",
+        "date": "2005-10-04T13:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-committed-long-term-growth-pipfruit-industry",
+        "date": "2005-10-04T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pm-salutes-retiring-ministers",
+        "date": "2005-10-04T17:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/john-falloon-mp-sadly-missed",
+        "date": "2005-10-05T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/hon-john-falloon",
+        "date": "2005-10-05T17:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tribute-john-falloon",
+        "date": "2005-10-06T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/criticism-aquatic-biosecurity-misinformed",
+        "date": "2005-10-07T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/digital-strategy-announcement-funding-criteria",
+        "date": "2005-10-07T11:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-flies-geneva-wto-meeting",
+        "date": "2005-10-10T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-assist-following-disasters",
+        "date": "2005-10-10T11:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/release-inquiry-police-culture-counties-manukau",
+        "date": "2005-10-10T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/us-trade-proposal-welcomed",
+        "date": "2005-10-11T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/hamilton-schools-project-raise-student-achievement",
+        "date": "2005-10-11T10:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/access-finance-not-problem-credit-worthy-businesses",
+        "date": "2005-10-12T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/jim-sutton-geneva-trade-talks",
+        "date": "2005-10-13T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/economic-development-agency-gets-support",
+        "date": "2005-10-13T14:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bollard-comments-welcomed",
+        "date": "2005-10-14T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-doubles-pakistan-earthquake-aid",
+        "date": "2005-10-14T16:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/goff-welcomes-child-porn-jail-term",
+        "date": "2005-10-14T18:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/police-minister-pays-tribute-departing-commissioner",
+        "date": "2005-10-16T19:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/gpc-report-welcome-needs-re-focus",
+        "date": "2005-10-17T15:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-arrangements-announced",
+        "date": "2005-10-17T17:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/confidence-and-supply-agreement-united-future",
+        "date": "2005-10-17T18:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/labour-led-government-co-operation-agreement-green-party",
+        "date": "2005-10-17T18:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/confidence-and-supply-agreement-nz-first",
+        "date": "2005-10-17T18:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/coalition-agreement-labour-and-progressive-parties-parliament",
+        "date": "2005-10-17T18:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cabinet-elected",
+        "date": "2005-10-17T22:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ministerial-portfolios-allocated",
+        "date": "2005-10-19T12:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/goff-names-new-ambassador-argentina",
+        "date": "2005-10-19T13:00:00Z"
+      }
+    ]
+  }
+}

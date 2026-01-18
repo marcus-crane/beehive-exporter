@@ -1,0 +1,26 @@
+{
+  "government": "Labour-Alliance (1999-2002)",
+  "slug": "labour-1999",
+  "last_indexed_at": "2026-01-18T12:44:30+13:00",
+  "total_releases": 4,
+  "releases": {
+    "2002-08": [
+      {
+        "url": "https://www.beehive.govt.nz/release/statement-formation-government",
+        "date": "2002-08-08T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/coalition-agreement-between-labour-and-progressive-coalition-parties-parliament-1",
+        "date": "2002-08-08T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/agreement-confidence-and-supply-between-labourprogressive-government-and-united-future-0",
+        "date": "2002-08-08T01:00:00Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pilot-project-tracks-school-leaver-aspirations-and-destinations",
+        "date": "2002-08-09T01:00:00Z"
+      }
+    ]
+  }
+}
