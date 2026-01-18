@@ -16,7 +16,7 @@ import (
 )
 
 // Parse parses HTML content and extracts release data
-func Parse(rawHTML, releaseURL string) (*models.Release, error) {
+func Parse(rawHTML, releaseURL string, scrapedAt time.Time) (*models.Release, error) {
 	doc, err := goquery.NewDocumentFromReader(strings.NewReader(rawHTML))
 	if err != nil {
 		return nil, fmt.Errorf("failed to parse HTML: %w", err)
@@ -30,7 +30,7 @@ func Parse(rawHTML, releaseURL string) (*models.Release, error) {
 
 	release := &models.Release{
 		URL:       releaseURL,
-		ScrapedAt: time.Now(),
+		ScrapedAt: scrapedAt,
 		Content:   mainContent,
 	}
 

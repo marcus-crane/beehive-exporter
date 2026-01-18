@@ -99,11 +99,11 @@ func (s *Storage) LoadRelease(id string) (*models.Release, error) {
 	// Try to find the file (we need to search through year/month directories)
 	var foundPath string
 
-	err := filepath.Walk(filepath.Join(s.baseDir, DataDir), func(path string, info os.FileInfo, err error) error {
+	err := filepath.WalkDir(filepath.Join(s.baseDir, DataDir), func(path string, d os.DirEntry, err error) error {
 		if err != nil {
 			return err
 		}
-		if !info.IsDir() && strings.HasSuffix(path, id+".json") {
+		if !d.IsDir() && strings.HasSuffix(path, id+".json") {
 			foundPath = path
 			return filepath.SkipAll
 		}
@@ -134,11 +134,11 @@ func (s *Storage) LoadRelease(id string) (*models.Release, error) {
 // ReleaseExists checks if a release already exists (without loading the full file)
 func (s *Storage) ReleaseExists(id string) bool {
 	found := false
-	filepath.Walk(filepath.Join(s.baseDir, DataDir), func(path string, info os.FileInfo, err error) error {
+	filepath.WalkDir(filepath.Join(s.baseDir, DataDir), func(path string, d os.DirEntry, err error) error {
 		if err != nil {
 			return err
 		}
-		if !info.IsDir() && strings.HasSuffix(path, id+".json") {
+		if !d.IsDir() && strings.HasSuffix(path, id+".json") {
 			found = true
 			return filepath.SkipAll
 		}
@@ -151,12 +151,12 @@ func (s *Storage) ReleaseExists(id string) bool {
 func (s *Storage) LoadAllReleases() ([]*models.Release, error) {
 	releases := make([]*models.Release, 0)
 
-	err := filepath.Walk(filepath.Join(s.baseDir, DataDir), func(path string, info os.FileInfo, err error) error {
+	err := filepath.WalkDir(filepath.Join(s.baseDir, DataDir), func(path string, d os.DirEntry, err error) error {
 		if err != nil {
 			return err
 		}
 
-		if info.IsDir() || !strings.HasSuffix(path, ".json") {
+		if d.IsDir() || !strings.HasSuffix(path, ".json") {
 			return nil
 		}
 
@@ -232,12 +232,13 @@ type RawHTMLFile struct {
 func (s *Storage) LoadAllRawHTML() ([]RawHTMLFile, error) {
 	var files []RawHTMLFile
 
-	err := filepath.Walk(filepath.Join(s.baseDir, RawDir), func(path string, info os.FileInfo, err error) error {
+	// Use WalkDir instead of Walk - it's much faster because it doesn't call Stat on every file
+	err := filepath.WalkDir(filepath.Join(s.baseDir, RawDir), func(path string, d os.DirEntry, err error) error {
 		if err != nil {
 			return err
 		}
 
-		if info.IsDir() || !strings.HasSuffix(path, ".html") {
+		if d.IsDir() || !strings.HasSuffix(path, ".html") {
 			return nil
 		}
 
@@ -272,20 +273,15 @@ func (s *Storage) ReadRawHTML(path string) (string, error) {
 	return string(data), nil
 }
 
-// RawHTMLExists checks if raw HTML already exists for a given ID
-func (s *Storage) RawHTMLExists(id string) bool {
-	found := false
-	filepath.Walk(filepath.Join(s.baseDir, RawDir), func(path string, info os.FileInfo, err error) error {
-		if err != nil {
-			return err
-		}
-		if !info.IsDir() && strings.HasSuffix(path, id+".html") {
-			found = true
-			return filepath.SkipAll
-		}
-		return nil
-	})
-	return found
+// RawHTMLExistsWithDate checks if raw HTML exists for a given ID and date using direct path lookup
+func (s *Storage) RawHTMLExistsWithDate(id string, releaseDate time.Time) bool {
+	year := releaseDate.Format("2006")
+	month := releaseDate.Format("01")
+	day := releaseDate.Format("2006-01-02")
+
+	path := filepath.Join(s.baseDir, RawDir, year, month, day+"-"+id+".html")
+	_, err := os.Stat(path)
+	return err == nil
 }
 
 // GenerateURLIndex builds an index of all release URLs grouped by government and year
