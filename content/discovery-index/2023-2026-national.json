@@ -1,8 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "slug": "national-2023",
-  "last_indexed_at": "2026-01-18T10:27:55+13:00",
-  "total_releases": 3427,
+  "last_indexed_at": "2026-01-19T21:12:14+13:00",
+  "total_releases": 3429,
   "releases": {
     "2023-11": [
       {
@@ -13764,6 +13763,14 @@
       {
         "url": "https://www.beehive.govt.nz/release/urgent-advice-sought-rockpool-collections",
         "date": "2026-01-17T21:13:02Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/te-mauri-dialogue-kiribati-new-zealand-statement-partnership",
+        "date": "2026-01-18T23:11:10Z"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-and-kiribati-enhance-partnership",
+        "date": "2026-01-18T23:18:47Z"
       }
     ]
   }
