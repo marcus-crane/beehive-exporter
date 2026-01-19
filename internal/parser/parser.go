@@ -135,7 +135,7 @@ func extractTime(doc *goquery.Document) time.Time {
 		}
 	}
 
-	return time.Now()
+	return time.Time{}
 }
 
 // extractMinisters extracts minister information

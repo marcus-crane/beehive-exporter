@@ -41,6 +41,7 @@ func main() {
 	fetchYear := fetchCmd.String("year", "", "Year to fetch (e.g., 2024)")
 	fetchMonth := fetchCmd.String("month", "", "Month to fetch (e.g., 2024-03)")
 	fetchGov := fetchCmd.String("government", "", "Government to fetch (e.g., national-1993)")
+	fetchVerbose := fetchCmd.Bool("verbose", false, "Log skipped posts that already exist")
 	fetchCmd.Usage = func() {
 		fmt.Println("Usage: beehive-exports fetch [options]")
 		fmt.Println("\nOptions:")
@@ -50,18 +51,20 @@ func main() {
 		fmt.Println("        Month to fetch (e.g., 2024-03)")
 		fmt.Println("  --government string")
 		fmt.Println("        Government to fetch. If not specified, fetches all.")
+		fmt.Println("  --verbose")
+		fmt.Println("        Log skipped posts that already exist")
 		fmt.Println("\nValid government values:")
-		fmt.Println("  national-1993   National (1993-1996)")
-		fmt.Println("  national-1996   National-NZ First Coalition (1996-1999)")
-		fmt.Println("  labour-1999     Labour-Alliance (1999-2002)")
-		fmt.Println("  labour-2002     Labour-Progressive Coalition (2002-2005)")
-		fmt.Println("  labour-2005     Labour-Progressive Coalition (2005-2008)")
-		fmt.Println("  national-2008   Fifth National Government (2008-2011)")
-		fmt.Println("  national-2011   Fifth National Government (2011-2014)")
-		fmt.Println("  national-2014   Fifth National Government (2014-2017)")
-		fmt.Println("  labour-2017     Labour-NZ First Coalition (2017-2020)")
-		fmt.Println("  labour-2020     Sixth Labour Government (2020-2023)")
-		fmt.Println("  national-2023   National-ACT-NZ First Coalition (2023-2026)")
+		fmt.Println("  1993-1996-national   National")
+		fmt.Println("  1996-1999-national   National-NZ First Coalition")
+		fmt.Println("  1999-2002-labour     Labour-Alliance")
+		fmt.Println("  2002-2005-labour     Labour-Progressive Coalition")
+		fmt.Println("  2005-2008-labour     Labour-Progressive Coalition")
+		fmt.Println("  2008-2011-national   Fifth National Government")
+		fmt.Println("  2011-2014-national   Fifth National Government")
+		fmt.Println("  2014-2017-national   Fifth National Government")
+		fmt.Println("  2017-2020-labour     Labour-NZ First Coalition")
+		fmt.Println("  2020-2023-labour     Sixth Labour Government")
+		fmt.Println("  2023-2026-national   National-ACT-NZ First Coalition")
 	}
 
 	processCmd := flag.NewFlagSet("process", flag.ExitOnError)
@@ -91,17 +94,17 @@ func main() {
 		fmt.Println("  --type string")
 		fmt.Println("        Content type to index (default \"release\")")
 		fmt.Println("\nValid government values:")
-		fmt.Println("  national-1993   National (1993-1996)")
-		fmt.Println("  national-1996   National-NZ First Coalition (1996-1999)")
-		fmt.Println("  labour-1999     Labour-Alliance (1999-2002)")
-		fmt.Println("  labour-2002     Labour-Progressive Coalition (2002-2005)")
-		fmt.Println("  labour-2005     Labour-Progressive Coalition (2005-2008)")
-		fmt.Println("  national-2008   Fifth National Government (2008-2011)")
-		fmt.Println("  national-2011   Fifth National Government (2011-2014)")
-		fmt.Println("  national-2014   Fifth National Government (2014-2017)")
-		fmt.Println("  labour-2017     Labour-NZ First Coalition (2017-2020)")
-		fmt.Println("  labour-2020     Sixth Labour Government (2020-2023)")
-		fmt.Println("  national-2023   National-ACT-NZ First Coalition (2023-2026)")
+		fmt.Println("  1993-1996-national   National")
+		fmt.Println("  1996-1999-national   National-NZ First Coalition")
+		fmt.Println("  1999-2002-labour     Labour-Alliance")
+		fmt.Println("  2002-2005-labour     Labour-Progressive Coalition")
+		fmt.Println("  2005-2008-labour     Labour-Progressive Coalition")
+		fmt.Println("  2008-2011-national   Fifth National Government")
+		fmt.Println("  2011-2014-national   Fifth National Government")
+		fmt.Println("  2014-2017-national   Fifth National Government")
+		fmt.Println("  2017-2020-labour     Labour-NZ First Coalition")
+		fmt.Println("  2020-2023-labour     Sixth Labour Government")
+		fmt.Println("  2023-2026-national   National-ACT-NZ First Coalition")
 		fmt.Println("\nValid content types:")
 		fmt.Println("  release   Press releases (54,966)")
 		fmt.Println("  speech    Speeches (12,355)")
@@ -117,23 +120,23 @@ func main() {
 		fmt.Println("  process    Generate JSON + Markdown from raw HTML")
 		fmt.Println("  reingest   Re-fetch and overwrite a single release")
 		fmt.Println("\nExamples:")
-		fmt.Println("  beehive-exports archive                              # Index all releases")
-		fmt.Println("  beehive-exports archive --government national-2023   # Index one government")
-		fmt.Println("  beehive-exports archive --pages 5                    # Index first 5 pages (120 items)")
-		fmt.Println("  beehive-exports archive --type speech                # Index speeches instead of releases")
-		fmt.Println("  beehive-exports archive --help                       # Show all options")
-		fmt.Println("  beehive-exports fetch                                # Fetch all indexed releases")
-		fmt.Println("  beehive-exports fetch --government national-1993     # Fetch one government")
-		fmt.Println("  beehive-exports fetch --year 2024                    # Fetch by year")
-		fmt.Println("  beehive-exports process                              # Generate JSON + Markdown from raw HTML")
-		fmt.Println("  beehive-exports reingest --id some-release           # Re-fetch single release")
+		fmt.Println("  beehive-exports archive                                  # Index all releases")
+		fmt.Println("  beehive-exports archive --government 2023-2026-national  # Index one government")
+		fmt.Println("  beehive-exports archive --pages 5                        # Index first 5 pages (120 items)")
+		fmt.Println("  beehive-exports archive --type speech                    # Index speeches instead of releases")
+		fmt.Println("  beehive-exports archive --help                           # Show all options")
+		fmt.Println("  beehive-exports fetch                                    # Fetch all indexed releases")
+		fmt.Println("  beehive-exports fetch --government 1993-1996-national    # Fetch one government")
+		fmt.Println("  beehive-exports fetch --year 2024                        # Fetch by year")
+		fmt.Println("  beehive-exports process                                  # Generate JSON + Markdown from raw HTML")
+		fmt.Println("  beehive-exports reingest --id some-release               # Re-fetch single release")
 		os.Exit(1)
 	}
 
 	switch os.Args[1] {
 	case "fetch":
 		fetchCmd.Parse(os.Args[2:])
-		runFetch(*fetchYear, *fetchMonth, *fetchGov)
+		runFetch(*fetchYear, *fetchMonth, *fetchGov, *fetchVerbose)
 	case "process":
 		processCmd.Parse(os.Args[2:])
 		runProcess(*processJSON, *processMD)
@@ -173,7 +176,7 @@ func runReingest(url string, id string) {
 	}
 
 	// Parse release
-	release, err := parser.Parse(html, url)
+	release, err := parser.Parse(html, url, time.Now())
 	if err != nil {
 		log.Fatalf("Error parsing: %v", err)
 	}
@@ -221,6 +224,7 @@ func runProcess(jsonOnly, markdownOnly bool) {
 	}
 
 	store := storage.New(".")
+	log.Println("Scanning for raw HTML files...")
 	files, err := store.LoadAllRawHTML()
 	if err != nil {
 		log.Fatalf("Failed to load raw HTML files: %v", err)
@@ -233,6 +237,15 @@ func runProcess(jsonOnly, markdownOnly bool) {
 	markdownDir := "content/markdown"
 
 	for i, file := range files {
+		// Get file modification time (when it was scraped)
+		fileInfo, err := os.Stat(file.Path)
+		if err != nil {
+			log.Printf("Error getting file info %s: %v", file.Path, err)
+			errorCount++
+			continue
+		}
+		scrapedAt := fileInfo.ModTime()
+
 		html, err := store.ReadRawHTML(file.Path)
 		if err != nil {
 			log.Printf("Error reading %s: %v", file.Path, err)
@@ -243,7 +256,7 @@ func runProcess(jsonOnly, markdownOnly bool) {
 		// Reconstruct URL from file path (content/raw/YYYY/MM/YYYY-MM-DD-id.html)
 		url := "https://www.beehive.govt.nz/release/" + file.ID
 
-		release, err := parser.Parse(html, url)
+		release, err := parser.Parse(html, url, scrapedAt)
 		if err != nil {
 			log.Printf("Error parsing %s: %v", file.Path, err)
 			errorCount++
@@ -375,11 +388,10 @@ type ReleaseEntry struct {
 
 // GovernmentIndex is the structure for a single government's release index
 type GovernmentIndex struct {
-	Government    string                       `json:"government"`
-	Slug          string                       `json:"slug"`
-	LastIndexedAt string                       `json:"last_indexed_at"`
-	TotalReleases int                          `json:"total_releases"`
-	Releases      map[string][]ReleaseEntry    `json:"releases"` // year-month -> releases
+	Government    string                    `json:"government"`
+	LastIndexedAt string                    `json:"last_indexed_at"`
+	TotalReleases int                       `json:"total_releases"`
+	Releases      map[string][]ReleaseEntry `json:"releases"` // year-month -> releases
 }
 
 // DiscoveryIndex is the structure for the discovered releases index (legacy, kept for migration)
@@ -392,7 +404,7 @@ type DiscoveryIndex struct {
 const discoveryIndexDir = "content/discovery-index"
 
 // saveGovernmentIndex saves a single government's index to its own file
-func saveGovernmentIndex(idx *GovernmentIndex) error {
+func saveGovernmentIndex(slug string, idx *GovernmentIndex) error {
 	if err := os.MkdirAll(discoveryIndexDir, 0755); err != nil {
 		return fmt.Errorf("failed to create directory: %w", err)
 	}
@@ -411,7 +423,7 @@ func saveGovernmentIndex(idx *GovernmentIndex) error {
 		return fmt.Errorf("failed to marshal index: %w", err)
 	}
 
-	filename := filepath.Join(discoveryIndexDir, idx.Slug+".json")
+	filename := filepath.Join(discoveryIndexDir, slug+".json")
 	if err := os.WriteFile(filename, data, 0644); err != nil {
 		return fmt.Errorf("failed to write index: %w", err)
 	}
@@ -463,7 +475,7 @@ func loadAllGovernmentIndexes() ([]*GovernmentIndex, error) {
 	return indexes, nil
 }
 
-func runFetch(filterYear, filterMonth, filterGov string) {
+func runFetch(filterYear, filterMonth, filterGov string, verbose bool) {
 	log.Println("Fetching releases from discovery index")
 
 	// Load government indexes
@@ -488,8 +500,8 @@ func runFetch(filterYear, filterMonth, filterGov string) {
 		}
 	}
 
-	// Collect URLs to fetch based on filters
-	var urlsToFetch []string
+	// Collect releases to fetch based on filters
+	var releasesToFetch []ReleaseEntry
 	for _, idx := range indexes {
 		for yearMonth, releases := range idx.Releases {
 			// Apply filters
@@ -500,9 +512,7 @@ func runFetch(filterYear, filterMonth, filterGov string) {
 				continue
 			}
 
-			for _, r := range releases {
-				urlsToFetch = append(urlsToFetch, r.URL)
-			}
+			releasesToFetch = append(releasesToFetch, releases...)
 		}
 	}
 
@@ -510,17 +520,26 @@ func runFetch(filterYear, filterMonth, filterGov string) {
 	f := fetcher.New()
 	store := storage.New(".")
 
-	// Count how many already exist
+	// Count how many already exist using direct path lookup
+	log.Printf("Checking %d releases for existing downloads...", len(releasesToFetch))
 	existingCount := 0
-	for _, url := range urlsToFetch {
-		id := parser.ExtractIDFromURL(url)
-		if store.RawHTMLExists(id) {
+	for i, r := range releasesToFetch {
+		id := parser.ExtractIDFromURL(r.URL)
+		releaseDate, err := time.Parse(time.RFC3339, r.Date)
+		if err != nil {
+			// Fall back to parsing just the date portion
+			releaseDate, _ = time.Parse("2006-01-02", r.Date[:10])
+		}
+		if store.RawHTMLExistsWithDate(id, releaseDate) {
 			existingCount++
+		}
+		if (i+1)%1000 == 0 {
+			log.Printf("  Checked %d/%d releases (%d exist)...", i+1, len(releasesToFetch), existingCount)
 		}
 	}
 
-	remaining := len(urlsToFetch) - existingCount
-	log.Printf("Found %d URLs in index (%d already downloaded, %d remaining)", len(urlsToFetch), existingCount, remaining)
+	remaining := len(releasesToFetch) - existingCount
+	log.Printf("Found %d releases in index (%d already downloaded, %d remaining)", len(releasesToFetch), existingCount, remaining)
 
 	if remaining == 0 {
 		log.Println("Nothing to fetch - all releases already downloaded")
@@ -532,20 +551,27 @@ func runFetch(filterYear, filterMonth, filterGov string) {
 	errorCount := 0
 	fetchCount := 0
 
-	for _, url := range urlsToFetch {
+	for _, r := range releasesToFetch {
 		// Extract and normalize ID from URL
-		id := parser.ExtractIDFromURL(url)
+		id := parser.ExtractIDFromURL(r.URL)
 
 		// Skip if raw HTML already exists
-		if store.RawHTMLExists(id) {
+		releaseDate, err := time.Parse(time.RFC3339, r.Date)
+		if err != nil {
+			releaseDate, _ = time.Parse("2006-01-02", r.Date[:10])
+		}
+		if store.RawHTMLExistsWithDate(id, releaseDate) {
+			if verbose {
+				log.Printf("Skipping (already exists): %s", r.URL)
+			}
 			continue
 		}
 
 		fetchCount++
-		log.Printf("[%d/%d] Fetching: %s", fetchCount, remaining, url)
+		log.Printf("[%d/%d] Fetching: %s", fetchCount, remaining, r.URL)
 
 		// Fetch HTML
-		html, err := f.FetchRelease(url)
+		html, err := f.FetchRelease(r.URL)
 		if err != nil {
 			log.Printf("  Error fetching: %v", err)
 			errorCount++
@@ -553,7 +579,7 @@ func runFetch(filterYear, filterMonth, filterGov string) {
 		}
 
 		// Parse just to get ID and time for file naming
-		release, err := parser.Parse(html, url)
+		release, err := parser.Parse(html, r.URL, time.Now())
 		if err != nil {
 			log.Printf("  Error parsing: %v", err)
 			errorCount++
@@ -584,17 +610,17 @@ var governmentFacets = map[string]struct {
 	FacetID string
 	Name    string
 }{
-	"national-2023":  {"6700", "National-ACT-NZ First Coalition"},
-	"labour-2020":    {"6455", "Sixth Labour Government"},
-	"labour-2017":    {"6203", "Labour-NZ First Coalition"},
-	"national-2014":  {"6064", "Fifth National Government (2014-2017)"},
-	"national-2011":  {"5926", "Fifth National Government (2011-2014)"},
-	"national-2008":  {"4775", "Fifth National Government (2008-2011)"},
-	"labour-2005":    {"4637", "Labour-Progressive Coalition (2005-2008)"},
-	"labour-2002":    {"4507", "Labour-Progressive Coalition (2002-2005)"},
-	"labour-1999":    {"4376", "Labour-Alliance (1999-2002)"},
-	"national-1996":  {"4265", "National-NZ First Coalition (1996-1999)"},
-	"national-1993":  {"4194", "National (1993-1996)"},
+	"2023-2026-national": {"6700", "National-ACT-NZ First Coalition"},
+	"2020-2023-labour":   {"6455", "Sixth Labour Government"},
+	"2017-2020-labour":   {"6203", "Labour-NZ First Coalition"},
+	"2014-2017-national": {"6064", "Fifth National Government"},
+	"2011-2014-national": {"5926", "Fifth National Government"},
+	"2008-2011-national": {"4775", "Fifth National Government"},
+	"2005-2008-labour":   {"4637", "Labour-Progressive Coalition"},
+	"2002-2005-labour":   {"4507", "Labour-Progressive Coalition"},
+	"1999-2002-labour":   {"4376", "Labour-Alliance"},
+	"1996-1999-national": {"4265", "National-NZ First Coalition"},
+	"1993-1996-national": {"4194", "National"},
 }
 
 // contentTypeFacets maps CLI-friendly names to beehive.govt.nz facet values and URL prefixes
@@ -644,9 +670,9 @@ func runArchive(govFilter string, maxPages int, contentType string) {
 		}
 		// Sort by year descending (newest first)
 		sort.Slice(toIndex, func(i, j int) bool {
-			// Keys are like "national-2023", "labour-2020" - extract year from end
-			yi := toIndex[i].Key[strings.LastIndex(toIndex[i].Key, "-")+1:]
-			yj := toIndex[j].Key[strings.LastIndex(toIndex[j].Key, "-")+1:]
+			// Keys are like "2023-2026-national" - extract start year from beginning
+			yi := toIndex[i].Key[:4]
+			yj := toIndex[j].Key[:4]
 			return yi > yj
 		})
 	}
@@ -671,7 +697,6 @@ func runArchive(govFilter string, maxPages int, contentType string) {
 			// No existing index, create new one
 			govIndex = &GovernmentIndex{
 				Government: gov.Name,
-				Slug:       gov.Key,
 				Releases:   make(map[string][]ReleaseEntry),
 			}
 		}
@@ -748,7 +773,7 @@ func runArchive(govFilter string, maxPages int, contentType string) {
 
 				if datetime == "" {
 					// Use a placeholder date if none found - we can fix later
-					datetime = "1970-01-01T00:00:00Z"
+					datetime = "0001-01-01T00:00:00Z"
 				}
 
 				// Parse date to get year-month
@@ -757,7 +782,7 @@ func runArchive(govFilter string, maxPages int, contentType string) {
 					// Try alternate format
 					t, err = time.Parse("2006-01-02", datetime[:10])
 					if err != nil {
-						t = time.Unix(0, 0)
+						t = time.Time{}
 					}
 				}
 
@@ -789,7 +814,7 @@ func runArchive(govFilter string, maxPages int, contentType string) {
 				}
 				govIndex.TotalReleases = totalReleases
 
-				if err := saveGovernmentIndex(govIndex); err != nil {
+				if err := saveGovernmentIndex(gov.Key, govIndex); err != nil {
 					log.Printf("  Error saving index: %v", err)
 				}
 			}
