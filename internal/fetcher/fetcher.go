@@ -3,6 +3,7 @@ package fetcher
 import (
 	"bytes"
 	"compress/gzip"
+	"context"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -41,6 +42,9 @@ func New() *Fetcher {
 	return &Fetcher{
 		client: &http.Client{
 			Timeout: 60 * time.Second,
+			Transport: &http.Transport{
+				IdleConnTimeout: 30 * time.Second,
+			},
 		},
 		browserlessToken: token,
 	}
@@ -109,16 +113,22 @@ func (f *Fetcher) doRequest(url string) (string, error) {
 func (f *Fetcher) doBrowserlessRequest(targetURL string) (string, error) {
 	endpoint := fmt.Sprintf("%s/content?token=%s", BrowserlessURL, f.browserlessToken)
 
+	// Don't wait for selector - just wait for page to load and settle
+	// This prevents hanging on empty result pages where selectors don't exist
 	payload := map[string]interface{}{
 		"url":            targetURL,
-		"waitForTimeout": 500,
+		"waitForTimeout": 3000, // Wait 3s for page to settle after load
 	}
 	jsonPayload, err := json.Marshal(payload)
 	if err != nil {
 		return "", fmt.Errorf("failed to marshal request: %w", err)
 	}
 
-	req, err := http.NewRequest("POST", endpoint, bytes.NewBuffer(jsonPayload))
+	// Use a 30-second timeout for browserless requests
+	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
+	defer cancel()
+
+	req, err := http.NewRequestWithContext(ctx, "POST", endpoint, bytes.NewBuffer(jsonPayload))
 	if err != nil {
 		return "", fmt.Errorf("failed to create request: %w", err)
 	}

@@ -83,6 +83,7 @@ func main() {
 	archiveCmd := flag.NewFlagSet("archive", flag.ExitOnError)
 	archiveGov := archiveCmd.String("government", "", "Government term to index (see --help for list)")
 	archivePages := archiveCmd.Int("pages", 0, "Maximum pages to index (0 = all)")
+	archiveStart := archiveCmd.Int("start", 0, "Starting page number (0-indexed)")
 	archiveType := archiveCmd.String("type", "release", "Content type to index (release, speech, feature, diary)")
 	archiveCmd.Usage = func() {
 		fmt.Println("Usage: beehive-exports archive [options]")
@@ -91,6 +92,8 @@ func main() {
 		fmt.Println("        Government term to index. If not specified, indexes all governments.")
 		fmt.Println("  --pages int")
 		fmt.Println("        Maximum pages to index, 24 results per page (0 = all, default 0)")
+		fmt.Println("  --start int")
+		fmt.Println("        Starting page number, 0-indexed (default 0)")
 		fmt.Println("  --type string")
 		fmt.Println("        Content type to index (default \"release\")")
 		fmt.Println("\nValid government values:")
@@ -145,7 +148,7 @@ func main() {
 		runReingest(*reingestURL, *reingestID)
 	case "archive":
 		archiveCmd.Parse(os.Args[2:])
-		runArchive(*archiveGov, *archivePages, *archiveType)
+		runArchive(*archiveGov, *archivePages, *archiveStart, *archiveType)
 	default:
 		fmt.Printf("Unknown command: %s\n", os.Args[1])
 		os.Exit(1)
@@ -634,11 +637,17 @@ var contentTypeFacets = map[string]struct {
 	"diary":   {"ministerial_diary", "/ministerial-diary/"},
 }
 
-func runArchive(govFilter string, maxPages int, contentType string) {
+func runArchive(govFilter string, maxPages int, startPage int, contentType string) {
 	// Validate content type
 	ct, ok := contentTypeFacets[contentType]
 	if !ok {
 		log.Fatalf("Unknown content type: %s\nValid types: release, speech, feature, diary", contentType)
+	}
+
+	// Check for browserless token - search pages require JavaScript to render results
+	if os.Getenv("BROWSERLESS_TOKEN") == "" {
+		log.Println("WARNING: BROWSERLESS_TOKEN not set. Search pages require JavaScript to render results.")
+		log.Println("         Results may be incomplete. Set BROWSERLESS_TOKEN for full discovery.")
 	}
 
 	log.Printf("Building discovery index from search page (type: %s)...", contentType)
@@ -709,8 +718,9 @@ func runArchive(govFilter string, maxPages int, contentType string) {
 			}
 		}
 
-		page := 0
+		page := startPage
 		govTotal := 0
+		consecutiveEmpty := 0
 
 		for {
 			// Check page limit (global if no gov filter, per-gov otherwise)
@@ -718,8 +728,8 @@ func runArchive(govFilter string, maxPages int, contentType string) {
 				log.Printf("  Reached global page limit (%d)", maxPages)
 				break
 			}
-			if !globalPageLimit && maxPages > 0 && page >= maxPages {
-				log.Printf("  Reached page limit (%d)", maxPages)
+			if !globalPageLimit && maxPages > 0 && page >= startPage+maxPages {
+				log.Printf("  Reached page limit (%d pages from start)", maxPages)
 				break
 			}
 
@@ -803,6 +813,68 @@ func runArchive(govFilter string, maxPages int, contentType string) {
 				govTotal++
 			})
 
+			// Also find /node/ links for historical releases (pre-2014 content)
+			// These redirect to actual release URLs when fetched
+			if ct.URLPrefix == "/release/" {
+				doc.Find("a[href^='/node/']").Each(func(i int, s *goquery.Selection) {
+					href, exists := s.Attr("href")
+					if !exists || href == "/node/" {
+						return
+					}
+
+					fullURL := "https://www.beehive.govt.nz" + href
+					foundOnPage++ // Count ALL items found, not just new ones
+
+					// Skip if already indexed
+					if existingURLs[fullURL] {
+						return
+					}
+
+					// Find date - look for time element in the same search result container
+					var datetime string
+					container := s.Closest("article, .views-row, .search-result")
+					if container.Length() > 0 {
+						container.Find("time[datetime]").Each(func(j int, t *goquery.Selection) {
+							if dt, exists := t.Attr("datetime"); exists && datetime == "" {
+								datetime = dt
+							}
+						})
+					}
+
+					// Fallback: check siblings and parent structures
+					if datetime == "" {
+						s.Parent().Parent().Find("time[datetime]").Each(func(j int, t *goquery.Selection) {
+							if dt, exists := t.Attr("datetime"); exists && datetime == "" {
+								datetime = dt
+							}
+						})
+					}
+
+					if datetime == "" {
+						datetime = "0001-01-01T00:00:00Z"
+					}
+
+					// Parse date to get year-month
+					t, err := time.Parse(time.RFC3339, datetime)
+					if err != nil {
+						t, err = time.Parse("2006-01-02", datetime[:10])
+						if err != nil {
+							t = time.Time{}
+						}
+					}
+
+					yearMonth := t.Format("2006-01")
+					existingURLs[fullURL] = true
+
+					govIndex.Releases[yearMonth] = append(govIndex.Releases[yearMonth], ReleaseEntry{
+						URL:  fullURL,
+						Date: datetime,
+					})
+
+					govTotal++
+				})
+			}
+
 			log.Printf("  Found %d items on page %d (%d new so far)", foundOnPage, page, govTotal)
 
 			// Save incrementally after each page with new items
@@ -820,7 +892,14 @@ func runArchive(govFilter string, maxPages int, contentType string) {
 			}
 
 			if foundOnPage == 0 {
-				break
+				consecutiveEmpty++
+				if consecutiveEmpty >= 3 {
+					log.Printf("  Stopping after %d consecutive empty pages", consecutiveEmpty)
+					break
+				}
+				log.Printf("  Empty page, continuing (%d consecutive)...", consecutiveEmpty)
+			} else {
+				consecutiveEmpty = 0
 			}
 
 			page++
