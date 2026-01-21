@@ -1,0 +1,22 @@
+---
+title: "Reserve status approved for Abel Tasman foreshore"
+date: 2002-04-10
+url: https://www.beehive.govt.nz/release/reserve-status-approved-abel-tasman-foreshore
+ministers:
+  - Sandra Lee
+portfolios:
+  - Conservation
+---
+
+Conservation Minister Sandra Lee today announced that she had accepted the recommendations of Nelson Mayor Paul Matheson and of the New Zealand Conservation Authority that foreshore adjoining the Abel Tasman National Park be managed under the Reserves Act 1977. It is intended that the Department of Conservation will manage reserve adjoining the National Park and the Tasman District Council other foreshore areas.  
+“I agree that this is the most pragmatic way forward for management of the foreshore at this time, " Ms Lee said. "I have instructed my Department to begin working with the Tasman District Council towards implementing this recommendation.  
+A report facilitated by Mr Matheson recommended creating a management zone overseen by the Tasman District Council and the Department of Conservation, as a way of controlling overcrowding and commercial activity on the sea and foreshore.  
+“The Abel Tasman coastline is one of New Zealand’s most spectacular and popular natural attractions," Ms Lee said. "Native forests extend down to a procession of beautiful golden beaches and turquoise blue seas. Such places are increasingly rare in the world. That is where the problems begin, with visitor pressure threatening to overwhelm and degrade the natural environment.”  
+Ms Lee said that at present tourism concessions were required for commercial tourism use of the Abel Tasman National Park, but not for the foreshore.  
+“The inability to control tourism use of the foreshore is resulting in rapid growth in visitor pressure on the environment and on park facilities. I was particularly impressed by the support for better environmental protection from Latitude Nelson and other tourism interests. In reaching this decision I have worked closely with the Minster of Tourism, Hon Mark Burton, and the local Tasman MP Damien O'Connor."  
+Ms Lee also paid tribute to the Tasman District Council, local iwi, and to local residents' and environmental groups who—she said—had all contributed to the solution.  
+“Officials will be working towards reserve status being in place by next summer. Time has to be allowed in the process for surveying to define reserve boundaries. Management of the foreshore under the Reserves Act will provide a greater level of protection than currently exists for the foreshore. It will also allow more integrated management by my Department and the Council of the areas they respectively control."  
+Ms Lee said she had taken note of the New Zealand Conservation Authority's view that gazettal of the foreshore as reserve land should be seen as a step towards the ultimate goal of including the foreshore in the National Park.  
+"I agree that from a conservation viewpoint this would be most desirable. However I am satisfied for now that reserve status under the Reserves Act will enable progress to be made on controlling public use of the area. Clearly, reserve status for the foreshore will not on its own resolve all issues facing this popular national park and its coastline including the pressures created by growing visitor numbers. The Resource Management Act also provides mechanisms for dealing with increased visitor activity on the land and sea, " Ms Lee said. "I understand the Tasman District Council will be investigating what can be done under the RMA to address concerns about the management of visitor growth. I welcome this and my Department will be offering to help the Council look at its options.  
+“I would like to thank Paul Matheson who was appointed as an independent facilitator to look at foreshore management options and the advisory group that worked with him for the time and consideration given to this issue. Mr Matheson has recommended that there continue to be an advisory group that meets with my Department and the Council to discuss management issues. I agree that this would be valuable.”  
+Ms Lee said a recommendation that new legislation be introduced to establish a one nautical mile management zone from the foreshore was not being taken up for the time being. She said many of the activities it would seek to manage could be dealt with under existing legislation including the RMA , and she said measures currently available should be looked at first.

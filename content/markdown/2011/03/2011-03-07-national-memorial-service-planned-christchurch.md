@@ -1,0 +1,26 @@
+---
+title: "National Memorial Service planned for Christchurch"
+date: 2011-03-07
+url: https://www.beehive.govt.nz/release/national-memorial-service-planned-christchurch
+ministers:
+  - John Key
+portfolios:
+  - Prime Minister
+  - Earthquake Recovery
+---
+
+Prime Minister John Key has announced that a National Memorial Service for the victims of the February 22 earthquake will be held in Christchurch on Friday March 18.
+
+The service, which will be held in North Hagley Park, is being organised by the Christchurch City Council and the Visits and Ceremonial Office with wide consultation from the community and families.
+
+“The service will give people the chance to reflect on the terrible loss of life suffered as a result of the earthquake, and the huge impact it has had on our second largest city.
+
+“This is an opportunity for Christchurch to mourn together. It will also be a chance to celebrate the lives of those who have been lost.”
+
+The service will begin at 12.45pm and two minutes’ silence will be observed at 12.51pm.
+
+Mr Key has also announced that March 18, 2011, will be a provincial holiday so the people of Canterbury can attend the National Memorial Service. Legislation will be required to do this.
+
+“While we will never forget those who have been lost, we must now focus that indomitable Canterbury spirit on the future.
+
+“This service will be a beginning, not an end.”

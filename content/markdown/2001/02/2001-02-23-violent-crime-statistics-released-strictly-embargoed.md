@@ -1,0 +1,17 @@
+---
+title: "Violent Crime Statistics Released  Strictly Embargoed"
+date: 2001-02-23
+url: https://www.beehive.govt.nz/release/violent-crime-statistics-released-strictly-embargoed
+ministers:
+  - George Hawkins
+portfolios:
+  - Police
+---
+
+Minister of Police Hon George Hawkins has released provisional violent crime statistics showing a slight increase in the number of recorded violent crimes and improving resolution rates. New Zealand has experienced large rises in violent crime over the last decade. For example, from 1990 to 1999 under the National-led government violent crime increased by over 77%. For the calender year 2000, provisional statistics show violent crime increased by 1892 offences \[4.8%] up from 39,688 offences in year 1999 to 41,580 violent offences in year 2000. The Police resolved 1510 more violent crimes for year 2000 than during the previous year. Resolution percentage rates are up from 76.5% resolved in year 1999, to 76.6% resolved in year 2000.
+
+"I am pleased to see that the Police have slightly improved their clearance rate for this sort of crime despite the increased volume of investigations. I thank them for their efforts," George Hawkins said. New Zealand has experienced rises in violent crime over the last decade. The Government is determined to turn this trend around. It took action in its first Budget. The Labour/Alliance Government has provided substantial funding for anti-burglary and youth crime initiatives. Many of these initiatives take effect during the 2001 calender year. A Criminal Justice Group report shows over two thirds of persistent burglars have at least one conviction for an offence against the person - mainly violent offences. "Burglary and youth crime lead to violent crime. The Government's anti-burglary policies have produced positive results. This will lead to fewer violent offences in the future," George Hawkins said.
+
+The Government has also announced reforms to DNA legislation, with more funding, that will allow DNA to be used as a tool to catch more burglars before they move on to violent crime. "We are balancing policies designed to prevent violent crime with policies and policing tactics that crack down on all criminals who offend," George Hawkins said. The Government is making sure laws exist that crack down on crime. In year 2000, the Government passed the Bail Act that will keep dangerous offenders off the streets. The Bail Act took effect on 1 January this year. "We will not tolerate criminals continuing to offend while on bail. The Budget initiatives and the Bail Act will be in effect this year, and I expect to see a positive impact on violent crime statistics as a result," George Hawkins said.
+
+In addition, the Minister of Justice will soon announce details of a Sentencing and Parole Reform Bill that will see the worst offenders locked up for longer. "As our Budget initiatives on burglary and youth crime come on stream, and new legislation on bail and sentencing takes effect, I am confident that we can begin to turn around the trend occurring with violent crime. "The latest rise in violent crime is disappointing. "However, the Government's 'hard on crime' policies and its no nonsense approach toward criminals will stop this negative trend and ensure the criminal culture, that was allowed to flourish under National, is not tolerated," George Hawkins said.

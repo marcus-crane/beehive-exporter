@@ -1,0 +1,20 @@
+{
+  "id": "news-advisory",
+  "title": "News Advisory",
+  "url": "https://www.beehive.govt.nz/release/news-advisory",
+  "time": "2000-04-10T00:00:00Z",
+  "ministers": [
+    {
+      "name": "Matt Robson",
+      "profile_url": ""
+    }
+  ],
+  "portfolios": [
+    "Corrections"
+  ],
+  "government": "Government - 2000",
+  "content": "\u003cdiv class=\"field field-name-field-government\"\u003e\u003cdiv class=\"taxonomy-term taxonomy-term--type-government taxonomy-term--view-mode-strapline ds-1col clearfix\"\u003e\n\n  \n\n      \n      \u003cem class=\"archive-indicator\"\u003e\u003c/em\u003e\n      \n  \n\n\n\n\u003c/div\u003e\n\n\u003c/div\u003e\n    \n      \u003ctime class=\"meta meta__date\" datetime=\"\"\u003e\u003ctime datetime=\"2000-04-10T00:00:00Z\"\u003e10 April 2000\u003c/time\u003e\n\u003c/time\u003e\n      \n  \n\n\n  \u003ch1 class=\"article__title\"\u003e\n  News Advisory\n\u003c/h1\u003e\n\n    \n            \u003cul class=\"meta--ministers\"\u003e\n            \u003cli\u003e\u003cspan class=\"is-archived\"\u003e\n\n  \n\n      \n        Matt Robson\n\n      \n  \n\n\n\n\u003c/span\u003e\n\u003c/li\u003e\n      \n      \u003c/ul\u003e\n  \n\n    \n      \u003cem class=\"tag tag--portfolio\"\u003e\u003cspan class=\"is-archived\"\u003e\n\n  \n\n  \n    Corrections\n\n\n\n\u003c/span\u003e\n\u003c/em\u003e\n      \n  \n\n\n            \u003cdiv class=\"prose field field--name-body field--type-text-with-summary field--label-hidden field--item\"\u003e\u003cp\u003eMinister of Corrections, Matt Robson will deliver a key note speech at the Oceanic Regional Heads Of Prisons, meeting at Hawkes Bay Prison tomorrow.\u003c/p\u003e\n\u003cp\u003eThe Conference is a chance for heads of prisons from countries across the Pacific to gather together and discuss and resolve issues of common interest.\u003c/p\u003e\n\u003cp\u003e13 countries will be represented.\u003c/p\u003e\n\u003cp\u003eThe two key themes of the meeting are professional training and development, and the management of indigenous inmates.\u003c/p\u003e\n\u003cp\u003eDATE: 11th April 2000 \u003c/p\u003e\n\u003cp\u003eTIME: 3.30pm\u003c/p\u003e\n\u003cp\u003eVENUE: Hawkes Bay Regional Prison, Bridge Pa Road, Hastings.\u003c/p\u003e\n\u003c/div\u003e\n      ",
+  "content_text": "Minister of Corrections, Matt Robson will deliver a key note speech at the Oceanic Regional Heads Of Prisons, meeting at Hawkes Bay Prison tomorrow. The Conference is a chance for heads of prisons from countries across the Pacific to gather together and discuss and resolve issues of common interest. 13 countries will be represented. The two key themes of the meeting are professional training and development, and the management of indigenous inmates. DATE: 11th April 2000 TIME: 3.30pm VENUE: Hawkes Bay Regional Prison, Bridge Pa Road, Hastings.",
+  "attachments": null,
+  "scraped_at": "2026-01-21T22:20:05.697619687+13:00"
+}

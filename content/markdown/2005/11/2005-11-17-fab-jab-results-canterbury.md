@@ -1,0 +1,11 @@
+---
+title: "Fab Jab results for Canterbury"
+date: 2005-11-17
+url: https://www.beehive.govt.nz/release/fab-jab-results-canterbury
+ministers:
+  - Mahara Okeroa
+portfolios:
+  - State
+---
+
+Over 70,000 school students in Canterbury are getting vaccinated to guard against the epidemic B strain of meningococcal disease."Ensuring the success of the government's largest ever mass immunisation campaign has been a huge team effort involving school staff, students and parents and they all deserve thanks," said Te Tai Tonga MP Mahara Okeroa.This week marked a major milestone in the programme, with one million young New Zealanders getting the first of three jabs to fight the disease. "It's great that the parents, children and young people of Canterbury have taken positive action to be part of the programme," said Mahara Okeroa.Schools in the areas covered by Canterbury District Health Board achieved a high rate of consent to the MeNZB™ vaccination; of some 79,400-school students in the area covered, 88 per cent have consent, and a total of 70,631 children and young people have begun the programme."The nationwide school-based campaign has involved 2,600 schools, 750,000 students and the active cooperation of tens of thousands of staff members. It's been particularly effective for Maori, who are three times more likely than non-Maori to contract meningococcal B," said Mahara Okeroa.By the start of November, public health nurses had administered more than 1.8 million doses of MeNZB™ vaccine in schools nationwide, with 78 per cent of all school students receiving all three doses. This figure is expected to rise as the last schools to start the programme complete the final doses and others run 'mop-up clinics' for students who missed a dose. "The vaccine only offers protection after all three doses, so it's vital that everyone involved completes the programme," said Mahara Okeroa.The vaccine is free and also available to everyone aged from six weeks to 19 years through local doctors and special clinics run by DHBs. It protects only against the meningococcal B strain, so everyone should stay vigilant for signs and symptoms and seek medical help if they suspect it.

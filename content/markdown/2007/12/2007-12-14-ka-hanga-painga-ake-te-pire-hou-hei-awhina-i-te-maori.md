@@ -1,0 +1,11 @@
+---
+title: "Ka hanga painga ake te pire hou hei âwhina i te Mâori"
+date: 2007-12-14
+url: https://www.beehive.govt.nz/release/ka-hanga-painga-ake-te-pire-hou-hei-awhina-i-te-maori
+ministers:
+  - Parekura Horomia
+portfolios:
+  - Maori Affairs
+---
+
+Kei te tautoko te Minita mô ngâ Take Mâori, a Parekura Horomia, i ngâ whakapainga ki çtahi ture, mai i ngâ whakarerekçtanga kei roto i te Pire Take Mâori 2007. I whakatakototia te Pire ki te Whare inâtata nei, hei hanga rerekçtanga, hei whakatika i çtahi wâhanga ture e mau ana inâianei. E whâ ngâ momo ture ka whakarerekçtia, kia eke ki ngâ take tuatahi a te Kâwanatanga, kia whakatika rânei i çtahi kôhikohiko, e kî ana a Horomia. “Ko tçtahi o ngâ whakarerekçtanga koia nei ka āwhina i tçnei Kâwanatanga ki te whakatutuki i tâ mâtou piriponotanga ki te whakatau i ngâ kerçme Tiriti hîtori i mua o te tau 2020.” Ko tçtahi o ngâ whakarerekçtanga e whakaarotia ana ki te Ture Tiriti o Waitangi 2007, ko te whakamâha ake i te nui rawa o ngâ mema noa iho kei runga i te Rôpû Whakamana i te Tiriti o Waitangi, mai i 16 atu ki 20. Mâ konei e âwhina i te Taraipiunara ki te whakatutuki i ngâ mahi nui ake kei a râtou. “Me tçtahi whakarerekçtanga ka tohu i te whakapakaritanga i te hononga i waenga i te Karauna me Ngâti Tûwharetoa,” e kî ana a Horomia. He whakarerekçtanga ki tekiona 10 o te Ture Poari Kaitiaki Mâori 1955, ka whakahou i te utunga â-tau ka utua e te Karauna ki te Poari Kaitiaki Mâori o Tûwharetoa, ($1.5 miriona) kua whakaaetia i raro i tçtahi kirimini hou e pâ ana ki te Moana o Taupo. Me çtahi ake whakarerekçtanga e whakaarotia ana ka: •Whakarite i te pakeketanga pôti ki te 18 tau ki roto i Ture Poari Kaitiaki Mâori 1955; •Whakatika i çtahi hç tuhinga pakupaku nei kei roto i Te Ture Whenua Mâori 1993; me te • Whakatika i te Ture Poari Kaitiaki Mâori o Maniapoto 1988, hei whakatû Kômiti Whakahaere Â-rohe kia tû hei mângai mô ngâ marae honohono a Maniapoto kei te Âkau o Kâwhia, me te whakawhiwhi i çtahi ake mahi whakatika pakupaku ki taua Ture. “I runga i te whânuitanga, he âhua rite ki te whakapai whare ngâ whakarerekçtanga nei, çngari he mea whakahirahira ki ngâ rôpû ka whakapâ mai çnei whakaritenga ki a râtou,” e kî ana a Horomia.

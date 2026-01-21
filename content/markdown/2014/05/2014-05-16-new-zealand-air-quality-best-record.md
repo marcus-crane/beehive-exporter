@@ -1,0 +1,43 @@
+---
+title: "New Zealand air quality best on record"
+date: 2014-05-16
+url: https://www.beehive.govt.nz/release/new-zealand-air-quality-best-record
+ministers:
+  - Nicky Wagner
+  - Amy Adams
+portfolios:
+  - Statistics
+  - Environment
+---
+
+A new report shows overall air quality in New Zealand is the best it has been since comprehensive records began in 2006, Environment Minister Amy Adams and Statistics Minister Nicky Wagner say.
+
+The 2014 Air Domain Report was released today by the Environment Ministry and Statistics New Zealand.
+
+The report finds overall air quality in New Zealand is improving, with lower levels of PM10, reduced vehicle emissions and lower health impacts from PM10, Ms Adams says.
+
+The key findings are:
+
+- Carbon monoxide down 34 per cent
+- Volatile organic compounds down 33 per cent
+- PM2.5 down 26 per cent
+- PM10 down 25 per cent
+- Nitrogen oxides down 22 per cent
+
+While some regular air quality issues occur, particularly in some South Island towns, the number of airsheds that exceeded the daily PM10 standard for two or more days in a year has declined since 2009.
+
+“Local authorities have primary responsibility for dealing with local air quality issues and the Government has a National Environment Standard on Air Quality with targets that councils must achieve,” Ms Adams says.
+
+“This includes standards for wood burner emissions and efficiency, and allows regional councils and unitary authorities to establish stricter rules in their regions.
+
+“We have put in place a range of measures to support a reduction in these breaches, including higher vehicle standards and encouragement of clean heat sources and better insulation. A number of local authorities have their own insulation and clean heat programmes in place, too.
+
+“As a result, a number of regions have improved their air quality, and their example can show the way for those areas that still have breaches,” Ms Adams says.
+
+The Air Domain report was prepared under the new format proposed in the Government’s Environmental Reporting Bill.
+
+The Bill will provide that the Secretary for the Environment and the Government Statistician be mandated to produce regular environmental reporting, at arm’s length from the government of the day.
+
+Ms Wagner says the role of the Government Statistician will give the public assurance that the information they receive is independent, accurate and free from political bias.
+
+Details of the report can be found at: [www.mfe.govt.nz/publications/air/2014-air-domain-report/index.html](http://www.mfe.govt.nz/publications/air/2014-air-domain-report/index.html)

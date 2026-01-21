@@ -1,0 +1,31 @@
+---
+title: "Australia-New Zealand Inaugural Joint Cabinet Meeting"
+date: 2009-08-22
+url: https://www.beehive.govt.nz/release/australia-new-zealand-inaugural-joint-cabinet-meeting
+ministers:
+  - John Key
+portfolios:
+  - Prime Minister
+---
+
+The first ever Australia-New Zealand joint Cabinet meeting was held in Sydney today. This historic meeting involved fourteen Cabinet ministers and was co-chaired by Prime Minister Kevin Rudd and Prime Minister John Key.
+
+The joint Cabinet meeting comes at the end of Mr Key's first official visit to Australia.
+
+The joint Cabinet meeting is the first time that such a large contingent of Ministers from both sides of the Tasman have met as a group to discuss the challenges and opportunities for both governments.
+
+The two Prime Ministers briefed the joint Cabinet meeting of the outcomes of their discussions the previous day, including accelerating progress on the Single Economic Market, and instructed their Ministers to consider how the partnership could work more effectively going forward.
+
+Ministers discussed domestic, strategic, and international matters of concern to both governments, with a strong focus on the implications of the global economic crisis. Ministers agreed on the vital importance of a successful and ambitious conclusion to the Doha Round and implementation of G20 commitments to revitalise global confidence and growth. Ministers agreed to continue close collaboration to develop more open trade and investment arrangements in the Asia Pacific region, building both trans-Tasman economies.
+
+Ministers exchanged views on the challenges of integrating infrastructure, transport, and town planning in growing cities on both sides of the Tasman, as well as broadband delivery. They discussed the importance of harnessing information technology to drive productivity and raise living standards in their respective countries.
+
+Ministers reaffirmed their commitment to cooperation on emission trading schemes and noted the opportunities and challenges presented by climate change, including in creating new jobs and investment. The importance of an ambitious outcome from Copenhagen was affirmed by both sides. Ministers discussed the high priority of energy sectors, and new research through bodies such as the Global Carbon Capture and Storage Institute, in shaping national policy settings over the next ten years.
+
+Ministers focused on the economic and social development challenges in the Pacific, pledging continued close cooperation - as underscored by the Development Cooperation Partnership endorsed by Prime Ministers on 20 August - to achieve the Millennium Development Goals in the region and build closer economic integration under PACER Plus.
+
+Ministers discussed the importance of maintaining close foreign policy settings in the region, and discussed the long term significance of building an Asia Pacific community. They committed themselves to ongoing close collaboration on counter-terrorism in South East Asia and closer defence cooperation.
+
+The meeting proved valuable in discussing the joint challenges faced by Australia and New Zealand, and Ministers from both sides endorsed a proposal to convene a further joint Cabinet meeting in 2010.
+
+The Ministers who attended the joint cabinet meeting with the Prime Ministers were for New Zealand: Deputy Prime Minister and Finance Minister Bill English; Economic Development Minister Gerry Brownlee; Commerce Minister Simon Power; Foreign Affairs Minister Murray McCully; Trade Minister Tim Groser; Defence Minister Wayne Mapp; and Communications and Information Technology Minister Steven Joyce; and for Australia: Treasurer Wayne Swan; Defence Minister John Faulkner; Trade Minister Simon Crean; Infrastructure, Transport, Regional Development and Local Government Minister Anthony Albanese; Broadband, Communications and the Digital Economy Minister Stephen Conroy; Climate Change and Water Minister Penny Wong; and Tourism, Resources and Energy Minister Martin Ferguson.

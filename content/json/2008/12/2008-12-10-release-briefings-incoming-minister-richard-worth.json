@@ -1,0 +1,31 @@
+{
+  "id": "release-briefings-incoming-minister-richard-worth",
+  "title": "Release of Briefings to Incoming Minister (Richard Worth)",
+  "url": "https://www.beehive.govt.nz/release/release-briefings-incoming-minister-richard-worth",
+  "time": "2008-12-10T10:01:00Z",
+  "ministers": [
+    {
+      "name": "Richard Worth",
+      "profile_url": ""
+    }
+  ],
+  "portfolios": [
+    "Internal Affairs"
+  ],
+  "government": "National/ACT/Māori Party/United Future Government",
+  "content": "\u003cdiv class=\"field field-name-field-government\"\u003e\u003cdiv class=\"taxonomy-term taxonomy-term--type-government taxonomy-term--view-mode-strapline ds-1col clearfix\"\u003e\n\n  \n\n      \n      \u003cem class=\"archive-indicator\"\u003e\u003c/em\u003e\n      \n  \n\n\n\n\u003c/div\u003e\n\n\u003c/div\u003e\n    \n      \u003ctime class=\"meta meta__date\" datetime=\"\"\u003e\u003ctime datetime=\"2008-12-10T10:01:00Z\"\u003e10 December 2008\u003c/time\u003e\n\u003c/time\u003e\n      \n  \n\n\n  \u003ch1 class=\"article__title\"\u003e\n  Release of Briefings to Incoming Minister (Richard Worth)\n\u003c/h1\u003e\n\n    \n            \u003cul class=\"meta--ministers\"\u003e\n            \u003cli\u003e\u003cspan class=\"is-archived\"\u003e\n\n  \n\n      \n        Richard Worth\n\n      \n  \n\n\n\n\u003c/span\u003e\n\u003c/li\u003e\n      \n      \u003c/ul\u003e\n  \n\n    \n      \u003cem class=\"tag tag--portfolio\"\u003e\u003cspan class=\"is-archived\"\u003e\n\n  \n\n  \n    Internal Affairs\n\n\n\n\u003c/span\u003e\n\u003c/em\u003e\n      \n  \n\n\n            \u003cdiv class=\"prose field field--name-body field--type-text-with-summary field--label-hidden field--item\"\u003e\u003cp\u003eHon Dr Richard Worth today released the Briefings to the Incoming Minister from the Department of Internal Affairs, Land Information New Zealand, the National Library and Archives New Zealand.\u003c/p\u003e\n\u003cp\u003eThe briefing papers are now available on the Beehive website. \u003c/p\u003e\n\u003c/div\u003e\n      ",
+  "content_text": "Hon Dr Richard Worth today released the Briefings to the Incoming Minister from the Department of Internal Affairs, Land Information New Zealand, the National Library and Archives New Zealand. The briefing papers are now available on the Beehive website.",
+  "attachments": [
+    "https://www.beehive.govt.nz/sites/default/files/Briefing%20on%20Gambling%20Commission.pdf",
+    "https://www.beehive.govt.nz/sites/default/files/Lotteries%20Commission%20BIM.pdf",
+    "https://www.beehive.govt.nz/sites/default/files/NZFSC%20Minbrief%202008%20final.pdf",
+    "https://www.beehive.govt.nz/sites/default/files/OFLC%20-%20BIM%20NOV%2008%20sml.pdf",
+    "https://www.beehive.govt.nz/sites/default/files/National_Library_BIM.pdf",
+    "https://www.beehive.govt.nz/sites/default/files/Archives_BIM.pdf",
+    "https://www.beehive.govt.nz/sites/default/files/LINZ_BIM.pdf",
+    "https://www.beehive.govt.nz/sites/default/files/DIA_BIM_1_1.pdf",
+    "https://www.beehive.govt.nz/sites/default/files/DIA_BIM_2_1.pdf",
+    "https://www.beehive.govt.nz/sites/default/files/DIA_BIM_3_1.pdf"
+  ],
+  "scraped_at": "2026-01-18T22:14:28.356837478+13:00"
+}

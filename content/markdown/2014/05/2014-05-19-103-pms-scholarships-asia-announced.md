@@ -1,0 +1,27 @@
+---
+title: "103 PM’s Scholarships for Asia announced"
+date: 2014-05-19
+url: https://www.beehive.govt.nz/release/103-pms-scholarships-asia-announced
+ministers:
+  - Steven Joyce
+portfolios:
+  - Tertiary Education, Skills and Employment
+---
+
+A hundred and three outstanding New Zealand students have been given the opportunity to study at top Asian universities after receiving Prime Minister’s Scholarships for Asia.
+
+Tertiary Education, Skills and Employment Minister Steven Joyce says the scholarships, announced by Prime Minister John Key today at a function at Parliament, enable more New Zealanders to gain a deeper understanding of other cultures in countries that are crucial to New Zealand’s future.
+
+“New Zealanders need the skills, knowledge and experience to prosper in the global economy, and in particular with our key trading partners in Asia,” Mr Joyce says. “Each scholarship allows Kiwi students to experience what it's like to operate in a different country and culture, and build all important people-to-people links.”
+
+The scholarships cover overseas study, research or internships ranging from six weeks to two years at undergraduate or postgraduate level at top institutions in China, Japan, Korea, India and ASEAN countries such as Thailand, Cambodia, Myanmar, Laos, Philippines, Malaysia, Vietnam, Singapore and Indonesia.
+
+Successful recipients include a student from Otago University, who will study chemistry and pharmacology at the National University of Singapore, and a group from the New Zealand Institute of Fashion Technology who will deepen their design and manufacturing knowledge working on a collaborative project with Indian students at a partner institution in Tamil Nadu.
+
+Mr Joyce says the successful recipients will act as ambassadors for New Zealand helping to promote our country, people and the quality of our education system.
+
+Funding of $9 million over five years was provided in Budget 2013 for the PM’s Scholarships for Asia as part of the Government’s Internationally Focused Growth Package and the inaugural awards were made in December 2013.
+
+Applications are now open for the next round of scholarships and close on 28 September 2014. Applications can be made by individuals or groups to Education New Zealand, the lead agency for the promotion of international education.
+
+For more information, including a full list of recipients, go to: [www.enz.govt.nz/how-we-work/scholarships/pmsa](http://www.enz.govt.nz/how-we-work/scholarships/pmsa)

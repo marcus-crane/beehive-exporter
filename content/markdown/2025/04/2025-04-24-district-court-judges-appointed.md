@@ -1,7 +1,7 @@
 ---
 title: "District Court Judges appointed"
 date: 2025-04-24
-url: https://www.beehive.govt.nz/release/district-court-judges-appointed%E2%80%AF
+url: https://www.beehive.govt.nz/release/district-court-judges-appointed
 ministers:
   - Hon Judith Collins KC
 portfolios:
