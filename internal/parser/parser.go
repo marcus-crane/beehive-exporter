@@ -9,7 +9,7 @@ import (
 	"unicode"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/marcus-crane/beehive-exports/pkg/models"
+	"github.com/marcus-crane/beehive-exporter/pkg/models"
 	"golang.org/x/text/runes"
 	"golang.org/x/text/transform"
 	"golang.org/x/text/unicode/norm"

@@ -14,10 +14,10 @@ import (
 	htmltomarkdown "github.com/JohannesKaufmann/html-to-markdown/v2"
 	"github.com/PuerkitoBio/goquery"
 	"github.com/joho/godotenv"
-	"github.com/marcus-crane/beehive-exports/internal/fetcher"
-	"github.com/marcus-crane/beehive-exports/internal/parser"
-	"github.com/marcus-crane/beehive-exports/internal/storage"
-	"github.com/marcus-crane/beehive-exports/pkg/models"
+	"github.com/marcus-crane/beehive-exporter/internal/fetcher"
+	"github.com/marcus-crane/beehive-exporter/internal/parser"
+	"github.com/marcus-crane/beehive-exporter/internal/storage"
+	"github.com/marcus-crane/beehive-exporter/pkg/models"
 )
 
 func main() {

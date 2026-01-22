@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/marcus-crane/beehive-exports/pkg/models"
+	"github.com/marcus-crane/beehive-exporter/pkg/models"
 )
 
 const (
