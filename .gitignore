@@ -53,5 +53,10 @@ beehive-exports
 .claude
 .env
 
-# Raw HTML backups (for potential reprocessing)
-content/raw/
+# Data directories (stored in separate repos)
+raw/
+json/
+markdown/
+discovery-index/
+index.json
+url-index.json

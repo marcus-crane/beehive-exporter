@@ -14,6 +14,7 @@ type Release struct {
 	Title       string     `json:"title"`
 	URL         string     `json:"url"`
 	Time        time.Time  `json:"time"`
+	ContentType string     `json:"content_type"` // releases, speeches, features, diaries
 	Ministers   []Minister `json:"ministers"`
 	Portfolios  []string   `json:"portfolios"`
 	Government  string     `json:"government"`

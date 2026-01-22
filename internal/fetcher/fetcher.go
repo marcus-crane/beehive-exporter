@@ -22,22 +22,22 @@ const (
 	RSSFeedURL     = BaseURL + "/releases/feed"
 	ReleasesURL    = BaseURL + "/releases"
 	RateLimitDelay = 1000 * time.Millisecond // 1 second between requests
-
-	BrowserlessURL = "https://browser.home.utf9k.net"
 )
 
 // Fetcher handles HTTP requests with rate limiting
 type Fetcher struct {
 	client           *http.Client
 	lastRequestAt    time.Time
+	browserlessURL   string
 	browserlessToken string
 }
 
 // New creates a new Fetcher instance
 func New() *Fetcher {
+	browserlessURL := os.Getenv("BROWSERLESS_URL")
 	token := os.Getenv("BROWSERLESS_TOKEN")
-	if token != "" {
-		log.Println("Browserless token found, will use headless browser for fetching")
+	if browserlessURL != "" && token != "" {
+		log.Printf("Browserless configured at %s, will use headless browser for fetching", browserlessURL)
 	}
 	return &Fetcher{
 		client: &http.Client{
@@ -49,6 +49,7 @@ func New() *Fetcher {
 				DisableKeepAlives:   false,
 			},
 		},
+		browserlessURL:   browserlessURL,
 		browserlessToken: token,
 	}
 }
@@ -114,7 +115,7 @@ func (f *Fetcher) doRequest(url string) (string, error) {
 
 // doBrowserlessRequest fetches a URL using the Browserless headless browser
 func (f *Fetcher) doBrowserlessRequest(targetURL string) (string, error) {
-	endpoint := fmt.Sprintf("%s/content?token=%s", BrowserlessURL, f.browserlessToken)
+	endpoint := fmt.Sprintf("%s/content?token=%s", f.browserlessURL, f.browserlessToken)
 
 	// Don't wait for selector - just wait for page to load and settle
 	// This prevents hanging on empty result pages where selectors don't exist
@@ -167,7 +168,7 @@ func (f *Fetcher) FetchURL(url string) (string, error) {
 		var body string
 		var err error
 
-		if f.browserlessToken != "" {
+		if f.browserlessURL != "" && f.browserlessToken != "" {
 			body, err = f.doBrowserlessRequest(url)
 		} else {
 			body, err = f.doRequest(url)

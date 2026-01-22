@@ -9,14 +9,16 @@ import (
 	"strings"
 	"time"
 
+	"github.com/PuerkitoBio/goquery"
 	"github.com/marcus-crane/beehive-exports/pkg/models"
 )
 
 const (
-	DataDir      = "content/json"
-	RawDir       = "content/raw"
-	IndexFile    = "content/index.json"
-	URLIndexFile = "content/url-index.json"
+	DataDir      = "json"
+	RawDir       = "raw"
+	MarkdownDir  = "markdown"
+	IndexFile    = "index.json"
+	URLIndexFile = "url-index.json"
 )
 
 // Index represents the master index of all releases
@@ -39,14 +41,14 @@ func New(baseDir string) *Storage {
 	return &Storage{baseDir: baseDir}
 }
 
-// SaveRelease saves a release to a JSON file organized by year/month
-func (s *Storage) SaveRelease(release *models.Release) error {
+// SaveRelease saves a release to a JSON file organized by content type/year/month
+func (s *Storage) SaveRelease(release *models.Release, contentType string) error {
 	year := release.Time.Format("2006")
 	month := release.Time.Format("01")
 	day := release.Time.Format("2006-01-02")
 
-	// Create directory structure: data/releases/YYYY/MM/
-	dir := filepath.Join(s.baseDir, DataDir, year, month)
+	// Create directory structure: json/{contentType}/YYYY/MM/
+	dir := filepath.Join(s.baseDir, DataDir, contentType, year, month)
 	if err := os.MkdirAll(dir, 0755); err != nil {
 		return fmt.Errorf("failed to create directory: %w", err)
 	}
@@ -75,31 +77,69 @@ func (s *Storage) SaveRelease(release *models.Release) error {
 }
 
 // SaveRawHTML saves the raw HTML to a file for potential future reprocessing
-func (s *Storage) SaveRawHTML(id string, releaseTime time.Time, html string) error {
+// It trims the HTML to just the main container to reduce file size
+func (s *Storage) SaveRawHTML(id string, releaseTime time.Time, html string, contentType string) error {
 	year := releaseTime.Format("2006")
 	month := releaseTime.Format("01")
 	day := releaseTime.Format("2006-01-02")
 
-	dir := filepath.Join(s.baseDir, RawDir, year, month)
+	dir := filepath.Join(s.baseDir, RawDir, contentType, year, month)
 	if err := os.MkdirAll(dir, 0755); err != nil {
 		return fmt.Errorf("failed to create raw directory: %w", err)
 	}
 
+	// Trim HTML to just the main container
+	trimmedHTML := trimToMainContainer(html)
+
 	// Filename with date prefix: YYYY-MM-DD-id.html
 	filename := filepath.Join(dir, day+"-"+id+".html")
-	if err := os.WriteFile(filename, []byte(html), 0644); err != nil {
+	if err := os.WriteFile(filename, []byte(trimmedHTML), 0644); err != nil {
 		return fmt.Errorf("failed to write raw HTML: %w", err)
 	}
 
 	return nil
 }
 
+// trimToMainContainer extracts just the main content element from the HTML
+// This removes navigation, scripts, and other boilerplate, reducing file size significantly
+// Falls back to original HTML if no known container is found
+func trimToMainContainer(html string) string {
+	doc, err := goquery.NewDocumentFromReader(strings.NewReader(html))
+	if err != nil {
+		return html
+	}
+
+	// Try various selectors in order of preference
+	selectors := []string{
+		"main.main-container",
+		"div.ds-three-col__main",
+		"article.release",
+		"article",
+		"div.content",
+		"#content",
+	}
+
+	for _, selector := range selectors {
+		container := doc.Find(selector).First()
+		if container.Length() > 0 {
+			trimmed, err := container.Html()
+			if err == nil && len(trimmed) > 100 { // Sanity check: must have some content
+				return trimmed
+			}
+		}
+	}
+
+	// No container found - return original
+	return html
+}
+
 // LoadRelease loads a release from a JSON file
-func (s *Storage) LoadRelease(id string) (*models.Release, error) {
+func (s *Storage) LoadRelease(id string, contentType string) (*models.Release, error) {
 	// Try to find the file (we need to search through year/month directories)
 	var foundPath string
 
-	err := filepath.WalkDir(filepath.Join(s.baseDir, DataDir), func(path string, d os.DirEntry, err error) error {
+	searchPath := filepath.Join(s.baseDir, DataDir, contentType)
+	err := filepath.WalkDir(searchPath, func(path string, d os.DirEntry, err error) error {
 		if err != nil {
 			return err
 		}
@@ -132,9 +172,10 @@ func (s *Storage) LoadRelease(id string) (*models.Release, error) {
 }
 
 // ReleaseExists checks if a release already exists (without loading the full file)
-func (s *Storage) ReleaseExists(id string) bool {
+func (s *Storage) ReleaseExists(id string, contentType string) bool {
 	found := false
-	filepath.WalkDir(filepath.Join(s.baseDir, DataDir), func(path string, d os.DirEntry, err error) error {
+	searchPath := filepath.Join(s.baseDir, DataDir, contentType)
+	filepath.WalkDir(searchPath, func(path string, d os.DirEntry, err error) error {
 		if err != nil {
 			return err
 		}
@@ -223,17 +264,20 @@ type URLIndex map[string]map[string][]string // government -> year -> urls
 
 // RawHTMLFile represents a raw HTML file with its path and metadata
 type RawHTMLFile struct {
-	Path string
-	ID   string
-	URL  string // Will be empty, needs to be provided separately
+	Path        string
+	ID          string
+	ContentType string
+	URL         string // Will be empty, needs to be provided separately
 }
 
 // LoadAllRawHTML returns paths to all raw HTML files
 func (s *Storage) LoadAllRawHTML() ([]RawHTMLFile, error) {
 	var files []RawHTMLFile
 
+	rawBasePath := filepath.Join(s.baseDir, RawDir)
+
 	// Use WalkDir instead of Walk - it's much faster because it doesn't call Stat on every file
-	err := filepath.WalkDir(filepath.Join(s.baseDir, RawDir), func(path string, d os.DirEntry, err error) error {
+	err := filepath.WalkDir(rawBasePath, func(path string, d os.DirEntry, err error) error {
 		if err != nil {
 			return err
 		}
@@ -250,9 +294,18 @@ func (s *Storage) LoadAllRawHTML() ([]RawHTMLFile, error) {
 			base = base[11:]
 		}
 
+		// Extract content type from path: raw/{contentType}/YYYY/MM/file.html
+		relPath, _ := filepath.Rel(rawBasePath, path)
+		parts := strings.Split(relPath, string(filepath.Separator))
+		contentType := "releases" // default
+		if len(parts) >= 1 {
+			contentType = parts[0]
+		}
+
 		files = append(files, RawHTMLFile{
-			Path: path,
-			ID:   base,
+			Path:        path,
+			ID:          base,
+			ContentType: contentType,
 		})
 		return nil
 	})
@@ -274,12 +327,12 @@ func (s *Storage) ReadRawHTML(path string) (string, error) {
 }
 
 // RawHTMLExistsWithDate checks if raw HTML exists for a given ID and date using direct path lookup
-func (s *Storage) RawHTMLExistsWithDate(id string, releaseDate time.Time) bool {
+func (s *Storage) RawHTMLExistsWithDate(id string, releaseDate time.Time, contentType string) bool {
 	year := releaseDate.Format("2006")
 	month := releaseDate.Format("01")
 	day := releaseDate.Format("2006-01-02")
 
-	path := filepath.Join(s.baseDir, RawDir, year, month, day+"-"+id+".html")
+	path := filepath.Join(s.baseDir, RawDir, contentType, year, month, day+"-"+id+".html")
 	_, err := os.Stat(path)
 	return err == nil
 }

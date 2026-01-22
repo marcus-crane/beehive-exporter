@@ -166,7 +166,10 @@ func runReingest(url string, id string) {
 		url = "https://www.beehive.govt.nz/release/" + id
 	}
 
-	log.Printf("Re-ingesting release: %s", url)
+	// Detect content type from URL
+	contentType := detectContentTypeFromURL(url)
+
+	log.Printf("Re-ingesting %s: %s", contentType, url)
 
 	// Initialize components
 	f := fetcher.New()
@@ -184,18 +187,22 @@ func runReingest(url string, id string) {
 		log.Fatalf("Error parsing: %v", err)
 	}
 
+	// Set content type on release
+	release.ContentType = contentType
+
 	// Save to JSON (will overwrite if exists)
-	if err := store.SaveRelease(release); err != nil {
+	if err := store.SaveRelease(release, contentType); err != nil {
 		log.Fatalf("Error saving: %v", err)
 	}
 
 	// Save raw HTML for potential future reprocessing
-	if err := store.SaveRawHTML(release.ID, release.Time, html); err != nil {
+	if err := store.SaveRawHTML(release.ID, release.Time, html, contentType); err != nil {
 		log.Printf("Warning: Failed to save raw HTML: %v", err)
 	}
 
 	log.Printf("✓ Re-ingested: %s", release.Title)
 	log.Printf("  ID: %s", release.ID)
+	log.Printf("  Type: %s", contentType)
 	log.Printf("  Time: %s", release.Time.Format(time.RFC3339))
 	log.Printf("  Ministers: %d", len(release.Ministers))
 	log.Printf("  Portfolios: %d", len(release.Portfolios))
@@ -237,7 +244,7 @@ func runProcess(jsonOnly, markdownOnly bool) {
 
 	successCount := 0
 	errorCount := 0
-	markdownDir := "content/markdown"
+	markdownDir := storage.MarkdownDir
 
 	for i, file := range files {
 		// Get file modification time (when it was scraped)
@@ -256,8 +263,18 @@ func runProcess(jsonOnly, markdownOnly bool) {
 			continue
 		}
 
-		// Reconstruct URL from file path (content/raw/YYYY/MM/YYYY-MM-DD-id.html)
-		url := "https://www.beehive.govt.nz/release/" + file.ID
+		// Reconstruct URL from content type and ID
+		contentType := file.ContentType
+		urlPrefix := "/release/"
+		switch contentType {
+		case "speeches":
+			urlPrefix = "/speech/"
+		case "features":
+			urlPrefix = "/feature/"
+		case "diaries":
+			urlPrefix = "/ministerial-diary/"
+		}
+		url := "https://www.beehive.govt.nz" + urlPrefix + file.ID
 
 		release, err := parser.Parse(html, url, scrapedAt)
 		if err != nil {
@@ -266,9 +283,12 @@ func runProcess(jsonOnly, markdownOnly bool) {
 			continue
 		}
 
+		// Set content type on release
+		release.ContentType = contentType
+
 		// Save JSON
 		if doJSON {
-			if err := store.SaveRelease(release); err != nil {
+			if err := store.SaveRelease(release, contentType); err != nil {
 				log.Printf("Error saving JSON for %s: %v", file.ID, err)
 				errorCount++
 				continue
@@ -277,7 +297,7 @@ func runProcess(jsonOnly, markdownOnly bool) {
 
 		// Save Markdown
 		if doMarkdown {
-			if err := writeMarkdown(markdownDir, release); err != nil {
+			if err := writeMarkdown(markdownDir, release, contentType); err != nil {
 				log.Printf("Error saving Markdown for %s: %v", file.ID, err)
 				errorCount++
 				continue
@@ -309,12 +329,12 @@ func runProcess(jsonOnly, markdownOnly bool) {
 	log.Printf("Total:   %d", len(files))
 }
 
-func writeMarkdown(outDir string, release *models.Release) error {
+func writeMarkdown(outDir string, release *models.Release, contentType string) error {
 	year := release.Time.Format("2006")
 	month := release.Time.Format("01")
 	day := release.Time.Format("2006-01-02")
 
-	dir := filepath.Join(outDir, year, month)
+	dir := filepath.Join(outDir, contentType, year, month)
 	if err := os.MkdirAll(dir, 0755); err != nil {
 		return err
 	}
@@ -383,10 +403,27 @@ func htmlToMarkdown(input string) string {
 	return strings.TrimSpace(md)
 }
 
+// detectContentTypeFromURL extracts the content type from a beehive.govt.nz URL
+func detectContentTypeFromURL(url string) string {
+	switch {
+	case strings.Contains(url, "/release/"):
+		return "releases"
+	case strings.Contains(url, "/speech/"):
+		return "speeches"
+	case strings.Contains(url, "/feature/"):
+		return "features"
+	case strings.Contains(url, "/ministerial-diary/"):
+		return "diaries"
+	default:
+		return "releases" // default to releases
+	}
+}
+
 // ReleaseEntry represents a discovered release with its date
 type ReleaseEntry struct {
-	URL  string `json:"url"`
-	Date string `json:"date"`
+	URL         string `json:"url"`
+	Date        string `json:"date"`
+	ContentType string `json:"content_type"`
 }
 
 // GovernmentIndex is the structure for a single government's release index
@@ -404,7 +441,7 @@ type DiscoveryIndex struct {
 	Governments   map[string]map[string][]ReleaseEntry     `json:"governments"` // government -> year-month -> releases
 }
 
-const discoveryIndexDir = "content/discovery-index"
+const discoveryIndexDir = "discovery-index"
 
 // saveGovernmentIndex saves a single government's index to its own file
 func saveGovernmentIndex(slug string, idx *GovernmentIndex) error {
@@ -536,7 +573,11 @@ func runFetch(filterYear, filterMonth, filterGov string, verbose bool) {
 			// Fall back to parsing just the date portion
 			releaseDate, _ = time.Parse("2006-01-02", r.Date[:10])
 		}
-		if store.RawHTMLExistsWithDate(id, releaseDate) {
+		contentType := r.ContentType
+		if contentType == "" {
+			contentType = detectContentTypeFromURL(r.URL)
+		}
+		if store.RawHTMLExistsWithDate(id, releaseDate, contentType) {
 			existingCount++
 		}
 		if (i+1)%1000 == 0 {
@@ -561,12 +602,18 @@ func runFetch(filterYear, filterMonth, filterGov string, verbose bool) {
 		// Extract and normalize ID from URL
 		id := parser.ExtractIDFromURL(r.URL)
 
+		// Determine content type
+		contentType := r.ContentType
+		if contentType == "" {
+			contentType = detectContentTypeFromURL(r.URL)
+		}
+
 		// Skip if raw HTML already exists
 		releaseDate, err := time.Parse(time.RFC3339, r.Date)
 		if err != nil {
 			releaseDate, _ = time.Parse("2006-01-02", r.Date[:10])
 		}
-		if store.RawHTMLExistsWithDate(id, releaseDate) {
+		if store.RawHTMLExistsWithDate(id, releaseDate, contentType) {
 			if verbose {
 				log.Printf("Skipping (already exists): %s", r.URL)
 			}
@@ -593,7 +640,7 @@ func runFetch(filterYear, filterMonth, filterGov string, verbose bool) {
 		}
 
 		// Save raw HTML only
-		if err := store.SaveRawHTML(release.ID, release.Time, html); err != nil {
+		if err := store.SaveRawHTML(release.ID, release.Time, html, contentType); err != nil {
 			log.Printf("  Error saving: %v", err)
 			errorCount++
 			continue
@@ -631,13 +678,14 @@ var governmentFacets = map[string]struct {
 
 // contentTypeFacets maps CLI-friendly names to beehive.govt.nz facet values and URL prefixes
 var contentTypeFacets = map[string]struct {
-	Facet     string
-	URLPrefix string
+	Facet      string
+	URLPrefix  string
+	FolderName string
 }{
-	"release": {"article", "/release/"},
-	"speech":  {"speech", "/speech/"},
-	"feature": {"feature", "/feature/"},
-	"diary":   {"ministerial_diary", "/ministerial-diary/"},
+	"release": {"article", "/release/", "releases"},
+	"speech":  {"speech", "/speech/", "speeches"},
+	"feature": {"feature", "/feature/", "features"},
+	"diary":   {"ministerial_diary", "/ministerial-diary/", "diaries"},
 }
 
 func runArchive(govFilter string, maxPages int, startPage int, contentType string) {
@@ -809,8 +857,9 @@ func runArchive(govFilter string, maxPages int, startPage int, contentType strin
 				existingURLs[fullURL] = true
 
 				govIndex.Releases[yearMonth] = append(govIndex.Releases[yearMonth], ReleaseEntry{
-					URL:  fullURL,
-					Date: datetime,
+					URL:         fullURL,
+					Date:        datetime,
+					ContentType: ct.FolderName,
 				})
 
 				govTotal++
@@ -870,8 +919,9 @@ func runArchive(govFilter string, maxPages int, startPage int, contentType strin
 					existingURLs[fullURL] = true
 
 					govIndex.Releases[yearMonth] = append(govIndex.Releases[yearMonth], ReleaseEntry{
-						URL:  fullURL,
-						Date: datetime,
+						URL:         fullURL,
+						Date:        datetime,
+						ContentType: ct.FolderName,
 					})
 
 					govTotal++
