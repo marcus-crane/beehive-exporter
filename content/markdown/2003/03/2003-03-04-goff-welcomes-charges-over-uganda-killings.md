@@ -1,0 +1,11 @@
+---
+title: "Goff welcomes charges over Uganda killings"
+date: 2003-03-04
+url: https://www.beehive.govt.nz/release/goff-welcomes-charges-over-uganda-killings
+ministers:
+  - Phil Goff
+portfolios:
+  - Foreign Affairs and Trade
+---
+
+Foreign Minister Phil Goff today welcomed news that three Rwandans are likely to face charges in the United States in relation to the 1999 killing of eight tourists, including two New Zealanders, in Uganda.Rhonda Avis of Auckland and Michelle Strathern of Timaru, along with four Britons and two Americans, were kidnapped and murdered by a group of Rwandan rebel soldiers while visiting Bwindi National Park in south-west Uganda on a gorilla-watching expedition.The three men were apparently among nearly 3000 rebels captured during attacks into Rwanda from camps in the Congo in 2001. They allegedly admitted involvement in the attack during interrogation but claimed they were not the masterminds.The three have been flown from Rwanda to Puerto Rico, where they are awaiting a court appearance before being sent to Washington DC to face charges of murdering the two Americans. "The government welcomes this development," Phil Goff said."Inquiries are being made as to whether the US prosecution will, or can, lay charges in relation to all the victims. If the three men arrested are responsible for other deaths in the group, it would be desirable to see them held to account for those crimes as well. This is not withstanding that the men, if found guilty of murdering the American victims, will face severe penalties anyway."If there is no evidence that these are the men responsible for the deaths of Rhonda and Michelle, we would want American authorities to make further enquires of the arrested men as to who was responsible. This may assist us to pursue the matter further with relevant agencies in the country where they were killed."March 1 marked the fourth anniversary of the attack and our thoughts are with the victims' families. The Ministry of Foreign Affairs and Trade will remain in contact with them over any further developments," Mr Goff said.

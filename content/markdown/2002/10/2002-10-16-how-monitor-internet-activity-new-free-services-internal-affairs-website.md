@@ -1,0 +1,11 @@
+---
+title: "How to monitor Internet activity: new, free services on Internal Affairs website"
+date: 2002-10-16
+url: https://www.beehive.govt.nz/release/how-monitor-internet-activity-new-free-services-internal-affairs-website
+ministers:
+  - George Hawkins
+portfolios:
+  - Internal Affairs
+---
+
+Parents, schools and others wishing to monitor sites accessed on their computer will find a new, free Guide on the Department of Internal Affairs website helpful.Internal Affairs Minister George Hawkins said the Guide on www.dia.govt.nz provided easy to follow instructions on how to check Internet activity.The beauty of the Guide was following it did not require specialist IT expertise, Mr Hawkins said.“It is very straightforward and can quickly establish which sites, chat rooms and the like have been visited, when and by whom,” he said.Despite recent publicity about child pornography on school computers, the Department’s experience was most schools were taking a responsible attitude to protecting their children from objectionable material.However, parents, schools and other organisations sometimes found it difficult to keep up with changes in information technology and how the Internet was used. “For this reason, Internal Affairs had decided to include on its website the resource to help maintain Internet safety,” Mr Hawkins said.The site also included links to educational resources, interactive websites for children, New Zealand and overseas child safety organisations and New Zealand Government organisations.The links provided access to free filtering software, resource kits for schools, guides, news and information and, if necessary, access to enforcement agencies in addition to the Department.A draft code of practice for adaption by schools and businesses to ensure staff were aware of appropriate use of the Internet had also been developed by the Department and placed on the site. The Department also had a range of hard copy material available free of charge, as well as the website.

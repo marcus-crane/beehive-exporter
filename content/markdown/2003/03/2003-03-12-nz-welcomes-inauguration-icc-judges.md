@@ -1,0 +1,11 @@
+---
+title: "NZ welcomes inauguration of ICC judges"
+date: 2003-03-12
+url: https://www.beehive.govt.nz/release/nz-welcomes-inauguration-icc-judges
+ministers:
+  - Phil Goff
+portfolios:
+  - Foreign Affairs and Trade
+---
+
+Foreign Minister Phil Goff today welcomed the swearing in of the first 18 judges who will sit on the International Criminal Court (ICC) in The Hague.The ICC is the world's first permanent court capable of trying individuals accused of the most serious violations of international humanitarian laws such as genocide, war crimes, and crimes against humanity.It is an independent body with jurisdiction in respect of countries that have ratified its treaty, the Rome Statute. To date 89 nations, including New Zealand, have ratified the treaty."The inauguration of the first generation of judges is a historic moment in a court that will be decisive in improving the protection of the most basic human rights worldwide," Mr Goff said."The ICC was set up in response to an international sense of frustration that too often those guilty of the worst crimes are not held to account, and New Zealand's strong support for the ICC is based on our commitment to ending such impunity. "At present International Criminal Tribunals can be established on an ad hoc basis, such as the two tribunals set up by the United Nations Security Council that are hearing cases related to the Former Yugoslavia and to Rwanda."However in regard to crimes committed in Cambodia, East Timor and in other cases where cooperation has not been forthcoming from all parties, it has not been possible to set up such Tribunals."As a permanent body, the ICC has the capacity to investigate and prosecute without delay where atrocities do occur. Its very existence will hopefully serve as an effective deterrent in the way that ad hoc tribunals cannot."New Zealand will continue to play an active role as a member of the ICC's executive bureau and we will work with other nations, particularly in the Pacific, to ensure the widest possible adherence to the Rome Statute." The first bench of the ICC includes representatives from all regions of the world, including Neroni Slade of Samoa. It has a strong mix of civil and common-law experience, and includes seven women.

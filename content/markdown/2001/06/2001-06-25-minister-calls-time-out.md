@@ -1,0 +1,29 @@
+---
+title: "Minister calls for 'time out'"
+date: 2001-06-25
+url: https://www.beehive.govt.nz/release/minister-calls-time-out
+ministers:
+  - Matt Robson
+portfolios:
+  - Courts
+---
+
+"I have listened, and with the agreement of Cabinet, decided to put the proposed increase in court fees on hold for three months," says Minister for Courts Matt Robson.
+
+The decrease (in some cases by almost half) of fees in the Disputes Tribunal will also go on hold while the proposals are reviewed.
+
+"Having received more submissions, it is now clear that the consultation process was not robust enough when the increase was first proposed.
+
+"I've told my department we need more time to talk the issues thorough.
+
+"A working party will look at any anomalies that still remain, and report to me in two months.
+
+"But we need to get this in perspective: the most usual impediment to civil litigation is the cost of lawyer's fees, not the relatively minor cost of court fees.
+
+"The new proposal also introduces the opportunity to reduce or waive fees altogether in the Court of Appeal, in the same way as High Court. I will now look at extending this to the District Court.
+
+"The initial thinking behind the increases was to ensure that the taxpayer does not subsidise giant corporations who are willing to pay $1000 per hour for a lawyer, but get the smaller court fee subsidised by 90%.
+
+"Now we need to step back and take the time to give reassurance that no individual New Zealander or local small business will be denied justice because of court fees," says Matt Robson.
+
+Matt Robson says he will announce the make up of the working party and its terms of reference next week.

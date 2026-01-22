@@ -1,0 +1,11 @@
+---
+title: "Extra $9 million to increase teacher numbers"
+date: 2002-11-13
+url: https://www.beehive.govt.nz/release/extra-9-million-increase-teacher-numbers
+ministers:
+  - Trevor Mallard
+portfolios:
+  - Education
+---
+
+Education Minister Trevor Mallard announced today an additional $9 million of funding over the next three years to increase the number of secondary teachers in our schools.“The new funding provides subsidies for student teachers specialising in English and chemistry. It will also help graduate teachers who can’t get teaching jobs in their local regions, to move into teaching positions in other areas of high demand, such as Auckland,” Trevor Mallard said.The extra funding extends the Secondary Subject Trainee Allowance (SSTA), introduced last year, to include the two new subjects. The five subjects initially targeted and still available for the allowance are maths, physics, computing, te reo Maori and physical education.“The allowances have been a huge success. They’re worth up to $10,000 each and make a significant contribution to the cost of training as a secondary teacher. As a result, we’ve increased the number of student teachers in the five original target subjects by 51 percent this year,” he said.Population changes will see a big increase in the number of pupils moving from primary to secondary school next year. The government recently announced an extra 373 Full Time Teacher Equivalents will also be provided to secondary schools for next year, on top of teacher entitlements due to roll growth.“The extended range of SSTAs along with other incentives and benefits means that it’s now a great time to train as a secondary teacher,” said Trevor Mallard.Most secondary teacher graduates gain teaching positions shortly after graduating, he said. Secondary teachers have also had a significant pay increase, which means the starting salary for a new secondary teacher from July 2003 is between $37,000 and $41,000. Trevor Mallard said other incentives are: - ·new teachers get a non-contact time allowance in their first two years of teaching, and ·relocation grants for teachers to move to areas of high demand, such as Auckland

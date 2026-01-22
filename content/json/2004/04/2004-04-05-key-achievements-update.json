@@ -1,0 +1,22 @@
+{
+  "id": "key-achievements-update",
+  "title": "Key Achievements Update",
+  "url": "https://www.beehive.govt.nz/release/key-achievements-update",
+  "time": "2004-04-05T14:00:00Z",
+  "ministers": [
+    {
+      "name": "Helen Clark",
+      "profile_url": ""
+    }
+  ],
+  "portfolios": [
+    "Prime Minister"
+  ],
+  "government": "Government - 2004",
+  "content": "\u003cdiv class=\"field field-name-field-government\"\u003e\u003cdiv class=\"taxonomy-term taxonomy-term--type-government taxonomy-term--view-mode-strapline ds-1col clearfix\"\u003e\n\n  \n\n      \n      \u003cem class=\"archive-indicator\"\u003e\u003c/em\u003e\n      \n  \n\n\n\n\u003c/div\u003e\n\n\u003c/div\u003e\n    \n      \u003ctime class=\"meta meta__date\" datetime=\"\"\u003e\u003ctime datetime=\"2004-04-05T14:00:00Z\"\u003e6 April 2004\u003c/time\u003e\n\u003c/time\u003e\n      \n  \n\n\n  \u003ch1 class=\"article__title\"\u003e\n  Key Achievements Update\n\u003c/h1\u003e\n\n    \n            \u003cul class=\"meta--ministers\"\u003e\n            \u003cli\u003e\u003cspan class=\"is-archived\"\u003e\n\n  \n\n      \n        Helen Clark\n\n      \n  \n\n\n\n\u003c/span\u003e\n\u003c/li\u003e\n      \n      \u003c/ul\u003e\n  \n\n    \n      \u003cem class=\"tag tag--portfolio\"\u003e\u003cspan class=\"is-archived\"\u003e\n\n  \n\n  \n    Prime Minister\n\n\n\n\u003c/span\u003e\n\u003c/em\u003e\n      \n  \n\n\n            \u003cdiv class=\"prose field field--name-body field--type-text-with-summary field--label-hidden field--item\"\u003e\u003c/div\u003e\n      ",
+  "content_text": "",
+  "attachments": [
+    "https://www.beehive.govt.nz/sites/default/files/Update.pdf"
+  ],
+  "scraped_at": "2026-01-22T02:20:42.395905372+13:00"
+}

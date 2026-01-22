@@ -1,0 +1,27 @@
+---
+title: "Hayden Brown decision confirms intent of minimum non-parole periods"
+date: 2002-09-26
+url: https://www.beehive.govt.nz/release/hayden-brown-decision-confirms-intent-minimum-non-parole-periods-0
+ministers:
+  - Phil Goff
+portfolios:
+  - Foreign Affairs and Trade
+---
+
+Justice Minister Phil Goff today welcomed the Court of Appeal decision on the sentencing of Hayden Brown for attempted murder, which he says makes absolutely clear that the new Sentencing Act imposes a tougher regime for serious offenders.
+
+“The Court’s decision clearly confirms that minimum periods before parole eligibility are intended to be imposed in most cases of serious offending.
+
+“The Court states that a non-parole period should be imposed, when an offence is ‘sufficiently serious’. Non-parole periods should be imposed when ‘release after one third of the sentence has been served would represent insufficient denunciation, punishment and deterrence in all the circumstances’. The central consideration of this test is the culpability of the offender which will be increased when the crime is committed with unusual callousness, extreme violence, where there are vulnerable or multiple victims or serious actual or intended consequences.
+
+“The Court decision of five of our most senior judges makes it clear that a minimum non-parole period can be applied ‘even if there is no danger to the community’. It states that a minimum period should be imposed ‘if an offence is so serious that release after one third of the sentence would plainly constitute an insufficient response in the eyes of the community, even though there may be no on-going safety risk’.
+
+“What this decision means is that for serious offending, the law is now tougher in three key respects.
+
+1.Under sentencing guidelines, the maximum sentence must be imposed for the most serious offences, and close to the maximum for offending which is near to the most serious. Sentences for these offences will be longer than in the past.
+
+2.Minimum periods before parole will generally be set for cases of serious offending attracting longer prison terms, which includes offences not previously defined as serious violent offending including kidnapping and drug trafficking.
+
+3.With the abolition of automatic release at two thirds of sentences, and the new Parole Act making public safety the paramount consideration, offenders may now be kept in prison until the last day of their sentence if they constitute any undue public risk.
+
+“The Court decision makes it clear that the new sentencing regime is much tougher than previous law, and confirms that no changes to the Sentencing Act are required to achieve this result,” Mr Goff said.

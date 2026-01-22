@@ -1,0 +1,11 @@
+---
+title: "NZ Cricket Decision to Default Match"
+date: 2003-01-31
+url: https://www.beehive.govt.nz/release/nz-cricket-decision-default-match
+ministers:
+  - Phil Goff
+portfolios:
+  - Foreign Affairs and Trade
+---
+
+Foreign Minister Phil Goff said today that he understands the decision of New Zealand Cricket to default the World Cup match in Kenya in the interests of player safety."New Zealanders will sympathise with NZ Cricket's player safety concerns," Mr Goff said. "Our cricketers have been caught up in four terrorist incidents in recent years, three in Sri Lanka and one in Pakistan."Our concern is not the political situation in Kenya. We welcome the recent free and democratic elections there, a stark contrast to the situation in Zimbabwe."The concern here is solely safety. There is a serious law and order situation in Kenya, but criminal threats can be dealt with through improved security arrangements. The greater potential concern is the threat of Al Qaeda terrorist attacks. Two serious terrorist attacks have occurred in Kenya, causing hundreds of casualties. There are ongoing reports about terrorist presence and intentions there."While there is no specific information that says this sports event or New Zealanders are being targeted, the clear intention of terrorist operatives is to target Westerners in a way which gives them maximum publicity. The current controversy may have heightened the threat by giving the event greater profile."The generalised threat to Western interests in Kenya is reflected in the Australian advice to defer non-essential travel, and in the British and US advisories to be vigilant and avoid large crowds."New Zealand Cricket has made its decision based on the best available information, including the assessments of an independent security advisor, the US Embassy and South African Police. The Government has provided all the information we have on the security situation there and has assisted them in making relevant contacts in South Africa," Mr Goff said.

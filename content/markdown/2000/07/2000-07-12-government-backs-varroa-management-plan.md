@@ -1,0 +1,35 @@
+---
+title: "Government Backs Varroa Management Plan"
+date: 2000-07-12
+url: https://www.beehive.govt.nz/release/government-backs-varroa-management-plan
+ministers:
+  - Jim Sutton
+portfolios:
+  - Agriculture
+---
+
+The Government has ruled out attempting to eradicate the Varroa bee mite and has opted for a Government-assisted management programme the Minister of Agriculture Jim Sutton and the Minister for Biosecurity, Marian Hobbs, announced today.
+
+"We considered carefully the views of the beekeeping and other primary sector industries and also of the independent technical group," the Ministers said. "In the end we accepted that the chances of successfully eradicating the Varroa mite were minimal. A failed eradication attempt would weaken beekeeping and pollination-dependent industries and jeopardise long-term management.
+
+"Therefore Cabinet has agreed in principle to work with the industry in a three-stage management plan. We are committed to achieving containment and minimising the impact of the mite.
+
+The Ministry of Agriculture and Foresty has been directed to work with industry to finalise an operational plan and to report back to the Government by mid-September. The Ministry of Social Policy and MAF will also, in consultation with the beekeeping industry, review the need for rural sector income support measures.
+
+The Ministers said the Cabinet had rejected with the greatest reluctance the option of attempting the total eradication of the bee mite.
+
+"At an estimated cost of $55 million, money was not a factor but all our advice considered the chances of success were low. Eradication would require the depopulation of all managed and feral bees over at least 5000 square kilometres including rugged terrain from the central North Island to Hokianga. Our advice is that there will be further sites of infestation not yet detected
+
+"Long-term management uses chemicals to kill varroa mites in managed hives while leaving the bees in those hives healthy.
+
+The Government has approved initial expenditure of almost $1.3 million for the management plan which has three stages:
+
+\* Immediate control (over the next 10 weeks). Beekeepers from all infested apiaries and apiaries within a five kilometre radius of an infested apiary, will be offered free treatment of hives with a registered chemical.
+
+\* Interim control, (a two-year Government supported management programme which is likely to include financial assistance and support). The aim is to keep the South Island free of varroa for as long as possible and to reduce the effects of the mite in the North Island. A draft operational plan is with the industry for comment.
+
+\* Long term control, beyond two years. An agreed long-term management plan under the Biosecurity Act.
+
+Infestations are prevalent and heavy around Auckland, Pukekohe and Hauraki Plains as a result of natural spread. Beekeeping activity has spread varroa to several outlying sites including Helensville, Te Puke and Hokianga and to single sites at Te Awamutu, Otorohanga and National Park. Feral bees are also known to be infected.
+
+A total of 3022 apiaries containing 58,163 hives were inspected. The survey detected 248 infected apiaries, containing 4060 hives, owned by 132 beekeepers.
