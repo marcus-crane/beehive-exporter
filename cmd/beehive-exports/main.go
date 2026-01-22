@@ -412,11 +412,14 @@ func saveGovernmentIndex(slug string, idx *GovernmentIndex) error {
 		return fmt.Errorf("failed to create directory: %w", err)
 	}
 
-	// Sort releases within each month by date (oldest first)
+	// Sort releases within each month by date (oldest first), then by URL
 	for month := range idx.Releases {
 		releases := idx.Releases[month]
 		sort.Slice(releases, func(i, j int) bool {
-			return releases[i].Date < releases[j].Date
+			if releases[i].Date != releases[j].Date {
+				return releases[i].Date < releases[j].Date
+			}
+			return releases[i].URL < releases[j].URL
 		})
 		idx.Releases[month] = releases
 	}

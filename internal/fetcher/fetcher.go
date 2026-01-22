@@ -43,7 +43,10 @@ func New() *Fetcher {
 		client: &http.Client{
 			Timeout: 60 * time.Second,
 			Transport: &http.Transport{
-				IdleConnTimeout: 30 * time.Second,
+				MaxIdleConns:        100,
+				MaxIdleConnsPerHost: 10,
+				IdleConnTimeout:     90 * time.Second,
+				DisableKeepAlives:   false,
 			},
 		},
 		browserlessToken: token,
